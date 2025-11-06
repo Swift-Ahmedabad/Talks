@@ -10,7 +10,7 @@
 - To learn more about the GenerateReadMe executable, visit: https://github.com/Swift-Ahmedabad/GenerateReadMe
 
 ### Tasks:
-- [] Pre-commit hook add updated files to git commit operation
-- [] Add documentation.
-- [] Optimize code for hidden files
-- [] Add support for more information (i.e., about-talk, event-details, etc)
+- [ ] Pre-commit hook add updated files to git commit operation
+- [ ] Add documentation.
+- [ ] Optimize code for hidden files
+- [ ] Add support for more information (i.e., about-talk, event-details, etc)
