@@ -1,0 +1,27 @@
+about: "Swift Ahmedabad October'24 MeetUp"
+date: "October 19, 2024"
+location:
+    name: "Simform"
+    map: "https://www.google.com/maps/search/?api=1&query=Simform&query_place_id=ChIJ96ydpfSEXjkRvVUfx24sPv8"
+    address: "5th Floor, 501, Binori Bsquare2, Ambli - Bopal Rd, nr. Double Tree By Hilton, Vikram Nagar, Ahmedabad, Gujarat 380058"
+    coordinates:
+        latitude: 23.0283851
+        longitude: 72.4994534
+        zoom: 17
+agenda:
+    - time: "9:45 AM "
+      title: "Check-in ✅"
+    - time: "10:00 AM "
+      title: "Kick-Off"
+    - time: "10:15 AM "
+      title: "Mesh: A Plug and Play UI Framework"
+    - time: "10:45 AM "
+      title: "Modern Concurrency"
+    - time: "11:45 AM "
+      title: "Apple Intelligence"
+    - time: "12:35 AM "
+      title: "Networking and Refreshments"
+sponsors:
+    vanue: "Simform"
+    food: "Simform"
+photoURL: "https://photos.app.goo.gl/ouFSJ54TpYuGQ5MBA"

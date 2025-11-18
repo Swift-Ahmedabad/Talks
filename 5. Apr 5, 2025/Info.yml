@@ -1,0 +1,25 @@
+about: "Swift Ahmedabad April'25 MeetUp"
+date: "April 5, 2025"
+location:
+    name: "Pixster Studio"
+    map: "https://www.google.com/maps/search/?api=1&query=Pixster%20Studio&query_place_id=ChIJMSJRu9WEXjkR4y48rgwc7y4"
+    address: "13th Floor, Solitaire Connect, Sarkhej - Gandhinagar Hwy, near BMW Gallop Motors, Makarba, Ahmedabad, Gujarat 382210"
+    coordinates:
+        latitude: 22.9922902
+        longitude: 72.4969191
+        zoom: 17
+agenda:
+    - time: "4:00 PM "
+      title: "Welcome & Introduction"
+    - time: "4:20 PM "
+      title: "Physics in AR"
+    - time: "5:05 PM "
+      title: "Networking & Refreshments"
+    - time: "5:15 PM "
+      title: "Mastering Design Patterns & Solid Principles"
+    - time: "6:00 PM "
+      title: "Closing & Networking"
+sponsors:
+    vanue: "Pixster Studio"
+    food: "Pixster Studio"
+photoURL: "https://photos.app.goo.gl/gXwCiTRw6iA9sUUN7"

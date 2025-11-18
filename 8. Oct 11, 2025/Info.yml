@@ -1,0 +1,31 @@
+about: "Swift Ahmedabad October'25 MeetUp"
+date: "October 11, 2025"
+location:
+    name: "CricHeroes Pvt. Ltd"
+    map: "https://www.google.com/maps/search/?api=1&query=CricHeroes%20Pvt.%20Ltd.&query_place_id=ChIJWbxyziaFXjkRedJ8Zxm-gEk"
+    address: "TF1, 3rd Floor, off Sindhu Bhavan Marg, near Avalon Hotel, Bodakdev, Ahmedabad, Gujarat 380059"
+    coordinates:
+        latitude: 23.0453052
+        longitude: 72.5080271
+        zoom: 17
+agenda:
+    - time: "10:00 AM "
+      title: "Welcome & Registration"
+    - time: "10:15 AM "
+      title: "Opening Talk by Ratnesh"
+    - time: "10:45 AM "
+      title: "Session by Kanishka"
+    - time: "11:15 AM "
+      title: "Tea/Coffee Break"
+    - time: "11:30 AM "
+      title: "Talk by Garima"
+    - time: "12:15 PM "
+      title: "Product Spotlight: CricHeros"
+    - time: "12:30 PM "
+      title: "Session by Rizwan"
+    - time: "1:00 PM "
+      title: "Networking & Refreshments"
+sponsors:
+    vanue: "CricHeroes Pvt. Ltd"
+    food: "CricHeroes Pvt. Ltd"
+photoURL: "https://photos.app.goo.gl/rcxKMq7YpzvEqqnY7"

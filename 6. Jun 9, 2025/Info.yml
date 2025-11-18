@@ -1,0 +1,25 @@
+about: "WWDC25 Watch Party Around India"
+date: "June 9, 2025"
+location:
+    name: "7 Span"
+    map: "https://www.google.com/maps/search/?api=1&query=7Span&query_place_id=ChIJDVQQQIgpXDkR51N20_Oq-pU"
+    address: "201, Isquare Corporate Park, Science City Rd, Panchamrut Bunglows II, Sola, Ahmedabad, Gujarat 380060"
+    coordinates:
+        latitude: 23.0708485
+        longitude: 72.5176635
+        zoom: 17
+agenda:
+    - time: "8:45 PM "
+      title: "Assemble and Check-in ✅"
+    - time: "9:00 PM "
+      title: "Kick Off Event"
+    - time: "9:10 PM "
+      title: "Talks, Announcements & Updates"
+    - time: "10:30 PM "
+      title: "WWDC24 Keynote Begins 🍿"
+    - time: "12:30 AM "
+      title: "Closing Notes"
+sponsors:
+    vanue: "7 Span"
+    food: "7 Span"
+photoURL: "https://photos.app.goo.gl/xo5fDZ2wxHYWSsav6"

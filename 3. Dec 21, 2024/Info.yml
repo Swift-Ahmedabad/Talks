@@ -1,0 +1,33 @@
+about: "Swift Ahmedabad December'24 MeetUp"
+date: "December 21, 2024"
+location:
+    name: "Hyperlink InfoSystem"
+    map: "https://www.google.com/maps/search/?api=1&query=Hyperlink%20InfoSystem&query_place_id=ChIJ_-iGWEmDXjkRS7_Siald4Z0"
+    address: "Ganesh Meridian, BLOCK-C, Opp Gujarat high court, 106/B, Sarkhej - Gandhinagar Hwy, Sola, Ahmedabad, Gujarat 380060"
+    coordinates:
+        latitude: 23.0752274
+        longitude: 72.5256776
+        zoom: 17
+agenda:
+    - time: "10:30 AM "
+      title: "Registration"
+    - time: "10:40 AM "
+      title: "Kick-Off"
+    - time: "10:45 AM "
+      title: "Keynote Address"
+    - time: "11:15 AM "
+      title: "iOS 18: Control Center Widgets"
+    - time: "11:50 AM "
+      title: "Break"
+    - time: "12:00 PM "
+      title: "Optimizing Development with Dependency Injection & Live Activities in Swift"
+    - time: "12:45 PM "
+      title: "SwiftData"
+    - time: "01:05 PM "
+      title: "Sharing Moments"
+    - time: "01:10 PM "
+      title: "Networking and Refreshments"
+sponsors:
+    vanue: "Hyperlink InfoSystem"
+    food: "Hyperlink InfoSystem"
+photoURL: "https://photos.app.goo.gl/G7TKauVBLaeLJYZa8"

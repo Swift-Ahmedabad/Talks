@@ -1,0 +1,33 @@
+about: "Swift Ahmedabad February'25 MeetUp"
+date: "February 15, 2025"
+location:
+    name: "Ahmedabad Management Association AMA Ahmedabad"
+    map: "https://www.google.com/maps/place/Ahmedabad+Management+Association+AMA+Ahmedabad/@23.0297755,72.5413686,17z/data=!3m1!4b1!4m6!3m5!1s0x395e84c22c1cc5b3:0xf60a316c22ecdc!8m2!3d23.0297755!4d72.5413686!16zL20vMGRrNnhm?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D"
+    address: "1, Dr Vikram Sarabhai Marg, University Area, Ahmedabad, Gujarat 380015"
+    coordinates:
+        latitude: 23.0297755
+        longitude: 72.5413686
+        zoom: 17
+agenda:
+    - time: "10:20 AM "
+      title: "Check-In"
+    - time: "10:30 AM "
+      title: "Kick-Off"
+    - time: "10:35 AM "
+      title: "Becoming a Pro at Swift Testing"
+    - time: "11:05 AM "
+      title: "Code Signing & Reverse Engineering"
+    - time: "11:50 AM "
+      title: "Break"
+    - time: "12:00 PM "
+      title: "Exploring Image Playground with Apple Intelligence"
+    - time: "12:30 PM "
+      title: "Towards Modular App"
+    - time: "1:00 PM "
+      title: "Vocabulary of TCA"
+    - time: "2:00 PM "
+      title: "Networking & Refreshment"
+sponsors:
+    vanue: "CricHeros"
+    food: "CricHeros"
+photoURL: "https://photos.app.goo.gl/iwHj3U2BarViSTCw7"
