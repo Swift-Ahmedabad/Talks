@@ -1,4 +1,6 @@
 # 8. Oct 11, 2025
+ 💻 Swift Ahmedabad October'25 MeetUp
+### 📸 [Event Photos](https://photos.app.goo.gl/rcxKMq7YpzvEqqnY7)
 ## Swift Bharat Experience
 ### By: **Ratnesh Jain**
 Sr. iOS Engineer
@@ -14,15 +16,19 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https:/
 Researcher | iOS Engineer | Blogger at ohmyswift.com | Speaker | Proud husband
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/rizwan95/), [Portfolio](ohmyswift.com)
-[Event Photos](https://photos.app.goo.gl/rcxKMq7YpzvEqqnY7)
+---
 # 7. Jul 19, 2025
+ 💻 Swift Ahmedabad July'25 MeetUp
+### 📸 [Event Photos](https://photos.app.goo.gl/cEbiK4BnUFTfiRuq6)
 ## Unlocking the Power of Xcode 26 + ChatGPT
 ### By: **Prashant Korat**
 IOS Development | Objective C | Swift | Architecture | TDD | BDD
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/prashantpkorat/)
-[Event Photos](https://photos.app.goo.gl/cEbiK4BnUFTfiRuq6)
+---
 # 6. Jun 9, 2025
+ 💻 WWDC25 Watch Party Around India
+### 📸 [Event Photos](https://photos.app.goo.gl/xo5fDZ2wxHYWSsav6)
 ## Introduction to Keynote
 ### By: **Ratnesh Jain**
 Sr. iOS Engineer
@@ -33,8 +39,10 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Git
 👨‍💻 Senior iOS Developer | 📱 Creator of Linnk Stay Connected | 🚀 Dreaming big for 2025 | 💡 Tech, apps, & ideas
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/pratik-gadhesariya-047a14142/), [Portfolio](bold.pro/my/pratik-gadhesariya)
-[Event Photos](https://photos.app.goo.gl/xo5fDZ2wxHYWSsav6)
+---
 # 5. Apr 5, 2025
+ 💻 Swift Ahmedabad April'25 MeetUp
+### 📸 [Event Photos](https://photos.app.goo.gl/gXwCiTRw6iA9sUUN7)
 ## Physics in AR
 ### By: **Mayur Tanna**
 iOS Developer | Freelancer | AR | SwiftUI | Swift | Open for Freelance Opportunities
@@ -49,8 +57,10 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/trivedihiteshrd/)
  Sr. Software Engineer (Flutter | Dart | iOS | Swift | SwiftUi)
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/samir-bagariya/)
-[Event Photos](https://photos.app.goo.gl/gXwCiTRw6iA9sUUN7)
+---
 # 4. Feb 15, 2025
+ 💻 Swift Ahmedabad February'25 MeetUp
+### 📸 [Event Photos](https://photos.app.goo.gl/iwHj3U2BarViSTCw7)
 ## Exploring Image Playground with Apple Intelligence
 ### By: **Rahul (RC) Chandnani**
 Tech Lead – iOS @ CricHeroes | iOS Architect & Performance Optimizer | Passionate About Tech & Cricket
@@ -76,8 +86,10 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/pran-kishore/)
 Sr. iOS Developer | Helping Startups & Agencies Build AI-Driven, High-Performing Apps That Scale 📈 | 25+ Apps | 50M+ Downloads 🌎 | 12+ Years Experience (iOS, Android, Swift, SwiftUI, Mobile Engineer)
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/adeptdevtips/)
-[Event Photos](https://photos.app.goo.gl/iwHj3U2BarViSTCw7)
+---
 # 3. Dec 21, 2024
+ 💻 Swift Ahmedabad December'24 MeetUp
+### 📸 [Event Photos](https://photos.app.goo.gl/G7TKauVBLaeLJYZa8)
 ## Optimizing development with dependency injection and live activities 
 ### By: **Gaurav Harkhani**
 iOS @ Brainvire | Swift | SwiftUI | UIKIT | MVVM | MVVM-C | Agile | Technical Contributor, Mentor & Writer | Volunteer at Swift Ahmedabad & Agile Network India
@@ -97,8 +109,10 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/reenathakkar77/)
 iOS Developer @ CricHeroes
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/jay-kothadia-04122a1b2/)
-[Event Photos](https://photos.app.goo.gl/G7TKauVBLaeLJYZa8)
+---
 # 2. Oct 19, 2024
+ 💻 Swift Ahmedabad October'24 MeetUp
+### 📸 [Event Photos](https://photos.app.goo.gl/ouFSJ54TpYuGQ5MBA)
 ## Mesh A plug and play ui framework
 ### By: **Gokul Nair**
 Building the Future, One Solution at a Time
@@ -114,8 +128,10 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/nishchal-visavadiya/)
 Application Development Team Lead at Accenture
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/harshitdaftary/)
-[Event Photos](https://photos.app.goo.gl/ouFSJ54TpYuGQ5MBA)
+---
 # 1. Aug 10, 2024
+ 💻 Swift Ahmedabad August'24 MeetUp
+### 📸 [Event Photos](https://photos.app.goo.gl/owW6Ef9U45Aj68Ha9)
 ## Let's Scroll
 ### By: **Ratnesh Jain**
 Sr. iOS Engineer
@@ -126,4 +142,4 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Git
 Senior Project Manager | Technical PM | Expert in Web, Mobile (Tablet/Wearable), Hardware Integrations (Kiosk, BLE, Beacons) & Cloud Apps | Agile & Scrum | 12+ Yrs in Global Tech Delivery
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/dharmesh-avaiya-google-project-management-certified-1793a244/), [Portfolio](https://sites.google.com/view/dharmeshavaiya)
-[Event Photos](https://photos.app.goo.gl/owW6Ef9U45Aj68Ha9)
+---
