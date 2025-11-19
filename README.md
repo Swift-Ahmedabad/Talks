@@ -70,7 +70,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/rahul-chandnani-825920a0/)
 ### By: **Rimesh Jotania**
 iOS Developer | Swift | UIKit | SwiftUI
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/recursiveswift/), [Github](https://github.com/Rimesh), [Portfolio](recursiveswift.com)
+Follow on: [LinkedIn](https://www.linkedin.com/in/recursiveswift/), [Github](https://github.com/Rimesh), [Portfolio](https://recursiveswift.com)
 ## Vocabulary of TCA
 ### By: **Ratnesh Jain**
 Sr. iOS Engineer
