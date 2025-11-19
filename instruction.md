@@ -11,6 +11,6 @@
 
 ### Tasks:
 - [ ] Pre-commit hook add updated files to git commit operation
-- [ ] Add documentation.
+- [x] Add documentation.
 - [x] Optimize code for hidden files
 - [x] Add support for more information (i.e., about-talk, event-details, etc)

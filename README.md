@@ -10,7 +10,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Git
 ### By: **Kanishka C**
 SDE @ Upstox | 2x Apple Scholar | SNHU '25
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Twitter](https://twitter.com/ralasi_)
+Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_)
 ## From Lines Of Codes to Lines Of Connections
 ### By: **Rizwan Ahmed**
 Researcher | iOS Engineer | Blogger at ohmyswift.com | Speaker | Proud husband
@@ -70,7 +70,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/rahul-chandnani-825920a0/)
 ### By: **Rimesh Jotania**
 iOS Developer | Swift | UIKit | SwiftUI
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/recursiveswift/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/recursiveswift/), [Github](https://github.com/Rimesh), [Portfolio](recursiveswift.com)
 ## Vocabulary of TCA
 ### By: **Ratnesh Jain**
 Sr. iOS Engineer
@@ -127,7 +127,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/nishchal-visavadiya/)
 ### By: **Harshit Daftary**
 Application Development Team Lead at Accenture
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/harshitdaftary/)
+Follow on: 
 ---
 # 1. Aug 10, 2024
  💻 Swift Ahmedabad August'24 MeetUp
