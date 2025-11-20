@@ -3,223 +3,241 @@
     "about" : "Sr. iOS Engineer",
     "id" : "d4a1a4d1495dce5806681786869bf81317ef2243d85165b42bcea57bd9412d94",
     "image" : "RatneshJain.png",
+    "name" : "Ratnesh Jain",
     "socials" : {
       "github" : "https:\/\/github.com\/ratnesh-jain",
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/ratnesh-jain-7a2270146\/",
-      "portfolio" : "https:\/\/ratnesh-jain.github.io"
-    },
-    "speaker" : "Ratnesh Jain"
+      "portfolio" : "https:\/\/ratnesh-jain.github.io",
+      "twitter" : "https:\/\/x.com\/ratneshjain1993"
+    }
   },
   {
     "about" : "SDE @ Upstox | 2x Apple Scholar | SNHU '25",
     "id" : "6f6739f8a62b951ca7eec1940e5b0d9d9d1661e5556739bcc8cf27ac34e039af",
     "image" : "KanishkaC.jpeg",
+    "name" : "Kanishka C",
     "socials" : {
       "github" : "https:\/\/github.com\/Kanishka3",
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/kanishka-c\/",
       "portfolio" : "https:\/\/kanishkawilliamson.wordpress.com",
       "twitter" : "https:\/\/twitter.com\/ralasi_"
-    },
-    "speaker" : "Kanishka C"
+    }
   },
   {
     "about" : "Researcher | iOS Engineer | Blogger at ohmyswift.com | Speaker | Proud husband",
     "id" : "1f60e3a3bd92805805d5ef9ac97d0faee3c07b838415470dd1e2476d133095c4",
     "image" : "RizwanAhmed.jpeg",
+    "name" : "Rizwan Ahmed",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/rizwan95\/",
-      "portfolio" : "ohmyswift.com"
-    },
-    "speaker" : "Rizwan Ahmed"
+      "portfolio" : "https:\/\/ohmyswift.com"
+    }
   },
   {
     "about" : "iOS Developer | Freelancer | AR | SwiftUI | Swift | Open for Freelance Opportunities",
     "id" : "1b429c41922937a0f37a4a25a9689fec74924882953eb2f616ce6433e3d525b4",
     "image" : "MayurTanna.png",
+    "name" : "Mayur Tanna",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/mayur-tanna-ios\/"
-    },
-    "speaker" : "Mayur Tanna"
+    }
   },
   {
     "about" : "Engineering Manager | iOS Architect | Mobile Development Lead | Swift Expert | CI\/CD | Mobile | iOS Development",
     "id" : "735490c8dbd24e64a117c6ea3cb7c05d146fd16ce026eed3a95753b6cbee8992",
     "image" : "HiteshTrivedi.png",
+    "name" : "Hitesh Trivedi",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/trivedihiteshrd\/"
-    },
-    "speaker" : "Hitesh Trivedi"
+    }
   },
   {
     "about" : " Sr. Software Engineer (Flutter | Dart | iOS | Swift | SwiftUi)",
     "id" : "2596a39297c14a43c920ed16546f54054bbde9027edec8d64fc0496d56d9b785",
     "image" : "SamirBagariya.png",
+    "name" : "Samir Bagariya",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/samir-bagariya\/"
-    },
-    "speaker" : "Samir Bagariya"
+    }
   },
   {
     "about" : "iOS @ Brainvire | Swift | SwiftUI | UIKIT | MVVM | MVVM-C | Agile | Technical Contributor, Mentor & Writer | Volunteer at Swift Ahmedabad & Agile Network India",
     "id" : "9637a60405dfca1b25fcd647d1bc62e1ddda1a4ce4e37ebae9a879ad55970138",
     "image" : "GauravHarkhani.png",
+    "name" : "Gaurav Harkhani",
     "socials" : {
-      "linkedIn" : "https:\/\/www.linkedin.com\/in\/gaurav-harkhani\/"
-    },
-    "speaker" : "Gaurav Harkhani"
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/gaurav-harkhani\/",
+      "portfolio" : "https:\/\/medium.com\/@gauravharkhani01"
+    }
   },
   {
     "about" : "iOS | React-Native | Flutter | Swift | SwiftUI Developer",
     "id" : "230ff89c01109982a5490402539497f6e94da4ebf025d550033977b618164a14",
     "image" : "RiddhiKunthi.png",
+    "name" : "Riddhi Khunti",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/riddhikhunti-ios\/"
-    },
-    "speaker" : "Riddhi Khunti"
+    }
   },
   {
     "about" : "Senior Software Engineer (iOS)",
     "id" : "c54b020aeb43a49bcdbd43d08cfb1b4e0b715595004c00b75e3607ef1a0c585f",
     "image" : "ReenaThakker.png",
+    "name" : "Reena Thakker",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/reenathakkar77\/"
-    },
-    "speaker" : "Reena Thakker"
+    }
   },
   {
     "about" : "iOS Developer @ CricHeroes",
     "id" : "6e90d5e6c4e77f6aa6d20c5cab218aacfaa59b81abcee13709ce8481a3f00b27",
     "image" : "JayKothadia.png",
+    "name" : "Jay Kothadia",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/jay-kothadia-04122a1b2\/"
-    },
-    "speaker" : "Jay Kothadia"
+    }
+  },
+  {
+    "about" : "Founder | Building Karo & Tasks | Passionate about consumer apps",
+    "id" : "04115e6c7923e797f5d1ac84243d00f132252498ddf0ed56ef6e6a7bb7fde0e6",
+    "image" : "Mustafa.jpeg",
+    "name" : "Mustafa Yusuf",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/mufasayc\/",
+      "portfolio" : "https:\/\/msquarelabs.com",
+      "twitter" : "https:\/\/x.com\/mufasayc"
+    }
   },
   {
     "about" : "Sr. iOS Engineer",
     "id" : "d4a1a4d1495dce5806681786869bf81317ef2243d85165b42bcea57bd9412d94",
     "image" : "RatneshJain.png",
+    "name" : "Ratnesh Jain",
     "socials" : {
       "github" : "https:\/\/github.com\/ratnesh-jain",
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/ratnesh-jain-7a2270146\/",
-      "portfolio" : "https:\/\/ratnesh-jain.github.io"
-    },
-    "speaker" : "Ratnesh Jain"
+      "portfolio" : "https:\/\/ratnesh-jain.github.io",
+      "twitter" : "https:\/\/x.com\/ratneshjain1993"
+    }
   },
   {
     "about" : "Senior Project Manager | Technical PM | Expert in Web, Mobile (Tablet\/Wearable), Hardware Integrations (Kiosk, BLE, Beacons) & Cloud Apps | Agile & Scrum | 12+ Yrs in Global Tech Delivery",
     "id" : "a2e1087fb9caf4408f9e6738369da1a490c51a428f837155bb4eb3f5aeaa4377",
     "image" : "DharmeshAvaiya.jpeg",
+    "name" : "Darmesh Avaiya",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/dharmesh-avaiya-google-project-management-certified-1793a244\/",
       "portfolio" : "https:\/\/sites.google.com\/view\/dharmeshavaiya"
-    },
-    "speaker" : "Darmesh Avaiya"
+    }
   },
   {
     "about" : "Tech Lead – iOS @ CricHeroes | iOS Architect & Performance Optimizer | Passionate About Tech & Cricket",
     "id" : "3143acc062d4e0ac24af42f353fcf3ce04d29bef3b79f885368f97c32e9b6692",
     "image" : "RahulChandnani.png",
+    "name" : "Rahul (RC) Chandnani",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/rahul-chandnani-825920a0\/"
-    },
-    "speaker" : "Rahul (RC) Chandnani"
+    }
   },
   {
     "about" : "iOS Developer | Swift | UIKit | SwiftUI",
     "id" : "16221ac53c484b16916f57e7b584cd3ddabe39710c10f7cd7618c450b9969192",
     "image" : "RimeshJotaniya.png",
+    "name" : "Rimesh Jotania",
     "socials" : {
       "github" : "https:\/\/github.com\/Rimesh",
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/recursiveswift\/",
       "portfolio" : "https:\/\/recursiveswift.com"
-    },
-    "speaker" : "Rimesh Jotania"
+    }
   },
   {
     "about" : "Sr. iOS Engineer",
     "id" : "d4a1a4d1495dce5806681786869bf81317ef2243d85165b42bcea57bd9412d94",
     "image" : "RatneshJain.png",
+    "name" : "Ratnesh Jain",
     "socials" : {
       "github" : "https:\/\/github.com\/ratnesh-jain",
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/ratnesh-jain-7a2270146\/",
-      "portfolio" : "https:\/\/ratnesh-jain.github.io"
-    },
-    "speaker" : "Ratnesh Jain"
+      "portfolio" : "https:\/\/ratnesh-jain.github.io",
+      "twitter" : "https:\/\/x.com\/ratneshjain1993"
+    }
   },
   {
     "about" : "Lead Software Engineer @ EPAM Systems | iOS Developer | Community Speaker | Dev OPS Design enthusiast | AWS Business professional",
     "id" : "5c7183c56e01a375f0f02c7d03dbb3f349a0f8812770a5a2771bb40a2686b3b4",
     "image" : "PranKishor.png",
+    "name" : "Pran Kishor",
     "socials" : {
-      "linkedIn" : "https:\/\/www.linkedin.com\/in\/pran-kishore\/"
-    },
-    "speaker" : "Pran Kishor"
+      "github" : "https:\/\/github.com\/kishorepran",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/pran-kishore\/",
+      "portfolio" : "https:\/\/kishorepran.github.io\/"
+    }
   },
   {
     "about" : "Sr. iOS Developer | Helping Startups & Agencies Build AI-Driven, High-Performing Apps That Scale 📈 | 25+ Apps | 50M+ Downloads 🌎 | 12+ Years Experience (iOS, Android, Swift, SwiftUI, Mobile Engineer)",
     "id" : "74c5ad3a70cb9f43bab19b8dd305e35899af9b20bfa8dc2dc83c62a38fb95939",
     "image" : "SaumilShah.png",
+    "name" : "Saumil Shah",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/adeptdevtips\/"
-    },
-    "speaker" : "Saumil Shah"
+    }
   },
   {
     "about" : "Building the Future, One Solution at a Time",
     "id" : "0722b56981657bd0f1f4b25c1fbd6e04a06f84989448f73e1dce8db5f0f69d33",
     "image" : "KarunNayar.jpg",
+    "name" : "Gokul Nair",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/gokul-r-nair\/"
-    },
-    "speaker" : "Gokul Nair"
+    }
   },
   {
     "about" : "SDE - II @Simform Solutions | iOS - Swift | Android - Kotlin",
     "id" : "b5824bfec9f7c5eb6a5c49bde7a391a1cc92477b3a2d6704d72b4ee86a404349",
     "image" : "NishchalVishavadiya.png",
+    "name" : "Nishchal Visavadiya",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/nishchal-visavadiya\/"
-    },
-    "speaker" : "Nishchal Visavadiya"
+    }
   },
   {
     "about" : "Application Development Team Lead at Accenture",
-    "id" : "cbf7b52c5e9bfff61d6fd3b2fa72e653f2dd298f3fc4166df922c5e2171e70d0",
+    "id" : "2aea6d9e93a27e10843757023d7a88c3d9104bc60d1c169b1dced7e34556ba30",
     "image" : "HarshitDaftary.jpg",
+    "name" : "Harshit Daftary",
     "socials" : {
-
-    },
-    "speaker" : "Harshit Daftary"
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/harshitdaftary\/"
+    }
   },
   {
     "about" : "Sr. iOS Engineer",
     "id" : "d4a1a4d1495dce5806681786869bf81317ef2243d85165b42bcea57bd9412d94",
     "image" : "RatneshJain.png",
+    "name" : "Ratnesh Jain",
     "socials" : {
       "github" : "https:\/\/github.com\/ratnesh-jain",
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/ratnesh-jain-7a2270146\/",
-      "portfolio" : "https:\/\/ratnesh-jain.github.io"
-    },
-    "speaker" : "Ratnesh Jain"
+      "portfolio" : "https:\/\/ratnesh-jain.github.io",
+      "twitter" : "https:\/\/x.com\/ratneshjain1993"
+    }
   },
   {
     "about" : "👨‍💻 Senior iOS Developer | 📱 Creator of Linnk Stay Connected | 🚀 Dreaming big for 2025 | 💡 Tech, apps, & ideas",
     "id" : "55f6549c0468cf1d90d72a5ecc0a18bbda876601e22ae6ace995c293c481e238",
     "image" : "PratikGadhesariya.png",
+    "name" : "Pratik Gadhesariya",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/pratik-gadhesariya-047a14142\/",
-      "portfolio" : "bold.pro\/my\/pratik-gadhesariya"
-    },
-    "speaker" : "Pratik Gadhesariya"
+      "portfolio" : "https:\/\/bold.pro\/my\/pratik-gadhesariya"
+    }
   },
   {
     "about" : "IOS Development | Objective C | Swift | Architecture | TDD | BDD",
     "id" : "7d91600a3eef39ac250d11e9ca521aa564ca48ba1f34fa275cf2522ee1d0330e",
     "image" : "PrashantKorat.jpeg",
+    "name" : "Prashant Korat",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/prashantpkorat\/"
-    },
-    "speaker" : "Prashant Korat"
+    }
   }
 ]
