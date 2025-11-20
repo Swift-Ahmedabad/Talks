@@ -1,5 +1,5 @@
-Speakers:  
-  - Speaker: Nishchal Visavadiya
-    Socials: 
-      LinkedIn: https://www.linkedin.com/in/nishchal-visavadiya/
-    About: SDE - II @Simform Solutions | iOS - Swift | Android - Kotlin
+- name: Nishchal Visavadiya
+  socials:
+    linkedIn: https://www.linkedin.com/in/nishchal-visavadiya/
+  about: SDE - II @Simform Solutions | iOS - Swift | Android - Kotlin
+  image: NishchalVishavadiya.png

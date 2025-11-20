@@ -1,0 +1,23 @@
+about: "Swift Ahmedabad August'24 MeetUp"
+date: "August 10, 2024"
+location:
+    name: "MobileFirst Applications - Fintegration"
+    map: "https://www.google.com/maps/search/?api=1&query=MobileFirst%20Applications%20-%20Fintegration&query_place_id=ChIJ05twFI-EXjkR9wHymRHClkI"
+    address: "A 1101 EastFace, Near, Ambli - Bopal Rd, Ambli, Ahmedabad, Gujarat 380058, India"
+    coordinates:
+        latitude: 23.024821
+        longitude: 72.4788429
+        zoom: 17
+agenda:
+    - time: "10:00 AM "
+      title: "Arrival and Registration"
+    - time: "10:15 AM "
+      title: "Let's Scroll By Ratnesh Jain"
+    - time: "11:15 AM "
+      title: "Navigating the evolution of iOS Development by Dharmesh Avaiya"
+    - time: "11:55 AM "
+      title: "Closing"
+sponsors:
+    vanue: "MobileFirst Applications - Fintegration"
+    food: "MobileFirst Applications - Fintegration"
+photoURL: "https://photos.app.goo.gl/owW6Ef9U45Aj68Ha9"

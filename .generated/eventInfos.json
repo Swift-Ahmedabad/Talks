@@ -1,0 +1,170 @@
+[
+  {
+    "about" : "Swift Ahmedabad October'25 MeetUp",
+    "date" : 781813800,
+    "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
+    "id" : "029e8347ca9d988ed073b76d1a439628b4de81c4e0daa0d29d41cc502ea978b3",
+    "location" : {
+      "address" : "TF1, 3rd Floor, off Sindhu Bhavan Marg, near Avalon Hotel, Bodakdev, Ahmedabad, Gujarat 380059",
+      "coordinates" : {
+        "latitude" : 23.0453052,
+        "longitude" : 72.5080271,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=CricHeroes%20Pvt.%20Ltd.&query_place_id=ChIJWbxyziaFXjkRedJ8Zxm-gEk",
+      "name" : "CricHeroes Pvt. Ltd"
+    },
+    "photoURL" : "https:\/\/photos.app.goo.gl\/rcxKMq7YpzvEqqnY7",
+    "sponsors" : {
+      "food" : "CricHeroes Pvt. Ltd",
+      "vanue" : "CricHeroes Pvt. Ltd"
+    }
+  },
+  {
+    "about" : "Swift Ahmedabad April'25 MeetUp",
+    "date" : 765484200,
+    "eventID" : "dd241440ebaac9718c0987e18f38acaec3cb9803fba299f567082a0e98b97f61",
+    "id" : "c62c8c5b35c6cf9fbcf62529c1c1cda83929c7cf5164e81e330d081fa275c224",
+    "location" : {
+      "address" : "13th Floor, Solitaire Connect, Sarkhej - Gandhinagar Hwy, near BMW Gallop Motors, Makarba, Ahmedabad, Gujarat 382210",
+      "coordinates" : {
+        "latitude" : 22.9922902,
+        "longitude" : 72.4969191,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Pixster%20Studio&query_place_id=ChIJMSJRu9WEXjkR4y48rgwc7y4",
+      "name" : "Pixster Studio"
+    },
+    "photoURL" : "https:\/\/photos.app.goo.gl\/gXwCiTRw6iA9sUUN7",
+    "sponsors" : {
+      "food" : "Pixster Studio",
+      "vanue" : "Pixster Studio"
+    }
+  },
+  {
+    "about" : "Swift Ahmedabad December'24 MeetUp",
+    "date" : 756412200,
+    "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
+    "id" : "79777f537f1d5aa4ba6fb4cceff5b1803937bf44ac8755fc66b519d3c63b6377",
+    "location" : {
+      "address" : "Ganesh Meridian, BLOCK-C, Opp Gujarat high court, 106\/B, Sarkhej - Gandhinagar Hwy, Sola, Ahmedabad, Gujarat 380060",
+      "coordinates" : {
+        "latitude" : 23.0752274,
+        "longitude" : 72.5256776,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Hyperlink%20InfoSystem&query_place_id=ChIJ_-iGWEmDXjkRS7_Siald4Z0",
+      "name" : "Hyperlink InfoSystem"
+    },
+    "photoURL" : "https:\/\/photos.app.goo.gl\/G7TKauVBLaeLJYZa8",
+    "sponsors" : {
+      "food" : "Hyperlink InfoSystem",
+      "vanue" : "Hyperlink InfoSystem"
+    }
+  },
+  {
+    "about" : "Swift Ahmedabad August'24 MeetUp",
+    "date" : 744921000,
+    "eventID" : "aa120df0d703d75298af062c1504391ee6c52baf6d7b5dfbe264c7ea9527d48d",
+    "id" : "f48bb6f70dec932060c4055c76420265296d62e94c1bae1513431da15887ae14",
+    "location" : {
+      "address" : "A 1101 EastFace, Near, Ambli - Bopal Rd, Ambli, Ahmedabad, Gujarat 380058, India",
+      "coordinates" : {
+        "latitude" : 23.024821,
+        "longitude" : 72.4788429,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=MobileFirst%20Applications%20-%20Fintegration&query_place_id=ChIJ05twFI-EXjkR9wHymRHClkI",
+      "name" : "MobileFirst Applications - Fintegration"
+    },
+    "photoURL" : "https:\/\/photos.app.goo.gl\/owW6Ef9U45Aj68Ha9",
+    "sponsors" : {
+      "food" : "MobileFirst Applications - Fintegration",
+      "vanue" : "MobileFirst Applications - Fintegration"
+    }
+  },
+  {
+    "about" : "Swift Ahmedabad February'25 MeetUp",
+    "date" : 761250600,
+    "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
+    "id" : "7a32f9569f5aa41076ff26e58745a59655471a2acaaad2dcec4c159b57d1938b",
+    "location" : {
+      "address" : "1, Dr Vikram Sarabhai Marg, University Area, Ahmedabad, Gujarat 380015",
+      "coordinates" : {
+        "latitude" : 23.0297755,
+        "longitude" : 72.5413686,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/place\/Ahmedabad+Management+Association+AMA+Ahmedabad\/@23.0297755,72.5413686,17z\/data=!3m1!4b1!4m6!3m5!1s0x395e84c22c1cc5b3:0xf60a316c22ecdc!8m2!3d23.0297755!4d72.5413686!16zL20vMGRrNnhm?entry=ttu&g_ep=EgoyMDI1MTExMi4wIKXMDSoASAFQAw%3D%3D",
+      "name" : "Ahmedabad Management Association AMA Ahmedabad"
+    },
+    "photoURL" : "https:\/\/photos.app.goo.gl\/iwHj3U2BarViSTCw7",
+    "sponsors" : {
+      "food" : "CricHeros",
+      "vanue" : "CricHeros"
+    }
+  },
+  {
+    "about" : "Swift Ahmedabad October'24 MeetUp",
+    "date" : 750969000,
+    "eventID" : "bfc0259ded81a854ef1616246fdad4d9796c91fe67f37f3d3363dc6b4f5567f7",
+    "id" : "0223b39d700efe7791837537b11689d93ba9d6c3b53948d58c378ad0afd40ee8",
+    "location" : {
+      "address" : "5th Floor, 501, Binori Bsquare2, Ambli - Bopal Rd, nr. Double Tree By Hilton, Vikram Nagar, Ahmedabad, Gujarat 380058",
+      "coordinates" : {
+        "latitude" : 23.0283851,
+        "longitude" : 72.4994534,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Simform&query_place_id=ChIJ96ydpfSEXjkRvVUfx24sPv8",
+      "name" : "Simform"
+    },
+    "photoURL" : "https:\/\/photos.app.goo.gl\/ouFSJ54TpYuGQ5MBA",
+    "sponsors" : {
+      "food" : "Simform",
+      "vanue" : "Simform"
+    }
+  },
+  {
+    "about" : "WWDC25 Watch Party Around India",
+    "date" : 771100200,
+    "eventID" : "ced45658c1c8351c4cbd886891166060b54aee78cec8478d0e5f44edf47f2dea",
+    "id" : "8033f36cdcd424a7a611919870112658fa132228732c5f10f5929627d7907b2b",
+    "location" : {
+      "address" : "201, Isquare Corporate Park, Science City Rd, Panchamrut Bunglows II, Sola, Ahmedabad, Gujarat 380060",
+      "coordinates" : {
+        "latitude" : 23.0708485,
+        "longitude" : 72.5176635,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=7Span&query_place_id=ChIJDVQQQIgpXDkR51N20_Oq-pU",
+      "name" : "7 Span"
+    },
+    "photoURL" : "https:\/\/photos.app.goo.gl\/xo5fDZ2wxHYWSsav6",
+    "sponsors" : {
+      "food" : "7 Span",
+      "vanue" : "7 Span"
+    }
+  },
+  {
+    "about" : "Swift Ahmedabad July'25 MeetUp",
+    "date" : 774556200,
+    "eventID" : "9f28a04fe41e3c7334130f2d57f6b5b575322bffe86b51f2f433f7d4e2d1ecdc",
+    "id" : "11d6d2bb985ce17f49eaecbe6b823db1860a259813930becc8f61764c2a6cb14",
+    "location" : {
+      "address" : "812-816, Times Square 1, opposite Baghban Party Plot Road, Thaltej, Ahmedabad, Gujarat 380059",
+      "coordinates" : {
+        "latitude" : 23.0497499,
+        "longitude" : 72.5018106,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Tuvoc%20Technologies%20Private%20Limited&query_place_id=ChIJ____Ty-bXjkRy4NqAX9W5QA",
+      "name" : "Tuvoc Technologies Private Limited"
+    },
+    "photoURL" : "https:\/\/photos.app.goo.gl\/cEbiK4BnUFTfiRuq6",
+    "sponsors" : {
+      "food" : "Tuvoc Technologies Private Limited",
+      "vanue" : "Tuvoc Technologies Private Limited"
+    }
+  }
+]

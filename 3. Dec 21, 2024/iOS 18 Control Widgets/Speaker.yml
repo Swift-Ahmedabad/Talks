@@ -1,5 +1,5 @@
-Speakers:
-  - Speaker: Jay Kothadia
-    Socials: 
-      LinkedIn: https://www.linkedin.com/in/jay-kothadia-04122a1b2/
-    About: iOS Developer @ CricHeroes
+- name: Jay Kothadia
+  socials:
+    linkedIn: https://www.linkedin.com/in/jay-kothadia-04122a1b2/
+  about: iOS Developer @ CricHeroes
+  image: JayKothadia.png

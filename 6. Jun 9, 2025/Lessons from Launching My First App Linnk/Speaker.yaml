@@ -1,6 +1,6 @@
-Speakers:
-  - Speaker: Pratik Gadhesariya
-    Socials: 
-      LinkedIn: https://www.linkedin.com/in/pratik-gadhesariya-047a14142/
-      Portfolio: bold.pro/my/pratik-gadhesariya
-    About: 👨‍💻 Senior iOS Developer | 📱 Creator of Linnk Stay Connected | 🚀 Dreaming big for 2025 | 💡 Tech, apps, & ideas
+- name: Pratik Gadhesariya
+  socials:
+    linkedIn: https://www.linkedin.com/in/pratik-gadhesariya-047a14142/
+    portfolio: https://bold.pro/my/pratik-gadhesariya
+  about: 👨‍💻 Senior iOS Developer | 📱 Creator of Linnk Stay Connected | 🚀 Dreaming big for 2025 | 💡 Tech, apps, & ideas
+  image: PratikGadhesariya.png

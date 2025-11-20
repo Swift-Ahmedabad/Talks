@@ -1,10 +1,12 @@
-Speakers:
-  - Speaker: Gaurav Harkhani
-    Socials: 
-      LinkedIn: https://www.linkedin.com/in/gaurav-harkhani/
-    About: iOS @ Brainvire | Swift | SwiftUI | UIKIT | MVVM | MVVM-C | Agile | Technical Contributor, Mentor & Writer | Volunteer at Swift Ahmedabad & Agile Network India
+- name: Gaurav Harkhani
+  socials:
+    linkedIn: https://www.linkedin.com/in/gaurav-harkhani/
+    portfolio: https://medium.com/@gauravharkhani01 
+  about: iOS @ Brainvire | Swift | SwiftUI | UIKIT | MVVM | MVVM-C | Agile | Technical Contributor, Mentor & Writer | Volunteer at Swift Ahmedabad & Agile Network India
+  image: GauravHarkhani.png
     
-  - Speaker: Riddhi Khunti
-    Socials:
-        LinkedIn: https://www.linkedin.com/in/riddhikhunti-ios/
-    About: iOS | React-Native | Flutter | Swift | SwiftUI Developer
+- name: Riddhi Khunti
+  socials:
+    linkedIn: https://www.linkedin.com/in/riddhikhunti-ios/
+  about: iOS | React-Native | Flutter | Swift | SwiftUI Developer
+  image: RiddhiKunthi.png

@@ -1,5 +1,5 @@
-Speakers:
-- Speaker: Rahul (RC) Chandnani
-  Socials: 
-    LinkedIn: https://www.linkedin.com/in/rahul-chandnani-825920a0/
-  About: Tech Lead – iOS @ CricHeroes | iOS Architect & Performance Optimizer | Passionate About Tech & Cricket
+- name: Rahul (RC) Chandnani
+  socials:
+    linkedIn: https://www.linkedin.com/in/rahul-chandnani-825920a0/
+  about: Tech Lead – iOS @ CricHeroes | iOS Architect & Performance Optimizer | Passionate About Tech & Cricket
+  image: RahulChandnani.png

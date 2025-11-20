@@ -1,0 +1,112 @@
+[
+  {
+    "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
+    "id" : "7f1c0cacaaf678cb908cf095157f4abb674c2ea95a6aacd8b2e314a46712a28e",
+    "title" : "Swift Bharat Experience"
+  },
+  {
+    "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
+    "id" : "7b7cf0b7f9f60eccfafe17afd6183197735aebc969da4ea1a0edea730067ff3f",
+    "title" : "Swift Excellence Enhancing Code Quality"
+  },
+  {
+    "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
+    "id" : "de435be250084cc1a0cfdb933ed2cbaea9752c701358f27891b3c1ff0aecba9d",
+    "title" : "From Lines Of Codes to Lines Of Connections"
+  },
+  {
+    "eventID" : "dd241440ebaac9718c0987e18f38acaec3cb9803fba299f567082a0e98b97f61",
+    "id" : "fb9c7f7552e4f6067179dafaeca58d37df476fdbc88833e69457fe391112b841",
+    "title" : "Physics in AR"
+  },
+  {
+    "eventID" : "dd241440ebaac9718c0987e18f38acaec3cb9803fba299f567082a0e98b97f61",
+    "id" : "37fcc7140e0fa163b67ce0f7a53b418615bde983ea126b4f4592987ffc4d2897",
+    "title" : "Mastering Design patterns and Solid Principles"
+  },
+  {
+    "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
+    "id" : "c9336382df874d280125c8a4ec17f280d3ab683d875b86afd7721a599f7fd790",
+    "title" : "Optimizing development with dependency injection and live activities "
+  },
+  {
+    "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
+    "id" : "38694edafe07d5af13adb54905a582e8ccf0201c176a2003d2aa7480177eda2f",
+    "title" : "Introduction to SwiftData"
+  },
+  {
+    "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
+    "id" : "a8f318dc81d08ed059b9b00e35c58515d3b537a565cb3e4d1091f5ee35507750",
+    "title" : "iOS 18 Control Widgets"
+  },
+  {
+    "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
+    "id" : "d62f0ed8d9a09a755b240cfd7aca9b0b40aa2d810088ed3b36956eba84938f14",
+    "title" : "Becoming an Indie Developer"
+  },
+  {
+    "eventID" : "aa120df0d703d75298af062c1504391ee6c52baf6d7b5dfbe264c7ea9527d48d",
+    "id" : "0143f69b62018a0cb2e5bd656e69f3b5e460bb82686c411ad956071c1aa1171c",
+    "title" : "Let's Scroll"
+  },
+  {
+    "eventID" : "aa120df0d703d75298af062c1504391ee6c52baf6d7b5dfbe264c7ea9527d48d",
+    "id" : "c4f5f01956c0175a16007b4b9ac0c9cd9394634a1855b8d04c1536f229bbaffa",
+    "title" : "Revolutionizing iOS Development"
+  },
+  {
+    "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
+    "id" : "319b3269ee10fa7d55b334af1d1137f597ce6b52061846f2161eb64a82cd6928",
+    "title" : "Exploring Image Playground with Apple Intelligence"
+  },
+  {
+    "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
+    "id" : "bb9ee25a7c78e2ab220cce5a747f734897abcc59a08756fb4bc87ba8faa0039e",
+    "title" : "Towards Modular Apps"
+  },
+  {
+    "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
+    "id" : "5ffa530b19d3594bc1a0e8397839cf2f058b64861e961e662ba7c824679af589",
+    "title" : "Vocabulary of TCA"
+  },
+  {
+    "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
+    "id" : "0fabd0af08f650f279404f63de1723783c7368ac1517eaea551bc7fc4482e5cc",
+    "title" : "Code Signing and Reverse Engineering"
+  },
+  {
+    "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
+    "id" : "975adc82bcf65970bcc01a2c1b1991bc8ef68981efda6729a26283867dfc9273",
+    "title" : "Becoming pro at swift-testing"
+  },
+  {
+    "eventID" : "bfc0259ded81a854ef1616246fdad4d9796c91fe67f37f3d3363dc6b4f5567f7",
+    "id" : "1e4a68201f0aee604be075eced049821e79fec8ecf4015d62190db6339a1c8fc",
+    "title" : "Mesh A plug and play ui framework"
+  },
+  {
+    "eventID" : "bfc0259ded81a854ef1616246fdad4d9796c91fe67f37f3d3363dc6b4f5567f7",
+    "id" : "a09484e5daaa092ea6078bd5e9cdb4b1d23d5adc3d9e605f18eeddcf7d0bd3d5",
+    "title" : "Modern Concurrency"
+  },
+  {
+    "eventID" : "bfc0259ded81a854ef1616246fdad4d9796c91fe67f37f3d3363dc6b4f5567f7",
+    "id" : "b0cdb97e8906f7f01621b0eebbe30a3d3cf73122931c9a9a0397506bb537550f",
+    "title" : "Apple Intelligence"
+  },
+  {
+    "eventID" : "ced45658c1c8351c4cbd886891166060b54aee78cec8478d0e5f44edf47f2dea",
+    "id" : "71b72e8daef3af3ac1f03c7661a58f3269b7cf1bcbc5c281901067ddf7b44301",
+    "title" : "Introduction to Keynote"
+  },
+  {
+    "eventID" : "ced45658c1c8351c4cbd886891166060b54aee78cec8478d0e5f44edf47f2dea",
+    "id" : "aff5f05ca07cec7766c21976fa8c80078b91091a403d69dda799ba0db01e4930",
+    "title" : "Lessons from Launching My First App Linnk"
+  },
+  {
+    "eventID" : "9f28a04fe41e3c7334130f2d57f6b5b575322bffe86b51f2f433f7d4e2d1ecdc",
+    "id" : "dc72e43373f008f20b4239a3f7f56970c3f72f27c2fdde106d1893fe4c1ab3bc",
+    "title" : "Unlocking the Power of Xcode 26 + ChatGPT"
+  }
+]

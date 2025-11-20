@@ -1,5 +1,5 @@
-Speakers:
-  - Speaker: Harshit Daftary
-    Socials: 
-      LinkedIn: https://www.linkedin.com/in/harshitdaftary/
-    About: Application Development Team Lead at Accenture
+- name: Harshit Daftary
+  socials:
+    linkedIn: https://www.linkedin.com/in/harshitdaftary/
+  about: Application Development Team Lead at Accenture
+  image: HarshitDaftary.jpg

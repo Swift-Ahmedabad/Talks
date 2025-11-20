@@ -1,5 +1,7 @@
-Speakers:
-- Speaker: Rimesh Jotania
-  Socials: 
-    LinkedIn: https://www.linkedin.com/in/recursiveswift/
-  About: iOS Developer | Swift | UIKit | SwiftUI
+- name: Rimesh Jotania
+  socials:
+    linkedIn: https://www.linkedin.com/in/recursiveswift/
+    portfolio: https://recursiveswift.com
+    github: https://github.com/Rimesh
+  about: iOS Developer | Swift | UIKit | SwiftUI
+  image: RimeshJotaniya.png
