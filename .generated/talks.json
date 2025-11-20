@@ -55,6 +55,26 @@
     "title" : "Revolutionizing iOS Development"
   },
   {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "96b34e5833831c082b4fb5eefdc022f96a98cfda48b9187472700ee224fd0e93",
+    "title" : "Apple Accessibility & Accessibility Nutrition Labels"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "96577049dc2a8cc594d06fc8419a29279be2e3c4ccdd16cff7d2c137493cafa7",
+    "title" : "Playing with Apple’s Foundation Models "
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "6d7d50ece1ffe1b1a92ab046ba7ee258388526fa03316a9dad1228596f0ee266",
+    "title" : "Mastering Instruments & Performance Tuning in Swift"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "24407e52cc61427711430fe99f05b0f82d613226c97d8516ec287aff8803f34f",
+    "title" : "Introduction of Vapor framework"
+  },
+  {
     "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
     "id" : "319b3269ee10fa7d55b334af1d1137f597ce6b52061846f2161eb64a82cd6928",
     "title" : "Exploring Image Playground with Apple Intelligence"

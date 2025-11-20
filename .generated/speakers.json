@@ -131,6 +131,42 @@
     }
   },
   {
+    "about" : "Technical Architect | Solution Consultant | Engineering Leader | Driving Scalable Digital Transformation",
+    "id" : "ef4303918ae7619260add48d6177ae21104f43a9ba4765d3588df399587c65f5",
+    "image" : "KushalPanchal.jpg",
+    "name" : "Kushal Panchal",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kushal211\/"
+    }
+  },
+  {
+    "about" : "Full-Stack Swift Developer | Co-Organizer @ Swift Mumbai | Crafting Apps & Empowering the Dev Community",
+    "id" : "ee0ff851819440f83a3bd4d85fa7110e5f325ff045ce21c3678d8d2ed5fa23bb",
+    "image" : "SnehaDudhat.jpeg",
+    "name" : "Rushit Rakhasiya",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/rushit-r-757aa0167\/"
+    }
+  },
+  {
+    "about" : "10+ Experienced iOS Team Lead @Bluepixel Technologies LLP | BLE | SwiftUI | Blogger",
+    "id" : "a26ddcb01d333e9aa97bd71245bf80b339d841e2fb0215cea868b797db5e6ffd",
+    "image" : "SnehaDudhat.jpeg",
+    "name" : "Sneha Dudhat",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/sneha-dudhat-81771862\/"
+    }
+  },
+  {
+    "about" : "iOS Developer @ Space O | Model-View-Controller (MVC) | MVVM | SwiftUI | Swift | Git | JIRA | Trello | Swift | Core Data | MVP | The Composable Architecture | Core Location | Sqlite | Flutter | GetX | MapKit",
+    "id" : "6fa59abf1fbdf00b37cd3dc2ccd53eae8fe651e90fddf4aa4b8c2a8b04749dc6",
+    "image" : "KushalPanchal.jpg",
+    "name" : "Hardik Modha",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/hardik-modha-95b9ab125\/"
+    }
+  },
+  {
     "about" : "Tech Lead – iOS @ CricHeroes | iOS Architect & Performance Optimizer | Passionate About Tech & Cricket",
     "id" : "3143acc062d4e0ac24af42f353fcf3ce04d29bef3b79f885368f97c32e9b6692",
     "image" : "RahulChandnani.png",

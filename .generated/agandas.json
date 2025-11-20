@@ -156,6 +156,60 @@
     "title" : "Closing"
   },
   {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "7e371a729aa27f4412ef13d58e503a0e367baf1bbbc897974c71d72afb0d993d",
+    "time" : -31606200,
+    "title" : "Welcome & Registration"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "949310460e559cdb55a256ea2bc942dd908df0d66debb3491ebe9ae38cacc719",
+    "time" : -31605300,
+    "title" : "Introduction"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "c228ca585e554b02b3bde67879c2e92cdb78d3839a98e9f74b87d50a088565b2",
+    "time" : -31605000,
+    "title" : "Apple Accessibility & Accessibility Nutrition Labels"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "1bd2c2494d8e621d60876ee848a25a863c486a9953cd7227b98a49e5dc971817",
+    "time" : -31602600,
+    "title" : "Mastering Instruments & Performance Tuning in Swift"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "316d2e1c46655bf2404c4e41edc3d98e8459709ad306031e8c1241db51c9d16b",
+    "time" : -31600800,
+    "title" : "Break"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "42680cc9904a057b761c82615b59bf3bfea008f0a4639f86cb8182f4eed92ad5",
+    "time" : -31556700,
+    "title" : "LJ University Showcase"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "0e3ec5a5dff777819c649bba45cc4a4a6ca1c59c02bf2a349919e95305204202",
+    "time" : -31599000,
+    "title" : "Playing with Apple’s Foundation Models "
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "a04af5a32b766559779adc4e7bcc09d93b5493fa5739b093a16ce5380b276a0a",
+    "time" : -31597200,
+    "title" : "Introduction of Vapor framework"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "d0d794f6bcf31728bb7cbe3c42293858539f3cf489d976beb7312c04290dc173",
+    "time" : -31595400,
+    "title" : "Networking"
+  },
+  {
     "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
     "id" : "38fcb82baeadf8f3468143908c41714f1baca85bf8c3df5d821b54adf9b8a1c5",
     "time" : -31605000,

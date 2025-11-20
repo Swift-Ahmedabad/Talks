@@ -1,0 +1,32 @@
+about: "Swift Ahmedabad December'25 MeetUp"
+date: "December 13, 2025"
+location:
+    name: "LJ University"
+    map: "https://www.google.com/maps/search/?api=1&query=Architect%20Auditorium%2C%20LJ%20University%20%2C%20Sarkhej%20Campus"
+    address: "Architect Auditorium, LJ University , Sarkhej Campus, Sarkhej, Ahmedabad, Gujarat 382210"
+    coordinates:
+        latitude: 22.989644
+        longitude: 72.4877115
+        zoom: 17
+agenda:
+    - time: "10:00 AM"
+      title: "Welcome & Registration"
+    - time: "10:15 AM"
+      title: "Introduction"
+    - time: "10:20 AM"
+      title: "Apple Accessibility & Accessibility Nutrition Labels"
+    - time: "11:00 AM"
+      title: "Mastering Instruments & Performance Tuning in Swift"
+    - time: "11:30 AM"
+      title: "Break"
+    - time: "11:45 PM"
+      title: "LJ University Showcase"
+    - time: "12:00 PM"
+      title: "Playing with Apple’s Foundation Models "
+    - time: "12:30 PM"
+      title: "Introduction of Vapor framework"
+    - time: "1:00 PM"
+      title: "Networking"
+sponsors:
+    vanue: "LJ University"
+    food: "CricHeroes Pvt. Ltd"

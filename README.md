@@ -1,3 +1,27 @@
+# 9. Dec 13, 2025
+ 💻 Swift Ahmedabad December'25 MeetUp
+
+## Apple Accessibility & Accessibility Nutrition Labels
+### By: **Kushal Panchal**
+Technical Architect | Solution Consultant | Engineering Leader | Driving Scalable Digital Transformation
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kushal211/)
+## Playing with Apple’s Foundation Models 
+### By: **Rushit Rakhasiya**
+Full-Stack Swift Developer | Co-Organizer @ Swift Mumbai | Crafting Apps & Empowering the Dev Community
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/rushit-r-757aa0167/)
+## Mastering Instruments & Performance Tuning in Swift
+### By: **Sneha Dudhat**
+10+ Experienced iOS Team Lead @Bluepixel Technologies LLP | BLE | SwiftUI | Blogger
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/sneha-dudhat-81771862/)
+## Introduction of Vapor framework
+### By: **Hardik Modha**
+iOS Developer @ Space O | Model-View-Controller (MVC) | MVVM | SwiftUI | Swift | Git | JIRA | Trello | Swift | Core Data | MVP | The Composable Architecture | Core Location | Sqlite | Flutter | GetX | MapKit
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/hardik-modha-95b9ab125/)
+---
 # 8. Oct 11, 2025
  💻 Swift Ahmedabad October'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/rcxKMq7YpzvEqqnY7)
