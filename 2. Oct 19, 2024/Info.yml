@@ -15,10 +15,13 @@ agenda:
       title: "Kick-Off"
     - time: "10:15 AM "
       title: "Mesh: A Plug and Play UI Framework"
+      speaker: "Gokul Nair"
     - time: "10:45 AM "
       title: "Modern Concurrency"
+      speaker: "Nishchal Visavadiya"
     - time: "11:45 AM "
       title: "Apple Intelligence"
+      speaker: "Harshit Daftary"
     - time: "12:35 AM "
       title: "Networking and Refreshments"
 sponsors:

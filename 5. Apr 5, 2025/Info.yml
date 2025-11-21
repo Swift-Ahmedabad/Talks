@@ -13,10 +13,12 @@ agenda:
       title: "Welcome & Introduction"
     - time: "4:20 PM "
       title: "Physics in AR"
+      speaker: "Mayur Tanna"
     - time: "5:05 PM "
       title: "Networking & Refreshments"
     - time: "5:15 PM "
       title: "Mastering Design Patterns & Solid Principles"
+      speaker: "Hitesh Trivedi"
     - time: "6:00 PM "
       title: "Closing & Networking"
 sponsors:
