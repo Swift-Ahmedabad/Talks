@@ -11,6 +11,8 @@ location:
 agenda:
     - time: "10:00 AM"
       title: "Unlocking the Power of Xcode 26 + ChatGPT"
+      speakers:
+        - "Prashant Korat"
     - time: "11:00 AM"
       title: "Inde Hub Demos"
     - time: "1:00 PM "

@@ -12,9 +12,13 @@ agenda:
     - time: "10:00 AM "
       title: "Welcome & Registration"
     - time: "10:15 AM "
-      title: "Opening Talk by Ratnesh"
+      title: "Swift Bharat Experience"
+      speakers:
+        - "Ratnesh Jain"
     - time: "10:45 AM "
-      title: "Session by Kanishka"
+      title: "Swift Excellence Enhancing Code Quality"
+      speakers:
+        - "Kanishka C"
     - time: "11:15 AM "
       title: "Tea/Coffee Break"
     - time: "11:30 AM "
@@ -22,7 +26,9 @@ agenda:
     - time: "12:15 PM "
       title: "Product Spotlight: CricHeros"
     - time: "12:30 PM "
-      title: "Session by Rizwan"
+      title: "From Lines Of Codes to Lines Of Connections"
+      speakers:
+        - "Rizwan Ahmed"
     - time: "1:00 PM "
       title: "Networking & Refreshments"
 sponsors:

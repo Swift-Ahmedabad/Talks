@@ -15,6 +15,9 @@ agenda:
       title: "Kick Off Event"
     - time: "9:10 PM "
       title: "Talks, Announcements & Updates"
+      speakers:
+        - "Pratik Gadhesariya"
+        - "Ratnesh Jain"
     - time: "10:30 PM "
       title: "WWDC24 Keynote Begins 🍿"
     - time: "12:30 AM "

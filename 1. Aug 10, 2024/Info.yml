@@ -13,10 +13,12 @@ agenda:
       title: "Arrival and Registration"
     - time: "10:15 AM "
       title: "Let's Scroll By Ratnesh Jain"
-      speaker: "Ratnesh Jain"
+      speakers:
+        - "Ratnesh Jain"
     - time: "11:15 AM "
       title: "Navigating the evolution of iOS Development by Dharmesh Avaiya"
-      speaker: "Darmesh Avaiya"
+      speakers:
+        - "Darmesh Avaiya"
     - time: "11:55 AM "
       title: "Closing"
 sponsors:

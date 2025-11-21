@@ -17,18 +17,23 @@ agenda:
       title: "Keynote Address"
     - time: "11:15 AM "
       title: "iOS 18: Control Center Widgets"
-      speaker: "Jay Kothadia"
+      speakers:
+        - "Jay Kothadia"
     - time: "11:50 AM "
       title: "Break"
     - time: "12:00 PM "
       title: "Optimizing Development with Dependency Injection & Live Activities in Swift"
-      speaker: "Gaurav Harkhani"
+      speakers:
+        - "Gaurav Harkhani"
+        - "Riddhi Khunti"
     - time: "12:45 PM "
       title: "SwiftData"
-      speaker: "Reena Thakker"
+      speakers:
+        - "Reena Thakker"
     - time: "01:05 PM "
       title: "Sharing Moments"
-      speaker: "Mustafa Yusuf"
+      speakers:
+        - "Mustafa Yusuf"
     - time: "01:10 PM "
       title: "Networking and Refreshments"
 sponsors:
