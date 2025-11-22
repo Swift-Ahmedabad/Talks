@@ -11,22 +11,28 @@ location:
 agenda:
     - time: "9:45 AM "
       title: "Check-in ✅"
+      type: "registration"
     - time: "10:00 AM "
       title: "Kick-Off"
+      type: "talk"
     - time: "10:15 AM "
       title: "Mesh: A Plug and Play UI Framework"
+      type: "talk"
       speakers:
         - "Gokul Nair"
     - time: "10:45 AM "
       title: "Modern Concurrency"
+      type: "talk"
       speakers:
         - "Nishchal Visavadiya"
     - time: "11:45 AM "
       title: "Apple Intelligence"
+      type: "talk"
       speakers:
         - "Harshit Daftary"
     - time: "12:35 AM "
       title: "Networking and Refreshments"
+      type: "networking"
 sponsors:
     vanue: "Simform"
     food: "Simform"

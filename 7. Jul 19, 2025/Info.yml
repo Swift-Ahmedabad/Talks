@@ -11,12 +11,15 @@ location:
 agenda:
     - time: "10:00 AM"
       title: "Unlocking the Power of Xcode 26 + ChatGPT"
+      type: "talk"
       speakers:
         - "Prashant Korat"
     - time: "11:00 AM"
       title: "Inde Hub Demos"
+      type: "talk"
     - time: "1:00 PM "
       title: "Closing Notes"
+      type: "networking"
 sponsors:
     vanue: "Tuvoc Technologies Private Limited"
     food: "Tuvoc Technologies Private Limited"

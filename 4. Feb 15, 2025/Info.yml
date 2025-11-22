@@ -11,32 +11,41 @@ location:
 agenda:
     - time: "10:20 AM "
       title: "Check-In"
+      type: "registration"
     - time: "10:30 AM "
       title: "Kick-Off"
+      type: "talk"
     - time: "10:35 AM "
       title: "Becoming a Pro at Swift Testing"
+      type: "talk"
       speakers:
         - "Saumil Shah"
     - time: "11:05 AM "
       title: "Code Signing & Reverse Engineering"
+      type: "talk"
       speakers:
         - "Pran Kishor"
     - time: "11:50 AM "
       title: "Break"
+      type: "break"
     - time: "12:00 PM "
       title: "Exploring Image Playground with Apple Intelligence"
+      type: "talk"
       speakers:
         - "Rahul (RC) Chandnani"
     - time: "12:30 PM "
       title: "Towards Modular App"
+      type: "talk"
       speakers:
         - "Rimesh Jotania"
     - time: "1:00 PM "
       title: "Vocabulary of TCA"
+      type: "talk"
       speakers:
         - "Ratnesh Jain"
     - time: "2:00 PM "
       title: "Networking & Refreshment"
+      type: "networking"
 sponsors:
     vanue: "CricHeros"
     food: "CricHeros"
