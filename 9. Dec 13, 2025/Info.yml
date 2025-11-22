@@ -29,7 +29,7 @@ agenda:
       title: "Break"
       type: "break"
         
-    - time: "12:00 AM"
+    - time: "12:00 PM"
       title: "LJ University Showcase"
       type: "sponsorTalk"
       
