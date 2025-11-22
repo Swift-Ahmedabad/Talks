@@ -12,36 +12,40 @@ agenda:
     - time: "10:00 AM"
       title: "Welcome & Registration"
       type: "registration"
+      
     - time: "10:15 AM"
-      title: "Introduction"
-      type: "talk"
-    - time: "10:20 AM"
-      title: "Apple Accessibility & Accessibility Nutrition Labels"
+      title: "Playing with Apple’s Foundation Models"
       type: "talk"
       speakers:
-        - "Kushal Panchal"
-    - time: "11:00 AM"
+        - "Rushit Rakhasiya"
+        
+    - time: "11:15 AM"
       title: "Mastering Instruments & Performance Tuning in Swift"
       type: "talk"
       speakers:
         - "Sneha Dudhat"
-    - time: "11:30 AM"
+        
+    - time: "11:45 AM"
       title: "Break"
       type: "break"
-    - time: "11:45 AM"
+        
+    - time: "12:00 AM"
       title: "LJ University Showcase"
       type: "sponsorTalk"
-    - time: "12:00 PM"
-      title: "Playing with Apple’s Foundation Models "
-      type: "talk"
-      speakers:
-        - "Rushit Rakhasiya"
-    - time: "12:30 PM"
+      
+    - time: "12:15 PM"
       title: "Introduction of Vapor framework"
       type: "talk"
       speakers:
         - "Hardik Modha"
-    - time: "1:00 PM"
+        
+    - time: "12:45 PM"
+      title: "Apple Accessibility & Accessibility Nutrition Labels"
+      type: "talk"
+      speakers:
+        - "Kushal Panchal"
+        
+    - time: "1:30 PM"
       title: "Networking"
       type: "networking"
 sponsors:

@@ -190,57 +190,50 @@
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "949310460e559cdb55a256ea2bc942dd908df0d66debb3491ebe9ae38cacc719",
+    "id" : "8ff530c1758e98039c280a6b209a289ee4a1815e7d4684f45cb737cf0d9b4f24",
     "time" : -31605300,
-    "title" : "Introduction",
+    "title" : "Playing with Apple’s Foundation Models",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "c228ca585e554b02b3bde67879c2e92cdb78d3839a98e9f74b87d50a088565b2",
-    "time" : -31605000,
-    "title" : "Apple Accessibility & Accessibility Nutrition Labels",
-    "type" : "talk"
-  },
-  {
-    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "1bd2c2494d8e621d60876ee848a25a863c486a9953cd7227b98a49e5dc971817",
-    "time" : -31602600,
+    "id" : "1dde909a529f637a2cff2ae47d3833ed7f5d28b60211e3a73fff0d222271d96a",
+    "time" : -31601700,
     "title" : "Mastering Instruments & Performance Tuning in Swift",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "316d2e1c46655bf2404c4e41edc3d98e8459709ad306031e8c1241db51c9d16b",
-    "time" : -31600800,
+    "id" : "09fde4ba3a134889be5194e81d97c91fa329743b7c9dac0371e959eefff783d9",
+    "time" : -31599900,
     "title" : "Break",
     "type" : "break"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "bf33beed4e3498bb67d6665aa822b535cde21d4daec43d75401be7561258c963",
-    "time" : -31599900,
+    "id" : "f5b049597a7a9f0e8d2e1d4b070ae5fb7127f1cc8615694b04a4496edaa634f7",
+    "time" : -31642200,
     "title" : "LJ University Showcase",
     "type" : "sponsorTalk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "0e3ec5a5dff777819c649bba45cc4a4a6ca1c59c02bf2a349919e95305204202",
-    "time" : -31599000,
-    "title" : "Playing with Apple’s Foundation Models ",
-    "type" : "talk"
-  },
-  {
-    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "a04af5a32b766559779adc4e7bcc09d93b5493fa5739b093a16ce5380b276a0a",
-    "time" : -31597200,
+    "id" : "2b85f4ffcdf1362066d1524ca2b6c6aa0bcad8a392fb6dc9bd08ec86ced5cdae",
+    "time" : -31598100,
     "title" : "Introduction of Vapor framework",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "d0d794f6bcf31728bb7cbe3c42293858539f3cf489d976beb7312c04290dc173",
-    "time" : -31595400,
+    "id" : "1af061165f47f97de4e7e89378d3116e4985846faf43a1027455588eb00b1965",
+    "time" : -31596300,
+    "title" : "Apple Accessibility & Accessibility Nutrition Labels",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "43c1f664db4847eda5111f3d97185464d5f23a849131f2cdcc6ea74b45622f94",
+    "time" : -31593600,
     "title" : "Networking",
     "type" : "networking"
   },
