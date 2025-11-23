@@ -1,400 +1,400 @@
 [
   {
     "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
-    "id" : "f2bed3b46e87cbd56b59e6139c452a192cfdb1443f6c3a972e61bc812eb22ba4",
-    "time" : -31606200,
+    "id" : "5e9a8c30949f99b6ab167104c9eb85af4b9404421669f54eb26c11aff545308b",
+    "time" : 781849800,
     "title" : "Welcome & Registration",
     "type" : "registration"
   },
   {
     "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
-    "id" : "9f4537d916a3877b398f1bab124629207b6634a44ffde7cbcdd22a80376c720b",
-    "time" : -31605300,
+    "id" : "8b8087a035e72de75562cb51b8b9304b4c728051ee35263a14949ba92683b1d8",
+    "time" : 781850700,
     "title" : "Swift Bharat Experience",
     "type" : "talk"
   },
   {
     "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
-    "id" : "875443e34b78626aa2a4c2438d468ab6c6bda5c92db9c065c6d78e1d401c1b97",
-    "time" : -31603500,
+    "id" : "221fcaadf53fdeeb96aa322380a41e761a02bb2ca9a8bfa3fb5b8f9bed48bb35",
+    "time" : 781852500,
     "title" : "Swift Excellence Enhancing Code Quality",
     "type" : "talk"
   },
   {
     "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
-    "id" : "1426763961ab046c832369743f85e03603241e1317b14e872a24dd27ea3585e0",
-    "time" : -31601700,
+    "id" : "091c60715bf4a0a0fc208be0f6da475e6272e87b0c4a096094361b113acc5a20",
+    "time" : 781854300,
     "title" : "Tea\/Coffee Break",
     "type" : "break"
   },
   {
     "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
-    "id" : "d467708e988d2177fe3a700ccbace05a2ea64e5a7ec19ac8ebc804a80704c31b",
-    "time" : -31600800,
+    "id" : "f13a46e05e6f64b476eae5d41d86bfa3f1e0983a69e4c53fae155ca02ccb4b3b",
+    "time" : 781855200,
     "title" : "Talk by Garima",
     "type" : "talk"
   },
   {
     "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
-    "id" : "5b5beab72c21e7f1ec4ca8369821411b9d510513aa2961b6aef0c24c4feaf971",
-    "time" : -31598100,
+    "id" : "6215dcafde644e34566fdd3201fe5a3bf1a7023fec3b4e61a2c6b5b84465dd9f",
+    "time" : 781857900,
     "title" : "Product Spotlight: CricHeros",
     "type" : "talk"
   },
   {
     "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
-    "id" : "63cdcaa66cb80d417a193270059702310c58f51c880f786955b3aea2ed862a90",
-    "time" : -31597200,
+    "id" : "65f2eb0f3db7d9352c106467cd3feea818f7b30559a140733c917e3271b9125b",
+    "time" : 781858800,
     "title" : "From Lines Of Codes to Lines Of Connections",
     "type" : "talk"
   },
   {
     "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
-    "id" : "00cd54c83c221ddf7c231eb3fa8bfa8eb24349a1fa6dd43b1d8004c5e587a44e",
-    "time" : -31595400,
+    "id" : "9864a5df9056ac92a7a716ee6834d878f22d90f566da48ee26bd291f9561e57c",
+    "time" : 781860600,
     "title" : "Networking & Refreshments",
     "type" : "networking"
   },
   {
     "eventID" : "dd241440ebaac9718c0987e18f38acaec3cb9803fba299f567082a0e98b97f61",
-    "id" : "70b8b5629c2017666f40c73a84c781f7b294d3b18a4fac4ade0a2875ed076b57",
-    "time" : -31584600,
+    "id" : "438d998e50d58a70d279084f48851071023b35e4827ff94bdc115b808f88feb2",
+    "time" : 765541800,
     "title" : "Welcome & Introduction",
     "type" : "registration"
   },
   {
     "eventID" : "dd241440ebaac9718c0987e18f38acaec3cb9803fba299f567082a0e98b97f61",
-    "id" : "d5a4b546f19b9369cfa97161f9aae912e76d0fc901d84b4e8f30d37747e40ec4",
-    "time" : -31583400,
+    "id" : "d268f143dc56ec242713c069e59f15756c8b8b226aa3f08fde993420c2299b8b",
+    "time" : 765543000,
     "title" : "Physics in AR",
     "type" : "talk"
   },
   {
     "eventID" : "dd241440ebaac9718c0987e18f38acaec3cb9803fba299f567082a0e98b97f61",
-    "id" : "bb9f7c020cbac7d15d35647e46eb0f7cd269d00341d838cb95f84717deadcb5e",
-    "time" : -31580700,
+    "id" : "c1f433a0ef0fd3aa202e8fe518f4419085d795a10971bd6f4fbec143423930f2",
+    "time" : 765545700,
     "title" : "Networking & Refreshments",
     "type" : "break"
   },
   {
     "eventID" : "dd241440ebaac9718c0987e18f38acaec3cb9803fba299f567082a0e98b97f61",
-    "id" : "7272b8be8367da518e868e4c4058aaeefcffa60345903013a3290e8a1ffca658",
-    "time" : -31580100,
+    "id" : "83b3423b5a37ef1cd0d4279d5ea31587f24f3f081e75787a6a49ddb9e60842a6",
+    "time" : 765546300,
     "title" : "Mastering Design Patterns & Solid Principles",
     "type" : "talk"
   },
   {
     "eventID" : "dd241440ebaac9718c0987e18f38acaec3cb9803fba299f567082a0e98b97f61",
-    "id" : "5280b7294628a825dbcbb2b11b1c89e1fc45f694bda945ec181af0d4884d1584",
-    "time" : -31577400,
+    "id" : "c83d4aaf8b878a8ffaecbadf484ed1e1c9fb4df72505116c7d7cd43031555bc6",
+    "time" : 765549000,
     "title" : "Closing & Networking",
     "type" : "networking"
   },
   {
     "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
-    "id" : "907f147b168d2157adcb24f2405ca355b1dfa91ad2dd49eca8c0fbb4b972520f",
-    "time" : -31604400,
+    "id" : "623c01d13f2074713e3e2a68fa807d9cc9581472395b2650b77b14e2a4676322",
+    "time" : 756450000,
     "title" : "Registration",
     "type" : "registration"
   },
   {
     "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
-    "id" : "8c5a5e655586ce0101c96ecaacb384d8ec5c9b3ff221c38196c0346a9a2b0e4c",
-    "time" : -31603800,
+    "id" : "5b2ad0f97ba19de5be6f38c1d752a0835c36b89c64a32a829dc0634fa7f1e42c",
+    "time" : 756450600,
     "title" : "Kick-Off",
     "type" : "talk"
   },
   {
     "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
-    "id" : "0142c7092504fd7b94e7b3cce89adb78ac53e5858101773e7833a5a279134c6d",
-    "time" : -31603500,
+    "id" : "f9a7eaa9922b501eef899577b7bf4fea2e68194718daa683cdc9bcf17ea2e555",
+    "time" : 756450900,
     "title" : "Keynote Address",
     "type" : "talk"
   },
   {
     "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
-    "id" : "951dc4703673e8be369dc72cfb0525ba30c02194b4a24ba2fc700174cc22c2ae",
-    "time" : -31601700,
+    "id" : "a6882f8d1130df669c24a8a2bce35af9fe275a488782f609a033482fa611e02d",
+    "time" : 756452700,
     "title" : "iOS 18: Control Center Widgets",
     "type" : "talk"
   },
   {
     "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
-    "id" : "2ae45e7726625f7e0b491072121aba9e750862655b2f82afb19af049f372e076",
-    "time" : -31599600,
+    "id" : "5fd72543217124aa2b4a2694f74ad94d508f9a4aa4bda7df8717c20857615634",
+    "time" : 756454800,
     "title" : "Break",
     "type" : "break"
   },
   {
     "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
-    "id" : "7fad0c6ccf2ccb6f363d7567e549e61cd0a96f02aa142e4eb662231104043743",
-    "time" : -31599000,
+    "id" : "73f540e9cb441895721c5edab426d1149c5be04d89e9270d641139f6c5c06e15",
+    "time" : 756455400,
     "title" : "Optimizing Development with Dependency Injection & Live Activities in Swift",
     "type" : "talk"
   },
   {
     "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
-    "id" : "0472f0b8f4f8b5fbcb24b8a0732913431d23d752e515ab3bb2ba23f352b09ab8",
-    "time" : -31596300,
+    "id" : "7ed8ab7d24cd328ca563e0e3ba4ba248b0a8ffd0946ea4ee62de5dea1e5c4a90",
+    "time" : 756458100,
     "title" : "SwiftData",
     "type" : "talk"
   },
   {
     "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
-    "id" : "181211f48d9ccfef1dbf3db2d0b8c442f5fa16340b85ab02234abac11017bfba",
-    "time" : -31595100,
+    "id" : "2840c6428ea47028872a955043b96670bb672c5f877c9ac568e05f9b34a57909",
+    "time" : 756459300,
     "title" : "Sharing Moments",
     "type" : "talk"
   },
   {
     "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
-    "id" : "4b944f87fbbdb91ac07a1d9f3a49cfbeb31bf4131bd06da72f71595b115b25f1",
-    "time" : -31594800,
+    "id" : "a24c42fce88fec238ae5f9e4144746f7b53a989c8d3ed781fac8ce2191e88972",
+    "time" : 756459600,
     "title" : "Networking and Refreshments",
     "type" : "networking"
   },
   {
     "eventID" : "aa120df0d703d75298af062c1504391ee6c52baf6d7b5dfbe264c7ea9527d48d",
-    "id" : "caa9b740668169dfc77fefcb12801987f177fc68c71db18eebaa181d40bae8cb",
-    "time" : -31606200,
+    "id" : "887d3a3379d36f5d4c97a5c18eae62dbe28ba75efee830ed577d7ff8de6e38c2",
+    "time" : 744957000,
     "title" : "Arrival and Registration",
     "type" : "registration"
   },
   {
     "eventID" : "aa120df0d703d75298af062c1504391ee6c52baf6d7b5dfbe264c7ea9527d48d",
-    "id" : "1ec185e803327646edf781be9c86df2f57c725afaaf2e2284f6838a6483d49e7",
-    "time" : -31605300,
+    "id" : "fa52dab5ec9309cb835f8dc3c6d52acfa1d09c93031c5180bcac75bf7e0987bc",
+    "time" : 744957900,
     "title" : "Let's Scroll By Ratnesh Jain",
     "type" : "talk"
   },
   {
     "eventID" : "aa120df0d703d75298af062c1504391ee6c52baf6d7b5dfbe264c7ea9527d48d",
-    "id" : "7b06a2f9522054c958aff307672e66ce6568eac38685b7be46786713abbab2ca",
-    "time" : -31601700,
+    "id" : "7520f1dc8f0f93067e59f590dcc698461e93c124bb67b284e6aa25e4ce8916a4",
+    "time" : 744961500,
     "title" : "Navigating the evolution of iOS Development by Dharmesh Avaiya",
     "type" : "talk"
   },
   {
     "eventID" : "aa120df0d703d75298af062c1504391ee6c52baf6d7b5dfbe264c7ea9527d48d",
-    "id" : "7e385418cc6953630dd5f749e51f475bb4dcf3051e35a2b9909c45e73462fd21",
-    "time" : -31599300,
+    "id" : "b99a3a31c34efa2562c2c455182fcae07048ddef299ac757622574ab7919c245",
+    "time" : 744963900,
     "title" : "Closing",
     "type" : "networking"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "7e371a729aa27f4412ef13d58e503a0e367baf1bbbc897974c71d72afb0d993d",
-    "time" : -31606200,
+    "id" : "eb239e6f77921c6d01d48216a38cc819ac102c6b8513ba59d9c13b0831d2aa75",
+    "time" : 787293000,
     "title" : "Welcome & Registration",
     "type" : "registration"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "8ff530c1758e98039c280a6b209a289ee4a1815e7d4684f45cb737cf0d9b4f24",
-    "time" : -31605300,
+    "id" : "5ac6839e7ccc5f4eb13875ced335e8bbbdf162ba72e096197c6ae1c2ea511a21",
+    "time" : 787293900,
     "title" : "Playing with Apple’s Foundation Models",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "1dde909a529f637a2cff2ae47d3833ed7f5d28b60211e3a73fff0d222271d96a",
-    "time" : -31601700,
+    "id" : "2a00df03c1c119b1d96c811b2ce4d96add55cb0f9f191f65928c0c078b338174",
+    "time" : 787297500,
     "title" : "Mastering Instruments & Performance Tuning in Swift",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "09fde4ba3a134889be5194e81d97c91fa329743b7c9dac0371e959eefff783d9",
-    "time" : -31599900,
+    "id" : "34e9fd7859130e40cde09e19b4bd69ac1820e3475f5112e4472da8023d23887d",
+    "time" : 787299300,
     "title" : "Break",
     "type" : "break"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "87eed45de328907e65f69b87a37687fdd5a08d06f327d0fb7bfc416f324ea99a",
-    "time" : -31599000,
+    "id" : "440678170f3ee76706f36bd59ce1b52899a6a2078d75945d9b4325183cb1472e",
+    "time" : 787300200,
     "title" : "LJ University Showcase",
     "type" : "sponsorTalk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "2b85f4ffcdf1362066d1524ca2b6c6aa0bcad8a392fb6dc9bd08ec86ced5cdae",
-    "time" : -31598100,
+    "id" : "7eb2c92a07b324aa622095765b3836c981852952b4e3f6802716aa54c370d094",
+    "time" : 787301100,
     "title" : "Introduction of Vapor framework",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "1af061165f47f97de4e7e89378d3116e4985846faf43a1027455588eb00b1965",
-    "time" : -31596300,
+    "id" : "c4347645874ec00be1a223542676b53a61b73eb43a53d78df3de68ccc832e4b3",
+    "time" : 787302900,
     "title" : "Apple Accessibility & Accessibility Nutrition Labels",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "43c1f664db4847eda5111f3d97185464d5f23a849131f2cdcc6ea74b45622f94",
-    "time" : -31593600,
+    "id" : "fe3e688fac857b777d617ce51288de722c1f92513ee9b55672a6526db3a2c95e",
+    "time" : 787305600,
     "title" : "Networking",
     "type" : "networking"
   },
   {
     "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
-    "id" : "38fcb82baeadf8f3468143908c41714f1baca85bf8c3df5d821b54adf9b8a1c5",
-    "time" : -31605000,
+    "id" : "b5bed67e2c093b5fd5fa3b8411b185c5b24243cc4239fbca96a75d6c8a206338",
+    "time" : 761287800,
     "title" : "Check-In",
     "type" : "registration"
   },
   {
     "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
-    "id" : "f6138904f6ae597d7cd3d95649a990d37710b5332e73ba0a94d70b616a316ebb",
-    "time" : -31604400,
+    "id" : "fbc66bf6018e8e089fb60e7f640a4a96b2d596eb9fab1fb2d5925df5a36c9871",
+    "time" : 761288400,
     "title" : "Kick-Off",
     "type" : "talk"
   },
   {
     "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
-    "id" : "942a48fa5a9f28390561967b284ecc0e98ea59e07491db317a912f28ead8d911",
-    "time" : -31604100,
+    "id" : "caf8c51641e5113025f3272ba8a212de0427e91287ca8f71501a6f16f5045e51",
+    "time" : 761288700,
     "title" : "Becoming a Pro at Swift Testing",
     "type" : "talk"
   },
   {
     "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
-    "id" : "ff28fcb2cb6fa9d35a7543324f2be486da862aa0c11a95a28336840460fe4bb1",
-    "time" : -31602300,
+    "id" : "8572ea0ef96e20b2abe68e81f1a94e3c5e95114bf6bd2db2f578743a3d6aedb5",
+    "time" : 761290500,
     "title" : "Code Signing & Reverse Engineering",
     "type" : "talk"
   },
   {
     "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
-    "id" : "5149e676288fec92f581a2987c962ea24141de404160437f014cc30b8b936acf",
-    "time" : -31599600,
+    "id" : "0e1b6e0bb40d5bbd2dbcfad4cf140e4c8cf1da5c7dba6a81007c4a5382be6e1e",
+    "time" : 761293200,
     "title" : "Break",
     "type" : "break"
   },
   {
     "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
-    "id" : "2c5910ef91bcc99665f7f07278316a073bcb0f0fbee64db481a0f12a9c222598",
-    "time" : -31599000,
+    "id" : "48e8f6424c16417a736b71b95b127ca5b4a0bcae2fb9065ccc817ce7ea897a78",
+    "time" : 761293800,
     "title" : "Exploring Image Playground with Apple Intelligence",
     "type" : "talk"
   },
   {
     "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
-    "id" : "33286d40362529acdd42414fe45f4669215c76a579c87b3f1b1be7ad71385ef2",
-    "time" : -31597200,
+    "id" : "821f633899be4a7f557b0d4c6fceea99f24289427a9e709dd0d204858337ca24",
+    "time" : 761295600,
     "title" : "Towards Modular App",
     "type" : "talk"
   },
   {
     "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
-    "id" : "17cdf7f4c832c70c95b6b572efd2c395720456924a2b81a38072a1c85c054fc0",
-    "time" : -31595400,
+    "id" : "300fd3508109993857699889767995601e64731ae623e1781910979b206406d8",
+    "time" : 761297400,
     "title" : "Vocabulary of TCA",
     "type" : "talk"
   },
   {
     "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
-    "id" : "bc621bfb6f3cd48834f61532d955d1e9ea178e3b6024f61669ddd53df0afcbe0",
-    "time" : -31591800,
+    "id" : "da569b79720634ca2c2905cfa7a193e49e4b8a3e0a1db1bf8ffd83bff6a98603",
+    "time" : 761301000,
     "title" : "Networking & Refreshment",
     "type" : "networking"
   },
   {
     "eventID" : "bfc0259ded81a854ef1616246fdad4d9796c91fe67f37f3d3363dc6b4f5567f7",
-    "id" : "a79417f80f1d2dcf139d64aac5f17189330eb9b275a48298be9cdc25299b31e1",
-    "time" : -31607100,
+    "id" : "a153b5d6e1cecb5a3c41f831e93b121f1bfe20cc3478202b20c541ef643a8fda",
+    "time" : 751004100,
     "title" : "Check-in ✅",
     "type" : "registration"
   },
   {
     "eventID" : "bfc0259ded81a854ef1616246fdad4d9796c91fe67f37f3d3363dc6b4f5567f7",
-    "id" : "061da05e304cc762aaf81fbd4fdb8a6ab1787f4e80ceb069b3fa087cf66e467d",
-    "time" : -31606200,
+    "id" : "59ab814c5614d694afc82e2da540f96b5ef12c1d74ec13f1a7d20d95204344d7",
+    "time" : 751005000,
     "title" : "Kick-Off",
     "type" : "talk"
   },
   {
     "eventID" : "bfc0259ded81a854ef1616246fdad4d9796c91fe67f37f3d3363dc6b4f5567f7",
-    "id" : "a9bab2c01dd6231ec33a8575b2622ab39f6f89b2801c557a73ccd3559c766586",
-    "time" : -31605300,
+    "id" : "2147da92c6fd950bdc24424fc1c545027cab086ab6943e033def047a61a8e7d4",
+    "time" : 751005900,
     "title" : "Mesh: A Plug and Play UI Framework",
     "type" : "talk"
   },
   {
     "eventID" : "bfc0259ded81a854ef1616246fdad4d9796c91fe67f37f3d3363dc6b4f5567f7",
-    "id" : "b26930631d17cf64864d8a93e1bd500292155c9845b311f10680049c0ecd01b2",
-    "time" : -31603500,
+    "id" : "62e4f18343ed17913ee98d31515ad2ce38311c0d922e820bc20ea6f0fd51339b",
+    "time" : 751007700,
     "title" : "Modern Concurrency",
     "type" : "talk"
   },
   {
     "eventID" : "bfc0259ded81a854ef1616246fdad4d9796c91fe67f37f3d3363dc6b4f5567f7",
-    "id" : "bf38c6686199fe27484c366a1c0f73f9763e73a64c9efa2f10c15c57ee71ab98",
-    "time" : -31599900,
+    "id" : "8889c33c4e65bd8323b8f80cb1d562d649ca27d075c5cd44d994877f0f54fa8f",
+    "time" : 751011300,
     "title" : "Apple Intelligence",
     "type" : "talk"
   },
   {
     "eventID" : "bfc0259ded81a854ef1616246fdad4d9796c91fe67f37f3d3363dc6b4f5567f7",
-    "id" : "b552318b37817c81e02afcded867f78321c5502c70f6354b1be5f85c30857905",
-    "time" : -31640100,
+    "id" : "de6e95af31f5009246a7e7b6213e22959d0eea55458517f943d9bc0837b973c8",
+    "time" : 750971100,
     "title" : "Networking and Refreshments",
     "type" : "networking"
   },
   {
     "eventID" : "ced45658c1c8351c4cbd886891166060b54aee78cec8478d0e5f44edf47f2dea",
-    "id" : "5158f6038116421fb4f1348555b0ad38ba2b648d183098f8ed5de8a9625c2083",
-    "time" : -31567500,
+    "id" : "ee70587fa89e77aa92935c10ca1efd499bae91df21a85e9620f889ddc5dbe838",
+    "time" : 771174900,
     "title" : "Assemble and Check-in ✅",
     "type" : "registration"
   },
   {
     "eventID" : "ced45658c1c8351c4cbd886891166060b54aee78cec8478d0e5f44edf47f2dea",
-    "id" : "eb247b2f26aa6c088b9518a8966f686a4522ac8be5fc806cf1063242d5d315fe",
-    "time" : -31566600,
+    "id" : "b4db352b92b850ded3e22045b7a6c9855e99f5cd2230765615107a8b0db4cfa8",
+    "time" : 771175800,
     "title" : "Kick Off Event",
     "type" : "talk"
   },
   {
     "eventID" : "ced45658c1c8351c4cbd886891166060b54aee78cec8478d0e5f44edf47f2dea",
-    "id" : "2ee1b92278726662dc4b6c6e620bc40bdf78f7fcb919251388106307c5dbe324",
-    "time" : -31566000,
+    "id" : "6f0cf2538660b55df8d5078d30823ec071cff3cfd47289e3b15794bbd63ba28c",
+    "time" : 771176400,
     "title" : "Talks, Announcements & Updates",
     "type" : "talk"
   },
   {
     "eventID" : "ced45658c1c8351c4cbd886891166060b54aee78cec8478d0e5f44edf47f2dea",
-    "id" : "887c9fa83a710312dc16dae86975aa9bbf8b43488f59ecfc5f1cf7f1b03576ff",
-    "time" : -31561200,
+    "id" : "8af2c776d0b2fa504b095cc99d2ae0fa1a651f4c6ab19c7d49ea54a316ac8349",
+    "time" : 771181200,
     "title" : "WWDC24 Keynote Begins 🍿",
     "type" : "talk"
   },
   {
     "eventID" : "ced45658c1c8351c4cbd886891166060b54aee78cec8478d0e5f44edf47f2dea",
-    "id" : "30b443a47a673dfa968ed7423a00c9bef225a8339d14ad8dbebf8369c0769f10",
-    "time" : -31640400,
+    "id" : "db625e075a9d828988559b49ea561cb19f7413446066c662a337d051e8096dd3",
+    "time" : 771102000,
     "title" : "Closing Notes",
     "type" : "networking"
   },
   {
     "eventID" : "9f28a04fe41e3c7334130f2d57f6b5b575322bffe86b51f2f433f7d4e2d1ecdc",
-    "id" : "288af9ea44b1b6148e187951b31dcd72e88d7f07eba959319524776182a283ac",
-    "time" : -31606200,
+    "id" : "b3c717160f19ed7b28c7b7765ca3d74f0ead64ce5b1ad1681312000f340bea8e",
+    "time" : 774592200,
     "title" : "Unlocking the Power of Xcode 26 + ChatGPT",
     "type" : "talk"
   },
   {
     "eventID" : "9f28a04fe41e3c7334130f2d57f6b5b575322bffe86b51f2f433f7d4e2d1ecdc",
-    "id" : "ae5709523e118296271a0f552ec797b220d6318de7af815bbd1834a67d124bd3",
-    "time" : -31602600,
+    "id" : "d031bff430da1b1e30602819af312c4b14faa4c29593472be471a1d89e6cd90f",
+    "time" : 774595800,
     "title" : "Inde Hub Demos",
     "type" : "talk"
   },
   {
     "eventID" : "9f28a04fe41e3c7334130f2d57f6b5b575322bffe86b51f2f433f7d4e2d1ecdc",
-    "id" : "355283bac678106d5b01550471990eb10ba5f290f8b30dc257ee3015dca487f4",
-    "time" : -31595400,
+    "id" : "e2cd21c61eb02233e2198ee232d79dacbf3f35cdd73582303ef9db6ba6de602f",
+    "time" : 774603000,
     "title" : "Closing Notes",
     "type" : "networking"
   }
