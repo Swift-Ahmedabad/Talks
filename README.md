@@ -1,9 +1,9 @@
 # 9. Dec 13, 2025
  💻 Swift Ahmedabad December'25 MeetUp
 
-## Apple Accessibility & Accessibility Nutrition Labels
+## Accessibility Nutrition Labels for Better iOS Apps
 ### By: **Kushal Panchal**
-Technical Architect | Solution Consultant | Engineering Leader | Driving Scalable Digital Transformation
+Tech Lead at IndiaNIC Infotech Ltd who started with pixels before code. Passionate about building delightful mobile experiences and believes good design and clean code share the same DNA.
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/kushal211/)
 ## Playing with Apple’s Foundation Models 
