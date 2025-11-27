@@ -30,6 +30,12 @@ agenda:
       title: "Closing & Networking"
       type: "networking"
 sponsors:
-    vanue: "Pixster Studio"
-    food: "Pixster Studio"
+    vanue:
+        name: "Pixster Studio"
+        website: "https://www.pixsterstudio.com"
+        image: "pixterStudio.jpeg"
+    food:
+        name: "Pixster Studio"
+        website: "https://www.pixsterstudio.com"
+        image: "pixterStudio.jpeg"
 photoURL: "https://photos.app.goo.gl/gXwCiTRw6iA9sUUN7"

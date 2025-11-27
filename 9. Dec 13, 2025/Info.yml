@@ -1,5 +1,5 @@
 about: "Swift Ahmedabad December'25 MeetUp"
-date: "December 13, 2025"
+date: "November 29, 2025"
 location:
     name: "LJ University"
     map: "https://www.google.com/maps/search/?api=1&query=Architect%20Auditorium%2C%20LJ%20University%20%2C%20Sarkhej%20Campus"
@@ -49,4 +49,7 @@ agenda:
       title: "Networking"
       type: "networking"
 sponsors:
-    vanue: "LJ University"
+    vanue:
+        name: "LJ University"
+        website: "https://ljku.edu.in"
+        image: "ljUniversity.png"

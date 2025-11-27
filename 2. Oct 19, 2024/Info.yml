@@ -34,6 +34,12 @@ agenda:
       title: "Networking and Refreshments"
       type: "networking"
 sponsors:
-    vanue: "Simform"
-    food: "Simform"
+    vanue:
+        name: "Simform"
+        website: "https://www.simform.com"
+        image: "simform.jpeg"
+    food:
+        name: "Simform"
+        website: "https://www.simform.com"
+        image: "simform.jpeg"
 photoURL: "https://photos.app.goo.gl/ouFSJ54TpYuGQ5MBA"

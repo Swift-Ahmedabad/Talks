@@ -28,6 +28,12 @@ agenda:
       title: "Closing Notes"
       type: "networking"
 sponsors:
-    vanue: "7 Span"
-    food: "7 Span"
+    vanue:
+        name: "7 Span"
+        website: "https://7span.com"
+        image: "7Span.png"
+    food:
+        name: "7 Span"
+        website: "https://7span.com"
+        image: "7Span.png"
 photoURL: "https://photos.app.goo.gl/xo5fDZ2wxHYWSsav6"

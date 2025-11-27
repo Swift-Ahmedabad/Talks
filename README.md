@@ -8,12 +8,12 @@ Tech Lead at IndiaNIC Infotech Ltd who started with pixels before code. Passiona
 Follow on: [LinkedIn](https://www.linkedin.com/in/kushal211/)
 ## Playing with Apple’s Foundation Models 
 ### By: **Rushit Rakhasiya**
-Full-Stack Swift Developer | Co-Organizer @ Swift Mumbai | Crafting Apps & Empowering the Dev Community
+Full-Stack Swift Developer | Co-Organizer @ Swift Mumbai | Crafting Apps & Empowering the Dev Community. iOS Engineer who speaks Swift more fluently than English. An over-optimistic believer in clean code, great design, and endless street-food.
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/rushit-r-757aa0167/)
 ## Mastering Instruments & Performance Tuning in Swift
 ### By: **Sneha Dudhat**
-10+ Experienced iOS Team Lead @Bluepixel Technologies LLP | BLE | SwiftUI | Blogger
+10+ Experienced iOS Team Lead @Bluepixel Technologies LLP | BLE | SwiftUI | Blogger. An iOS Architect and Swift enthusiast who believes great apps are crafted, not coded. Swift is my playground — where logic, design, and intuition converge. Over the past 8 years, I’ve built high-performance apps - including IoT-integrated solutions, and I still marvel at the moment when code transforms into an experience.
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/sneha-dudhat-81771862/)
 ## Introduction of Vapor framework

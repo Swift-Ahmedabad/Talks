@@ -46,6 +46,12 @@ agenda:
       title: "Networking and Refreshments"
       type: "networking"
 sponsors:
-    vanue: "Hyperlink InfoSystem"
-    food: "Hyperlink InfoSystem"
+    vanue:
+        name: "Hyperlink InfoSystem"
+        website: "Hyperlink InfoSystem"
+        image: "hyperlink.jpeg"
+    food:
+        name: "Hyperlink InfoSystem"
+        website: "Hyperlink InfoSystem"
+        image: "hyperlink.jpeg"
 photoURL: "https://photos.app.goo.gl/G7TKauVBLaeLJYZa8"
