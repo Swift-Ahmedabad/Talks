@@ -1,5 +1,5 @@
 about: "Swift Ahmedabad December'25 MeetUp"
-date: "December 01, 2025"
+date: "December 02, 2025"
 location:
     name: "LJ University"
     map: "https://www.google.com/maps/search/?api=1&query=Architect%20Auditorium%2C%20LJ%20University%20%2C%20Sarkhej%20Campus"
@@ -13,39 +13,39 @@ agenda:
       title: "Welcome & Registration"
       type: "registration"
       
-    - time: "11:15 AM"
+    - time: "11:05 AM"
       title: "Playing with Apple’s Foundation Models"
       type: "talk"
       speakers:
         - "Rushit Rakhasiya"
         
-    - time: "11:30 AM"
+    - time: "11:10 AM"
       title: "Mastering Instruments & Performance Tuning in Swift"
       type: "talk"
       speakers:
         - "Sneha Dudhat"
         
-    - time: "11:35 AM"
+    - time: "11:15 AM"
       title: "Break"
       type: "break"
         
-    - time: "11:40 AM"
+    - time: "11:20 AM"
       title: "LJ University Showcase"
       type: "sponsorTalk"
       
-    - time: "11:45 AM"
+    - time: "11:25 AM"
       title: "Introduction of Vapor framework"
       type: "talk"
       speakers:
         - "Hardik Modha"
         
-    - time: "11:50 AM"
+    - time: "11:30 AM"
       title: "The Secret Ingredient: Accessibility Nutrition Labels for Better iOS Apps"
       type: "talk"
       speakers:
         - "Kushal Panchal"
         
-    - time: "12:00 PM"
+    - time: "11:40 AM"
       title: "Networking"
       type: "networking"
 sponsors:
