@@ -183,57 +183,57 @@
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "70490334b63e79a5bbe052d51b5d8494661f822009118b316e8584c0d0d61510",
-    "time" : 786519000,
+    "id" : "754a651e11414377cc2827cf1adb107e207b030f25533118bd180316945cc0e6",
+    "time" : 786516600,
     "title" : "Welcome & Registration",
     "type" : "registration"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "61fa9c923ad4fb0a32b01cdfeb1b9ef48e9a0cf7e13ee382f8ffe9c8655fa443",
-    "time" : 786519300,
+    "id" : "924a5ff408bae1277357acdc64737b8d7285233c719afc05eae69f4f11c5d077",
+    "time" : 786516660,
     "title" : "Playing with Apple’s Foundation Models",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "32b4e6718742bcae3b12ae3f4e54ba22c36468ede1e10b33a0a69d26e5c28a60",
-    "time" : 786519600,
+    "id" : "411c937b9e074a267d9b323c46df385ddcda5bcfa3e339c654a0dea62db6b14f",
+    "time" : 786516900,
     "title" : "Mastering Instruments & Performance Tuning in Swift",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "6df27712b1d40ba2fdbc1d9210d2c07758a5276a9f4f0e577544cadff45cd1ff",
-    "time" : 786519900,
+    "id" : "0cb92c9629ce610f138a566eacdcbfa642ec2a2c7b61e321cfe54c7e8174269e",
+    "time" : 786517200,
     "title" : "Break",
     "type" : "break"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "aa74414366e74860f0884b565c57d2bcaf2790e38aade2113b9dcb23a2c7d509",
-    "time" : 786520200,
+    "id" : "be0be685c4ef33e87df498b85381692f426717e7ec1b26a5fbfe280bf67d69e1",
+    "time" : 786517320,
     "title" : "LJ University Showcase",
     "type" : "sponsorTalk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "0ab788a51f21e33b2cdd7362c1b6674e9cb1ce6223c6ed7d04d299274709dcb0",
-    "time" : 786520500,
+    "id" : "3e2d41bde6b94df14cd21c25450fe021b945b04165058cfeb36a37706f7d055d",
+    "time" : 786517440,
     "title" : "Introduction of Vapor framework",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "a237cdc155c99c7becb1583ca2eeb7260145c5df0f325cd44c0778ea26b7b3af",
-    "time" : 786520800,
+    "id" : "3ed7a05f36b3c07b0cdcc467aa72ef91bde31a564bfb16dca03239368c1ea161",
+    "time" : 786517680,
     "title" : "The Secret Ingredient: Accessibility Nutrition Labels for Better iOS Apps",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "19fe36a77e91f5d8e8ceb76def3c3819580dfa68827ae9ddc6bc948079894fe6",
-    "time" : 786521400,
+    "id" : "eef6e2f8b4d30dc9de94d93a521ee014043da7d995650e4512925c7d04a334b2",
+    "time" : 786517800,
     "title" : "Networking",
     "type" : "networking"
   },
