@@ -183,57 +183,57 @@
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "b481b4befe8caf4e9f662b98b61ea818b6e34a127393f5d9c0ee8c1c99fd16c4",
-    "time" : 787052100,
+    "id" : "eb239e6f77921c6d01d48216a38cc819ac102c6b8513ba59d9c13b0831d2aa75",
+    "time" : 787293000,
     "title" : "Welcome & Registration",
     "type" : "registration"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "61f35b238a7e44e2e3f28c5ef3f08987484c2004ee4ae26c7ce9193984c7631e",
-    "time" : 787052160,
-    "title" : "Playing with Apple’s Foundation Models",
+    "id" : "1878d4e9de9eb6ff8f503add2f8ac5070ab8eb4b08741a617a0691e8d86f46c6",
+    "time" : 787293900,
+    "title" : "Debugging Like a Pro - Mastering Instruments & Performance Tuning in Swift",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "b5aefb48eae399ea8e7fbdda97bbb84a92fcedca86338f8b9cfeb482a68b9259",
-    "time" : 787052220,
-    "title" : "Mastering Instruments & Performance Tuning in Swift",
-    "type" : "talk"
-  },
-  {
-    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "15705addec02a53fb5f8000aacb7c074f3e3b6148060c30f69543d80733d08aa",
-    "time" : 787052280,
-    "title" : "Break",
-    "type" : "break"
-  },
-  {
-    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "dd05cf63d4f1a9c18a415df047e8fa7f3130d47b305e18e0d181d95cd424650a",
-    "time" : 787052340,
-    "title" : "LJ University Showcase",
-    "type" : "sponsorTalk"
-  },
-  {
-    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "5b31ebdf5cb0188c33a126fb6574c366f200a313ee985500180e2df8e311d87e",
-    "time" : 787052400,
+    "id" : "0a4c28bed78b964534a25c2f4cea88465eaf4c8f2a3b98ad63bcafd7aaa3e94b",
+    "time" : 787295700,
     "title" : "Introduction of Vapor framework",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "a08255739796f19b9e7559bd8df27b2e815142b3776578584c668896d0e81eec",
-    "time" : 787052460,
+    "id" : "402aff8d3831e57a158f603b7a1038304006fd8dc90941ebd1fa9e4fa29d212e",
+    "time" : 787297500,
+    "title" : "LJ University Showcase",
+    "type" : "sponsorTalk"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "5896d044a6616ad3fae3897325d4a784a7e5d2d1c3dc2982d68424c3c1dbbce2",
+    "time" : 787298400,
+    "title" : "Break",
+    "type" : "break"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "2bc06fb79664a62ce67ab597f66020324230cd5ad17e47dc0506e18d38882e1b",
+    "time" : 787299300,
+    "title" : "Let's Build Smart: Playing with Apple’s Foundation Models",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "96a367abcc34cda61114398bb313841f9a3c845788d4cb9190fb61b3fd85b90f",
+    "time" : 787302900,
     "title" : "The Secret Ingredient: Accessibility Nutrition Labels for Better iOS Apps",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "d5b53478aa029d80f8bc3b69cc786ed3e1ec685fabc97eee30fead99aabd9c4e",
-    "time" : 787052520,
+    "id" : "fe3e688fac857b777d617ce51288de722c1f92513ee9b55672a6526db3a2c95e",
+    "time" : 787305600,
     "title" : "Networking",
     "type" : "networking"
   },

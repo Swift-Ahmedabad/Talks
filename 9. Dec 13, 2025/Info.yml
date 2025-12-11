@@ -12,32 +12,32 @@ agenda:
     - time: "10:00 AM"
       title: "Welcome & Registration"
       type: "registration"
-      
+              
     - time: "10:15 AM"
-      title: "Let's Build Smart: Playing with Apple’s Foundation Models"
-      type: "talk"
-      speakers:
-        - "Rushit Rakhasiya"
-        
-    - time: "11:15 AM"
       title: "Debugging Like a Pro - Mastering Instruments & Performance Tuning in Swift"
       type: "talk"
       speakers:
         - "Sneha Dudhat"
         
-    - time: "11:45 AM"
-      title: "Break"
-      type: "break"
-        
-    - time: "12:00 PM"
-      title: "LJ University Showcase"
-      type: "sponsorTalk"
-      
-    - time: "12:15 PM"
+    - time: "10:45 AM"
       title: "Introduction of Vapor framework"
       type: "talk"
       speakers:
         - "Hardik Modha"
+                
+    - time: "11:15 AM"
+      title: "LJ University Showcase"
+      type: "sponsorTalk"
+      
+    - time: "11:30 AM"
+      title: "Break"
+      type: "break"
+        
+    - time: "11:45 AM"
+      title: "Let's Build Smart: Playing with Apple’s Foundation Models"
+      type: "talk"
+      speakers:
+        - "Rushit Rakhasiya"
         
     - time: "12:45 PM"
       title: "The Secret Ingredient: Accessibility Nutrition Labels for Better iOS Apps"
