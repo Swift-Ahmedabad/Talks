@@ -18,16 +18,16 @@ agenda:
       type: "talk"
       speakers:
         - "Sneha Dudhat"
-        
+                
     - time: "10:45 AM"
+      title: "LJ University Showcase"
+      type: "sponsorTalk"
+      
+    - time: "11:00 AM"
       title: "Introduction of Vapor framework"
       type: "talk"
       speakers:
         - "Hardik Modha"
-                
-    - time: "11:15 AM"
-      title: "LJ University Showcase"
-      type: "sponsorTalk"
       
     - time: "11:30 AM"
       title: "Break"
@@ -48,6 +48,7 @@ agenda:
     - time: "01:30 PM"
       title: "Networking"
       type: "networking"
+
 sponsors:
     vanue:
         name: "LJ University"
