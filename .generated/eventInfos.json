@@ -89,13 +89,13 @@
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
     "id" : "c008d6f659dd7eaf34a5d8c8a450b286916bc7622ab5d6d7504dd3db82a3ca8c",
     "location" : {
-      "address" : "Architect Auditorium, LJ University, Sarkhej Campus, Sarkhej, Ahmedabad, Gujarat 382210",
+      "address" : "Engineering Auditorium, LJ University, Sarkhej Campus, Sarkhej, Ahmedabad, Gujarat 382210",
       "coordinates" : {
-        "latitude" : 22.989644,
-        "longitude" : 72.4877115,
-        "zoom" : 17
+        "latitude" : 22.9902104,
+        "longitude" : 72.4854267,
+        "zoom" : 17.94
       },
-      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Architect%20Auditorium%2C%20LJ%20University%20%2C%20Sarkhej%20Campus",
+      "map" : "https:\/\/www.google.com\/maps\/dir\/\/XFRP%2B4CQ+LJ+Auditorium,+Makarba,+Ahmedabad,+Sarkhej-Okaf,+Gujarat+382210\/@22.9902104,72.4854267,17z\/data=!4m17!1m8!3m7!1s0x395e9aee12276a9f:0x1250df41ab502e6!2sLJ+Auditorium!8m2!3d22.9903265!4d72.4861008!15sCjZFbmdpbmVlcmluZyBBdWRpdG9yaXVtLCBMSiBVbml2ZXJzaXR5ICwgU2Fya2hlaiBDYW1wdXOSAQphdWRpdG9yaXVt4AEA!16s%2Fg%2F11dzwzx823!4m7!1m0!1m5!1m1!1s0x395e9aee12276a9f:0x1250df41ab502e6!2m2!1d72.4861008!2d22.9903265?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
       "name" : "LJ University"
     },
     "sponsors" : {

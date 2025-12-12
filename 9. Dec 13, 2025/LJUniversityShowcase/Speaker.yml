@@ -1,0 +1,13 @@
+- name: Mr. Mosam Pandya
+  socials:
+    linkedIn: https://www.linkedin.com/in/mosampandya
+    portfolio: https://ljku.edu.in/mr-mosam-pandya-132/details
+  about: Ph.D (Pursuing), MBA, M.E, B.E, 21 years of academic experience. Having interest in Python Programming, AIML/ Data Science, Network Analysis, Magnetic Levitation.
+  image: MosamPandya.jpeg
+
+- name: Prof. Tushar Thakar
+  socials:
+    linkedin: https://www.linkedin.com/in/tushar-thakar-03b936101/
+    portfolio: https://ljku.edu.in/prof-tushar-thakar-155/details
+  about: Internship & Placement Coordinator |Head of Mechanical Engineering Department | Software Design Trainer (SolidWorks, Ansys, MATLAB, Python) | Career Mentor & Coach | LJIET - LJ University. 9 years of academic experience.
+  image: TusharThakkar.jpeg

@@ -61,6 +61,11 @@
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "5d3d4056dc678325197ab8f6e5e2be7bc7530eb136435d1ab22740570ed2f7b6",
+    "title" : "LJUniversityShowcase"
+  },
+  {
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
     "id" : "96577049dc2a8cc594d06fc8419a29279be2e3c4ccdd16cff7d2c137493cafa7",
     "title" : "Playing with Apple’s Foundation Models "
   },

@@ -6,6 +6,15 @@
 Tech Lead at IndiaNIC Infotech Ltd who started with pixels before code. Passionate about building delightful mobile experiences and believes good design and clean code share the same DNA.
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/kushal211/)
+## LJUniversityShowcase
+### By: **Mr. Mosam Pandya**
+Ph.D (Pursuing), MBA, M.E, B.E, 21 years of academic experience. Having interest in Python Programming, AIML/ Data Science, Network Analysis, Magnetic Levitation.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/mosampandya), [Portfolio](https://ljku.edu.in/mr-mosam-pandya-132/details)
+### By: **Prof. Tushar Thakar**
+Internship & Placement Coordinator |Head of Mechanical Engineering Department | Software Design Trainer (SolidWorks, Ansys, MATLAB, Python) | Career Mentor & Coach | LJIET - LJ University. 9 years of academic experience.
+
+Follow on: [Portfolio](https://ljku.edu.in/prof-tushar-thakar-155/details)
 ## Playing with Apple’s Foundation Models 
 ### By: **Rushit Rakhasiya**
 Full-Stack Swift Developer | Co-Organizer @ Swift Mumbai | Crafting Apps & Empowering the Dev Community. iOS Engineer who speaks Swift more fluently than English. An over-optimistic believer in clean code, great design, and endless street-food.
