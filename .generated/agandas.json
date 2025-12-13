@@ -211,29 +211,29 @@
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "5896d044a6616ad3fae3897325d4a784a7e5d2d1c3dc2982d68424c3c1dbbce2",
-    "time" : 787298400,
+    "id" : "dc3f18c5cad6de54a397e2f6eb0967fca175b838ea2e5045f0802cadb3db76a6",
+    "time" : 787302600,
     "title" : "Break",
     "type" : "break"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "2bc06fb79664a62ce67ab597f66020324230cd5ad17e47dc0506e18d38882e1b",
-    "time" : 787299300,
+    "id" : "02efe73b91cc6c00fc20a22b9f4fd8aa28363209a78073bcdc8c7bb6f86c44b0",
+    "time" : 787304100,
     "title" : "Let's Build Smart: Playing with Apple’s Foundation Models",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "96a367abcc34cda61114398bb313841f9a3c845788d4cb9190fb61b3fd85b90f",
-    "time" : 787302900,
+    "id" : "87397296037f449c614e97e3c64395b7a9fa1c4fb4b14ebfd72d45158d319d85",
+    "time" : 787307700,
     "title" : "The Secret Ingredient: Accessibility Nutrition Labels for Better iOS Apps",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "fe3e688fac857b777d617ce51288de722c1f92513ee9b55672a6526db3a2c95e",
-    "time" : 787305600,
+    "id" : "68c5223c1fd878f65045b6b1801b4da815951ad8106446ff605a71244cf89719",
+    "time" : 787309500,
     "title" : "Networking",
     "type" : "networking"
   },

@@ -32,23 +32,23 @@ agenda:
       speakers:
         - "Hardik Modha"
       
-    - time: "11:30 AM"
+    - time: "12:40 PM"
       title: "Break"
       type: "break"
         
-    - time: "11:45 AM"
+    - time: "01:05 PM"
       title: "Let's Build Smart: Playing with Apple’s Foundation Models"
       type: "talk"
       speakers:
         - "Rushit Rakhasiya"
         
-    - time: "12:45 PM"
+    - time: "02:05 PM"
       title: "The Secret Ingredient: Accessibility Nutrition Labels for Better iOS Apps"
       type: "talk"
       speakers:
         - "Kushal Panchal"
         
-    - time: "01:30 PM"
+    - time: "02:35 PM"
       title: "Networking"
       type: "networking"
 
