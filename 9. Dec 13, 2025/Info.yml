@@ -13,24 +13,24 @@ agenda:
       title: "Welcome & Registration"
       type: "registration"
               
-    - time: "10:15 AM"
+    - time: "10:30 AM"
       title: "Debugging Like a Pro - Mastering Instruments & Performance Tuning in Swift"
       type: "talk"
       speakers:
         - "Sneha Dudhat"
-                
-    - time: "10:45 AM"
+      
+    - time: "11:15 AM"
+      title: "Introduction of Vapor framework"
+      type: "talk"
+      speakers:
+        - "Hardik Modha"
+        
+    - time: "12:30 AM"
       title: "LJ University Showcase"
       type: "sponsorTalk"
       speakers:
         - "Mr. Mosam Pandya"
         - "Prof. Tushar Thakar"
-      
-    - time: "11:00 AM"
-      title: "Introduction of Vapor framework"
-      type: "talk"
-      speakers:
-        - "Hardik Modha"
       
     - time: "12:40 PM"
       title: "Break"
@@ -57,3 +57,9 @@ sponsors:
         name: "LJ University"
         website: "https://ljku.edu.in"
         image: "ljUniversity.png"
+    food:
+        name: "LJ University"
+        website: "https://ljku.edu.in"
+        image: "ljUniversity.png"
+
+photoURL: "https://photos.app.goo.gl/58ixSq6rJ37XoZoQ7"

@@ -190,24 +190,24 @@
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "1878d4e9de9eb6ff8f503add2f8ac5070ab8eb4b08741a617a0691e8d86f46c6",
-    "time" : 787293900,
+    "id" : "28696203e029e9c82aee04d7e813a229e1ef7c25ebd24e38fabb4e3792e993f2",
+    "time" : 787294800,
     "title" : "Debugging Like a Pro - Mastering Instruments & Performance Tuning in Swift",
     "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "3f28df696d7406ffce2b54eb3067c16aaaf0ff6397843301a80f2a6627899af8",
-    "time" : 787295700,
-    "title" : "LJ University Showcase",
-    "type" : "sponsorTalk"
+    "id" : "c2254b2879ea4df7f08d0da7c6194e7c9e20a8147bb44b89ea722f1c4b03e717",
+    "time" : 787297500,
+    "title" : "Introduction of Vapor framework",
+    "type" : "talk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "f5739a76447e1c5b71ea4b6acc0db1d2aa4112b9b955c2e3a157050825ead3bb",
-    "time" : 787296600,
-    "title" : "Introduction of Vapor framework",
-    "type" : "talk"
+    "id" : "58de444a3a9af0b65e79b7669be057ee3dacc41256608be62a9769b3d7937bd0",
+    "time" : 787258800,
+    "title" : "LJ University Showcase",
+    "type" : "sponsorTalk"
   },
   {
     "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
