@@ -131,6 +131,61 @@
     }
   },
   {
+    "about" : "Tech Lead at IndiaNIC Infotech Ltd who started with pixels before code. Passionate about building delightful mobile experiences and believes good design and clean code share the same DNA.",
+    "id" : "ef4303918ae7619260add48d6177ae21104f43a9ba4765d3588df399587c65f5",
+    "image" : "KushalPanchal.jpg",
+    "name" : "Kushal Panchal",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kushal211\/"
+    }
+  },
+  {
+    "about" : "Ph.D (Pursuing), MBA, M.E, B.E, 21 years of academic experience. Having interest in Python Programming, AIML\/ Data Science, Network Analysis, Magnetic Levitation.",
+    "id" : "3588d063d93824c45206c88d24c5116fdd8461aa2e14621b4daefbdbdcfd6ca4",
+    "image" : "MosamPandya.jpeg",
+    "name" : "Mr. Mosam Pandya",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/mosampandya",
+      "portfolio" : "https:\/\/ljku.edu.in\/mr-mosam-pandya-132\/details"
+    }
+  },
+  {
+    "about" : "Internship & Placement Coordinator |Head of Mechanical Engineering Department | Software Design Trainer (SolidWorks, Ansys, MATLAB, Python) | Career Mentor & Coach | LJIET - LJ University. 9 years of academic experience.",
+    "id" : "4085d893e150311845718663a24590207bf2add1eb43d1de810d780670b6861b",
+    "image" : "TusharThakkar.jpeg",
+    "name" : "Prof. Tushar Thakar",
+    "socials" : {
+      "portfolio" : "https:\/\/ljku.edu.in\/prof-tushar-thakar-155\/details"
+    }
+  },
+  {
+    "about" : "Full-Stack Swift Developer | Co-Organizer @ Swift Mumbai | Crafting Apps & Empowering the Dev Community. iOS Engineer who speaks Swift more fluently than English. An over-optimistic believer in clean code, great design, and endless street-food.",
+    "id" : "ee0ff851819440f83a3bd4d85fa7110e5f325ff045ce21c3678d8d2ed5fa23bb",
+    "image" : "RushitRakhasiya.jpeg",
+    "name" : "Rushit Rakhasiya",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/rushit-r-757aa0167\/"
+    }
+  },
+  {
+    "about" : "10+ Experienced iOS Team Lead @Bluepixel Technologies LLP | BLE | SwiftUI | Blogger. An iOS Architect and Swift enthusiast who believes great apps are crafted, not coded. Swift is my playground — where logic, design, and intuition converge. Over the past 8 years, I’ve built high-performance apps - including IoT-integrated solutions, and I still marvel at the moment when code transforms into an experience.",
+    "id" : "a26ddcb01d333e9aa97bd71245bf80b339d841e2fb0215cea868b797db5e6ffd",
+    "image" : "SnehaDudhat.jpeg",
+    "name" : "Sneha Dudhat",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/sneha-dudhat-81771862\/"
+    }
+  },
+  {
+    "about" : "iOS Developer @ Space O | Model-View-Controller (MVC) | MVVM | SwiftUI | Swift | Git | JIRA | Trello | Swift | Core Data | MVP | The Composable Architecture | Core Location | Sqlite | Flutter | GetX | MapKit",
+    "id" : "6fa59abf1fbdf00b37cd3dc2ccd53eae8fe651e90fddf4aa4b8c2a8b04749dc6",
+    "image" : "HardikModha.jpeg",
+    "name" : "Hardik Modha",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/hardik-modha-95b9ab125\/"
+    }
+  },
+  {
     "about" : "Tech Lead – iOS @ CricHeroes | iOS Architect & Performance Optimizer | Passionate About Tech & Cricket",
     "id" : "3143acc062d4e0ac24af42f353fcf3ce04d29bef3b79f885368f97c32e9b6692",
     "image" : "RahulChandnani.png",

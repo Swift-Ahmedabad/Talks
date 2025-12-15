@@ -1,34 +1,62 @@
 [
   {
-    "food" : "CricHeroes Pvt. Ltd",
-    "vanue" : "CricHeroes Pvt. Ltd"
+    "id" : "c7f1f50db329ea7bd00cf49711f6637dfc75f86fff344b425353319b561e0461",
+    "image" : "cricheros.jpeg",
+    "name" : "CricHeroes Pvt. Ltd",
+    "website" : "https:\/\/cricheroes.com"
   },
   {
-    "food" : "Pixster Studio",
-    "vanue" : "Pixster Studio"
+    "id" : "2ad9c90913109d859ef4b83c91ecc1146a1f01555143a414362e101323870b32",
+    "image" : "pixterStudio.jpeg",
+    "name" : "Pixster Studio",
+    "website" : "https:\/\/www.pixsterstudio.com"
   },
   {
-    "food" : "Hyperlink InfoSystem",
-    "vanue" : "Hyperlink InfoSystem"
+    "id" : "f1ed566271a2e4e328e45e313726b9974745874b354ea1e4d4aa932d85240e04",
+    "image" : "hyperlink.jpeg",
+    "name" : "Hyperlink InfoSystem",
+    "website" : "Hyperlink%20InfoSystem"
   },
   {
-    "food" : "MobileFirst Applications - Fintegration",
-    "vanue" : "MobileFirst Applications - Fintegration"
+    "id" : "9b64c8efc14ed8fa2fe3ad4780457c1cb8d759106c5b106896ede690b8a1e55d",
+    "image" : "mobileFist.jpeg",
+    "name" : "MobileFirst Applications - Fintegration",
+    "website" : "https:\/\/cricheroes.com"
   },
   {
-    "food" : "CricHeros",
-    "vanue" : "CricHeros"
+    "id" : "a9a9ae107fce14a00f6e160ad279bb0ac0344039d4bb00be63de05eb52055806",
+    "image" : "mobileFist.jpeg",
+    "name" : "MobileFirst Applications - Fintegration",
+    "website" : "https:\/\/www.mobilefirst.in"
   },
   {
-    "food" : "Simform",
-    "vanue" : "Simform"
+    "id" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506",
+    "image" : "ljUniversity.png",
+    "name" : "LJ University",
+    "website" : "https:\/\/ljku.edu.in"
   },
   {
-    "food" : "7 Span",
-    "vanue" : "7 Span"
+    "id" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356",
+    "image" : "cricheros.jpeg",
+    "name" : "CricHeros",
+    "website" : "https:\/\/cricheroes.com"
   },
   {
-    "food" : "Tuvoc Technologies Private Limited",
-    "vanue" : "Tuvoc Technologies Private Limited"
+    "id" : "73306608637d3ffd1e0ceca28914add187d6e84a0be4070c89de640966d3a74e",
+    "image" : "simform.jpeg",
+    "name" : "Simform",
+    "website" : "https:\/\/www.simform.com"
+  },
+  {
+    "id" : "19a24e4fbcbab93f08f9e33bb89ae5f8e94fe086a67cf2754c9d4ebfdf0621a2",
+    "image" : "7Span.png",
+    "name" : "7 Span",
+    "website" : "https:\/\/7span.com"
+  },
+  {
+    "id" : "49aa0ef60c568d6509377b5a8f275bf0f8fa1255bf3926a88d827fd1e61ab2b2",
+    "image" : "tuvoc.png",
+    "name" : "Tuvoc Technologies Private Limited",
+    "website" : "https:\/\/www.tuvoc.com"
   }
 ]

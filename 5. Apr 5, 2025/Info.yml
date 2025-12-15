@@ -11,15 +11,31 @@ location:
 agenda:
     - time: "4:00 PM "
       title: "Welcome & Introduction"
+      type: "registration"
     - time: "4:20 PM "
       title: "Physics in AR"
+      type: "talk"
+      speakers:
+        - "Mayur Tanna"
     - time: "5:05 PM "
       title: "Networking & Refreshments"
+      type: "break"
     - time: "5:15 PM "
       title: "Mastering Design Patterns & Solid Principles"
+      type: "talk"
+      speakers:
+        - "Hitesh Trivedi"
+        - "Samir Bagariya"
     - time: "6:00 PM "
       title: "Closing & Networking"
+      type: "networking"
 sponsors:
-    vanue: "Pixster Studio"
-    food: "Pixster Studio"
+    vanue:
+        name: "Pixster Studio"
+        website: "https://www.pixsterstudio.com"
+        image: "pixterStudio.jpeg"
+    food:
+        name: "Pixster Studio"
+        website: "https://www.pixsterstudio.com"
+        image: "pixterStudio.jpeg"
 photoURL: "https://photos.app.goo.gl/gXwCiTRw6iA9sUUN7"

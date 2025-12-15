@@ -1,0 +1,128 @@
+{
+  "source": "/Users/personal/Developer/macOS Projects/tasks/tasks/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Tasks",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete Task",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 253
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 260
+        }
+      },
+      {
+        "comment": "",
+        "key": "Are you sure you want to delete \"%@\"?",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search tasks...",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Tasks",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Results",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Click the + button to add your first task",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 139
+        }
+      },
+      {
+        "comment": "",
+        "key": "Try adjusting your search or filter",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Task (⌘N)",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 211
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search (⌘F)",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 220
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit Task (⌘E)",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 232
+        }
+      }
+    ]
+  },
+  "version": 1
+}

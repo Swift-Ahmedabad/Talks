@@ -16,8 +16,8 @@
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/rcxKMq7YpzvEqqnY7",
     "sponsors" : {
-      "food" : "CricHeroes Pvt. Ltd",
-      "vanue" : "CricHeroes Pvt. Ltd"
+      "foodSponsorID" : "c7f1f50db329ea7bd00cf49711f6637dfc75f86fff344b425353319b561e0461",
+      "vanueSponsorID" : "c7f1f50db329ea7bd00cf49711f6637dfc75f86fff344b425353319b561e0461"
     }
   },
   {
@@ -37,8 +37,8 @@
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/gXwCiTRw6iA9sUUN7",
     "sponsors" : {
-      "food" : "Pixster Studio",
-      "vanue" : "Pixster Studio"
+      "foodSponsorID" : "2ad9c90913109d859ef4b83c91ecc1146a1f01555143a414362e101323870b32",
+      "vanueSponsorID" : "2ad9c90913109d859ef4b83c91ecc1146a1f01555143a414362e101323870b32"
     }
   },
   {
@@ -58,8 +58,8 @@
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/G7TKauVBLaeLJYZa8",
     "sponsors" : {
-      "food" : "Hyperlink InfoSystem",
-      "vanue" : "Hyperlink InfoSystem"
+      "foodSponsorID" : "f1ed566271a2e4e328e45e313726b9974745874b354ea1e4d4aa932d85240e04",
+      "vanueSponsorID" : "f1ed566271a2e4e328e45e313726b9974745874b354ea1e4d4aa932d85240e04"
     }
   },
   {
@@ -79,8 +79,29 @@
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/owW6Ef9U45Aj68Ha9",
     "sponsors" : {
-      "food" : "MobileFirst Applications - Fintegration",
-      "vanue" : "MobileFirst Applications - Fintegration"
+      "foodSponsorID" : "a9a9ae107fce14a00f6e160ad279bb0ac0344039d4bb00be63de05eb52055806",
+      "vanueSponsorID" : "9b64c8efc14ed8fa2fe3ad4780457c1cb8d759106c5b106896ede690b8a1e55d"
+    }
+  },
+  {
+    "about" : "Swift Ahmedabad December'25 MeetUp",
+    "date" : 787257000,
+    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
+    "id" : "c008d6f659dd7eaf34a5d8c8a450b286916bc7622ab5d6d7504dd3db82a3ca8c",
+    "location" : {
+      "address" : "Engineering Auditorium, LJ University, Sarkhej Campus, Sarkhej, Ahmedabad, Gujarat 382210",
+      "coordinates" : {
+        "latitude" : 22.9902104,
+        "longitude" : 72.4854267,
+        "zoom" : 17.94
+      },
+      "map" : "https:\/\/www.google.com\/maps\/dir\/\/XFRP%2B4CQ+LJ+Auditorium,+Makarba,+Ahmedabad,+Sarkhej-Okaf,+Gujarat+382210\/@22.9902104,72.4854267,17z\/data=!4m17!1m8!3m7!1s0x395e9aee12276a9f:0x1250df41ab502e6!2sLJ+Auditorium!8m2!3d22.9903265!4d72.4861008!15sCjZFbmdpbmVlcmluZyBBdWRpdG9yaXVtLCBMSiBVbml2ZXJzaXR5ICwgU2Fya2hlaiBDYW1wdXOSAQphdWRpdG9yaXVt4AEA!16s%2Fg%2F11dzwzx823!4m7!1m0!1m5!1m1!1s0x395e9aee12276a9f:0x1250df41ab502e6!2m2!1d72.4861008!2d22.9903265?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "name" : "LJ University"
+    },
+    "photoURL" : "https:\/\/photos.app.goo.gl\/58ixSq6rJ37XoZoQ7",
+    "sponsors" : {
+      "foodSponsorID" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506",
+      "vanueSponsorID" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506"
     }
   },
   {
@@ -100,8 +121,8 @@
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/iwHj3U2BarViSTCw7",
     "sponsors" : {
-      "food" : "CricHeros",
-      "vanue" : "CricHeros"
+      "foodSponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356",
+      "vanueSponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356"
     }
   },
   {
@@ -121,8 +142,8 @@
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/ouFSJ54TpYuGQ5MBA",
     "sponsors" : {
-      "food" : "Simform",
-      "vanue" : "Simform"
+      "foodSponsorID" : "73306608637d3ffd1e0ceca28914add187d6e84a0be4070c89de640966d3a74e",
+      "vanueSponsorID" : "73306608637d3ffd1e0ceca28914add187d6e84a0be4070c89de640966d3a74e"
     }
   },
   {
@@ -142,8 +163,8 @@
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/xo5fDZ2wxHYWSsav6",
     "sponsors" : {
-      "food" : "7 Span",
-      "vanue" : "7 Span"
+      "foodSponsorID" : "19a24e4fbcbab93f08f9e33bb89ae5f8e94fe086a67cf2754c9d4ebfdf0621a2",
+      "vanueSponsorID" : "19a24e4fbcbab93f08f9e33bb89ae5f8e94fe086a67cf2754c9d4ebfdf0621a2"
     }
   },
   {
@@ -163,8 +184,8 @@
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/cEbiK4BnUFTfiRuq6",
     "sponsors" : {
-      "food" : "Tuvoc Technologies Private Limited",
-      "vanue" : "Tuvoc Technologies Private Limited"
+      "foodSponsorID" : "49aa0ef60c568d6509377b5a8f275bf0f8fa1255bf3926a88d827fd1e61ab2b2",
+      "vanueSponsorID" : "49aa0ef60c568d6509377b5a8f275bf0f8fa1255bf3926a88d827fd1e61ab2b2"
     }
   }
 ]

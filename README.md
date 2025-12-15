@@ -1,3 +1,42 @@
+# 9. Dec 13, 2025
+ 💻 Swift Ahmedabad December'25 MeetUp
+### 📸 [Event Photos](https://photos.app.goo.gl/58ixSq6rJ37XoZoQ7)
+## Accessibility Nutrition Labels for Better iOS Apps
+### By: **Kushal Panchal**
+Tech Lead at IndiaNIC Infotech Ltd who started with pixels before code. Passionate about building delightful mobile experiences and believes good design and clean code share the same DNA.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kushal211/) 
+
+## LJUniversityShowcase
+### By: **Mr. Mosam Pandya**
+Ph.D (Pursuing), MBA, M.E, B.E, 21 years of academic experience. Having interest in Python Programming, AIML/ Data Science, Network Analysis, Magnetic Levitation.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/mosampandya), [Portfolio](https://ljku.edu.in/mr-mosam-pandya-132/details) 
+
+### By: **Prof. Tushar Thakar**
+Internship & Placement Coordinator |Head of Mechanical Engineering Department | Software Design Trainer (SolidWorks, Ansys, MATLAB, Python) | Career Mentor & Coach | LJIET - LJ University. 9 years of academic experience.
+
+Follow on: [Portfolio](https://ljku.edu.in/prof-tushar-thakar-155/details) 
+
+## Playing with Apple’s Foundation Models 
+### By: **Rushit Rakhasiya**
+Full-Stack Swift Developer | Co-Organizer @ Swift Mumbai | Crafting Apps & Empowering the Dev Community. iOS Engineer who speaks Swift more fluently than English. An over-optimistic believer in clean code, great design, and endless street-food.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/rushit-r-757aa0167/) 
+
+## Mastering Instruments & Performance Tuning in Swift
+### By: **Sneha Dudhat**
+10+ Experienced iOS Team Lead @Bluepixel Technologies LLP | BLE | SwiftUI | Blogger. An iOS Architect and Swift enthusiast who believes great apps are crafted, not coded. Swift is my playground — where logic, design, and intuition converge. Over the past 8 years, I’ve built high-performance apps - including IoT-integrated solutions, and I still marvel at the moment when code transforms into an experience.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/sneha-dudhat-81771862/) 
+
+## Introduction of Vapor framework
+### By: **Hardik Modha**
+iOS Developer @ Space O | Model-View-Controller (MVC) | MVVM | SwiftUI | Swift | Git | JIRA | Trello | Swift | Core Data | MVP | The Composable Architecture | Core Location | Sqlite | Flutter | GetX | MapKit
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/hardik-modha-95b9ab125/) 
+
+---
 # 8. Oct 11, 2025
  💻 Swift Ahmedabad October'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/rcxKMq7YpzvEqqnY7)
@@ -5,17 +44,20 @@
 ### By: **Ratnesh Jain**
 Sr. iOS Engineer
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993)
+Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993) 
+
 ## Swift Excellence Enhancing Code Quality
 ### By: **Kanishka C**
 SDE @ Upstox | 2x Apple Scholar | SNHU '25
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_)
+Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 
+
 ## From Lines Of Codes to Lines Of Connections
 ### By: **Rizwan Ahmed**
 Researcher | iOS Engineer | Blogger at ohmyswift.com | Speaker | Proud husband
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/rizwan95/), [Portfolio](https://ohmyswift.com)
+Follow on: [LinkedIn](https://www.linkedin.com/in/rizwan95/), [Portfolio](https://ohmyswift.com) 
+
 ---
 # 7. Jul 19, 2025
  💻 Swift Ahmedabad July'25 MeetUp
@@ -24,7 +66,8 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/rizwan95/), [Portfolio](https:
 ### By: **Prashant Korat**
 IOS Development | Objective C | Swift | Architecture | TDD | BDD
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/prashantpkorat/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/prashantpkorat/) 
+
 ---
 # 6. Jun 9, 2025
  💻 WWDC25 Watch Party Around India
@@ -33,12 +76,14 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/prashantpkorat/)
 ### By: **Ratnesh Jain**
 Sr. iOS Engineer
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993)
+Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993) 
+
 ## Lessons from Launching My First App Linnk
 ### By: **Pratik Gadhesariya**
 👨‍💻 Senior iOS Developer | 📱 Creator of Linnk Stay Connected | 🚀 Dreaming big for 2025 | 💡 Tech, apps, & ideas
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/pratik-gadhesariya-047a14142/), [Portfolio](https://bold.pro/my/pratik-gadhesariya)
+Follow on: [LinkedIn](https://www.linkedin.com/in/pratik-gadhesariya-047a14142/), [Portfolio](https://bold.pro/my/pratik-gadhesariya) 
+
 ---
 # 5. Apr 5, 2025
  💻 Swift Ahmedabad April'25 MeetUp
@@ -47,16 +92,19 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/pratik-gadhesariya-047a14142/)
 ### By: **Mayur Tanna**
 iOS Developer | Freelancer | AR | SwiftUI | Swift | Open for Freelance Opportunities
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/mayur-tanna-ios/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/mayur-tanna-ios/) 
+
 ## Mastering Design patterns and Solid Principles
 ### By: **Hitesh Trivedi**
 Engineering Manager | iOS Architect | Mobile Development Lead | Swift Expert | CI/CD | Mobile | iOS Development
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/trivedihiteshrd/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/trivedihiteshrd/) 
+
 ### By: **Samir Bagariya**
  Sr. Software Engineer (Flutter | Dart | iOS | Swift | SwiftUi)
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/samir-bagariya/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/samir-bagariya/) 
+
 ---
 # 4. Feb 15, 2025
  💻 Swift Ahmedabad February'25 MeetUp
@@ -65,27 +113,32 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/samir-bagariya/)
 ### By: **Rahul (RC) Chandnani**
 Tech Lead – iOS @ CricHeroes | iOS Architect & Performance Optimizer | Passionate About Tech & Cricket
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/rahul-chandnani-825920a0/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/rahul-chandnani-825920a0/) 
+
 ## Towards Modular Apps
 ### By: **Rimesh Jotania**
 iOS Developer | Swift | UIKit | SwiftUI
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/recursiveswift/), [Github](https://github.com/Rimesh), [Portfolio](https://recursiveswift.com)
+Follow on: [LinkedIn](https://www.linkedin.com/in/recursiveswift/), [Github](https://github.com/Rimesh), [Portfolio](https://recursiveswift.com) 
+
 ## Vocabulary of TCA
 ### By: **Ratnesh Jain**
 Sr. iOS Engineer
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993)
+Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993) 
+
 ## Code Signing and Reverse Engineering
 ### By: **Pran Kishor**
 Lead Software Engineer @ EPAM Systems | iOS Developer | Community Speaker | Dev OPS Design enthusiast | AWS Business professional
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/pran-kishore/), [Github](https://github.com/kishorepran), [Portfolio](https://kishorepran.github.io/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/pran-kishore/), [Github](https://github.com/kishorepran), [Portfolio](https://kishorepran.github.io/) 
+
 ## Becoming pro at swift-testing
 ### By: **Saumil Shah**
 Sr. iOS Developer | Helping Startups & Agencies Build AI-Driven, High-Performing Apps That Scale 📈 | 25+ Apps | 50M+ Downloads 🌎 | 12+ Years Experience (iOS, Android, Swift, SwiftUI, Mobile Engineer)
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/adeptdevtips/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/adeptdevtips/) 
+
 ---
 # 3. Dec 21, 2024
  💻 Swift Ahmedabad December'24 MeetUp
@@ -94,26 +147,31 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/adeptdevtips/)
 ### By: **Gaurav Harkhani**
 iOS @ Brainvire | Swift | SwiftUI | UIKIT | MVVM | MVVM-C | Agile | Technical Contributor, Mentor & Writer | Volunteer at Swift Ahmedabad & Agile Network India
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/gaurav-harkhani/), [Portfolio](https://medium.com/@gauravharkhani01)
+Follow on: [LinkedIn](https://www.linkedin.com/in/gaurav-harkhani/), [Portfolio](https://medium.com/@gauravharkhani01) 
+
 ### By: **Riddhi Khunti**
 iOS | React-Native | Flutter | Swift | SwiftUI Developer
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/riddhikhunti-ios/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/riddhikhunti-ios/) 
+
 ## Introduction to SwiftData
 ### By: **Reena Thakker**
 Senior Software Engineer (iOS)
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/reenathakkar77/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/reenathakkar77/) 
+
 ## iOS 18 Control Widgets
 ### By: **Jay Kothadia**
 iOS Developer @ CricHeroes
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/jay-kothadia-04122a1b2/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/jay-kothadia-04122a1b2/) 
+
 ## Becoming an Indie Developer
 ### By: **Mustafa Yusuf**
 Founder | Building Karo & Tasks | Passionate about consumer apps
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/mufasayc/), [Portfolio](https://msquarelabs.com), [Twitter](https://x.com/mufasayc)
+Follow on: [LinkedIn](https://www.linkedin.com/in/mufasayc/), [Portfolio](https://msquarelabs.com), [Twitter](https://x.com/mufasayc) 
+
 ---
 # 2. Oct 19, 2024
  💻 Swift Ahmedabad October'24 MeetUp
@@ -122,17 +180,20 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/mufasayc/), [Portfolio](https:
 ### By: **Gokul Nair**
 Building the Future, One Solution at a Time
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/gokul-r-nair/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/gokul-r-nair/) 
+
 ## Modern Concurrency
 ### By: **Nishchal Visavadiya**
 SDE - II @Simform Solutions | iOS - Swift | Android - Kotlin
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/nishchal-visavadiya/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/nishchal-visavadiya/) 
+
 ## Apple Intelligence
 ### By: **Harshit Daftary**
 Application Development Team Lead at Accenture
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/harshitdaftary/)
+Follow on: [LinkedIn](https://www.linkedin.com/in/harshitdaftary/) 
+
 ---
 # 1. Aug 10, 2024
  💻 Swift Ahmedabad August'24 MeetUp
@@ -141,10 +202,12 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/harshitdaftary/)
 ### By: **Ratnesh Jain**
 Sr. iOS Engineer
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993)
+Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993) 
+
 ## Revolutionizing iOS Development
 ### By: **Darmesh Avaiya**
 Senior Project Manager | Technical PM | Expert in Web, Mobile (Tablet/Wearable), Hardware Integrations (Kiosk, BLE, Beacons) & Cloud Apps | Agile & Scrum | 12+ Yrs in Global Tech Delivery
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/dharmesh-avaiya-google-project-management-certified-1793a244/), [Portfolio](https://sites.google.com/view/dharmeshavaiya)
+Follow on: [LinkedIn](https://www.linkedin.com/in/dharmesh-avaiya-google-project-management-certified-1793a244/), [Portfolio](https://sites.google.com/view/dharmeshavaiya) 
+
 ---

@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasks-primary.dia",
+    "emit-module-dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasks-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasks-primary-emit-module.dia",
+    "pch" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasks-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasks-primary.swiftdeps"
+  },
+  "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/tasks.build/Debug/tasks.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/personal/Developer/macOS Projects/tasks/tasks/ContentView.swift" : {
+    "const-values" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/tasks.build/Debug/tasks.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/personal/Developer/macOS Projects/tasks/tasks/Task.swift" : {
+    "const-values" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/Task.swiftconstvalues",
+    "dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/Task.d",
+    "diagnostics" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/Task.dia",
+    "index-unit-output-path" : "/tasks.build/Debug/tasks.build/Objects-normal/arm64/Task.o",
+    "llvm-bc" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/Task.bc",
+    "object" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/Task.o",
+    "swift-dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/Task.swiftdeps",
+    "swiftmodule" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/Task~partial.swiftmodule"
+  },
+  "/Users/personal/Developer/macOS Projects/tasks/tasks/TaskEditView.swift" : {
+    "const-values" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskEditView.swiftconstvalues",
+    "dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskEditView.d",
+    "diagnostics" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskEditView.dia",
+    "index-unit-output-path" : "/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskEditView.o",
+    "llvm-bc" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskEditView.bc",
+    "object" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskEditView.o",
+    "swift-dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskEditView.swiftdeps",
+    "swiftmodule" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskEditView~partial.swiftmodule"
+  },
+  "/Users/personal/Developer/macOS Projects/tasks/tasks/TaskManager.swift" : {
+    "const-values" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskManager.swiftconstvalues",
+    "dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskManager.d",
+    "diagnostics" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskManager.dia",
+    "index-unit-output-path" : "/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskManager.o",
+    "llvm-bc" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskManager.bc",
+    "object" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskManager.o",
+    "swift-dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskManager.swiftdeps",
+    "swiftmodule" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskManager~partial.swiftmodule"
+  },
+  "/Users/personal/Developer/macOS Projects/tasks/tasks/TaskRowView.swift" : {
+    "const-values" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskRowView.swiftconstvalues",
+    "dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskRowView.d",
+    "diagnostics" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskRowView.dia",
+    "index-unit-output-path" : "/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskRowView.o",
+    "llvm-bc" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskRowView.bc",
+    "object" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskRowView.o",
+    "swift-dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskRowView.swiftdeps",
+    "swiftmodule" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/TaskRowView~partial.swiftmodule"
+  },
+  "/Users/personal/Developer/macOS Projects/tasks/tasks/tasksApp.swift" : {
+    "const-values" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasksApp.swiftconstvalues",
+    "dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasksApp.d",
+    "diagnostics" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasksApp.dia",
+    "index-unit-output-path" : "/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasksApp.o",
+    "llvm-bc" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasksApp.bc",
+    "object" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasksApp.o",
+    "swift-dependencies" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasksApp.swiftdeps",
+    "swiftmodule" : "/Users/personal/Developer/macOS Projects/tasks/DerivedData/Build/Intermediates.noindex/tasks.build/Debug/tasks.build/Objects-normal/arm64/tasksApp~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,65 @@
+about: "Swift Ahmedabad December'25 MeetUp"
+date: "December 13, 2025"
+location:
+    name: "LJ University"
+    map: "https://www.google.com/maps/dir//XFRP%2B4CQ+LJ+Auditorium,+Makarba,+Ahmedabad,+Sarkhej-Okaf,+Gujarat+382210/@22.9902104,72.4854267,17z/data=!4m17!1m8!3m7!1s0x395e9aee12276a9f:0x1250df41ab502e6!2sLJ+Auditorium!8m2!3d22.9903265!4d72.4861008!15sCjZFbmdpbmVlcmluZyBBdWRpdG9yaXVtLCBMSiBVbml2ZXJzaXR5ICwgU2Fya2hlaiBDYW1wdXOSAQphdWRpdG9yaXVt4AEA!16s%2Fg%2F11dzwzx823!4m7!1m0!1m5!1m1!1s0x395e9aee12276a9f:0x1250df41ab502e6!2m2!1d72.4861008!2d22.9903265?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D"
+    address: "Engineering Auditorium, LJ University, Sarkhej Campus, Sarkhej, Ahmedabad, Gujarat 382210"
+    coordinates:
+        latitude: 22.9902104
+        longitude: 72.4854267
+        zoom: 17.94
+agenda:
+    - time: "10:00 AM"
+      title: "Welcome & Registration"
+      type: "registration"
+              
+    - time: "10:30 AM"
+      title: "Debugging Like a Pro - Mastering Instruments & Performance Tuning in Swift"
+      type: "talk"
+      speakers:
+        - "Sneha Dudhat"
+      
+    - time: "11:15 AM"
+      title: "Introduction of Vapor framework"
+      type: "talk"
+      speakers:
+        - "Hardik Modha"
+        
+    - time: "12:30 AM"
+      title: "LJ University Showcase"
+      type: "sponsorTalk"
+      speakers:
+        - "Mr. Mosam Pandya"
+        - "Prof. Tushar Thakar"
+      
+    - time: "12:40 PM"
+      title: "Break"
+      type: "break"
+        
+    - time: "01:05 PM"
+      title: "Let's Build Smart: Playing with Apple’s Foundation Models"
+      type: "talk"
+      speakers:
+        - "Rushit Rakhasiya"
+        
+    - time: "02:05 PM"
+      title: "The Secret Ingredient: Accessibility Nutrition Labels for Better iOS Apps"
+      type: "talk"
+      speakers:
+        - "Kushal Panchal"
+        
+    - time: "02:35 PM"
+      title: "Networking"
+      type: "networking"
+
+sponsors:
+    vanue:
+        name: "LJ University"
+        website: "https://ljku.edu.in"
+        image: "ljUniversity.png"
+    food:
+        name: "LJ University"
+        website: "https://ljku.edu.in"
+        image: "ljUniversity.png"
+
+photoURL: "https://photos.app.goo.gl/58ixSq6rJ37XoZoQ7"

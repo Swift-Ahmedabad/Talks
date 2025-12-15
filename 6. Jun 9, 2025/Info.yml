@@ -11,15 +11,29 @@ location:
 agenda:
     - time: "8:45 PM "
       title: "Assemble and Check-in ✅"
+      type: "registration"
     - time: "9:00 PM "
       title: "Kick Off Event"
+      type: "talk"
     - time: "9:10 PM "
       title: "Talks, Announcements & Updates"
+      type: "talk"
+      speakers:
+        - "Pratik Gadhesariya"
+        - "Ratnesh Jain"
     - time: "10:30 PM "
       title: "WWDC24 Keynote Begins 🍿"
+      type: "talk"
     - time: "12:30 AM "
       title: "Closing Notes"
+      type: "networking"
 sponsors:
-    vanue: "7 Span"
-    food: "7 Span"
+    vanue:
+        name: "7 Span"
+        website: "https://7span.com"
+        image: "7Span.png"
+    food:
+        name: "7 Span"
+        website: "https://7span.com"
+        image: "7Span.png"
 photoURL: "https://photos.app.goo.gl/xo5fDZ2wxHYWSsav6"

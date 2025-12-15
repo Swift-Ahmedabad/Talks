@@ -11,13 +11,27 @@ location:
 agenda:
     - time: "10:00 AM "
       title: "Arrival and Registration"
+      type: "registration"
     - time: "10:15 AM "
       title: "Let's Scroll By Ratnesh Jain"
+      type: "talk"
+      speakers:
+        - "Ratnesh Jain"
     - time: "11:15 AM "
       title: "Navigating the evolution of iOS Development by Dharmesh Avaiya"
+      type: "talk"
+      speakers:
+        - "Darmesh Avaiya"
     - time: "11:55 AM "
       title: "Closing"
+      type: "networking"
 sponsors:
-    vanue: "MobileFirst Applications - Fintegration"
-    food: "MobileFirst Applications - Fintegration"
+    vanue:
+        name: "MobileFirst Applications - Fintegration"
+        website: "https://cricheroes.com"
+        image: "mobileFist.jpeg"
+    food:
+        name: "MobileFirst Applications - Fintegration"
+        website: "https://www.mobilefirst.in"
+        image: "mobileFist.jpeg"
 photoURL: "https://photos.app.goo.gl/owW6Ef9U45Aj68Ha9"
