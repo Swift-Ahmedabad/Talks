@@ -1,0 +1,32 @@
+[
+  {
+    "id" : "3b806bee1754b7a2896a721ed9bc4f4ed6141b6eac46af244a7a0063c3b2c898",
+    "title" : "The.Swift.Dev.",
+    "url" : "https:\/\/theswiftdev.com\/rss.xml"
+  },
+  {
+    "id" : "83bb8ed52101a4a8bc1d5ac32b22b15d02854b25055a18da5a7fc6cf6736cdb7",
+    "title" : "OhMySwift",
+    "url" : "https:\/\/ohmyswift.com\/blog\/feed.xml"
+  },
+  {
+    "id" : "8c197ae58a41dabab034b5ea824cfa52dd32f6d9006991a9cdc7495b35f533a9",
+    "title" : "Swift Tool Kit",
+    "url" : "https:\/\/www.swifttoolkit.dev\/feed.rss"
+  },
+  {
+    "id" : "239b825c3695d287b90cab70480be53e73c8e3e07c39791cca5f846119b5b964",
+    "title" : "Fatbobman",
+    "url" : "https:\/\/fatbobman.com\/rss.xml"
+  },
+  {
+    "id" : "7ab97785e50a3b3695ec89f02e54ef8f787a2645657c8d2329125d91c5b1d271",
+    "title" : "Swiftology",
+    "url" : "https:\/\/swiftology.io\/feed.rss"
+  },
+  {
+    "id" : "f6595bbf96f200234a8768ef406646fe8b353b36e471ee8858063f0c880cf57e",
+    "title" : "Not Only Swift",
+    "url" : "https:\/\/not-only-swift.peterfriese.dev\/issues.rss"
+  }
+]
