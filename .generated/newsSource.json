@@ -28,5 +28,40 @@
     "id" : "f6595bbf96f200234a8768ef406646fe8b353b36e471ee8858063f0c880cf57e",
     "title" : "Not Only Swift",
     "url" : "https:\/\/not-only-swift.peterfriese.dev\/issues.rss"
+  },
+  {
+    "id" : "ab3bff8a8459c906f51cf2f2c0a5ab2f913ee19020113222e3fcf80d071a9146",
+    "title" : "Rambo.codes",
+    "url" : "https:\/\/rambo.codes\/feed.rss"
+  },
+  {
+    "id" : "903e584218ea62b0b7c3cef69fcf25bb20df140f7c07499ae8c08ea55207c8c7",
+    "title" : "Furbo",
+    "url" : "https:\/\/furbo.org\/feed\/json"
+  },
+  {
+    "id" : "c7c1d6ba992688e1dc9000a3c0b4e0b84db643cda511947e8c88a38914a221a7",
+    "title" : "UseYourLoaf",
+    "url" : "https:\/\/useyourloaf.com\/blog\/rss.xml"
+  },
+  {
+    "id" : "217a5228cdea5fd25437effe33b02fadeea1aade7494613b4c1baf0767dc7c80",
+    "title" : "SwiftjectiveC",
+    "url" : "https:\/\/www.swiftjectivec.com\/feed.xml"
+  },
+  {
+    "id" : "516453983d3073e5b62cb06640221e4cb41d339deb1c40c4f88e19f562188977",
+    "title" : "Michael Tsai",
+    "url" : "https:\/\/mjtsai.com\/blog\/feed\/"
+  },
+  {
+    "id" : "0ce24bd2a84f333f12aa138b3394d9bdedab0ab311596280d05a981d770c1b40",
+    "title" : "Swift.org",
+    "url" : "https:\/\/www.swift.org\/atom.xml"
+  },
+  {
+    "id" : "1e575b9a7ef1004ae9aa6f24f9d96fe63ed9304a381d634c4d8072e5c15caab6",
+    "title" : "Create With Swift",
+    "url" : "https:\/\/www.createwithswift.com\/rss\/"
   }
 ]

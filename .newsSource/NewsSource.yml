@@ -15,3 +15,24 @@
 
 - title: "Not Only Swift"
   url: "https://not-only-swift.peterfriese.dev/issues.rss"
+
+- title: "Rambo.codes"
+  url: "https://rambo.codes/feed.rss"
+  
+- title: "Furbo"
+  url: "https://furbo.org/feed/json"
+
+- title: "UseYourLoaf"
+  url: "https://useyourloaf.com/blog/rss.xml"
+
+- title: "SwiftjectiveC"
+  url: "https://www.swiftjectivec.com/feed.xml"
+
+- title: "Michael Tsai"
+  url: "https://mjtsai.com/blog/feed/"
+
+- title: "Swift.org"
+  url: "https://www.swift.org/atom.xml"
+
+- title: "Create With Swift"
+  url: "https://www.createwithswift.com/rss/"
