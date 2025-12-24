@@ -42,3 +42,12 @@
 
 - title: "SwiftLee"
   url: "https://www.avanderlee.com/feed/"
+
+- title: "Apple Developer News"
+  url: "http://developer.apple.com/news/rss/news.rss"
+
+- title: "iOSDevWeekly"
+  url: "https://iosdevweekly.com/issues.rss"
+
+- title: "Donny Wals"
+  url: "https://www.donnywals.com/feed/"

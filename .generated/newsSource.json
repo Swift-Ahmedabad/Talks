@@ -73,5 +73,20 @@
     "id" : "84921fd24cebcc99a40e72306a41d548ff76cba66a62d622548a242a9f4587ec",
     "title" : "SwiftLee",
     "url" : "https:\/\/www.avanderlee.com\/feed\/"
+  },
+  {
+    "id" : "00244ed4e4dc292f4ad09158c7ad866af152ed571ccbce2e25f6e3667b1300b4",
+    "title" : "Apple Developer News",
+    "url" : "http:\/\/developer.apple.com\/news\/rss\/news.rss"
+  },
+  {
+    "id" : "cc46bf5caa8fe7573a4e3f14f2ddd59fc976d7196396257dab10f7ce8324c597",
+    "title" : "iOSDevWeekly",
+    "url" : "https:\/\/iosdevweekly.com\/issues.rss"
+  },
+  {
+    "id" : "9bb731dfa0af49d6f4398ee44ba1c1d9c73f91ba64f438ce7930f7843e1a10eb",
+    "title" : "Donny Wals",
+    "url" : "https:\/\/www.donnywals.com\/feed\/"
   }
 ]
