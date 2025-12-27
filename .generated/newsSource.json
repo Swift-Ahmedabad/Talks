@@ -88,5 +88,15 @@
     "id" : "9bb731dfa0af49d6f4398ee44ba1c1d9c73f91ba64f438ce7930f7843e1a10eb",
     "title" : "Donny Wals",
     "url" : "https:\/\/www.donnywals.com\/feed\/"
+  },
+  {
+    "id" : "d91fb79ebefc7f5b551a343166034a540665ea21c7cd61406174dc06e2cfa45b",
+    "title" : "Patrick McConnell",
+    "url" : "https:\/\/pmcconnell.micro.blog\/feed.xml"
+  },
+  {
+    "id" : "b9ab0132bfb9e2911c15873d32c8b5ecb6cbf430dd44fa03d27ce833d97faccf",
+    "title" : "Pointfree",
+    "url" : "https:\/\/hachyderm.io\/@pointfreeco.rss"
   }
 ]
