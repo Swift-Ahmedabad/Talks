@@ -1,0 +1,30 @@
+[
+  {
+    "eventStats" : {
+      "averageParticipants" : 47,
+      "topicsCovered" : 9,
+      "totalEvents" : 4,
+      "totalParticipants" : 188,
+      "totalSpeakers" : 10,
+      "totalSponsors" : 3,
+      "totalVenues" : 3
+    },
+    "id" : "0cdf61b8efe97ecd872ab84c3736a668da32d335fce2fe690be8a5b516e8b249",
+    "org" : "Swift Ahmedabad",
+    "year" : 2024
+  },
+  {
+    "eventStats" : {
+      "averageParticipants" : 49,
+      "topicsCovered" : 17,
+      "totalEvents" : 6,
+      "totalParticipants" : 295,
+      "totalSpeakers" : 16,
+      "totalSponsors" : 6,
+      "totalVenues" : 6
+    },
+    "id" : "e9c74681b3fc0403484b4af20575115a41735271e271589a2c6321607eae6f55",
+    "org" : "Swift Ahmedabad",
+    "year" : 2025
+  }
+]
