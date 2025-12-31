@@ -9,3 +9,11 @@ eventStats:
     topicsCovered: 17
     totalVenues: 6
     totalSponsors: 6
+
+photos:
+    - feb2025
+    - apr2025
+    - jun2025
+    - jul2025
+    - oct2025
+    - dec2025
