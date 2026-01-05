@@ -98,5 +98,10 @@
     "id" : "b9ab0132bfb9e2911c15873d32c8b5ecb6cbf430dd44fa03d27ce833d97faccf",
     "title" : "Pointfree",
     "url" : "https:\/\/hachyderm.io\/@pointfreeco.rss"
+  },
+  {
+    "id" : "f47e789c01ea9ee5c46a2145aef345b01d7ee07c48dfbe35856a8136360ef8d1",
+    "title" : "Matt Massicotte",
+    "url" : "https:\/\/www.massicotte.org\/atom.xml"
   }
 ]
