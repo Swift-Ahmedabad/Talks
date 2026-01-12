@@ -103,5 +103,10 @@
     "id" : "f47e789c01ea9ee5c46a2145aef345b01d7ee07c48dfbe35856a8136360ef8d1",
     "title" : "Matt Massicotte",
     "url" : "https:\/\/www.massicotte.org\/atom.xml"
+  },
+  {
+    "id" : "9f2ce5e27ae0494a50c71aa185f828fb6b5712db4178f954b40203edbc50a387",
+    "title" : "Cocoa With Love",
+    "url" : "https:\/\/cocoawithlove.com\/feed.xml"
   }
 ]

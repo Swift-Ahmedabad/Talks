@@ -1,7 +1,6 @@
 {
   "description" : "A welcoming space where everyone who is interested in Swift or Apple Ecosystem can connect and grow together.",
-  "name" : "Swift Ahmedabad",
-  "organizers" : [
+  "members" : [
     {
       "about" : "Software Engineer (iOS) | Women Techmakers Ambassador | Tech Evangelist",
       "name" : "Devanshi Modha",
@@ -29,18 +28,7 @@
       "socials" : {
         "linkedIn" : "https:\/\/www.linkedin.com\/in\/ratnesh-jain-7a2270146\/"
       }
-    }
-  ],
-  "socialMedias" : {
-    "arattai" : "https:\/\/web.arattai.in\/@swift_ahmedabad",
-    "discord" : "https:\/\/discord.com\/invite\/pswxUQxEny",
-    "instagram" : "https:\/\/www.instagram.com\/swift.ahmedabad\/",
-    "linkedIn" : "https:\/\/www.linkedin.com\/company\/103221799\/admin\/dashboard\/",
-    "luma" : "https:\/\/luma.com\/user\/swiftahmedabad",
-    "twitter" : "https:\/\/x.com\/swift_ahmedabad",
-    "whatsApp" : "https:\/\/chat.whatsapp.com\/FlZuWzMf8ak8C8yAmfRRVf"
-  },
-  "volunteers" : [
+    },
     {
       "about" : "Software Engineer | iOS Developer",
       "name" : "Riya Kheskwani",
@@ -153,5 +141,15 @@
         "linkedIn" : "https:\/\/www.linkedin.com\/in\/sneha-dudhat-81771862\/"
       }
     }
-  ]
+  ],
+  "name" : "Swift Ahmedabad",
+  "socialMedias" : {
+    "arattai" : "https:\/\/web.arattai.in\/@swift_ahmedabad",
+    "discord" : "https:\/\/discord.com\/invite\/pswxUQxEny",
+    "instagram" : "https:\/\/www.instagram.com\/swift.ahmedabad\/",
+    "linkedIn" : "https:\/\/www.linkedin.com\/company\/103221799\/admin\/dashboard\/",
+    "luma" : "https:\/\/luma.com\/user\/swiftahmedabad",
+    "twitter" : "https:\/\/x.com\/swift_ahmedabad",
+    "whatsApp" : "https:\/\/chat.whatsapp.com\/FlZuWzMf8ak8C8yAmfRRVf"
+  }
 }

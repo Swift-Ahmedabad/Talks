@@ -1,23 +1,26 @@
 name: "Swift Ahmedabad"
 description: "A welcoming space where everyone who is interested in Swift or Apple Ecosystem can connect and grow together."
-organizers:
+members:
     - name: "Devanshi Modha"
       about: "Software Engineer (iOS) | Women Techmakers Ambassador | Tech Evangelist"
       socials:
         linkedIn: "https://www.linkedin.com/in/devanshimodha/"
+        
     - name: "Bhavin Vaghela"
       about: "Sr iOS DEVELOPER & Assistant project manager at Hyperlink Infosystem"
       socials:
         linkedIn: "https://www.linkedin.com/in/bhavin-vaghela/"
+        
     - name: "Kajal Seth"
       about: "Software Engineer"
       socials:
         linkedIn: "https://www.linkedin.com/in/kajal-sheth/"
+        
     - name: "Ratnesh Jain"
       about: "Sr. iOS Engineer"
       socials:
         linkedIn: "https://www.linkedin.com/in/ratnesh-jain-7a2270146/"
-volunteers:
+        
     - name: "Riya Kheskwani"
       about: "Software Engineer | iOS Developer"
       socials:
