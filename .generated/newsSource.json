@@ -108,5 +108,25 @@
     "id" : "9f2ce5e27ae0494a50c71aa185f828fb6b5712db4178f954b40203edbc50a387",
     "title" : "Cocoa With Love",
     "url" : "https:\/\/cocoawithlove.com\/feed.xml"
+  },
+  {
+    "id" : "5c9b211e231bee571be7b31669ebd648bcaad292c7fe3e994eb49e408c79c811",
+    "title" : "Swift Evolution",
+    "url" : "https:\/\/forums.swift.org\/c\/evolution\/18.rss"
+  },
+  {
+    "id" : "e8c054adba28c4fe1c5cb3b3101833881420b3fdfe7ff34a24422c110a6cb4e1",
+    "title" : "Swift On Server",
+    "url" : "https:\/\/forums.swift.org\/c\/server\/43.rss"
+  },
+  {
+    "id" : "0ff972b5c57497abe06a509717a8cbacc540278a12ad6a0515b352322c26766b",
+    "title" : "Swift Community showcase",
+    "url" : "https:\/\/forums.swift.org\/c\/community-showcase\/66.rss"
+  },
+  {
+    "id" : "97ff1db2c7c1f6e212c13cea5ddfd4b3aef62a3cd6cf9ed255e4ed5539236b05",
+    "title" : "Swift General Announcements",
+    "url" : "https:\/\/forums.swift.org\/c\/general-announce\/24.rss"
   }
 ]

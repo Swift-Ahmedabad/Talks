@@ -63,3 +63,15 @@
 
 - title: "Cocoa With Love"
   url: "https://cocoawithlove.com/feed.xml"
+
+- title: "Swift Evolution"
+  url: "https://forums.swift.org/c/evolution/18.rss"
+  
+- title: "Swift On Server"
+  url: "https://forums.swift.org/c/server/43.rss"
+  
+- title: "Swift Community showcase"
+  url: "https://forums.swift.org/c/community-showcase/66.rss"
+  
+- title: "Swift General Announcements"
+  url: "https://forums.swift.org/c/general-announce/24.rss"
