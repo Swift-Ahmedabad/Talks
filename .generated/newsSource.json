@@ -128,5 +128,10 @@
     "id" : "97ff1db2c7c1f6e212c13cea5ddfd4b3aef62a3cd6cf9ed255e4ed5539236b05",
     "title" : "Swift General Announcements",
     "url" : "https:\/\/forums.swift.org\/c\/general-announce\/24.rss"
+  },
+  {
+    "id" : "ef9e99b5de467aefff80667d2303cc7f55c8219c90fe96eb27a20b158eeaed23",
+    "title" : "Skip Tools",
+    "url" : "https:\/\/skip.dev\/blog\/rss.xml"
   }
 ]
