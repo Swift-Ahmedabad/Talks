@@ -148,5 +148,10 @@
     "id" : "c207ad8dbff41f913bd3785301bafbdcf1cce64a5b85ea3f5cbd2f721aa013e2",
     "title" : "Vidit Bhargava",
     "url" : "https:\/\/blog.viditb.com\/rss\/"
+  },
+  {
+    "id" : "105d4f6b3d1dd29d7a650643fe34391d72df6ddc83d2fb4695ac0dbe9649b374",
+    "title" : "Nil-Coalescing",
+    "url" : "https:\/\/nilcoalescing.com\/feed.rss"
   }
 ]
