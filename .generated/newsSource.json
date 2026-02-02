@@ -158,5 +158,10 @@
     "id" : "b8350cae1f3bd78d936e1ce917860a6d032ebd4e3069ae10bb2d05df25a35db5",
     "title" : "Bryce Bostwick",
     "url" : "https:\/\/bryce.co\/index.xml"
+  },
+  {
+    "id" : "db6db2c2b530bece727416e08a2bea2d730bcd9c41d84827dfdf7c12f0422819",
+    "title" : "NS Screencast",
+    "url" : "https:\/\/nsscreencast.com\/feed"
   }
 ]
