@@ -153,5 +153,10 @@
     "id" : "105d4f6b3d1dd29d7a650643fe34391d72df6ddc83d2fb4695ac0dbe9649b374",
     "title" : "Nil-Coalescing",
     "url" : "https:\/\/nilcoalescing.com\/feed.rss"
+  },
+  {
+    "id" : "b8350cae1f3bd78d936e1ce917860a6d032ebd4e3069ae10bb2d05df25a35db5",
+    "title" : "Bryce Bostwick",
+    "url" : "https:\/\/bryce.co\/index.xml"
   }
 ]
