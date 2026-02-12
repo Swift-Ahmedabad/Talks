@@ -163,5 +163,10 @@
     "id" : "db6db2c2b530bece727416e08a2bea2d730bcd9c41d84827dfdf7c12f0422819",
     "title" : "NS Screencast",
     "url" : "https:\/\/nsscreencast.com\/feed"
+  },
+  {
+    "id" : "45d64dc5f6a2ce936c92b946beccf55b4c5e7f6d83780feadc9c5b69f055caa9",
+    "title" : "DimsumThinking by Daniel Steinberg",
+    "url" : "https:\/\/dimsumthinking.com\/rss.xml"
   }
 ]
