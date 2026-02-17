@@ -1,0 +1,101 @@
+- title: "The.Swift.Dev."
+  url: "https://theswiftdev.com/rss.xml"
+  
+- title: "OhMySwift"
+  url: "https://ohmyswift.com/blog/feed.xml"
+  
+- title: "Swift Tool Kit"
+  url: "https://www.swifttoolkit.dev/feed.rss"
+
+- title: "Fatbobman"
+  url: "https://fatbobman.com/rss.xml"
+
+- title: "Swiftology"
+  url: "https://swiftology.io/feed.rss"
+
+- title: "Not Only Swift"
+  url: "https://not-only-swift.peterfriese.dev/issues.rss"
+
+- title: "Rambo.codes"
+  url: "https://rambo.codes/feed.rss"
+  
+- title: "Furbo"
+  url: "https://furbo.org/feed/json"
+
+- title: "UseYourLoaf"
+  url: "https://useyourloaf.com/blog/rss.xml"
+
+- title: "SwiftjectiveC"
+  url: "https://www.swiftjectivec.com/feed.xml"
+
+- title: "Michael Tsai"
+  url: "https://mjtsai.com/blog/feed/"
+
+- title: "Swift.org"
+  url: "https://www.swift.org/atom.xml"
+
+- title: "Create With Swift"
+  url: "https://www.createwithswift.com/rss/"
+
+- title: "Jacob’s Tech Tavern"
+  url: "https://blog.jacobstechtavern.com/feed"
+
+- title: "SwiftLee"
+  url: "https://www.avanderlee.com/feed/"
+
+- title: "Apple Developer News"
+  url: "http://developer.apple.com/news/rss/news.rss"
+
+- title: "iOSDevWeekly"
+  url: "https://iosdevweekly.com/issues.rss"
+
+- title: "Donny Wals"
+  url: "https://www.donnywals.com/feed/"
+
+- title: "Patrick McConnell"
+  url: "https://pmcconnell.micro.blog/feed.xml"
+
+- title: "Pointfree"
+  url: "https://hachyderm.io/@pointfreeco.rss"
+
+- title: "Matt Massicotte"
+  url: "https://www.massicotte.org/atom.xml"
+
+- title: "Cocoa With Love"
+  url: "https://cocoawithlove.com/feed.xml"
+
+- title: "Swift Evolution"
+  url: "https://forums.swift.org/c/evolution/18.rss"
+  
+- title: "Swift On Server"
+  url: "https://forums.swift.org/c/server/43.rss"
+  
+- title: "Swift Community showcase"
+  url: "https://forums.swift.org/c/community-showcase/66.rss"
+  
+- title: "Swift General Announcements"
+  url: "https://forums.swift.org/c/general-announce/24.rss"
+
+- title: "Skip Tools"
+  url: "https://skip.dev/blog/rss.xml"
+
+- title: "Artem Novichkov"
+  url: "https://artemnovichkov.com/feed.xml"
+
+- title: "Jorge Calderita"
+  url: "https://jcalderita.com/en/rss.xml"
+
+- title: "Vidit Bhargava"
+  url: "https://blog.viditb.com/rss/"
+
+- title: "Nil-Coalescing"
+  url: "https://nilcoalescing.com/feed.rss"
+
+- title: "Bryce Bostwick"
+  url: "https://bryce.co/index.xml"
+
+- title: "NS Screencast"
+  url: "https://nsscreencast.com/feed"
+
+- title: "DimsumThinking by Daniel Steinberg"
+  url: "https://dimsumthinking.com/rss.xml"

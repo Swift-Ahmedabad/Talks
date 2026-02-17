@@ -1,0 +1,19 @@
+year: 2025
+org: Swift Ahmedabad
+
+eventStats:
+    totalEvents: 6
+    totalParticipants: 295
+    averageParticipants: 49
+    totalSpeakers: 16
+    topicsCovered: 17
+    totalVenues: 6
+    totalSponsors: 6
+
+photos:
+    - feb2025.jpg
+    - apr2025.jpg
+    - jun2025.jpg
+    - jul2025.jpg
+    - oct2025.jpg
+    - dec2025.jpg

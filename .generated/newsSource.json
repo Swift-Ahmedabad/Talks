@@ -1,0 +1,172 @@
+[
+  {
+    "id" : "3b806bee1754b7a2896a721ed9bc4f4ed6141b6eac46af244a7a0063c3b2c898",
+    "title" : "The.Swift.Dev.",
+    "url" : "https:\/\/theswiftdev.com\/rss.xml"
+  },
+  {
+    "id" : "83bb8ed52101a4a8bc1d5ac32b22b15d02854b25055a18da5a7fc6cf6736cdb7",
+    "title" : "OhMySwift",
+    "url" : "https:\/\/ohmyswift.com\/blog\/feed.xml"
+  },
+  {
+    "id" : "8c197ae58a41dabab034b5ea824cfa52dd32f6d9006991a9cdc7495b35f533a9",
+    "title" : "Swift Tool Kit",
+    "url" : "https:\/\/www.swifttoolkit.dev\/feed.rss"
+  },
+  {
+    "id" : "239b825c3695d287b90cab70480be53e73c8e3e07c39791cca5f846119b5b964",
+    "title" : "Fatbobman",
+    "url" : "https:\/\/fatbobman.com\/rss.xml"
+  },
+  {
+    "id" : "7ab97785e50a3b3695ec89f02e54ef8f787a2645657c8d2329125d91c5b1d271",
+    "title" : "Swiftology",
+    "url" : "https:\/\/swiftology.io\/feed.rss"
+  },
+  {
+    "id" : "f6595bbf96f200234a8768ef406646fe8b353b36e471ee8858063f0c880cf57e",
+    "title" : "Not Only Swift",
+    "url" : "https:\/\/not-only-swift.peterfriese.dev\/issues.rss"
+  },
+  {
+    "id" : "ab3bff8a8459c906f51cf2f2c0a5ab2f913ee19020113222e3fcf80d071a9146",
+    "title" : "Rambo.codes",
+    "url" : "https:\/\/rambo.codes\/feed.rss"
+  },
+  {
+    "id" : "903e584218ea62b0b7c3cef69fcf25bb20df140f7c07499ae8c08ea55207c8c7",
+    "title" : "Furbo",
+    "url" : "https:\/\/furbo.org\/feed\/json"
+  },
+  {
+    "id" : "c7c1d6ba992688e1dc9000a3c0b4e0b84db643cda511947e8c88a38914a221a7",
+    "title" : "UseYourLoaf",
+    "url" : "https:\/\/useyourloaf.com\/blog\/rss.xml"
+  },
+  {
+    "id" : "217a5228cdea5fd25437effe33b02fadeea1aade7494613b4c1baf0767dc7c80",
+    "title" : "SwiftjectiveC",
+    "url" : "https:\/\/www.swiftjectivec.com\/feed.xml"
+  },
+  {
+    "id" : "516453983d3073e5b62cb06640221e4cb41d339deb1c40c4f88e19f562188977",
+    "title" : "Michael Tsai",
+    "url" : "https:\/\/mjtsai.com\/blog\/feed\/"
+  },
+  {
+    "id" : "0ce24bd2a84f333f12aa138b3394d9bdedab0ab311596280d05a981d770c1b40",
+    "title" : "Swift.org",
+    "url" : "https:\/\/www.swift.org\/atom.xml"
+  },
+  {
+    "id" : "1e575b9a7ef1004ae9aa6f24f9d96fe63ed9304a381d634c4d8072e5c15caab6",
+    "title" : "Create With Swift",
+    "url" : "https:\/\/www.createwithswift.com\/rss\/"
+  },
+  {
+    "id" : "54b947b7a395ebab106bc8082ca8d0dfeb441414771b39d01ace5e1396574763",
+    "title" : "Jacob’s Tech Tavern",
+    "url" : "https:\/\/blog.jacobstechtavern.com\/feed"
+  },
+  {
+    "id" : "84921fd24cebcc99a40e72306a41d548ff76cba66a62d622548a242a9f4587ec",
+    "title" : "SwiftLee",
+    "url" : "https:\/\/www.avanderlee.com\/feed\/"
+  },
+  {
+    "id" : "00244ed4e4dc292f4ad09158c7ad866af152ed571ccbce2e25f6e3667b1300b4",
+    "title" : "Apple Developer News",
+    "url" : "http:\/\/developer.apple.com\/news\/rss\/news.rss"
+  },
+  {
+    "id" : "cc46bf5caa8fe7573a4e3f14f2ddd59fc976d7196396257dab10f7ce8324c597",
+    "title" : "iOSDevWeekly",
+    "url" : "https:\/\/iosdevweekly.com\/issues.rss"
+  },
+  {
+    "id" : "9bb731dfa0af49d6f4398ee44ba1c1d9c73f91ba64f438ce7930f7843e1a10eb",
+    "title" : "Donny Wals",
+    "url" : "https:\/\/www.donnywals.com\/feed\/"
+  },
+  {
+    "id" : "d91fb79ebefc7f5b551a343166034a540665ea21c7cd61406174dc06e2cfa45b",
+    "title" : "Patrick McConnell",
+    "url" : "https:\/\/pmcconnell.micro.blog\/feed.xml"
+  },
+  {
+    "id" : "b9ab0132bfb9e2911c15873d32c8b5ecb6cbf430dd44fa03d27ce833d97faccf",
+    "title" : "Pointfree",
+    "url" : "https:\/\/hachyderm.io\/@pointfreeco.rss"
+  },
+  {
+    "id" : "f47e789c01ea9ee5c46a2145aef345b01d7ee07c48dfbe35856a8136360ef8d1",
+    "title" : "Matt Massicotte",
+    "url" : "https:\/\/www.massicotte.org\/atom.xml"
+  },
+  {
+    "id" : "9f2ce5e27ae0494a50c71aa185f828fb6b5712db4178f954b40203edbc50a387",
+    "title" : "Cocoa With Love",
+    "url" : "https:\/\/cocoawithlove.com\/feed.xml"
+  },
+  {
+    "id" : "5c9b211e231bee571be7b31669ebd648bcaad292c7fe3e994eb49e408c79c811",
+    "title" : "Swift Evolution",
+    "url" : "https:\/\/forums.swift.org\/c\/evolution\/18.rss"
+  },
+  {
+    "id" : "e8c054adba28c4fe1c5cb3b3101833881420b3fdfe7ff34a24422c110a6cb4e1",
+    "title" : "Swift On Server",
+    "url" : "https:\/\/forums.swift.org\/c\/server\/43.rss"
+  },
+  {
+    "id" : "0ff972b5c57497abe06a509717a8cbacc540278a12ad6a0515b352322c26766b",
+    "title" : "Swift Community showcase",
+    "url" : "https:\/\/forums.swift.org\/c\/community-showcase\/66.rss"
+  },
+  {
+    "id" : "97ff1db2c7c1f6e212c13cea5ddfd4b3aef62a3cd6cf9ed255e4ed5539236b05",
+    "title" : "Swift General Announcements",
+    "url" : "https:\/\/forums.swift.org\/c\/general-announce\/24.rss"
+  },
+  {
+    "id" : "ef9e99b5de467aefff80667d2303cc7f55c8219c90fe96eb27a20b158eeaed23",
+    "title" : "Skip Tools",
+    "url" : "https:\/\/skip.dev\/blog\/rss.xml"
+  },
+  {
+    "id" : "1ea072a95e7832277721486563390e6f9fc1b4aae3670611b53125cc8b00e21d",
+    "title" : "Artem Novichkov",
+    "url" : "https:\/\/artemnovichkov.com\/feed.xml"
+  },
+  {
+    "id" : "b768385ed9c1861b967a0f14ca96ebd62872bd446dd06f4fabfd226ec1814ca6",
+    "title" : "Jorge Calderita",
+    "url" : "https:\/\/jcalderita.com\/en\/rss.xml"
+  },
+  {
+    "id" : "c207ad8dbff41f913bd3785301bafbdcf1cce64a5b85ea3f5cbd2f721aa013e2",
+    "title" : "Vidit Bhargava",
+    "url" : "https:\/\/blog.viditb.com\/rss\/"
+  },
+  {
+    "id" : "105d4f6b3d1dd29d7a650643fe34391d72df6ddc83d2fb4695ac0dbe9649b374",
+    "title" : "Nil-Coalescing",
+    "url" : "https:\/\/nilcoalescing.com\/feed.rss"
+  },
+  {
+    "id" : "b8350cae1f3bd78d936e1ce917860a6d032ebd4e3069ae10bb2d05df25a35db5",
+    "title" : "Bryce Bostwick",
+    "url" : "https:\/\/bryce.co\/index.xml"
+  },
+  {
+    "id" : "db6db2c2b530bece727416e08a2bea2d730bcd9c41d84827dfdf7c12f0422819",
+    "title" : "NS Screencast",
+    "url" : "https:\/\/nsscreencast.com\/feed"
+  },
+  {
+    "id" : "45d64dc5f6a2ce936c92b946beccf55b4c5e7f6d83780feadc9c5b69f055caa9",
+    "title" : "DimsumThinking by Daniel Steinberg",
+    "url" : "https:\/\/dimsumthinking.com\/rss.xml"
+  }
+]
