@@ -1,0 +1,48 @@
+about: "Swift Bengaluru x Meesho"
+date: "February 28, 2026"
+location:
+    name: "Meesho HQ"
+    map: "https://www.google.com/maps/search/?api=1&query=Meesho%20HQ%20Bengaluru"
+    address: "Helios Business Park, Tower E, 3rd Floor, Kadubeesanahalli, Bengaluru, Karnataka, India"
+    coordinates:
+        latitude: 12.9375
+        longitude: 77.69
+        zoom: 17
+agenda:
+    - time: "11:15 AM"
+      title: "Arrival and Registration"
+      type: "registration"
+    - time: "11:30 AM"
+      title: "Opening Remarks"
+      type: "talk"
+    - time: "11:45 AM"
+      title: "Vibe Coding: Building CLI Tools with AI-Driven Development"
+      type: "talk"
+      speakers:
+        - "Rudrank Riyam"
+    - time: "12:30 PM"
+      title: "SwiftUI Internals: How Views Work Under the Hood"
+      type: "talk"
+      speakers:
+        - "Sachin Chandil"
+    - time: "1:15 PM"
+      title: "Lunch & Networking"
+      type: "break"
+    - time: "2:00 PM"
+      title: "More Talks & Sessions"
+      type: "talk"
+    - time: "2:45 PM"
+      title: "Networking"
+      type: "networking"
+    - time: "3:15 PM"
+      title: "Closing"
+      type: "networking"
+sponsors:
+    vanue:
+        name: "Meesho"
+        website: "https://www.meesho.com"
+        image: "../.sponsorsAssets/meesho.png"
+    food:
+        name: "Meesho"
+        website: "https://www.meesho.com"
+        image: "../.sponsorsAssets/meesho.png"

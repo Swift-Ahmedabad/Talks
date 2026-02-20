@@ -1,3 +1,25 @@
+# 1. Feb 28, 2026
+ 💻 Swift Chennai February Edition
+
+## Concurrency in Swift
+### By: **Mohammed Mubashir Medekkar**
+iOS Developer, Zoho Corporation
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/mubashirmeddekar/), [Twitter](https://x.com/mubashirmedekar) 
+
+## Meaningful UI - A Design Story
+### By: **Sameer Rajadnya**
+Sameer Rajadnya is a designer and developer with a multidisciplinary career spanning communication and brand design, web development, and management. He currently works as an independent consultant, advising on web, brand, and digital product design. A self-taught web developer, he bridges design, storytelling and engineering to envision projects end-to-end. He has built and led Multidisciplinary Design Teams at organizations including Teamwork Films, producer of Jaipur Literature Festival and others, and the corporate PR firm The Practice. Most recently Sameer designed, and published an iOS App
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/sameer-rajadnya/), [Portfolio](https://earthclock.in) 
+
+## Building Interfaces and Animations with SwiftUI
+### By: **Shubham Singh**
+iOS Developer (Associate Principal Engineer) at DailyRounds / Marrow
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/shubham0812/), [Twitter](https://x.com/Shubham_iosdev) 
+
+---
 # 9. Dec 13, 2025
  💻 Swift Ahmedabad December'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/58ixSq6rJ37XoZoQ7)

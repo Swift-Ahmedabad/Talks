@@ -1,0 +1,63 @@
+about: "Swift Chennai February Edition"
+date: "February 28, 2026"
+location:
+    name: "Zoho Coorporation, Chennai"
+    map: "https://www.google.com/maps/place/Zoho+Corporation/@12.8308,80.0494292,19.8z/data=!4m10!1m2!2m1!1szoho+corporation+chennai!3m6!1s0x3a5260db1ff54b03:0xa8af6b8bb6419d6f!8m2!3d12.8310776!4d80.0493569!15sChh6b2hvIGNvcnBvcmF0aW9uIGNoZW5uYWlaGiIYem9obyBjb3Jwb3JhdGlvbiBjaGVubmFpkgEQc29mdHdhcmVfY29tcGFueZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VRdGRrMVBUbVJCRUFF4AEA-gEECGsQTA!16s%2Fg%2F1hf6k4nqn?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D"
+    address: "Estancia IT Park,Vallancherry Plot No. 140 & 151, Grand Southern Trunk Road, Vallancherry, Taluk, Chengalpattu, Tamil Nadu 603202"
+    coordinates:
+        latitude: 12.8308
+        longitude: 80.0494292
+        zoom: 17.94
+agenda:
+    - time: "09:00 AM"
+      title: "Registration and Coffee"
+      type: "registration"
+              
+    - time: "10:00 AM"
+      title: "Building Interfaces and Animations with SwiftUI"
+      type: "talk"
+      speakers:
+        - "Shubham Singh"
+      
+    - time: "10:40 AM"
+      title: "Meaningful UI - A Design Story"
+      type: "talk"
+      speakers:
+        - "Sameer Rajadnya"
+        
+    - time: "11:10 AM"
+      title: "Group Photo"
+      type: "break"
+      
+    - time: "11:20 AM"
+      title: "Break"
+      type: "break"
+
+    - time: "11:40 AM"
+      title: "Concurrency in Swift"
+      type: "talk"
+      speakers:
+        - "Mohammed Mubashir Medekkar"
+
+    - time: "12:10 PM"
+      title: "Networking & Lunch"
+      type: "break"
+
+    - time: "01:20 PM"
+      title: "Product Showcase"
+      type: "talk"
+      speakers:
+        
+    - time: "02:20 PM"
+      title: "Networking & Mixer"
+      type: "networking"
+
+sponsors:
+    vanue:
+        name: "Zoho Apptics"
+        website: "https://www.zoho.com/apptics/"
+        image: "ljUniversity.png"
+    food:
+        name: "Zoho Apptics"
+        website: "https://www.zoho.com/apptics/"
+        image: "ljUniversity.png"

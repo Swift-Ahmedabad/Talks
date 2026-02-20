@@ -1,5 +1,35 @@
 [
   {
+    "about" : "iOS Developer, Zoho Corporation",
+    "id" : "aa63b4b98c8e66f4ac7fed731309475529b86dc28488118aa9e1458659ae5262",
+    "image" : "MohammedMubashirMedekkar.jpeg",
+    "name" : "Mohammed Mubashir Medekkar",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/mubashirmeddekar\/",
+      "twitter" : "https:\/\/x.com\/mubashirmedekar"
+    }
+  },
+  {
+    "about" : "Sameer Rajadnya is a designer and developer with a multidisciplinary career spanning communication and brand design, web development, and management. He currently works as an independent consultant, advising on web, brand, and digital product design. A self-taught web developer, he bridges design, storytelling and engineering to envision projects end-to-end. He has built and led Multidisciplinary Design Teams at organizations including Teamwork Films, producer of Jaipur Literature Festival and others, and the corporate PR firm The Practice. Most recently Sameer designed, and published an iOS App",
+    "id" : "0e689398573250e629f0d285c986be3042f9141d6dbff0e7df074d9884ee0ed5",
+    "image" : "SameerRajadnya.jpeg",
+    "name" : "Sameer Rajadnya",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/sameer-rajadnya\/",
+      "portfolio" : "https:\/\/earthclock.in"
+    }
+  },
+  {
+    "about" : "iOS Developer (Associate Principal Engineer) at DailyRounds \/ Marrow",
+    "id" : "d9c74c8da27a45ee230dee8bbfae751386cc8b7879be3bc6cc20e90255767422",
+    "image" : "ShubhamSingh.jpg",
+    "name" : "Shubham Singh",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/shubham0812\/",
+      "twitter" : "https:\/\/x.com\/Shubham_iosdev"
+    }
+  },
+  {
     "about" : "Sr. iOS Engineer",
     "id" : "d4a1a4d1495dce5806681786869bf81317ef2243d85165b42bcea57bd9412d94",
     "image" : "RatneshJain.png",

@@ -1,155 +1,311 @@
-{
-  "description" : "A welcoming space where everyone who is interested in Swift or Apple Ecosystem can connect and grow together.",
-  "members" : [
-    {
-      "about" : "Software Engineer (iOS) | Women Techmakers Ambassador | Tech Evangelist",
-      "name" : "Devanshi Modha",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/devanshimodha\/"
+[
+  {
+    "description" : "A community dedicated to bringing together Swift developers in Pune for learning, sharing knowledge, and growing together.",
+    "id" : "2856dd02115a4d23b04112719af92886fd2325dbb62d1aa467a94c5988fb4c61",
+    "logo" : "swift-pune.jpg",
+    "members" : [
+      {
+        "about" : "Senior Software Engineer at Qualys",
+        "name" : "Abhishek Shinde",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/abhishek-shinde-b1855a127\/"
+        }
+      },
+      {
+        "about" : "iOS Developer | Swift Community Organizer | Event Moderator",
+        "name" : "Divya Maloo",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/divya-maloo\/"
+        }
+      },
+      {
+        "about" : "iOS & macOS Developer | Founder of Dezine Zync | Building Elytra, Pockity & Esfresco",
+        "name" : "Nikhil Nigade",
+        "socials" : {
+          "github" : "https:\/\/github.com\/dezinezync",
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/nikhil-nigade-4a395b358\/"
+        }
+      },
+      {
+        "about" : "iOS Developer | Swift | UIKit | SwiftUI",
+        "name" : "Rimesh Jotaniya",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/recursiveswift\/"
+        }
+      },
+      {
+        "about" : "iOS Developer - Encoding Solutions Pvt. Ltd. | Swift, Objective C",
+        "name" : "Swetal Matkar",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/swetal-matkar-73a836204\/"
+        }
+      },
+      {
+        "about" : " iOS Developer | Swift | SwiftUI | UIKit | Objective-C | MVVM & Clean Architecture Advocate | Building Scalable, High-Impact Mobile Apps | Remote",
+        "name" : "MaYur SuSare",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/msusare\/"
+        }
+      },
+      {
+        "about" : "Sr. iOS Developer | Helping Engineers Upskill in DSA, System Design & AI | Building CoreLearnly 🚀",
+        "name" : "Ganesh Patil",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/ganesh-patil-2b3431119\/"
+        }
       }
-    },
-    {
-      "about" : "Sr iOS DEVELOPER & Assistant project manager at Hyperlink Infosystem",
-      "name" : "Bhavin Vaghela",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/bhavin-vaghela\/"
-      }
-    },
-    {
-      "about" : "Software Engineer",
-      "name" : "Kajal Seth",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/kajal-sheth\/"
-      }
-    },
-    {
-      "about" : "Sr. iOS Engineer",
-      "name" : "Ratnesh Jain",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/ratnesh-jain-7a2270146\/"
-      }
-    },
-    {
-      "about" : "Software Engineer | iOS Developer",
-      "name" : "Riya Kheskwani",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/riya-kheskwani-21b168136\/"
-      }
-    },
-    {
-      "about" : "iOS Developer",
-      "name" : "Jinkal Hirani",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/jinkalhirani\/"
-      }
-    },
-    {
-      "about" : "Helping startups build innovative mobile apps | Swift \/ iOS Developer | SwiftUI & Combine | Building scalable iOS apps",
-      "name" : "Priyanka Poojara",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/priyanka-poojara\/"
-      }
-    },
-    {
-      "about" : "iOS | React-Native | Flutter | Swift | SwiftUI Developer",
-      "name" : "Riddhi Khunti",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/riddhikhunti-ios\/"
-      }
-    },
-    {
-      "about" : "iOS | React Native",
-      "name" : "Pooja Darji",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/pooja-darji-694015213\/"
-      }
-    },
-    {
-      "about" : "Actively looking for a job as an iOS Developer | Mobile App Development",
-      "name" : "Aadil Dhanani",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/aadil-dhanani-521bbb136\/"
-      }
-    },
-    {
-      "about" : "Senior iOS Engineer @ Bluepixel | Swift | SwiftUI | UIKIT | MVVM | MVVM-C",
-      "name" : "Gaurav Harkhani",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/gaurav-harkhani\/"
-      }
-    },
-    {
-      "about" : " iOS Developer, Geek, Lifelong learner",
-      "name" : "Maulesh Vyas",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/mauleshvyas\/"
-      }
-    },
-    {
-      "about" : "iOS developer at Hyperlink inosystem",
-      "name" : "Kishan Raja",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/raja-kishan-421620138\/"
-      }
-    },
-    {
-      "about" : " Sr. Software Engineer (Flutter | Dart | iOS | Swift | SwiftUi)",
-      "name" : "Samir Bagariya",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/samir-bagariya\/"
-      }
-    },
-    {
-      "about" : "iOS + React Native Mobile App Developer",
-      "name" : "Kuldip Thakkar",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/kuldip-thakkar-871b81175\/"
-      }
-    },
-    {
-      "about" : "Sr. iOS || React Native Developer at 7Span",
-      "name" : "Supan Shah",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/supnshah\/"
-      }
-    },
-    {
-      "about" : "iOS Developer",
-      "name" : "Maulik Makwana",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/mrm235\/"
-      }
-    },
-    {
-      "about" : "Sr. Software Engineer (Swift | SwiftUI | UIKIT | RxSwift)",
-      "name" : "Parth Gundigara",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/parth-gundigara-132270119\/"
-      }
-    },
-    {
-      "about" : "iOS Developer @ Space O",
-      "name" : "Hardik Modha",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/hardik-modha-95b9ab125\/"
-      }
-    },
-    {
-      "about" : "IoT | BLE | Flutter | Native iOS",
-      "name" : "Sneha Dudhat",
-      "socials" : {
-        "linkedIn" : "https:\/\/www.linkedin.com\/in\/sneha-dudhat-81771862\/"
-      }
+    ],
+    "name" : "Swift Pune",
+    "socialMedias" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftpune\/",
+      "luma" : "https:\/\/luma.com\/1jb79fac",
+      "whatsApp" : "https:\/\/chat.whatsapp.com\/FbfE8mr1aIA8Ac97EHV4yw"
     }
-  ],
-  "name" : "Swift Ahmedabad",
-  "socialMedias" : {
-    "arattai" : "https:\/\/web.arattai.in\/@swift_ahmedabad",
-    "discord" : "https:\/\/discord.com\/invite\/pswxUQxEny",
-    "instagram" : "https:\/\/www.instagram.com\/swift.ahmedabad\/",
-    "linkedIn" : "https:\/\/www.linkedin.com\/company\/swift-ahmedabad\/",
-    "luma" : "https:\/\/luma.com\/user\/swiftahmedabad",
-    "twitter" : "https:\/\/x.com\/swift_ahmedabad",
-    "whatsApp" : "https:\/\/chat.whatsapp.com\/FlZuWzMf8ak8C8yAmfRRVf"
+  },
+  {
+    "description" : "Code. Kaapi. Connect.",
+    "id" : "8576268574968e7254d490c8e8a034c532678e3ffb130c0c271e65c12570ea89",
+    "logo" : "swift-chennai.jpeg",
+    "members" : [
+      {
+        "about" : "Co-founder, Code Flakes Studio & IndeHub | Co-organizer, Swift Chennai",
+        "name" : "Adithya Balaj",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/balajiadithya\/"
+        }
+      },
+      {
+        "about" : "Swift-Centric Developer | Trying to be an AI Generalist | iOS | MacOS | Mobile Developer | Apple Ecosystem Enthusiast",
+        "name" : "Muruganandham Kuppan",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/muruganandhamjk\/"
+        }
+      },
+      {
+        "about" : "Developer Relations @ Zoho Apptics | Tech Evangelist | AI Researcher | iOS Engineer | Blogger at ohmyswift.com | Speaker | Proud husband",
+        "name" : "Rizwan Ahmed",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/rizwan95\/"
+        }
+      },
+      {
+        "about" : "Building In-App Offer Paywalls for iOS Apps Revenue Growth💰 | Simplifying App Store Offer Management 📈 | Creator of Impact11 🏏",
+        "name" : "Velu Loganathan",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/veluloganathan\/"
+        }
+      }
+    ],
+    "name" : "Swift Chennai",
+    "socialMedias" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftchennai",
+      "luma" : "https:\/\/luma.com\/swiftchennai",
+      "twitter" : "https:\/\/x.com\/SwiftChennai"
+    }
+  },
+  {
+    "description" : "The Revolution will be Swift!! - A community for developers working on Apple platforms (iOS\/macOS) as well as the ones who are using swift to develop cloud and server applications.",
+    "id" : "55650e28cc45b32a5183aa0d90aee7afa282eb4bfbb49021fd154521fa72a267",
+    "logo" : "swift-bengaluru.jpeg",
+    "members" : [
+      {
+        "about" : "Technologist with 16+ years in Electronic Design Automation (EDA). MS from IIIT Hyderabad. Swift Bengaluru Organizer, certified life coach, IoT & ML consultant.",
+        "name" : "Nayyan Mujadiya",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/nayyanmujadiya\/"
+        }
+      },
+      {
+        "about" : "Software Engineer, blogger, and speaker with 8 years of industry experience developing iOS applications.",
+        "name" : "G Abhisek",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/g-abhisek\/"
+        }
+      },
+      {
+        "about" : "Software Engineer at Rakuten. Self-taught iOS developer with 2.4+ years experience.",
+        "name" : "Gokul B",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/gokul-bvb\/"
+        }
+      },
+      {
+        "about" : "Building AI Voice Agents for Healthcare at 100ms. iOS Developer with expertise in video\/live streaming.",
+        "name" : "Yogesh Singh",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/yogeshsingh2810\/"
+        }
+      },
+      {
+        "about" : "iOS at Loco | Community Organiser - Swift Bharat, Swift Bengaluru and Swift Mumbai.",
+        "name" : "Raj Raval",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/rajhraval\/"
+        }
+      }
+    ],
+    "name" : "Swift Bengaluru",
+    "socialMedias" : {
+      "github" : "https:\/\/github.com\/swiftbengaluru",
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftbengaluru",
+      "twitter" : "https:\/\/x.com\/swiftbengaluru"
+    }
+  },
+  {
+    "description" : "A welcoming space where everyone who is interested in Swift or Apple Ecosystem can connect and grow together.",
+    "id" : "af6eae965cda4357726fed771504a26fe6ceaed52bf0e3e81dffd409925bb735",
+    "logo" : "swift-ahmedabad.jpg",
+    "members" : [
+      {
+        "about" : "Software Engineer (iOS) | Women Techmakers Ambassador | Tech Evangelist",
+        "name" : "Devanshi Modha",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/devanshimodha\/"
+        }
+      },
+      {
+        "about" : "Sr iOS DEVELOPER & Assistant project manager at Hyperlink Infosystem",
+        "name" : "Bhavin Vaghela",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/bhavin-vaghela\/"
+        }
+      },
+      {
+        "about" : "Software Engineer",
+        "name" : "Kajal Seth",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/kajal-sheth\/"
+        }
+      },
+      {
+        "about" : "Sr. iOS Engineer",
+        "name" : "Ratnesh Jain",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/ratnesh-jain-7a2270146\/"
+        }
+      },
+      {
+        "about" : "Software Engineer | iOS Developer",
+        "name" : "Riya Kheskwani",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/riya-kheskwani-21b168136\/"
+        }
+      },
+      {
+        "about" : "iOS Developer",
+        "name" : "Jinkal Hirani",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/jinkalhirani\/"
+        }
+      },
+      {
+        "about" : "Helping startups build innovative mobile apps | Swift \/ iOS Developer | SwiftUI & Combine | Building scalable iOS apps",
+        "name" : "Priyanka Poojara",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/priyanka-poojara\/"
+        }
+      },
+      {
+        "about" : "iOS | React-Native | Flutter | Swift | SwiftUI Developer",
+        "name" : "Riddhi Khunti",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/riddhikhunti-ios\/"
+        }
+      },
+      {
+        "about" : "iOS | React Native",
+        "name" : "Pooja Darji",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/pooja-darji-694015213\/"
+        }
+      },
+      {
+        "about" : "Actively looking for a job as an iOS Developer | Mobile App Development",
+        "name" : "Aadil Dhanani",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/aadil-dhanani-521bbb136\/"
+        }
+      },
+      {
+        "about" : "Senior iOS Engineer @ Bluepixel | Swift | SwiftUI | UIKIT | MVVM | MVVM-C",
+        "name" : "Gaurav Harkhani",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/gaurav-harkhani\/"
+        }
+      },
+      {
+        "about" : " iOS Developer, Geek, Lifelong learner",
+        "name" : "Maulesh Vyas",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/mauleshvyas\/"
+        }
+      },
+      {
+        "about" : "iOS developer at Hyperlink inosystem",
+        "name" : "Kishan Raja",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/raja-kishan-421620138\/"
+        }
+      },
+      {
+        "about" : " Sr. Software Engineer (Flutter | Dart | iOS | Swift | SwiftUi)",
+        "name" : "Samir Bagariya",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/samir-bagariya\/"
+        }
+      },
+      {
+        "about" : "iOS + React Native Mobile App Developer",
+        "name" : "Kuldip Thakkar",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/kuldip-thakkar-871b81175\/"
+        }
+      },
+      {
+        "about" : "Sr. iOS || React Native Developer at 7Span",
+        "name" : "Supan Shah",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/supnshah\/"
+        }
+      },
+      {
+        "about" : "iOS Developer",
+        "name" : "Maulik Makwana",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/mrm235\/"
+        }
+      },
+      {
+        "about" : "Sr. Software Engineer (Swift | SwiftUI | UIKIT | RxSwift)",
+        "name" : "Parth Gundigara",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/parth-gundigara-132270119\/"
+        }
+      },
+      {
+        "about" : "iOS Developer @ Space O",
+        "name" : "Hardik Modha",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/hardik-modha-95b9ab125\/"
+        }
+      },
+      {
+        "about" : "IoT | BLE | Flutter | Native iOS",
+        "name" : "Sneha Dudhat",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/sneha-dudhat-81771862\/"
+        }
+      }
+    ],
+    "name" : "Swift Ahmedabad",
+    "socialMedias" : {
+      "arattai" : "https:\/\/web.arattai.in\/@swift_ahmedabad",
+      "discord" : "https:\/\/discord.com\/invite\/pswxUQxEny",
+      "instagram" : "https:\/\/www.instagram.com\/swift.ahmedabad\/",
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swift-ahmedabad\/",
+      "luma" : "https:\/\/luma.com\/user\/swiftahmedabad",
+      "twitter" : "https:\/\/x.com\/swift_ahmedabad",
+      "whatsApp" : "https:\/\/chat.whatsapp.com\/FlZuWzMf8ak8C8yAmfRRVf"
+    }
   }
-}
+]
