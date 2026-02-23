@@ -6,6 +6,18 @@
     "website" : "https:\/\/www.zoho.com\/apptics\/"
   },
   {
+    "id" : "f848321dd7f43d12ddfcd7086c829d8a776666c05350a6cf215310212035b2d2",
+    "image" : "fluttermumbai_logo.jpeg",
+    "name" : "Haxnation Mumbai, Flutter Mumbai, Swift Mumbai",
+    "website" : "https:\/\/www.linkedin.com\/company\/fluttermumbai"
+  },
+  {
+    "id" : "2e50538d4dd36cc58246a5eb858d566757c09861cfc0fc84f89690eebb1fda90",
+    "image" : "haxnation_meetups_mumbai_.jpeg",
+    "name" : "Haxnation Mumbai, Flutter Mumbai, Swift Mumbai",
+    "website" : "https:\/\/haxnation.org\/mumbai-chapter\/"
+  },
+  {
     "id" : "c7f1f50db329ea7bd00cf49711f6637dfc75f86fff344b425353319b561e0461",
     "image" : "cricheros.jpeg",
     "name" : "CricHeroes Pvt. Ltd",
@@ -24,16 +36,16 @@
     "website" : "Hyperlink%20InfoSystem"
   },
   {
-    "id" : "9b64c8efc14ed8fa2fe3ad4780457c1cb8d759106c5b106896ede690b8a1e55d",
-    "image" : "mobileFist.jpeg",
-    "name" : "MobileFirst Applications - Fintegration",
-    "website" : "https:\/\/cricheroes.com"
-  },
-  {
     "id" : "a9a9ae107fce14a00f6e160ad279bb0ac0344039d4bb00be63de05eb52055806",
     "image" : "mobileFist.jpeg",
     "name" : "MobileFirst Applications - Fintegration",
     "website" : "https:\/\/www.mobilefirst.in"
+  },
+  {
+    "id" : "9b64c8efc14ed8fa2fe3ad4780457c1cb8d759106c5b106896ede690b8a1e55d",
+    "image" : "mobileFist.jpeg",
+    "name" : "MobileFirst Applications - Fintegration",
+    "website" : "https:\/\/cricheroes.com"
   },
   {
     "id" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506",

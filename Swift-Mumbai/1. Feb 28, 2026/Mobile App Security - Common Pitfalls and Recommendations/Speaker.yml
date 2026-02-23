@@ -1,0 +1,11 @@
+- name: "Midhet Sulemani"
+  socials:
+    linkedIn: "https://www.linkedin.com/in/midhet/"
+  about: "SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code"
+  image: "MidhetSulemani.jpeg"
+
+- name: "Hrishikesh Devhare"
+  socials:
+    linkedin: "https://www.linkedin.com/in/hrishikeshdevhare/"
+  about: "PMP-certified Senior Technical Lead with 15+ years of experience in iOS, macOS, and mobile app development."
+  image: "hrishikeshdevhare.jpeg"

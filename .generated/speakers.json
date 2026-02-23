@@ -30,6 +30,51 @@
     }
   },
   {
+    "about" : "Cyber Expert | FlutterFlow Pro | Founder @ BEEPIXL | Tech Partner – CID Gujarat Police",
+    "id" : "ff721271e8615818265aa8f75590a8237952ee6daad40bafcfeacdd6c5e9376d",
+    "image" : "AbhishekJain.jpeg",
+    "name" : "Abhishek Jain",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/mrabhijain\/"
+    }
+  },
+  {
+    "about" : "SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code",
+    "id" : "14dce7aa6ff9bb356a1071b51bddef1215b348a14075a960375688cba432d54b",
+    "image" : "MidhetSulemani.jpeg",
+    "name" : "Midhet Sulemani",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/midhet\/"
+    }
+  },
+  {
+    "about" : "PMP-certified Senior Technical Lead with 15+ years of experience in iOS, macOS, and mobile app development.",
+    "id" : "be192f71f12aa4e6deb95d84d40a3af01b3cc18bee860475c1add28291761d64",
+    "image" : "hrishikeshdevhare.jpeg",
+    "name" : "Hrishikesh Devhare",
+    "socials" : {
+
+    }
+  },
+  {
+    "about" : "Senior Mobile Engineer @ Tide | MSITM",
+    "id" : "10e13cc823010292aa7f9b0bc6de7e3306aca73b2406c1bab11066f2eedb5fd5",
+    "image" : "RohanJoshi.png",
+    "name" : "Rohan Joshi",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/rohanjsh\/"
+    }
+  },
+  {
+    "about" : "Security Engineer III, InfraSec | OSCP | AWS Solution Architect | CEH | Bug Bounty Hunter | Blogger.",
+    "id" : "9b50dea065c4f439f4b7d02c38e730a5395e1ba48e0af8b0064719fab3ce5749",
+    "image" : "kirankumar.jpeg",
+    "name" : "Kirankumar",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kiran-kumar-b58971b2\/"
+    }
+  },
+  {
     "about" : "Sr. iOS Engineer",
     "id" : "d4a1a4d1495dce5806681786869bf81317ef2243d85165b42bcea57bd9412d94",
     "image" : "RatneshJain.png",
