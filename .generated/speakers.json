@@ -30,6 +30,55 @@
     }
   },
   {
+    "about" : "Engineering - iOS",
+    "id" : "5039f47fec79f243c308c9cbe0bd547330d6ccfd795b9f6298cd635b0e47a7c2",
+    "image" : "AkashlalBathe.jpeg",
+    "name" : "Akashlal bathe",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/akashlal\/"
+    }
+  },
+  {
+    "about" : "iOS Engineer @ Meesho | Ex-Walmart | Swift | SwiftUI",
+    "id" : "5ab2936ce0f218af0288e010b4cb46783952fbec1046369b34df4a345f8a575c",
+    "image" : "HitarthBhatt.jpeg",
+    "name" : "Hitarth Bhatt",
+    "socials" : {
+      "github" : "https:\/\/github.com\/Hitarthbhatt",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/hitarth-bhatt\/"
+    }
+  },
+  {
+    "about" : "iOS Engineer at Corner. 2x WWDC Scholar, Layers 2018 Scholar. Mobile App and Front-end Web Developer.",
+    "id" : "a6c045f09c503f930ab61428adecd4a8e41234026a41b43e071ee131f212ef6e",
+    "image" : "SinchanMaitri.png",
+    "name" : "Sinchan Maitri",
+    "socials" : {
+      "github" : "https:\/\/github.com\/sinchanmaitri",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/sinchanmaitri\/"
+    }
+  },
+  {
+    "about" : "Tech Lead (iOS) at Meesho. Sr. Android Developer with 3+ years experience in mobile development.",
+    "id" : "82c80eb5dec6e4cabd937d39f12163579dc03d08694597cb8aea0b5bbb7443fe",
+    "image" : "SachinChandil.jpeg",
+    "name" : "Sachin Chandil",
+    "socials" : {
+      "github" : "https:\/\/github.com\/chandilsachin",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/chandilsachin\/"
+    }
+  },
+  {
+    "about" : "AI Prompter and Senior iOS Developer Writer. WWDC '19 Scholar. Independent writer and developer for Apple Platforms.",
+    "id" : "1596e5dfaf1bbf8ac14d864dd553b190ec638f0311f578a34693c9849d7a1037",
+    "image" : "RudrankRiyam.png",
+    "name" : "Rudrank Riyam",
+    "socials" : {
+      "github" : "https:\/\/github.com\/rudrankriyam",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/rudrank\/"
+    }
+  },
+  {
     "about" : "Cyber Expert | FlutterFlow Pro | Founder @ BEEPIXL | Tech Partner – CID Gujarat Police",
     "id" : "ff721271e8615818265aa8f75590a8237952ee6daad40bafcfeacdd6c5e9376d",
     "image" : "AbhishekJain.jpeg",

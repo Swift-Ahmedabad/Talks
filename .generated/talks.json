@@ -15,6 +15,31 @@
     "title" : "Building Interfaces and Animations with SwiftUI"
   },
   {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "f555807792e50962ab24da187a6dd22b01b5ebc469ffe40993b67a02e94b4f5b",
+    "title" : "Designing Conversational Skills for Agentic Workflows"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "b9027afb0693e6bbcc6577282a079919cbf502521a00f977e3d168e2fcbd043e",
+    "title" : "Cost of Modularization"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "3599ae4d77215d2f5678867f913ea5b31677422ac57412861bc6b64710bca558",
+    "title" : "The Swift Student Challenge - A Journey Worth Taking"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "90b5d935df5c0eecfc37876e74f401279fab12f206409037e1a6ce1c3a06bd0b",
+    "title" : "Exploring SwiftUI under the hoot"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "f1d5a83133f91155a9bbecfaccf621429f0c2df40ecba57e4fd143c23e409c7c",
+    "title" : "AI Driven Coding for ASC CLI as an iOS Dev"
+  },
+  {
     "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
     "id" : "39bee26d23e4b167fd5d26e07868fbfddc59b833dd9ea590c9a9bee51d24f4c0",
     "title" : "FlutterFlow App Security Explained- Myths, Risks, and Best Practices"

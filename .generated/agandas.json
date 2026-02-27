@@ -63,6 +63,69 @@
     "type" : "networking"
   },
   {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "bb3079585b4fc8d0f3b05f121cb629a28073c2f1323c0acb3acf4abe7299962b",
+    "time" : 793950300,
+    "title" : "Arrival & Registration",
+    "type" : "registration"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "6bf6c530ab1bc80e66bb67b4c114255350333b798c430ca2564d446d408f9d45",
+    "time" : 793953000,
+    "title" : "Swift Bengaluru Opening",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "c336911f4a55fd70e48caaf47d487e5cbcbb38f36121fbff4bd4c520f941e95f",
+    "time" : 793953600,
+    "title" : "Meesho Keynote Opening",
+    "type" : "sponsorTalk"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "78a3c2749e4669dde11c8ac4e7387a98af8e04b754cfb35b7411d94bddeb2f50",
+    "time" : 793954200,
+    "title" : "AI Driven Coding for ASC CLI as an iOS Dev",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "744d2cbddb7683d5b6c96c3ef5451d5835eb1f2490b5540cc47d484bcb4d3814",
+    "time" : 793955700,
+    "title" : "Exploring SwiftUI under the hoot",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "166e9f7776f4d30526abf513ed2474781e54d40e38e709fb70c4b938e621b2ad",
+    "time" : 793957800,
+    "title" : "Refreshment Break",
+    "type" : "break"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "d0f13d3bf5b41af63bb745fcc49da5f55e5617c0d9fef65b4d72d4a2f3515165",
+    "time" : 793959600,
+    "title" : "Designing Conversational Skills for Agentic Workflows",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "567614803942be2a61914b895d693f951e598cd3c390b45cf42b56c381a716aa",
+    "time" : 793962000,
+    "title" : "Cost of Modularization",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "fe36bb5d7030688768b3d18922cb77f35baf4734a38f58a706ed4967f2edbf20",
+    "time" : 793963800,
+    "title" : "Closing & Group Photo",
+    "type" : "networking"
+  },
+  {
     "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
     "id" : "f568d8090d824eb1ac79909768a66fd78f206e0c9c838f74ffd6207685d4f75e",
     "time" : 793947600,

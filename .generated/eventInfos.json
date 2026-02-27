@@ -21,6 +21,26 @@
     }
   },
   {
+    "about" : "Swift Bengaluru x Meesho",
+    "date" : 793909800,
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "f4c853f5f4a436d8ebccc6afc6927253e0f0cc1cd9b3e3cb9108d53d0a65e57b",
+    "location" : {
+      "address" : "Helios Business Park, Tower E, 3rd Floor, Kadubeesanahalli, Bengaluru, Karnataka, India",
+      "coordinates" : {
+        "latitude" : 12.9375,
+        "longitude" : 77.69,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Meesho%20HQ%20Bengaluru",
+      "name" : "Meesho HQ"
+    },
+    "sponsors" : {
+      "foodSponsorID" : "fbb0d64f0b6c21888235b8f6f4c947339f93ca527ffef38880e2b6f2320a397e",
+      "vanueSponsorID" : "fbb0d64f0b6c21888235b8f6f4c947339f93ca527ffef38880e2b6f2320a397e"
+    }
+  },
+  {
     "about" : "Swift Mumbai + Haxnation",
     "date" : 793909800,
     "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",

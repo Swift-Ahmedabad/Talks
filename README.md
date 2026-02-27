@@ -21,6 +21,40 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/shubham0812/), [Twitter](https
 
 ---
 # 1. Feb 28, 2026
+ 💻 Swift Bengaluru x Meesho
+
+## Designing Conversational Skills for Agentic Workflows
+### By: **Akashlal bathe**
+Engineering - iOS
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/akashlal/) 
+
+## Cost of Modularization
+### By: **Hitarth Bhatt**
+iOS Engineer @ Meesho | Ex-Walmart | Swift | SwiftUI
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/hitarth-bhatt/), [Github](https://github.com/Hitarthbhatt) 
+
+## The Swift Student Challenge - A Journey Worth Taking
+### By: **Sinchan Maitri**
+iOS Engineer at Corner. 2x WWDC Scholar, Layers 2018 Scholar. Mobile App and Front-end Web Developer.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/sinchanmaitri/), [Github](https://github.com/sinchanmaitri) 
+
+## Exploring SwiftUI under the hoot
+### By: **Sachin Chandil**
+Tech Lead (iOS) at Meesho. Sr. Android Developer with 3+ years experience in mobile development.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/chandilsachin/), [Github](https://github.com/chandilsachin) 
+
+## AI Driven Coding for ASC CLI as an iOS Dev
+### By: **Rudrank Riyam**
+AI Prompter and Senior iOS Developer Writer. WWDC '19 Scholar. Independent writer and developer for Apple Platforms.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/rudrank/), [Github](https://github.com/rudrankriyam) 
+
+---
+# 1. Feb 28, 2026
  💻 Swift Mumbai + Haxnation
 
 ## FlutterFlow App Security Explained- Myths, Risks, and Best Practices
