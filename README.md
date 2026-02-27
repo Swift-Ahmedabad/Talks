@@ -20,6 +20,39 @@ iOS Developer (Associate Principal Engineer) at DailyRounds / Marrow
 Follow on: [LinkedIn](https://www.linkedin.com/in/shubham0812/), [Twitter](https://x.com/Shubham_iosdev) 
 
 ---
+# 1. Feb 28, 2026
+ 💻 Swift Mumbai + Haxnation
+
+## FlutterFlow App Security Explained- Myths, Risks, and Best Practices
+### By: **Abhishek Jain**
+Cyber Expert | FlutterFlow Pro | Founder @ BEEPIXL | Tech Partner – CID Gujarat Police
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/mrabhijain/) 
+
+## Mobile App Security - Common Pitfalls and Recommendations
+### By: **Midhet Sulemani**
+SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/midhet/) 
+
+### By: **Hrishikesh Devhare**
+PMP-certified Senior Technical Lead with 15+ years of experience in iOS, macOS, and mobile app development.
+
+Follow on:  
+
+## Security Considerations While Building a Fintech App
+### By: **Rohan Joshi**
+Senior Mobile Engineer @ Tide | MSITM
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/rohanjsh/) 
+
+## The Illusion of Runtime Security
+### By: **Kirankumar**
+Security Engineer III, InfraSec | OSCP | AWS Solution Architect | CEH | Bug Bounty Hunter | Blogger.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kiran-kumar-b58971b2/) 
+
+---
 # 9. Dec 13, 2025
  💻 Swift Ahmedabad December'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/58ixSq6rJ37XoZoQ7)

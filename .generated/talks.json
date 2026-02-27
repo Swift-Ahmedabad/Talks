@@ -15,6 +15,26 @@
     "title" : "Building Interfaces and Animations with SwiftUI"
   },
   {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "39bee26d23e4b167fd5d26e07868fbfddc59b833dd9ea590c9a9bee51d24f4c0",
+    "title" : "FlutterFlow App Security Explained- Myths, Risks, and Best Practices"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "d9ec071864a973d6d8d85bd762d3183482e49978b8983535d01035f3e47b7e69",
+    "title" : "Mobile App Security - Common Pitfalls and Recommendations"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "3d26822905b7e5231bb470ba222a6f96e7902916b8d64b83e40c7df0cb5fce9d",
+    "title" : "Security Considerations While Building a Fintech App"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "747e26a562532228f121a9cd552b5d929a9fbbf78b1ba52954799834e0a3dfec",
+    "title" : "The Illusion of Runtime Security"
+  },
+  {
     "eventID" : "99102a2230a8927e5d54c131cafc3367c7852471d1e354886172976c660849e8",
     "id" : "edf54fd82ba3ac3cd50f52542f75323302e4a6f629f2623578d673270f5154f3",
     "title" : "Swift Bharat Experience"

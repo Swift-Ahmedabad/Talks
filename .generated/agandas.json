@@ -63,6 +63,83 @@
     "type" : "networking"
   },
   {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "f568d8090d824eb1ac79909768a66fd78f206e0c9c838f74ffd6207685d4f75e",
+    "time" : 793947600,
+    "title" : "Registration",
+    "type" : "registration"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "6e033fd7a5daac36b7d270b69e7722cc0835ee819245cb6aab274aab1a52dcf9",
+    "time" : 793949400,
+    "title" : "Community Introduction - Haxnation Mumbai",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "901a93ceca807857da0a4b81f0bea8617d9704880671abd6607660273ac3bc2a",
+    "time" : 793950300,
+    "title" : "The Illusion of Runtime Security",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "52ef746dd65794750f4e753ffe196424cf6f1575a69a199e3f7bdd5f8d5d783b",
+    "time" : 793953000,
+    "title" : "Community Introduction - Flutter Mumbai",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "04b0ea3957c16b212f741fdb79f6d8ddba27cc540e4a3c22c7e9a7ab993a5bba",
+    "time" : 793953900,
+    "title" : "Security Considerations While Building a Fintech App",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "283992a457275644d7e0c99a12fea95b35d22f508a840f3f1a724b6340eaa28d",
+    "time" : 793956600,
+    "title" : "Break",
+    "type" : "break"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "5981b857b0d688db89ba50228ca33dfd9eeb9745bf5b21431fa29010245fd392",
+    "time" : 793958400,
+    "title" : "Community Introduction - FlutterFlow Mumbai",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "7c560027934c9f4481050e0c61204fcbf94b83770ff08bbf0876888308753443",
+    "time" : 793959300,
+    "title" : "FlutterFlow App Security Explained: Myths, Risks, and Best Practices",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "a5a3383aeef8af3feae51dba96175426d56e19362b6218b1116f254a887f84df",
+    "time" : 793960200,
+    "title" : "Community Introduction - Swift Mumbai",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "fcca11701db76a75efa7f20d2fc5b389ee20db78ac19e6620036a5550cc4ba12",
+    "time" : 793961100,
+    "title" : "Mobile App Security - Common Pitfalls and Recommendations",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "c75d70649b691fe2c768d48202e290eaac05727e7d3d2ca57054a94836f94080",
+    "time" : 793963800,
+    "title" : "Networking",
+    "type" : "networking"
+  },
+  {
     "eventID" : "99102a2230a8927e5d54c131cafc3367c7852471d1e354886172976c660849e8",
     "id" : "9ee0b0283c3df49f54d23f60fe856c99f45508b995282ee458773d1fae8c5101",
     "time" : 781849800,

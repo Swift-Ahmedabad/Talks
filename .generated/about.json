@@ -152,6 +152,55 @@
     }
   },
   {
+    "description" : "Community of Apple Platform Developers and Apple’s Swift programming language based in Mumbai, India 🇮🇳",
+    "id" : "587854ea7bec36f196456b3dd823ae0c6f1701a87a9a4f27afbc18498aa96b98",
+    "logo" : "swift-mumbai.jpg",
+    "members" : [
+      {
+        "about" : "Software Engineer @ 100ms | Python | LLM | AI Agents | iOS dabbler",
+        "name" : "Yogesh Singh",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/yogeshsingh2810\/"
+        }
+      },
+      {
+        "about" : "Lead Software Engineer at HERE Technologies | Co-organiser Swift Mumbai",
+        "name" : "Akanksha Sharma",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/akanksharmaa\/"
+        }
+      },
+      {
+        "about" : "iOS at Loco | Community Organiser - Swift Bharat, Swift Bengaluru and Swift Mumbai",
+        "name" : "Raj Raval",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/rajhraval\/"
+        }
+      },
+      {
+        "about" : "Full-Stack Swift Developer | Co-Organizer @ Swift Mumbai | Crafting Apps & Empowering the Dev Community",
+        "name" : "Rushit Rakhasiya",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/rushit-r-757aa0167\/"
+        }
+      },
+      {
+        "about" : "iOS Engineer at Nutrient (formerly PSPDFKit GmbH)",
+        "name" : "Nishant Desai",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/nishantdesai1\/"
+        }
+      }
+    ],
+    "name" : "Swift Mumbai",
+    "socialMedias" : {
+      "instagram" : "https:\/\/www.instagram.com\/swift_mumbai\/",
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swift-mumbai",
+      "luma" : "https:\/\/luma.com\/user\/swiftmumbai",
+      "twitter" : "https:\/\/x.com\/swift_mumbai"
+    }
+  },
+  {
     "description" : "A welcoming space where everyone who is interested in Swift or Apple Ecosystem can connect and grow together.",
     "id" : "af6eae965cda4357726fed771504a26fe6ceaed52bf0e3e81dffd409925bb735",
     "logo" : "swift-ahmedabad.jpg",
