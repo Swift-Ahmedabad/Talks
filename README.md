@@ -1,3 +1,92 @@
+# 1. Feb 28, 2026
+ 💻 Swift Chennai February Edition
+
+## Concurrency in Swift
+### By: **Mohammed Mubashir Medekkar**
+iOS Developer, Zoho Corporation
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/mubashirmeddekar/), [Twitter](https://x.com/mubashirmedekar) 
+
+## Meaningful UI - A Design Story
+### By: **Sameer Rajadnya**
+Sameer Rajadnya is a designer and developer with a multidisciplinary career spanning communication and brand design, web development, and management. He currently works as an independent consultant, advising on web, brand, and digital product design. A self-taught web developer, he bridges design, storytelling and engineering to envision projects end-to-end. He has built and led Multidisciplinary Design Teams at organizations including Teamwork Films, producer of Jaipur Literature Festival and others, and the corporate PR firm The Practice. Most recently Sameer designed, and published an iOS App
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/sameer-rajadnya/), [Portfolio](https://earthclock.in) 
+
+## Building Interfaces and Animations with SwiftUI
+### By: **Shubham Singh**
+iOS Developer (Associate Principal Engineer) at DailyRounds / Marrow
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/shubham0812/), [Twitter](https://x.com/Shubham_iosdev) 
+
+---
+# 1. Feb 28, 2026
+ 💻 Swift Bengaluru x Meesho
+
+## Designing Conversational Skills for Agentic Workflows
+### By: **Akashlal bathe**
+Engineering - iOS
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/akashlal/) 
+
+## Cost of Modularization
+### By: **Hitarth Bhatt**
+iOS Engineer @ Meesho | Ex-Walmart | Swift | SwiftUI
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/hitarth-bhatt/), [Github](https://github.com/Hitarthbhatt) 
+
+## The Swift Student Challenge - A Journey Worth Taking
+### By: **Sinchan Maitri**
+iOS Engineer at Corner. 2x WWDC Scholar, Layers 2018 Scholar. Mobile App and Front-end Web Developer.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/sinchanmaitri/), [Github](https://github.com/sinchanmaitri) 
+
+## Exploring SwiftUI under the hoot
+### By: **Sachin Chandil**
+Tech Lead (iOS) at Meesho. Sr. Android Developer with 3+ years experience in mobile development.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/chandilsachin/), [Github](https://github.com/chandilsachin) 
+
+## AI Driven Coding for ASC CLI as an iOS Dev
+### By: **Rudrank Riyam**
+AI Prompter and Senior iOS Developer Writer. WWDC '19 Scholar. Independent writer and developer for Apple Platforms.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/rudrank/), [Github](https://github.com/rudrankriyam) 
+
+---
+# 1. Feb 28, 2026
+ 💻 Swift Mumbai + Haxnation
+
+## FlutterFlow App Security Explained- Myths, Risks, and Best Practices
+### By: **Abhishek Jain**
+Cyber Expert | FlutterFlow Pro | Founder @ BEEPIXL | Tech Partner – CID Gujarat Police
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/mrabhijain/) 
+
+## Mobile App Security - Common Pitfalls and Recommendations
+### By: **Midhet Sulemani**
+SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/midhet/) 
+
+### By: **Hrishikesh Devhare**
+PMP-certified Senior Technical Lead with 15+ years of experience in iOS, macOS, and mobile app development.
+
+Follow on:  
+
+## Security Considerations While Building a Fintech App
+### By: **Rohan Joshi**
+Senior Mobile Engineer @ Tide | MSITM
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/rohanjsh/) 
+
+## The Illusion of Runtime Security
+### By: **Kirankumar**
+Security Engineer III, InfraSec | OSCP | AWS Solution Architect | CEH | Bug Bounty Hunter | Blogger.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kiran-kumar-b58971b2/) 
+
+---
 # 9. Dec 13, 2025
  💻 Swift Ahmedabad December'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/58ixSq6rJ37XoZoQ7)

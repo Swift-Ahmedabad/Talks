@@ -1,0 +1,46 @@
+name: "Swift Pune"
+description: "A community dedicated to bringing together Swift developers in Pune for learning, sharing knowledge, and growing together."
+logo: "swift-pune.jpg"
+members:
+    - name: "Abhishek Shinde"
+      about: "Senior Software Engineer at Qualys"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/abhishek-shinde-b1855a127/"
+        
+    - name: "Divya Maloo"
+      about: "iOS Developer | Swift Community Organizer | Event Moderator"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/divya-maloo/"
+        
+    - name: "Nikhil Nigade"
+      about: "iOS & macOS Developer | Founder of Dezine Zync | Building Elytra, Pockity & Esfresco"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/nikhil-nigade-4a395b358/"
+        github: "https://github.com/dezinezync"
+        website: "https://dezinezync.com/"
+        mastodon: "https://social.dezinezync.com/@nikhil"
+        
+    - name: "Rimesh Jotaniya"
+      about: "iOS Developer | Swift | UIKit | SwiftUI"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/recursiveswift/"
+        
+    - name: "Swetal Matkar"
+      about: "iOS Developer - Encoding Solutions Pvt. Ltd. | Swift, Objective C"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/swetal-matkar-73a836204/"
+        
+    - name: "MaYur SuSare"
+      about: " iOS Developer | Swift | SwiftUI | UIKit | Objective-C | MVVM & Clean Architecture Advocate | Building Scalable, High-Impact Mobile Apps | Remote"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/msusare/"
+                
+    - name: "Ganesh Patil"
+      about: "Sr. iOS Developer | Helping Engineers Upskill in DSA, System Design & AI | Building CoreLearnly 🚀"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/ganesh-patil-2b3431119/"
+
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/swiftpune/"
+    luma: "https://luma.com/1jb79fac"
+    whatsApp: "https://chat.whatsapp.com/FbfE8mr1aIA8Ac97EHV4yw"

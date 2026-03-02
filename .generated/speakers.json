@@ -1,5 +1,129 @@
 [
   {
+    "about" : "iOS Developer, Zoho Corporation",
+    "id" : "aa63b4b98c8e66f4ac7fed731309475529b86dc28488118aa9e1458659ae5262",
+    "image" : "MohammedMubashirMedekkar.jpeg",
+    "name" : "Mohammed Mubashir Medekkar",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/mubashirmeddekar\/",
+      "twitter" : "https:\/\/x.com\/mubashirmedekar"
+    }
+  },
+  {
+    "about" : "Sameer Rajadnya is a designer and developer with a multidisciplinary career spanning communication and brand design, web development, and management. He currently works as an independent consultant, advising on web, brand, and digital product design. A self-taught web developer, he bridges design, storytelling and engineering to envision projects end-to-end. He has built and led Multidisciplinary Design Teams at organizations including Teamwork Films, producer of Jaipur Literature Festival and others, and the corporate PR firm The Practice. Most recently Sameer designed, and published an iOS App",
+    "id" : "0e689398573250e629f0d285c986be3042f9141d6dbff0e7df074d9884ee0ed5",
+    "image" : "SameerRajadnya.jpeg",
+    "name" : "Sameer Rajadnya",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/sameer-rajadnya\/",
+      "portfolio" : "https:\/\/earthclock.in"
+    }
+  },
+  {
+    "about" : "iOS Developer (Associate Principal Engineer) at DailyRounds \/ Marrow",
+    "id" : "d9c74c8da27a45ee230dee8bbfae751386cc8b7879be3bc6cc20e90255767422",
+    "image" : "ShubhamSingh.jpg",
+    "name" : "Shubham Singh",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/shubham0812\/",
+      "twitter" : "https:\/\/x.com\/Shubham_iosdev"
+    }
+  },
+  {
+    "about" : "Engineering - iOS",
+    "id" : "5039f47fec79f243c308c9cbe0bd547330d6ccfd795b9f6298cd635b0e47a7c2",
+    "image" : "AkashlalBathe.jpeg",
+    "name" : "Akashlal bathe",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/akashlal\/"
+    }
+  },
+  {
+    "about" : "iOS Engineer @ Meesho | Ex-Walmart | Swift | SwiftUI",
+    "id" : "5ab2936ce0f218af0288e010b4cb46783952fbec1046369b34df4a345f8a575c",
+    "image" : "HitarthBhatt.jpeg",
+    "name" : "Hitarth Bhatt",
+    "socials" : {
+      "github" : "https:\/\/github.com\/Hitarthbhatt",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/hitarth-bhatt\/"
+    }
+  },
+  {
+    "about" : "iOS Engineer at Corner. 2x WWDC Scholar, Layers 2018 Scholar. Mobile App and Front-end Web Developer.",
+    "id" : "a6c045f09c503f930ab61428adecd4a8e41234026a41b43e071ee131f212ef6e",
+    "image" : "SinchanMaitri.png",
+    "name" : "Sinchan Maitri",
+    "socials" : {
+      "github" : "https:\/\/github.com\/sinchanmaitri",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/sinchanmaitri\/"
+    }
+  },
+  {
+    "about" : "Tech Lead (iOS) at Meesho. Sr. Android Developer with 3+ years experience in mobile development.",
+    "id" : "82c80eb5dec6e4cabd937d39f12163579dc03d08694597cb8aea0b5bbb7443fe",
+    "image" : "SachinChandil.jpeg",
+    "name" : "Sachin Chandil",
+    "socials" : {
+      "github" : "https:\/\/github.com\/chandilsachin",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/chandilsachin\/"
+    }
+  },
+  {
+    "about" : "AI Prompter and Senior iOS Developer Writer. WWDC '19 Scholar. Independent writer and developer for Apple Platforms.",
+    "id" : "1596e5dfaf1bbf8ac14d864dd553b190ec638f0311f578a34693c9849d7a1037",
+    "image" : "RudrankRiyam.png",
+    "name" : "Rudrank Riyam",
+    "socials" : {
+      "github" : "https:\/\/github.com\/rudrankriyam",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/rudrank\/"
+    }
+  },
+  {
+    "about" : "Cyber Expert | FlutterFlow Pro | Founder @ BEEPIXL | Tech Partner – CID Gujarat Police",
+    "id" : "ff721271e8615818265aa8f75590a8237952ee6daad40bafcfeacdd6c5e9376d",
+    "image" : "AbhishekJain.jpeg",
+    "name" : "Abhishek Jain",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/mrabhijain\/"
+    }
+  },
+  {
+    "about" : "SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code",
+    "id" : "14dce7aa6ff9bb356a1071b51bddef1215b348a14075a960375688cba432d54b",
+    "image" : "MidhetSulemani.jpeg",
+    "name" : "Midhet Sulemani",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/midhet\/"
+    }
+  },
+  {
+    "about" : "PMP-certified Senior Technical Lead with 15+ years of experience in iOS, macOS, and mobile app development.",
+    "id" : "be192f71f12aa4e6deb95d84d40a3af01b3cc18bee860475c1add28291761d64",
+    "image" : "hrishikeshdevhare.jpeg",
+    "name" : "Hrishikesh Devhare",
+    "socials" : {
+
+    }
+  },
+  {
+    "about" : "Senior Mobile Engineer @ Tide | MSITM",
+    "id" : "10e13cc823010292aa7f9b0bc6de7e3306aca73b2406c1bab11066f2eedb5fd5",
+    "image" : "RohanJoshi.png",
+    "name" : "Rohan Joshi",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/rohanjsh\/"
+    }
+  },
+  {
+    "about" : "Security Engineer III, InfraSec | OSCP | AWS Solution Architect | CEH | Bug Bounty Hunter | Blogger.",
+    "id" : "9b50dea065c4f439f4b7d02c38e730a5395e1ba48e0af8b0064719fab3ce5749",
+    "image" : "Kirankumar.jpeg",
+    "name" : "Kirankumar",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kiran-kumar-b58971b2\/"
+    }
+  },
+  {
     "about" : "Sr. iOS Engineer",
     "id" : "d4a1a4d1495dce5806681786869bf81317ef2243d85165b42bcea57bd9412d94",
     "image" : "RatneshJain.png",

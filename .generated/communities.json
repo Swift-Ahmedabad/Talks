@@ -1,0 +1,32 @@
+[
+  {
+    "id" : "2856dd02115a4d23b04112719af92886fd2325dbb62d1aa467a94c5988fb4c61",
+    "logo" : "swift-pune.jpg",
+    "name" : "Swift Pune",
+    "resourcePath" : "Swift Pune"
+  },
+  {
+    "id" : "8576268574968e7254d490c8e8a034c532678e3ffb130c0c271e65c12570ea89",
+    "logo" : "swift-chennai.jpeg",
+    "name" : "Swift Chennai",
+    "resourcePath" : "Swift Chennai"
+  },
+  {
+    "id" : "55650e28cc45b32a5183aa0d90aee7afa282eb4bfbb49021fd154521fa72a267",
+    "logo" : "swift-bengaluru.jpeg",
+    "name" : "Swift Bengaluru",
+    "resourcePath" : "Swift Bengaluru"
+  },
+  {
+    "id" : "587854ea7bec36f196456b3dd823ae0c6f1701a87a9a4f27afbc18498aa96b98",
+    "logo" : "swift-mumbai.jpg",
+    "name" : "Swift Mumbai",
+    "resourcePath" : "Swift Mumbai"
+  },
+  {
+    "id" : "af6eae965cda4357726fed771504a26fe6ceaed52bf0e3e81dffd409925bb735",
+    "logo" : "swift-ahmedabad.jpg",
+    "name" : "Swift Ahmedabad",
+    "resourcePath" : "Swift Ahmedabad"
+  }
+]
