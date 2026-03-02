@@ -1,0 +1,16 @@
+name: "Swift Kozhikode"
+description: "Welcome to Swift Kozhikode, a community for iOS and macOS developers, designers, and enthusiasts in Kozhikode! Whether you're a seasoned professional, a budding developer, or simply passionate about Apple's Swift programming language, this is your space to connect, learn, and grow.\nOur mission is to:\nFoster collaboration and knowledge sharing around Swift, SwiftUI, Xcode, and iOS/macOS app development\nHost engaging sessions including hands-on workshops, tech talks, and discussions with industry experts.\nBuild a vibrant network of developers and innovators contributing to the Apple developer ecosystem from Kerala.\nJoin us to stay updated on our events, hackathons, coding challenges, and much more. Let’s build the future of Swift development together—right here in Kozhikode!\nLet’s code. Let’s connect. Let’s create."
+logo: "swift-kozhikode.png"
+members:
+    - name: "Akshay Njarangal"
+      about: "Technologist with 16+ years in Electronic Design Automation (EDA). MS from IIIT Hyderabad. Swift Bengaluru Organizer, certified life coach, IoT & ML consultant."
+      socials:
+        linkedIn: "https://www.linkedin.com/in/akshay-njarangal/"
+        
+    - name: "Shamil Roshan"
+      about: "Team Lead – iOS Development Driving Scalable, Memory-Efficient Mobile Solutions | Mentor | SOLID Principles Advocate | Swift | UIKit | Combine | CoreBluetooth"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/shamil-roshan/"
+
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/swiftkozhikode/"

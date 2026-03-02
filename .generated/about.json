@@ -201,6 +201,31 @@
     }
   },
   {
+    "description" : "Welcome to Swift Kozhikode, a community for iOS and macOS developers, designers, and enthusiasts in Kozhikode! Whether you're a seasoned professional, a budding developer, or simply passionate about Apple's Swift programming language, this is your space to connect, learn, and grow.\nOur mission is to:\nFoster collaboration and knowledge sharing around Swift, SwiftUI, Xcode, and iOS\/macOS app development\nHost engaging sessions including hands-on workshops, tech talks, and discussions with industry experts.\nBuild a vibrant network of developers and innovators contributing to the Apple developer ecosystem from Kerala.\nJoin us to stay updated on our events, hackathons, coding challenges, and much more. Let’s build the future of Swift development together—right here in Kozhikode!\nLet’s code. Let’s connect. Let’s create.",
+    "id" : "a95537776f2a34ef9f9509211db98130a47bf33a0aa9f84a11b8e0966d3aea03",
+    "logo" : "swift-kozhikode.png",
+    "members" : [
+      {
+        "about" : "Technologist with 16+ years in Electronic Design Automation (EDA). MS from IIIT Hyderabad. Swift Bengaluru Organizer, certified life coach, IoT & ML consultant.",
+        "name" : "Akshay Njarangal",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/akshay-njarangal\/"
+        }
+      },
+      {
+        "about" : "Team Lead – iOS Development Driving Scalable, Memory-Efficient Mobile Solutions | Mentor | SOLID Principles Advocate | Swift | UIKit | Combine | CoreBluetooth",
+        "name" : "Shamil Roshan",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/shamil-roshan\/"
+        }
+      }
+    ],
+    "name" : "Swift Kozhikode",
+    "socialMedias" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftkozhikode\/"
+    }
+  },
+  {
     "description" : "A welcoming space where everyone who is interested in Swift or Apple Ecosystem can connect and grow together.",
     "id" : "af6eae965cda4357726fed771504a26fe6ceaed52bf0e3e81dffd409925bb735",
     "logo" : "swift-ahmedabad.jpg",
