@@ -1,5 +1,26 @@
 [
   {
+    "about" : "Swift Pune - S002",
+    "date" : 794514600,
+    "eventID" : "fe9568936696de3c7ba319c4835289d955db210b266f42eef93a810c70109230",
+    "id" : "c212a95daa1c16558b920910f3840a7f3152f8ec72ba000ab90616301b437ad1",
+    "location" : {
+      "address" : "14th Floor, International Technology Park, Block 1, Wing 2, Kharadi, Pune, Maharashtra 411014",
+      "coordinates" : {
+        "latitude" : 18.5616118,
+        "longitude" : 73.9564067,
+        "zoom" : 17.94
+      },
+      "map" : "https:\/\/www.google.com\/maps\/place\/Xplor+Tech1+Systems+Private+Limited\/@18.5616118,73.9564067,17z\/data=!3m1!4b1!4m6!3m5!1s0x3bc2c34f6c6895e3:0xf4a5781b456b38a3!8m2!3d18.5616118!4d73.9564067!16s%2Fg%2F11vc7hlg62?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D",
+      "name" : "Xplor Tech1 Systems Private Limited"
+    },
+    "registrationLink" : "https:\/\/luma.com\/1jb79fac",
+    "sponsors" : {
+      "foodSponsorID" : "f848321dd7f43d12ddfcd7086c829d8a776666c05350a6cf215310212035b2d2",
+      "vanueSponsorID" : "2e50538d4dd36cc58246a5eb858d566757c09861cfc0fc84f89690eebb1fda90"
+    }
+  },
+  {
     "about" : "Swift Chennai February Edition",
     "date" : 793909800,
     "eventID" : "4eb62b17ead27673dd98da6671d2a18acbca930e93b4f7ddcff454273addee28",
@@ -187,6 +208,27 @@
     "sponsors" : {
       "foodSponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356",
       "vanueSponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356"
+    }
+  },
+  {
+    "about" : "Swift Ahmedabad March'26 Meetup",
+    "date" : 795119400,
+    "eventID" : "fadea523003b0cfef44a97023db3e60edde9195bc84d5807b03dfb6b68639833",
+    "id" : "778df1e667b68316b745c4f622f3bba45ff7bf07342f4b44bebd655695d4238a",
+    "location" : {
+      "address" : "A2, Tenth Floor, Safal Profitaire, Corporate Rd, Prahlad Nagar, Ahmedabad, Gujarat 380015",
+      "coordinates" : {
+        "latitude" : 23.0096067,
+        "longitude" : 72.5062465,
+        "zoom" : 17.94
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Aubergine%20Solutions%20Pvt.%20Ltd.&query_place_id=ChIJu5Ez99yaXjkRka7bue-nctA",
+      "name" : "Aubergine Solutions Pvt. Ltd."
+    },
+    "registrationLink" : "https:\/\/luma.com\/wyi4h6xl",
+    "sponsors" : {
+      "foodSponsorID" : "f848321dd7f43d12ddfcd7086c829d8a776666c05350a6cf215310212035b2d2",
+      "vanueSponsorID" : "2e50538d4dd36cc58246a5eb858d566757c09861cfc0fc84f89690eebb1fda90"
     }
   },
   {
