@@ -8,59 +8,47 @@ location:
         latitude: 18.5616118
         longitude: 73.9564067
         zoom: 17.94
-#agenda:
-#    - time: "10:30 AM"
-#      title: "Registration"
-#      type: "registration"
-#              
-#    - time: "11:00 AM"
-#      title: "Community Introduction - Haxnation Mumbai"
-#      type: "talk"
-#      
-#    - time: "11:15 AM"
-#      title: "The Illusion of Runtime Security"
-#      type: "talk"
-#      speakers:
-#        - "Kirankumar"
-#        
-#    - time: "12:00 PM"
-#      title: "Community Introduction - Flutter Mumbai"
-#      type: "talk"
-#      
-#    - time: "12:15 PM"
-#      title: "Security Considerations While Building a Fintech App"
-#      type: "talk"
-#      speakers:
-#        - "Rohan Joshi"
-#        
-#    - time: "01:00 PM"
-#      title: "Break"
-#      type: "break"
-#        
-#    - time: "01:30 PM"
-#      title: "Community Introduction - FlutterFlow Mumbai"
-#      type: "talk"
-#        
-#    - time: "01:45 PM"
-#      title: "FlutterFlow App Security Explained: Myths, Risks, and Best Practices"
-#      type: "talk"
-#      speakers:
-#        - "Abhishek Jain"
-#        
-#    - time: "02:00 PM"
-#      title: "Community Introduction - Swift Mumbai"
-#      type: "talk"
-#      
-#    - time: "02:15 PM"
-#      title: "Mobile App Security - Common Pitfalls and Recommendations"
-#      type: "talk"
-#      speakers:
-#       - "Midhet Sulemani"
-#       - "Hrishikesh Devhare"
-#    
-#    - time: "03:00 PM"
-#      title: "Networking"
-#      type: "networking"
+agenda:
+    - time: "09:45 AM"
+      title: "Check IN"
+      type: "registration"
+      
+    - time: "10:15 AM"
+      title: "Kanishka's Talk"
+      type: "talk"
+      speakers:
+        - "Kanishka C"
+              
+    - time: "10:35 AM"
+      title: "Vanue Sponsor Note (Xplor)"
+      type: "sponsorTalk"
+
+    - time: "10:50 AM"
+      title: "CI-CD and Automation"
+      type: "talk"
+      speakers:
+        - "Garima S"
+
+    - time: "11:10 AM"
+      title: "Swift Concurrency"
+      type: "talk"
+      speakers:
+        - Divya
+        - Swetal
+
+    - time: "11:30 AM"
+      title: "Refreshments & Networking Break"
+      type: "break"
+        
+    - time: "12:00 PM"
+      title: "Decompose Designs for Apple Platforms"
+      type: "labs"
+      speakers:
+        - "Nikhil Nigade"
+
+    - time: "12:30 PM"
+      title: "Closing"
+      type: "networking"
 
 sponsors:
     vanue:

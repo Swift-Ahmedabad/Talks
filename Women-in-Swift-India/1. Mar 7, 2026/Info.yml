@@ -1,0 +1,15 @@
+about: "Women in Swift: Connect"
+date: "March 7, 2026"
+location:
+    name: "Online"
+    address: "Google Meet"
+    coordinates:
+        latitude: 0
+        longitude: 0
+        zoom: 0
+
+sponsors:
+    vanue:
+    food:
+registrationLink: "https://luma.com/u5e5n7n5"
+instructions: "This is women only event!"

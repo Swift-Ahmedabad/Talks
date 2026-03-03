@@ -1,0 +1,22 @@
+name: "Women in Swift India"
+description: "Learn Grow Share\nCasual, engaging group for women iOS developers to connect, share insights, and discuss their experiences in the Swift ecosystem."
+logo: "women-in-swift-india.jpeg"
+members:
+    - name: "Devanshi Modha"
+      about: "Software Engineer (iOS) | Women Techmakers Ambassador | Tech Evangelist"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/devanshimodha/"
+        
+    - name: "Kajal Sheth"
+      about: "Software Engineer at eClinicalWorks"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/kajal-sheth/"
+        
+    - name: "Akanksha Sharma"
+      about: "Lead Software Engineer at HERE Technologies | Co-organiser Swift Mumbai"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/akanksharmaa/"
+        
+
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/women-in-swift-india"

@@ -85,6 +85,26 @@
     }
   },
   {
+    "about" : "Women in Swift: Connect",
+    "date" : 794514600,
+    "eventID" : "3f7a2d9326b9311196c1826847652082b6bf69461f56aab3a6ee6e9ef2add97c",
+    "id" : "a1b4695e7807f1cef1834c2f8020f5933df1dfdcabcbaf0564ae256f9c0790ac",
+    "instructions" : "This is women only event!",
+    "location" : {
+      "address" : "Google Meet",
+      "coordinates" : {
+        "latitude" : 0,
+        "longitude" : 0,
+        "zoom" : 0
+      },
+      "name" : "Online"
+    },
+    "registrationLink" : "https:\/\/luma.com\/u5e5n7n5",
+    "sponsors" : {
+
+    }
+  },
+  {
     "about" : "Swift Ahmedabad October'25 MeetUp",
     "date" : 781813800,
     "eventID" : "99102a2230a8927e5d54c131cafc3367c7852471d1e354886172976c660849e8",
