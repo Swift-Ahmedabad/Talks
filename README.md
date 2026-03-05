@@ -27,7 +27,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/divya-maloo-72629284/)
 ### By: **Swetal Matkar**
 iOS Developer
 
-Follow on:  
+Follow on: [LinkedIn](https://www.linkedin.com/in/swetal-matkar-73a836204/) 
 
 ## Make Your Apps More Discoverable
 ### By: **Kanishka Chaudhry**
