@@ -6,6 +6,34 @@
 # 1. Mar 8, 2026
  💻 Swift Pune - S002
 
+## CI-CD With Github Action and Fastlane
+### By: **Garima Saini**
+Sr iOS Engineer @xplor
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/garimasaini0/) 
+
+## Decompose Designs for Apple Platforms
+### By: **Nikhil Nigade**
+iOS, macOS and Systems Engineer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/nikhil-nigade-4a395b358/), [Github](https://github.com/dezinezync), [Portfolio](https://dezinezync.com), [Twitter](https://x.com/dezinezync), [Mastodon](https://social.dezinezync.com/@nikhil 
+
+## Swift 6 Migration
+### By: **Divya Maloo**
+Sr. iOS Engineer at PhonePe
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/divya-maloo-72629284/) 
+
+### By: **Swetal Matkar**
+iOS Developer
+
+Follow on:  
+
+## Make Your Apps More Discoverable
+### By: **Kanishka Chaudhry**
+SDE @ Upstox | 2x Apple Scholar | SNHU '25
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 
 
 ---
 # 1. Mar 7, 2026

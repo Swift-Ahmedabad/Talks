@@ -8,57 +8,57 @@ location:
         latitude: 18.5616118
         longitude: 73.9564067
         zoom: 17.94
-#agenda:
-#    - time: "09:45 AM"
-#      title: "Check IN"
-#      type: "registration"
-#      
-#    - time: "10:15 AM"
-#      title: "Kanishka's Talk"
-#      type: "talk"
-#      speakers:
-#        - "Kanishka C"
-#              
-#    - time: "10:35 AM"
-#      title: "Vanue Sponsor Note (Xplor)"
-#      type: "sponsorTalk"
-#
-#    - time: "10:50 AM"
-#      title: "CI-CD and Automation"
-#      type: "talk"
-#      speakers:
-#        - "Garima S"
-#
-#    - time: "11:10 AM"
-#      title: "Swift Concurrency"
-#      type: "talk"
-#      speakers:
-#        - Divya
-#        - Swetal
-#
-#    - time: "11:30 AM"
-#      title: "Refreshments & Networking Break"
-#      type: "break"
-#        
-#    - time: "12:00 PM"
-#      title: "Decompose Designs for Apple Platforms"
-#      type: "labs"
-#      speakers:
-#        - "Nikhil Nigade"
-#
-#    - time: "12:30 PM"
-#      title: "Closing"
-#      type: "networking"
+agenda:
+    - time: "09:45 AM"
+      title: "Check IN"
+      type: "registration"
+      
+    - time: "10:15 AM"
+      title: "Make Your Apps More Discoverable"
+      type: "talk"
+      speakers:
+        - "Kanishka Chaudhry"
+              
+    - time: "10:35 AM"
+      title: "Venue Sponsor Note (Xplor)"
+      type: "sponsorTalk"
+
+    - time: "10:50 AM"
+      title: "CI-CD With Github Action and Fastlane"
+      type: "talk"
+      speakers:
+        - "Garima Saini"
+
+    - time: "11:10 AM"
+      title: "Swift 6 Migration"
+      type: "talk"
+      speakers:
+        - "Divya Maloo"
+        - "Swetal Matkar"
+
+    - time: "11:30 AM"
+      title: "Refreshments & Networking Break"
+      type: "break"
+        
+    - time: "12:00 PM"
+      title: "Decompose Designs for Apple Platforms"
+      type: "labs"
+      speakers:
+        - "Nikhil Nigade"
+
+    - time: "12:30 PM"
+      title: "Closing"
+      type: "networking"
 
 sponsors:
     vanue:
-        name: "Haxnation Mumbai, Flutter Mumbai, Swift Mumbai"
-        website: "https://haxnation.org/mumbai-chapter/"
-        image: "haxnation_meetups_mumbai_.jpeg"
+        name: "Xplor Technologies"
+        website: "https://www.xplortechnologies.com"
+        image: "xplor-technologies.svg"
     food:
-        name: "Haxnation Mumbai, Flutter Mumbai, Swift Mumbai"
-        website: "https://www.linkedin.com/company/fluttermumbai"
-        image: "fluttermumbai_logo.jpeg"
+        name: "Xplor Technologies"
+        website: "https://www.xplortechnologies.com"
+        image: "xplor-technologies.svg"
 
 registrationLink: "https://luma.com/1jb79fac"
 

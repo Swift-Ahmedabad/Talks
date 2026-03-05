@@ -1,5 +1,61 @@
 [
   {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "ee64c8bf7d74d6845b7a4854a831491df3e89a775c2baa9e7755298e5a5e4446",
+    "time" : 794636100,
+    "title" : "Check IN",
+    "type" : "registration"
+  },
+  {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "f8e1ed13a4908dd6347051ee8b259bbcd7042d035dd9885dd40c658c7282f097",
+    "time" : 794637900,
+    "title" : "Make Your Apps More Discoverable",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "a1be141ee826920a23c420cc44b0987533ce11f20a0635e258d234893bd8be6e",
+    "time" : 794639100,
+    "title" : "Venue Sponsor Note (Xplor)",
+    "type" : "sponsorTalk"
+  },
+  {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "db5b899b98761b554b946acdc34e34bb312a29666cd3e9d4dc5cf8de6ee3c24d",
+    "time" : 794640000,
+    "title" : "CI-CD With Github Action and Fastlane",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "52b2fd840cb332dffd3c464d4ab133e0e04865775031cbf6880343f1317716df",
+    "time" : 794641200,
+    "title" : "Swift 6 Migration",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "9cb17a6d509c0df83be3c2ef9d0a31a21d4135e7f01833f1bb2ed3cb843f3183",
+    "time" : 794642400,
+    "title" : "Refreshments & Networking Break",
+    "type" : "break"
+  },
+  {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "e3dccba637c51f5df2f7f69c83cc0aa318075589480ece8be52ee0b2ab04c6b8",
+    "time" : 794644200,
+    "title" : "Decompose Designs for Apple Platforms",
+    "type" : "labs"
+  },
+  {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "953422d37f5b9e90035f9306a46c861c336a01124c736ec7575ac1454a481c18",
+    "time" : 794646000,
+    "title" : "Closing",
+    "type" : "networking"
+  },
+  {
     "eventID" : "4eb62b17ead27673dd98da6671d2a18acbca930e93b4f7ddcff454273addee28",
     "id" : "0262d4585f56173606cda0fa122f6310fa3d251cdb0cceb8d1f2a62121a6de10",
     "time" : 793942200,

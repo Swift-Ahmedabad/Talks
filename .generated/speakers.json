@@ -1,5 +1,57 @@
 [
   {
+    "about" : "Sr iOS Engineer @xplor",
+    "id" : "45d3a9d1482c01b3139c58bb7308b4f3e0492ab0b0d2c3260ed44ea864efa70a",
+    "image" : "garima-saini.jpeg",
+    "name" : "Garima Saini",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/garimasaini0\/"
+    }
+  },
+  {
+    "about" : "iOS, macOS and Systems Engineer",
+    "id" : "9c3bf98ff09875c3a20f5beef8a404f16db0ba79039e82421d2ead8a4bdd3762",
+    "image" : "nikhil-nigade.jpeg",
+    "name" : "Nikhil Nigade",
+    "socials" : {
+      "github" : "https:\/\/github.com\/dezinezync",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/nikhil-nigade-4a395b358\/",
+      "mastodon" : "https:\/\/social.dezinezync.com\/@nikhil",
+      "portfolio" : "https:\/\/dezinezync.com",
+      "twitter" : "https:\/\/x.com\/dezinezync"
+    }
+  },
+  {
+    "about" : "Sr. iOS Engineer at PhonePe",
+    "id" : "821ad90472780fddf41b8c60489f86adf37d9d03f310a0182b85513980406741",
+    "image" : "divya-maloo.jpeg",
+    "name" : "Divya Maloo",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/divya-maloo-72629284\/"
+    }
+  },
+  {
+    "about" : "iOS Developer",
+    "id" : "33b9eb697e2dcb694967d1e3aceb919ae2e87860ff69b701ad9d4669a8e9b489",
+    "image" : "swetal-matkar.jpeg",
+    "name" : "Swetal Matkar",
+    "socials" : {
+
+    }
+  },
+  {
+    "about" : "SDE @ Upstox | 2x Apple Scholar | SNHU '25",
+    "id" : "cc63742cf8b6621a970040615f1acb66ccd16829a30a69b28f37025b168e57fa",
+    "image" : "KanishkaChaudhry.jpeg",
+    "name" : "Kanishka Chaudhry",
+    "socials" : {
+      "github" : "https:\/\/github.com\/Kanishka3",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kanishka-c\/",
+      "portfolio" : "https:\/\/kanishkawilliamson.wordpress.com",
+      "twitter" : "https:\/\/twitter.com\/ralasi_"
+    }
+  },
+  {
     "about" : "iOS Developer, Zoho Corporation",
     "id" : "aa63b4b98c8e66f4ac7fed731309475529b86dc28488118aa9e1458659ae5262",
     "image" : "MohammedMubashirMedekkar.jpeg",
