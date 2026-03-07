@@ -43,6 +43,8 @@ agenda:
     - time: "12:00 PM"
       title: "Decompose Designs for Apple Platforms"
       type: "labs"
+      starterProject: "https://github.com/dezinezync/SwiftPuneS002-Labs-Starter"
+      finalProject: "https://github.com/dezinezync/SwiftPuneS002-Labs-Final"
       speakers:
         - "Nikhil Nigade"
 
