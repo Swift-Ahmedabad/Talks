@@ -173,5 +173,10 @@
     "id" : "19ee6ccdc0b44eb449cfd7a2aa634b221c084da67cfdf5be6516d931534a18c7",
     "title" : "RevenueFlo Blog",
     "url" : "https:\/\/revenueflo.com\/blog\/rss.xml"
+  },
+  {
+    "id" : "d6021a3689a6200971fe71460dc990c3b4e053ab8e131f5a3103af44b52a5340",
+    "title" : "SwiftRocks",
+    "url" : "https:\/\/swiftrocks.com\/rss.xml"
   }
 ]
