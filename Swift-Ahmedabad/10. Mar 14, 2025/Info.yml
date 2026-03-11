@@ -8,59 +8,51 @@ location:
         latitude: 23.0096067
         longitude: 72.5062465
         zoom: 17.94
-#agenda:
-#    - time: "10:30 AM"
-#      title: "Registration"
-#      type: "registration"
-#              
-#    - time: "11:00 AM"
-#      title: "Community Introduction - Haxnation Mumbai"
-#      type: "talk"
-#      
-#    - time: "11:15 AM"
-#      title: "The Illusion of Runtime Security"
-#      type: "talk"
-#      speakers:
-#        - "Kirankumar"
-#        
-#    - time: "12:00 PM"
-#      title: "Community Introduction - Flutter Mumbai"
-#      type: "talk"
-#      
-#    - time: "12:15 PM"
-#      title: "Security Considerations While Building a Fintech App"
-#      type: "talk"
-#      speakers:
-#        - "Rohan Joshi"
-#        
-#    - time: "01:00 PM"
-#      title: "Break"
-#      type: "break"
-#        
-#    - time: "01:30 PM"
-#      title: "Community Introduction - FlutterFlow Mumbai"
-#      type: "talk"
-#        
-#    - time: "01:45 PM"
-#      title: "FlutterFlow App Security Explained: Myths, Risks, and Best Practices"
-#      type: "talk"
-#      speakers:
-#        - "Abhishek Jain"
-#        
-#    - time: "02:00 PM"
-#      title: "Community Introduction - Swift Mumbai"
-#      type: "talk"
-#      
-#    - time: "02:15 PM"
-#      title: "Mobile App Security - Common Pitfalls and Recommendations"
-#      type: "talk"
-#      speakers:
-#       - "Midhet Sulemani"
-#       - "Hrishikesh Devhare"
-#    
-#    - time: "03:00 PM"
-#      title: "Networking"
-#      type: "networking"
+agenda:
+    - time: "09:45 AM"
+      title: "Registration"
+      type: "registration"
+              
+    - time: "10:15 AM"
+      title: "Introduction"
+      type: "talk"
+
+    - time: "10:30 AM"
+      title: "From Data to Delight - Integrating AI into iOS Applications"
+      type: "talk"
+      speakers:
+        - "Tiwari Vinay"
+        
+    - time: "11:00 AM"
+      title: "Break"
+      type: "break"
+
+    - time: "11:15 AM"
+      title: "Fun Quiz"
+      type: "talk"
+        
+    - time: "11:35 AM"
+      title: "Figma Code Connect For Swifter UI Creation"
+      type: "talk"
+      speakers:
+        - "Kanishka Chaudhry"
+
+    - time: "12:05 PM"
+      title: "Designing Reliable Connected-Device Apps with Swift and BLE"
+      type: "talk"
+      speakers:
+        - "Pradip Sutariya"
+        - "Rahul Parmar"
+        
+    - time: "12:50 PM"
+      title: "Community Update"
+      type: "talk"
+      speakers:
+        - "Ratnesh Jain"
+
+    - time: "01:00 PM"
+      title: "Networking"
+      type: "networking"
 
 sponsors:
     vanue:

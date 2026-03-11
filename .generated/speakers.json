@@ -189,9 +189,9 @@
   },
   {
     "about" : "SDE @ Upstox | 2x Apple Scholar | SNHU '25",
-    "id" : "6f6739f8a62b951ca7eec1940e5b0d9d9d1661e5556739bcc8cf27ac34e039af",
-    "image" : "KanishkaC.jpeg",
-    "name" : "Kanishka C",
+    "id" : "cc63742cf8b6621a970040615f1acb66ccd16829a30a69b28f37025b168e57fa",
+    "image" : "KanishkaChaudhry.jpeg",
+    "name" : "Kanishka Chaudhry",
     "socials" : {
       "github" : "https:\/\/github.com\/Kanishka3",
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/kanishka-c\/",
@@ -411,6 +411,45 @@
     "name" : "Saumil Shah",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/adeptdevtips\/"
+    }
+  },
+  {
+    "about" : "A software engineer with over 9 years of experience in mobile and full-cycle application development, with a strong focus on iOS and AI\/ML. I currently work at TCS, Gandhinagar, where I build and contribute to scalable, real-world technology solutions. I’m passionate about creating intelligent products, mentoring aspiring developers, and sharing practical industry insights through tech talks.",
+    "id" : "4c4b0e235f4fb05e1e393cb748237c7ace8f903203b4d0535c9e52d083bb84e3",
+    "image" : "TiwariVinay.jpeg",
+    "name" : "Tiwari Vinay",
+    "socials" : {
+      "linkedIn" : "https:\/\/in.linkedin.com\/in\/vinay-tiwari-60214289"
+    }
+  },
+  {
+    "about" : "SDE @ Upstox | 2x Apple Scholar | SNHU '25",
+    "id" : "cc63742cf8b6621a970040615f1acb66ccd16829a30a69b28f37025b168e57fa",
+    "image" : "KanishkaChaudhry.jpeg",
+    "name" : "Kanishka Chaudhry",
+    "socials" : {
+      "github" : "https:\/\/github.com\/Kanishka3",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kanishka-c\/",
+      "portfolio" : "https:\/\/kanishkawilliamson.wordpress.com",
+      "twitter" : "https:\/\/twitter.com\/ralasi_"
+    }
+  },
+  {
+    "about" : "With over 10 years of experience in mobile development, I specialize in designing and delivering robust applications across the Apple ecosystem including iOS, iPad, Apple Watch (watchOS), Mac (macOS), and CarPlay as well as cross-platform solutions using Flutter for both iOS and Android. I have a proven track record of building high-quality apps that solve complex problems through smart use of algorithms, design patterns, and cutting-edge technologies.\nMy expertise extends to Bluetooth Low Energy (BLE), Swift, Swift-UI, Objective-C, and Dart, allowing me to create seamless, innovative, and reliable mobile experiences that connect users with the latest IoT and wearable technologies.\nI’m passionate about collaborating with teams and clients to turn ideas into reality, delivering mobile solutions that stand out in performance and usability.",
+    "id" : "fce5dda8559fa899e7cef563911f46dd98a319d9122afd331c018a75b3fe1c11",
+    "image" : "PradipSutariya.jpeg",
+    "name" : "Pradip Sutariya",
+    "socials" : {
+      "linkedIn" : "https:\/\/linkedin.com\/in\/pradip-sutariya-926660113"
+    }
+  },
+  {
+    "about" : "AWS Certified Developer- Associate || Associate Software Engineer @Aubergine Solutions Pvt. Ltd. Dharmsinh Desai University || Information and Technology",
+    "id" : "74fb1c39e00b710a9cff7a79484337ef98c4f2c48f7b7266414d4bed115b5904",
+    "image" : "RahulParmar.jpeg",
+    "name" : "Rahul Parmar",
+    "socials" : {
+
     }
   },
   {
