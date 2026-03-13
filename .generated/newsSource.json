@@ -183,5 +183,10 @@
     "id" : "6925900a27f6f83cb5d527f6a5f4f13d33c33b89c5fbccaa40286ad2c5b7e477",
     "title" : "Kyle Browning",
     "url" : "https:\/\/kylebrowning.com\/feed.rss"
+  },
+  {
+    "id" : "257a03ca07b078f12a93ad193fcf6c3a1dae105b5103f00fb0c756f3e3057e16",
+    "title" : "iOS Dev Tools",
+    "url" : "https:\/\/iosdevtools.substack.com\/feed"
   }
 ]
