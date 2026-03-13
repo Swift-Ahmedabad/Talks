@@ -178,5 +178,10 @@
     "id" : "d6021a3689a6200971fe71460dc990c3b4e053ab8e131f5a3103af44b52a5340",
     "title" : "SwiftRocks",
     "url" : "https:\/\/swiftrocks.com\/rss.xml"
+  },
+  {
+    "id" : "6925900a27f6f83cb5d527f6a5f4f13d33c33b89c5fbccaa40286ad2c5b7e477",
+    "title" : "Kyle Browning",
+    "url" : "https:\/\/kylebrowning.com\/feed.rss"
   }
 ]
