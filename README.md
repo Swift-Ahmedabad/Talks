@@ -1,6 +1,6 @@
 # 10. Mar 14, 2025
  💻 Swift Ahmedabad March'26 Meetup
-
+### 📸 [Event Photos](https://photos.app.goo.gl/wDtRjHpfGjr29uQr5)
 ## From Data to Delight - Integrating AI into iOS Applications
 ### By: **Tiwari Vinay**
 A software engineer with over 9 years of experience in mobile and full-cycle application development, with a strong focus on iOS and AI/ML. I currently work at TCS, Gandhinagar, where I build and contribute to scalable, real-world technology solutions. I’m passionate about creating intelligent products, mentoring aspiring developers, and sharing practical industry insights through tech talks.
