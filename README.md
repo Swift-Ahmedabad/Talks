@@ -1,3 +1,8 @@
+# 2. Mar 28, 2026
+ 💻 Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻
+
+
+---
 # 10. Mar 14, 2025
  💻 Swift Ahmedabad March'26 Meetup
 ### 📸 [Event Photos](https://photos.app.goo.gl/wDtRjHpfGjr29uQr5)

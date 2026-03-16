@@ -43,6 +43,26 @@
     }
   },
   {
+    "about" : "Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻",
+    "date" : 796329000,
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "id" : "4731abde22cd95f9df0654d325ec455e37a87e1590413c4dec42f78b96c10ccc",
+    "location" : {
+      "address" : "Prestige Minsk Square, Cubbon Rd, Vasanth Nagar, Bengaluru, Karnataka 560001",
+      "coordinates" : {
+        "latitude" : 12.9818418,
+        "longitude" : 77.5935076,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Meesho%20HQ%20Bengaluru",
+      "name" : "Prestige Minsk Square"
+    },
+    "registrationLink" : "https:\/\/luma.com\/thwv7uvt",
+    "sponsors" : {
+
+    }
+  },
+  {
     "about" : "Swift Bengaluru x Meesho",
     "date" : 793909800,
     "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
