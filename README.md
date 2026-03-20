@@ -1,7 +1,7 @@
 # 2. Mar 28, 2026
  💻 Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻
 
-## AI-Powered-Design-and-seamless-iOS-Collaboration-for-FasterDelivery
+## AI Powered Design and seamless iOS Collaboration for Faster Delivery
 ### By: **Shivani Gaur**
 Sr. Product Designer at Procore Technologies
 
