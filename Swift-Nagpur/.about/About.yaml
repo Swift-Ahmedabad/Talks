@@ -1,0 +1,21 @@
+name: "Swift Nagpur"
+description: "Community of Apple Platform Developers and Apple’s Swift programming language based in Nagpur, India 🇮🇳"
+logo: "swift-nagpur.jpeg"
+members:
+    - name: "Mr. Vedang Kulkarni"
+      about: "iOS Developer | Creator of Revu+ | Originator @ Swift Nagpur | President @ CodeWare | Co-Organizer @ GDG"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/vedang-kulkarni-vk18"
+        
+    - name: "Dr. Nikhil Mangrulkar"
+      about: "Assistant Professor at Symbiosis Institute of Technology Nagpur"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/nikhil-mangrulkar-ph-d-998b1567"
+        
+    - name: "Ms. Pinak Rokde"
+      about: "International Badminton Player | 3rd Year Engineering Student at Symbiosis Institute of Technology, Nagpur"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/pinak-rokde-42a9a0292"
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/swiftnagpur/"
+    instagram: "https://www.instagram.com/swift.nagpur"

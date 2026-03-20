@@ -204,6 +204,39 @@
     }
   },
   {
+    "description" : "Community of Apple Platform Developers and Apple’s Swift programming language based in Nagpur, India 🇮🇳",
+    "id" : "8fdfea503ba2496f7e36ffa9ae89cd740b33fb08342d4d652113a918c572cd99",
+    "logo" : "swift-nagpur.jpeg",
+    "members" : [
+      {
+        "about" : "iOS Developer | Creator of Revu+ | Originator @ Swift Nagpur | President @ CodeWare | Co-Organizer @ GDG",
+        "name" : "Mr. Vedang Kulkarni",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/vedang-kulkarni-vk18"
+        }
+      },
+      {
+        "about" : "Assistant Professor at Symbiosis Institute of Technology Nagpur",
+        "name" : "Dr. Nikhil Mangrulkar",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/nikhil-mangrulkar-ph-d-998b1567"
+        }
+      },
+      {
+        "about" : "International Badminton Player | 3rd Year Engineering Student at Symbiosis Institute of Technology, Nagpur",
+        "name" : "Ms. Pinak Rokde",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/pinak-rokde-42a9a0292"
+        }
+      }
+    ],
+    "name" : "Swift Nagpur",
+    "socialMedias" : {
+      "instagram" : "https:\/\/www.instagram.com\/swift.nagpur",
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftnagpur\/"
+    }
+  },
+  {
     "description" : "Learn Grow Share\nCasual, engaging group for women iOS developers to connect, share insights, and discuss their experiences in the Swift ecosystem.",
     "id" : "b03bea8e02951cbf2a87f377bb2b5daae080f8be62304192a1b926cbdcceec3f",
     "logo" : "women-in-swift-india.jpeg",
