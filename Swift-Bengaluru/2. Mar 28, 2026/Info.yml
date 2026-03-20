@@ -1,0 +1,26 @@
+about: "Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻"
+date: "March 28, 2026"
+location:
+    name: "Prestige Minsk Square"
+    map: "https://www.google.com/maps/search/?api=1&query=Meesho%20HQ%20Bengaluru"
+    address: "Prestige Minsk Square, Cubbon Rd, Vasanth Nagar, Bengaluru, Karnataka 560001"
+    coordinates:
+        latitude: 12.9818418
+        longitude: 77.5935076
+        zoom: 17
+#agenda:
+#    - time: "09:30 AM"
+#      title: "Arrival & Registration"
+#      type: "registration"
+#        
+#    - time: "1:30 PM"
+#      title: "Closing & Group Photo"
+#      type: "networking"
+sponsors:
+    vanue:
+#        name: "Meesho"
+#        website: "https://www.meesho.com"
+#        image: "../.sponsorsAssets/meesho.png"
+
+registrationLink: "https://luma.com/thwv7uvt"
+instructions: "​We’re excited to bring the community together for our March Edition Meetup with an all Women Speaker Lineup!"

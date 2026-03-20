@@ -1,5 +1,26 @@
 [
   {
+    "about" : "Swift Pune - S002",
+    "date" : 794601000,
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "68beee87855fb2c2d77c023a2f84780ad8167f38a4da1fcb7e63437cbb116a69",
+    "location" : {
+      "address" : "14th Floor, International Technology Park, Block 1, Wing 2, Kharadi, Pune, Maharashtra 411014",
+      "coordinates" : {
+        "latitude" : 18.5616118,
+        "longitude" : 73.9564067,
+        "zoom" : 17.94
+      },
+      "map" : "https:\/\/www.google.com\/maps\/place\/Xplor+Tech1+Systems+Private+Limited\/@18.5616118,73.9564067,17z\/data=!3m1!4b1!4m6!3m5!1s0x3bc2c34f6c6895e3:0xf4a5781b456b38a3!8m2!3d18.5616118!4d73.9564067!16s%2Fg%2F11vc7hlg62?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D",
+      "name" : "Xplor Tech1 Systems Private Limited"
+    },
+    "registrationLink" : "https:\/\/luma.com\/1jb79fac",
+    "sponsors" : {
+      "foodSponsorID" : "28a85fe5dfddbdcdddb4680200dab2d40766b0b9a822317244ccb788a24f07fd",
+      "vanueSponsorID" : "28a85fe5dfddbdcdddb4680200dab2d40766b0b9a822317244ccb788a24f07fd"
+    }
+  },
+  {
     "about" : "Swift Chennai February Edition",
     "date" : 793909800,
     "eventID" : "4eb62b17ead27673dd98da6671d2a18acbca930e93b4f7ddcff454273addee28",
@@ -14,10 +35,32 @@
       "map" : "https:\/\/www.google.com\/maps\/place\/Zoho+Corporation\/@12.8308,80.0494292,19.8z\/data=!4m10!1m2!2m1!1szoho+corporation+chennai!3m6!1s0x3a5260db1ff54b03:0xa8af6b8bb6419d6f!8m2!3d12.8310776!4d80.0493569!15sChh6b2hvIGNvcnBvcmF0aW9uIGNoZW5uYWlaGiIYem9obyBjb3Jwb3JhdGlvbiBjaGVubmFpkgEQc29mdHdhcmVfY29tcGFueZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VRdGRrMVBUbVJCRUFF4AEA-gEECGsQTA!16s%2Fg%2F1hf6k4nqn?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
       "name" : "Zoho Coorporation, Chennai"
     },
+    "photoURL" : "https:\/\/drive.google.com\/drive\/folders\/1arMOXb5GbtK7IWh3zvJry9Ie5f_9XlO-",
     "registrationLink" : "https:\/\/indehub.zohobackstage.in\/SwiftChennaiFebruaryEdition#\/buyTickets\/shareDetails?currentOrderId=59726000000168210",
     "sponsors" : {
       "foodSponsorID" : "d0ac838257a0feb3efaeaa7e1abe0f712e24274e9d680e8b90f4522785084b92",
       "vanueSponsorID" : "d0ac838257a0feb3efaeaa7e1abe0f712e24274e9d680e8b90f4522785084b92"
+    }
+  },
+  {
+    "about" : "Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻",
+    "date" : 796329000,
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "id" : "4731abde22cd95f9df0654d325ec455e37a87e1590413c4dec42f78b96c10ccc",
+    "instructions" : "​We’re excited to bring the community together for our March Edition Meetup with an all Women Speaker Lineup!",
+    "location" : {
+      "address" : "Prestige Minsk Square, Cubbon Rd, Vasanth Nagar, Bengaluru, Karnataka 560001",
+      "coordinates" : {
+        "latitude" : 12.9818418,
+        "longitude" : 77.5935076,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Meesho%20HQ%20Bengaluru",
+      "name" : "Prestige Minsk Square"
+    },
+    "registrationLink" : "https:\/\/luma.com\/thwv7uvt",
+    "sponsors" : {
+
     }
   },
   {
@@ -55,10 +98,31 @@
       "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=TalaKunchi%20Networks%20Pvt%20Ltd&query_place_id=ChIJ82BTaFK25zsRbUtp-os9uuA",
       "name" : "TalaKunchi Networks Pvt Ltd"
     },
+    "photoURL" : "https:\/\/drive.google.com\/drive\/folders\/1tOBeqz26LQwG5etSo7o4leE49s1m2uwa",
     "registrationLink" : "https:\/\/luma.com\/20qzxuqr",
     "sponsors" : {
       "foodSponsorID" : "f848321dd7f43d12ddfcd7086c829d8a776666c05350a6cf215310212035b2d2",
       "vanueSponsorID" : "2e50538d4dd36cc58246a5eb858d566757c09861cfc0fc84f89690eebb1fda90"
+    }
+  },
+  {
+    "about" : "Women in Swift: Connect",
+    "date" : 794514600,
+    "eventID" : "3f7a2d9326b9311196c1826847652082b6bf69461f56aab3a6ee6e9ef2add97c",
+    "id" : "a1b4695e7807f1cef1834c2f8020f5933df1dfdcabcbaf0564ae256f9c0790ac",
+    "instructions" : "This is women only event!",
+    "location" : {
+      "address" : "Google Meet",
+      "coordinates" : {
+        "latitude" : 0,
+        "longitude" : 0,
+        "zoom" : 0
+      },
+      "name" : "Online"
+    },
+    "registrationLink" : "https:\/\/luma.com\/u5e5n7n5",
+    "sponsors" : {
+
     }
   },
   {
@@ -185,6 +249,27 @@
     "sponsors" : {
       "foodSponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356",
       "vanueSponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356"
+    }
+  },
+  {
+    "about" : "Swift Ahmedabad March'26 Meetup",
+    "date" : 795119400,
+    "eventID" : "fadea523003b0cfef44a97023db3e60edde9195bc84d5807b03dfb6b68639833",
+    "id" : "778df1e667b68316b745c4f622f3bba45ff7bf07342f4b44bebd655695d4238a",
+    "location" : {
+      "address" : "A2, Tenth Floor, Safal Profitaire, Corporate Rd, Prahlad Nagar, Ahmedabad, Gujarat 380015",
+      "coordinates" : {
+        "latitude" : 23.0096067,
+        "longitude" : 72.5062465,
+        "zoom" : 17.94
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Aubergine%20Solutions%20Pvt.%20Ltd.&query_place_id=ChIJu5Ez99yaXjkRka7bue-nctA",
+      "name" : "Aubergine Solutions Pvt. Ltd."
+    },
+    "photoURL" : "https:\/\/photos.app.goo.gl\/wDtRjHpfGjr29uQr5",
+    "registrationLink" : "https:\/\/luma.com\/wyi4h6xl",
+    "sponsors" : {
+      "vanueSponsorID" : "d449d46e5ff9505a02f7a922023ba1981687e3690f043bfced004a0404256e0f"
     }
   },
   {

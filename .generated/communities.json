@@ -24,6 +24,18 @@
     "resourcePath" : "Swift Mumbai"
   },
   {
+    "id" : "b03bea8e02951cbf2a87f377bb2b5daae080f8be62304192a1b926cbdcceec3f",
+    "logo" : "women-in-swift-india.jpeg",
+    "name" : "Women in Swift India",
+    "resourcePath" : "Women in Swift India"
+  },
+  {
+    "id" : "a95537776f2a34ef9f9509211db98130a47bf33a0aa9f84a11b8e0966d3aea03",
+    "logo" : "swift-kozhikode.png",
+    "name" : "Swift Kozhikode",
+    "resourcePath" : "Swift Kozhikode"
+  },
+  {
     "id" : "af6eae965cda4357726fed771504a26fe6ceaed52bf0e3e81dffd409925bb735",
     "logo" : "swift-ahmedabad.jpg",
     "name" : "Swift Ahmedabad",

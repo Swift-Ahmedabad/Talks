@@ -23,7 +23,8 @@
         "name" : "Nikhil Nigade",
         "socials" : {
           "github" : "https:\/\/github.com\/dezinezync",
-          "linkedIn" : "https:\/\/www.linkedin.com\/in\/nikhil-nigade-4a395b358\/"
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/nikhil-nigade-4a395b358\/",
+          "mastodon" : "https:\/\/social.dezinezync.com\/@nikhil"
         }
       },
       {
@@ -148,6 +149,7 @@
     "socialMedias" : {
       "github" : "https:\/\/github.com\/swiftbengaluru",
       "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftbengaluru",
+      "portfolio" : "https:\/\/swiftbengaluru.org",
       "twitter" : "https:\/\/x.com\/swiftbengaluru"
     }
   },
@@ -197,7 +199,65 @@
       "instagram" : "https:\/\/www.instagram.com\/swift_mumbai\/",
       "linkedIn" : "https:\/\/www.linkedin.com\/company\/swift-mumbai",
       "luma" : "https:\/\/luma.com\/user\/swiftmumbai",
+      "portfolio" : "https:\/\/swiftmumbai.in",
       "twitter" : "https:\/\/x.com\/swift_mumbai"
+    }
+  },
+  {
+    "description" : "Learn Grow Share\nCasual, engaging group for women iOS developers to connect, share insights, and discuss their experiences in the Swift ecosystem.",
+    "id" : "b03bea8e02951cbf2a87f377bb2b5daae080f8be62304192a1b926cbdcceec3f",
+    "logo" : "women-in-swift-india.jpeg",
+    "members" : [
+      {
+        "about" : "Software Engineer (iOS) | Women Techmakers Ambassador | Tech Evangelist",
+        "name" : "Devanshi Modha",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/devanshimodha\/"
+        }
+      },
+      {
+        "about" : "Software Engineer at eClinicalWorks",
+        "name" : "Kajal Sheth",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/kajal-sheth\/"
+        }
+      },
+      {
+        "about" : "Lead Software Engineer at HERE Technologies | Co-organiser Swift Mumbai",
+        "name" : "Akanksha Sharma",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/akanksharmaa\/"
+        }
+      }
+    ],
+    "name" : "Women in Swift India",
+    "socialMedias" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/women-in-swift-india"
+    }
+  },
+  {
+    "description" : "Welcome to Swift Kozhikode, a community for iOS and macOS developers, designers, and enthusiasts in Kozhikode! Whether you're a seasoned professional, a budding developer, or simply passionate about Apple's Swift programming language, this is your space to connect, learn, and grow.\nOur mission is to:\nFoster collaboration and knowledge sharing around Swift, SwiftUI, Xcode, and iOS\/macOS app development\nHost engaging sessions including hands-on workshops, tech talks, and discussions with industry experts.\nBuild a vibrant network of developers and innovators contributing to the Apple developer ecosystem from Kerala.\nJoin us to stay updated on our events, hackathons, coding challenges, and much more. Let’s build the future of Swift development together—right here in Kozhikode!\nLet’s code. Let’s connect. Let’s create.",
+    "id" : "a95537776f2a34ef9f9509211db98130a47bf33a0aa9f84a11b8e0966d3aea03",
+    "logo" : "swift-kozhikode.png",
+    "members" : [
+      {
+        "about" : "Co-Founder & iOS Developer @ TicketDot",
+        "name" : "Akshay Njarangal",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/akshay-njarangal\/"
+        }
+      },
+      {
+        "about" : "Team Lead – iOS Development Driving Scalable, Memory-Efficient Mobile Solutions | Mentor | SOLID Principles Advocate | Swift | UIKit | Combine | CoreBluetooth",
+        "name" : "Shamil Roshan",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/shamil-roshan\/"
+        }
+      }
+    ],
+    "name" : "Swift Kozhikode",
+    "socialMedias" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftkozhikode\/"
     }
   },
   {
@@ -220,8 +280,8 @@
         }
       },
       {
-        "about" : "Software Engineer",
-        "name" : "Kajal Seth",
+        "about" : "Software Engineer at eClinicalWorks",
+        "name" : "Kajal Sheth",
         "socials" : {
           "linkedIn" : "https:\/\/www.linkedin.com\/in\/kajal-sheth\/"
         }
@@ -353,6 +413,7 @@
       "instagram" : "https:\/\/www.instagram.com\/swift.ahmedabad\/",
       "linkedIn" : "https:\/\/www.linkedin.com\/company\/swift-ahmedabad\/",
       "luma" : "https:\/\/luma.com\/user\/swiftahmedabad",
+      "portfolio" : "https:\/\/swift-ahmedabad.github.io",
       "twitter" : "https:\/\/x.com\/swift_ahmedabad",
       "whatsApp" : "https:\/\/chat.whatsapp.com\/FlZuWzMf8ak8C8yAmfRRVf"
     }

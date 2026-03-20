@@ -168,5 +168,40 @@
     "id" : "45d64dc5f6a2ce936c92b946beccf55b4c5e7f6d83780feadc9c5b69f055caa9",
     "title" : "DimsumThinking by Daniel Steinberg",
     "url" : "https:\/\/dimsumthinking.com\/rss.xml"
+  },
+  {
+    "id" : "19ee6ccdc0b44eb449cfd7a2aa634b221c084da67cfdf5be6516d931534a18c7",
+    "title" : "RevenueFlo Blog",
+    "url" : "https:\/\/revenueflo.com\/blog\/rss.xml"
+  },
+  {
+    "id" : "d6021a3689a6200971fe71460dc990c3b4e053ab8e131f5a3103af44b52a5340",
+    "title" : "SwiftRocks",
+    "url" : "https:\/\/swiftrocks.com\/rss.xml"
+  },
+  {
+    "id" : "6925900a27f6f83cb5d527f6a5f4f13d33c33b89c5fbccaa40286ad2c5b7e477",
+    "title" : "Kyle Browning",
+    "url" : "https:\/\/kylebrowning.com\/feed.rss"
+  },
+  {
+    "id" : "257a03ca07b078f12a93ad193fcf6c3a1dae105b5103f00fb0c756f3e3057e16",
+    "title" : "iOS Dev Tools",
+    "url" : "https:\/\/iosdevtools.substack.com\/feed"
+  },
+  {
+    "id" : "3ddc389d84b8d710c1a83bea3839e39e70d2cc1e0d8d4a0867b6ce802e2cec10",
+    "title" : "Anton Gubarenko",
+    "url" : "https:\/\/antongubarenko.substack.com\/feed"
+  },
+  {
+    "id" : "79da7e16a00eaa931db74962ae3c195fe0390d015fe7ab6bb20bf0ada0042537",
+    "title" : "Dinijela Vrzan",
+    "url" : "https:\/\/danijelavrzan.com\/rss.xml"
+  },
+  {
+    "id" : "cabd68ec07ff61d8753d164b64678ffd125bad83cc0a3d78bdd40b16955db2e5",
+    "title" : "Raja Vijayaraman",
+    "url" : "https:\/\/rajavijayaraman.com\/rss.xml"
   }
 ]

@@ -1,6 +1,78 @@
+# 2. Mar 28, 2026
+ 💻 Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻
+
+
+---
+# 10. Mar 14, 2025
+ 💻 Swift Ahmedabad March'26 Meetup
+### 📸 [Event Photos](https://photos.app.goo.gl/wDtRjHpfGjr29uQr5)
+## From Data to Delight - Integrating AI into iOS Applications
+### By: **Tiwari Vinay**
+A software engineer with over 9 years of experience in mobile and full-cycle application development, with a strong focus on iOS and AI/ML. I currently work at TCS, Gandhinagar, where I build and contribute to scalable, real-world technology solutions. I’m passionate about creating intelligent products, mentoring aspiring developers, and sharing practical industry insights through tech talks.
+
+Follow on: [LinkedIn](https://in.linkedin.com/in/vinay-tiwari-60214289) 
+
+## Figma Code Connect For Swifter UI Creation
+### By: **Kanishka Chaudhry**
+SDE @ Upstox | 2x Apple Scholar | SNHU '25
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 
+
+## Designing Reliable Connected-Device Apps with Swift and BLE
+### By: **Pradip Sutariya**
+With over 10 years of experience in mobile development, I specialize in designing and delivering robust applications across the Apple ecosystem including iOS, iPad, Apple Watch (watchOS), Mac (macOS), and CarPlay as well as cross-platform solutions using Flutter for both iOS and Android. I have a proven track record of building high-quality apps that solve complex problems through smart use of algorithms, design patterns, and cutting-edge technologies.
+My expertise extends to Bluetooth Low Energy (BLE), Swift, Swift-UI, Objective-C, and Dart, allowing me to create seamless, innovative, and reliable mobile experiences that connect users with the latest IoT and wearable technologies.
+I’m passionate about collaborating with teams and clients to turn ideas into reality, delivering mobile solutions that stand out in performance and usability.
+
+Follow on: [LinkedIn](https://linkedin.com/in/pradip-sutariya-926660113) 
+
+### By: **Rahul Parmar**
+AWS Certified Developer- Associate || Associate Software Engineer @Aubergine Solutions Pvt. Ltd. Dharmsinh Desai University || Information and Technology
+
+Follow on:  
+
+---
+# 1. Mar 8, 2026
+ 💻 Swift Pune - S002
+
+## CI-CD With Github Action and Fastlane
+### By: **Garima Saini**
+Sr iOS Engineer @xplor
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/garimasaini0/) 
+
+## Decompose Designs for Apple Platforms
+### By: **Nikhil Nigade**
+iOS, macOS and Systems Engineer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/nikhil-nigade-4a395b358/), [Github](https://github.com/dezinezync), [Portfolio](https://dezinezync.com), [Twitter](https://x.com/dezinezync), [Mastodon](https://social.dezinezync.com/@nikhil 
+
+## Swift 6 Migration
+### By: **Divya Maloo**
+Sr. iOS Engineer at PhonePe
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/divya-maloo-72629284/) 
+
+### By: **Swetal Matkar**
+iOS Developer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/swetal-matkar-73a836204/) 
+
+## Make Your Apps More Discoverable
+### By: **Kanishka Chaudhry**
+SDE @ Upstox | 2x Apple Scholar | SNHU '25
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 
+
+---
+# 1. Mar 7, 2026
+ 💻 Women in Swift: Connect
+
+
+---
 # 1. Feb 28, 2026
  💻 Swift Chennai February Edition
-
+### 📸 [Event Photos](https://drive.google.com/drive/folders/1arMOXb5GbtK7IWh3zvJry9Ie5f_9XlO-)
 ## Concurrency in Swift
 ### By: **Mohammed Mubashir Medekkar**
 iOS Developer, Zoho Corporation
@@ -56,7 +128,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/rudrank/), [Github](https://gi
 ---
 # 1. Feb 28, 2026
  💻 Swift Mumbai + Haxnation
-
+### 📸 [Event Photos](https://drive.google.com/drive/folders/1tOBeqz26LQwG5etSo7o4leE49s1m2uwa)
 ## FlutterFlow App Security Explained- Myths, Risks, and Best Practices
 ### By: **Abhishek Jain**
 Cyber Expert | FlutterFlow Pro | Founder @ BEEPIXL | Tech Partner – CID Gujarat Police
@@ -136,7 +208,7 @@ Sr. iOS Engineer
 Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993) 
 
 ## Swift Excellence Enhancing Code Quality
-### By: **Kanishka C**
+### By: **Kanishka Chaudhry**
 SDE @ Upstox | 2x Apple Scholar | SNHU '25
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 

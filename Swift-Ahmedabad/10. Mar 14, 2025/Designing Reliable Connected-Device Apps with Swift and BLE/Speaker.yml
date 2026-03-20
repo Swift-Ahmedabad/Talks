@@ -1,0 +1,11 @@
+- name: Pradip Sutariya
+  socials:
+    linkedIn: https://linkedin.com/in/pradip-sutariya-926660113
+  about: "With over 10 years of experience in mobile development, I specialize in designing and delivering robust applications across the Apple ecosystem including iOS, iPad, Apple Watch (watchOS), Mac (macOS), and CarPlay as well as cross-platform solutions using Flutter for both iOS and Android. I have a proven track record of building high-quality apps that solve complex problems through smart use of algorithms, design patterns, and cutting-edge technologies.\nMy expertise extends to Bluetooth Low Energy (BLE), Swift, Swift-UI, Objective-C, and Dart, allowing me to create seamless, innovative, and reliable mobile experiences that connect users with the latest IoT and wearable technologies.\nI’m passionate about collaborating with teams and clients to turn ideas into reality, delivering mobile solutions that stand out in performance and usability."
+  image: PradipSutariya.jpeg
+
+- name: Rahul Parmar
+  socials:
+    linkedin: https://www.linkedin.com/in/rahul--parmar/
+  about: "AWS Certified Developer- Associate || Associate Software Engineer @Aubergine Solutions Pvt. Ltd. Dharmsinh Desai University || Information and Technology"
+  image: RahulParmar.jpeg

@@ -1,5 +1,25 @@
 [
   {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "6cd603b3c50aea717175b70d11bf317322c82ed7db67a1aa9ae8f10e3673633c",
+    "title" : "CI-CD With Github Action and Fastlane"
+  },
+  {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "2725690d29dac029dd3322cd297969e7fd32b126171ae61f16071112ab051ef6",
+    "title" : "Decompose Designs for Apple Platforms"
+  },
+  {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "08241707f233111cb140a98634b0f9d4fc045e0ebd42f35cb0b6bff9330d1439",
+    "title" : "Swift 6 Migration"
+  },
+  {
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "994206b2521c9ebef18c47ba417ef3b8156530b5098aca7420fa8fdbefc24884",
+    "title" : "Make Your Apps More Discoverable"
+  },
+  {
     "eventID" : "4eb62b17ead27673dd98da6671d2a18acbca930e93b4f7ddcff454273addee28",
     "id" : "4ff4346cd5e7b85257b463c7863f659d9851722a9f63eb94ca26fd86cc962cc4",
     "title" : "Concurrency in Swift"
@@ -163,6 +183,21 @@
     "eventID" : "536b2585865cfa7e56696b91d0e92f436a7617cb75623aa2adf7fdefd425381c",
     "id" : "dc45431353d956e0b708465d9fb2e8900cf9910d15b4d1c691da5bd8a34722a6",
     "title" : "Becoming pro at swift-testing"
+  },
+  {
+    "eventID" : "fadea523003b0cfef44a97023db3e60edde9195bc84d5807b03dfb6b68639833",
+    "id" : "5b35ef690ea62597b76156917d0433a5adeb58354c7a2d21e6db2ebe7866558d",
+    "title" : "From Data to Delight - Integrating AI into iOS Applications"
+  },
+  {
+    "eventID" : "fadea523003b0cfef44a97023db3e60edde9195bc84d5807b03dfb6b68639833",
+    "id" : "0ca18a8fa66ed3fa7c7f78e0137abdb23fa14ee20518be8a788521b5a05d3622",
+    "title" : "Figma Code Connect For Swifter UI Creation"
+  },
+  {
+    "eventID" : "fadea523003b0cfef44a97023db3e60edde9195bc84d5807b03dfb6b68639833",
+    "id" : "90cc83034a7852c168226cd5efc35f4c705e0d8599c103fd7530f3f55f22d452",
+    "title" : "Designing Reliable Connected-Device Apps with Swift and BLE"
   },
   {
     "eventID" : "fd84e3a5ecffb3f3792f78104325fbff8a4bd529e5cfdf33c0e679ee6eb9220d",

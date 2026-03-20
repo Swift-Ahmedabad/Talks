@@ -1,0 +1,70 @@
+about: "Swift Pune - S002"
+date: "March 8, 2026"
+location:
+    name: "Xplor Tech1 Systems Private Limited"
+    map: "https://www.google.com/maps/place/Xplor+Tech1+Systems+Private+Limited/@18.5616118,73.9564067,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2c34f6c6895e3:0xf4a5781b456b38a3!8m2!3d18.5616118!4d73.9564067!16s%2Fg%2F11vc7hlg62?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D"
+    address: "14th Floor, International Technology Park, Block 1, Wing 2, Kharadi, Pune, Maharashtra 411014"
+    coordinates:
+        latitude: 18.5616118
+        longitude: 73.9564067
+        zoom: 17.94
+agenda:
+    - time: "09:45 AM"
+      title: "Check IN"
+      type: "registration"
+      
+    - time: "10:15 AM"
+      title: "Make Your Apps More Discoverable"
+      type: "talk"
+      speakers:
+        - "Kanishka Chaudhry"
+      recording: "https://www.youtube.com/watch?v=rjuUAT50alc"
+
+    - time: "10:35 AM"
+      title: "Venue Sponsor Note (Xplor)"
+      type: "sponsorTalk"
+
+    - time: "10:50 AM"
+      title: "CI-CD With Github Action and Fastlane"
+      type: "talk"
+      speakers:
+        - "Garima Saini"
+      recording: "https://www.youtube.com/watch?v=QNa4UO-9G1w"
+
+    - time: "11:10 AM"
+      title: "Swift 6 Migration"
+      type: "talk"
+      speakers:
+        - "Divya Maloo"
+        - "Swetal Matkar"
+      recording: "https://www.youtube.com/watch?v=LWGDs-tR6_o"
+
+    - time: "11:30 AM"
+      title: "Refreshments & Networking Break"
+      type: "break"
+        
+    - time: "12:00 PM"
+      title: "Decompose Designs for Apple Platforms"
+      type: "labs"
+      starterProject: "https://github.com/dezinezync/SwiftPuneS002-Labs-Starter"
+      finalProject: "https://github.com/dezinezync/SwiftPuneS002-Labs-Final"
+      speakers:
+        - "Nikhil Nigade"
+
+    - time: "12:30 PM"
+      title: "Closing"
+      type: "networking"
+
+sponsors:
+    vanue:
+        name: "Xplor Technologies"
+        website: "https://www.xplortechnologies.com"
+        image: "xplor-technologies.png"
+    food:
+        name: "Xplor Technologies"
+        website: "https://www.xplortechnologies.com"
+        image: "xplor-technologies.png"
+
+registrationLink: "https://luma.com/1jb79fac"
+
+#photoURL: "https://drive.google.com/drive/folders/1tOBeqz26LQwG5etSo7o4leE49s1m2uwa"
