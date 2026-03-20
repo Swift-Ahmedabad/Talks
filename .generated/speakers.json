@@ -82,6 +82,16 @@
     }
   },
   {
+    "about" : "Sr. Product Designer at Procore Technologies",
+    "id" : "78a28f576aa3e95c696917a27478ec411507639252d8ebca30f06d416e461abb",
+    "image" : "ShivaniGaur.jpeg",
+    "name" : "Shivani Gaur",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/shivani-gaur27\/",
+      "portfolio" : "https:\/\/iamshivanigaur.com"
+    }
+  },
+  {
     "about" : "Engineering - iOS",
     "id" : "5039f47fec79f243c308c9cbe0bd547330d6ccfd795b9f6298cd635b0e47a7c2",
     "image" : "AkashlalBathe.jpeg",
