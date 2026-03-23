@@ -11,7 +11,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/shivani-gaur27/), [Portfolio](
 ### By: **Subbalakshmi Balamuthu**
 Indie App Developer, Founder of Feelly App
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/subbulakshmi-balamuthu-6125a3354/), [Portfolio](https://feelly.ai) 
+Follow on: [LinkedIn](https://www.linkedin.com/in/subbulakshmi-balamuthu-6125a3354/), [Portfolio](https://feelly.ai), [Twitter](https://x.com/subbulakshmi_b) 
 
 ---
 # 10. Mar 14, 2025
