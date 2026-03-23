@@ -3,5 +3,10 @@
     "about" : "•⁠  ⁠How to explore how AI-powered design tools like Figma Make 🖍️  enable rapid prototyping and idea validation while aligning with real iOS behaviors 📱 \n•⁠  ⁠The session will also cover improving design–developer collaboration through clearer handoffs, shared workflows, and continuous feedback loops 👨‍💻 👩‍💻\n•⁠  ⁠How it helps designers, developers, and product managers reduce iterations and deliver faster 🚀",
     "talkID" : "a8669711ed2f47dc89a87fe0eb2760aea14c14cbb10cb17bb494a53a9fa7262e",
     "title" : "Al-Powered Design & Seamless ios Collaboration for Faster Delivery"
+  },
+  {
+    "about" : "•⁠ Discover how the AppIntents framework can unlock visual intelligence and enable powerful in-app search experiences \n•⁠ 💡 Learn how to make your app more discoverable, intuitive, and deeply integrated with the system.",
+    "talkID" : "d70978777271b545b31b6e824ccb7a94114f785fccb4893064f0fd0e5e003b47",
+    "title" : "Visual Intelligence through AppIntents"
   }
 ]

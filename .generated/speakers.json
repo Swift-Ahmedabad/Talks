@@ -92,6 +92,16 @@
     }
   },
   {
+    "about" : "Indie App Developer, Founder of Feelly App",
+    "id" : "11161dada2e8eb8d0428019ab2743a1dbce20f4096c3de2c7d8186bf03511f08",
+    "image" : "SubbalakshmiBalamuthu.jpeg",
+    "name" : "Subbalakshmi Balamuthu",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/subbulakshmi-balamuthu-6125a3354\/",
+      "portfolio" : "https:\/\/feelly.ai"
+    }
+  },
+  {
     "about" : "Engineering - iOS",
     "id" : "5039f47fec79f243c308c9cbe0bd547330d6ccfd795b9f6298cd635b0e47a7c2",
     "image" : "AkashlalBathe.jpeg",

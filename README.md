@@ -7,6 +7,12 @@ Sr. Product Designer at Procore Technologies
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/shivani-gaur27/), [Portfolio](https://iamshivanigaur.com) 
 
+## Visual Intelligence through AppIntents
+### By: **Subbalakshmi Balamuthu**
+Indie App Developer, Founder of Feelly App
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/subbulakshmi-balamuthu-6125a3354/), [Portfolio](https://feelly.ai) 
+
 ---
 # 10. Mar 14, 2025
  💻 Swift Ahmedabad March'26 Meetup
