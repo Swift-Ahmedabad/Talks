@@ -105,6 +105,35 @@
     }
   },
   {
+    "description" : "A community of Swift developers in Surat that brings people together to learn, network, collaborate, and share knowledge through meetups and technical sessions focused on Swift and iOS development, helping them connect and grow together.",
+    "id" : "15acae05be00bc66fd20a7c63ca852804dd16196ae012f006b333fe6c3f31a62",
+    "logo" : "swift-surat.jpeg",
+    "members" : [
+      {
+        "about" : "Senior iOS Developer | Expert in SwiftUI, Swift, Xcode | Flutter | UI\/UX Enthusiast | Co-organiser SwiftSurat",
+        "name" : "Bhumika Patel",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/bhumika-ios\/"
+        }
+      },
+      {
+        "about" : "Senior Full-Stack Developer | SaaS, Laravel & API Specialist | Delivering Scalable Web Solutions Globally",
+        "name" : "Jigar Patel",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/jigar24patel\/"
+        }
+      }
+    ],
+    "name" : "Swift Surat",
+    "socialMedias" : {
+      "instagram" : "https:\/\/www.instagram.com\/swift_surat\/",
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftsurat",
+      "luma" : "https:\/\/luma.com\/user\/SwiftSurat",
+      "twitter" : "https:\/\/x.com\/SwiftSurat",
+      "whatsApp" : "https:\/\/chat.whatsapp.com\/CHOSuNyv3KDDsKIxnymV9J?mode=gi_t"
+    }
+  },
+  {
     "description" : "The Revolution will be Swift!! - A community for developers working on Apple platforms (iOS\/macOS) as well as the ones who are using swift to develop cloud and server applications.",
     "id" : "55650e28cc45b32a5183aa0d90aee7afa282eb4bfbb49021fd154521fa72a267",
     "logo" : "swift-bengaluru.jpeg",
