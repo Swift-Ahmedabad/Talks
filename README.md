@@ -7,6 +7,12 @@ Sr. Product Designer at Procore Technologies
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/shivani-gaur27/), [Portfolio](https://iamshivanigaur.com) 
 
+## Learning iOS Development in the Age of AI
+### By: **Garima Bothra**
+SWE III @ Google | Prev. Swiggy | Apple Swift Student Challenge 2021 Winner | 3rd at GHCI Code-a-thon 2021 | iOS Developer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/garima-bothra/), [Twitter](https://x.com/garimabothraa) 
+
 ## Visual Intelligence through AppIntents
 ### By: **Subbalakshmi Balamuthu**
 Indie App Developer, Founder of Feelly App
@@ -56,7 +62,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/garimasaini0/)
 ### By: **Nikhil Nigade**
 iOS, macOS and Systems Engineer
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/nikhil-nigade-4a395b358/), [Github](https://github.com/dezinezync), [Portfolio](https://dezinezync.com), [Twitter](https://x.com/dezinezync), [Mastodon](https://social.dezinezync.com/@nikhil 
+Follow on: [LinkedIn](https://www.linkedin.com/in/nikhil-nigade-4a395b358/), [Github](https://github.com/dezinezync), [Portfolio](https://dezinezync.com), [Twitter](https://x.com/dezinezync), [Mastodon](https://social.dezinezync.com/@nikhil) 
 
 ## Swift 6 Migration
 ### By: **Divya Maloo**

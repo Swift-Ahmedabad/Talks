@@ -41,6 +41,11 @@
   },
   {
     "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "id" : "655ab95bf5df44ea185c30d6dcce578a2bab7adfe56b537778e65c5199aa6428",
+    "title" : "Learning iOS Development in the Age of AI"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
     "id" : "d70978777271b545b31b6e824ccb7a94114f785fccb4893064f0fd0e5e003b47",
     "title" : "Visual Intelligence through AppIntents"
   },
