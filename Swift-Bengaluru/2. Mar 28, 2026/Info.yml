@@ -46,6 +46,11 @@ agenda:
     - time: "12:00 PM"
       title: "Panel Discussion: 🗣️ Designing for Women: Empathy, Research, and Real Needs"
       type: "talk"
+      speakers:
+        - "Shivani Gaur"
+        - "Subbalakshmi Balamuthu"
+        - "Garima Bothra"
+        - "Suma Shirahatti"
       
     - time: "12:30 PM"
       title: "Group Photo 📸"
