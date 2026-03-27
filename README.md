@@ -62,7 +62,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/garimasaini0/)
 ### By: **Nikhil Nigade**
 iOS, macOS and Systems Engineer
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/nikhil-nigade-4a395b358/), [Github](https://github.com/dezinezync), [Portfolio](https://dezinezync.com), [Twitter](https://x.com/dezinezync), [Mastodon](https://social.dezinezync.com/@nikhil) 
+Follow on: [LinkedIn](https://www.linkedin.com/in/nikhil-nigade-4a395b358/), [Github](https://github.com/dezinezync), [Portfolio](https://dezinezync.com), [Twitter](https://x.com/dezinezync), [Mastodon](https://social.dezinezync.com/@nikhil 
 
 ## Swift 6 Migration
 ### By: **Divya Maloo**
