@@ -8,14 +8,52 @@ location:
         latitude: 12.9818418
         longitude: 77.5935076
         zoom: 17
-#agenda:
-#    - time: "09:30 AM"
-#      title: "Arrival & Registration"
-#      type: "registration"
-#        
-#    - time: "1:30 PM"
-#      title: "Closing & Group Photo"
-#      type: "networking"
+agenda:
+    - time: "09:30 AM"
+      title: "Registration & Check-in"
+      type: "registration"
+      
+    - time: "10:00 AM"
+      title: "Welcome Note"
+      type: "talk"
+      
+    - time: "10:10 AM"
+      title: "AI-Powered Design & Seamless iOS Collaboration for Faster Delivery"
+      type: "talk"
+      speakers:
+        - "Shivani Gaur"
+        
+    - time: "10:40 AM"
+      title: "Learning iOS Development in the Age of AI"
+      type: "talk"
+      speakers:
+        - "Garima Bothra"
+        
+    - time: "11:10 AM"
+      title: "Bio Break ☕"
+      type: "break"
+      
+    - time: "11:20 AM"
+      title: "Visual Intelligence through App Intents"
+      type: "talk"
+      speakers:
+        - "Subbalakshmi Balamuthu"
+        
+    - time: "11:50 AM"
+      title: "Interactive Quiz 🎯"
+      type: "talk"
+      
+    - time: "12:00 PM"
+      title: "Panel Discussion: 🗣️ Designing for Women: Empathy, Research, and Real Needs"
+      type: "talk"
+      
+    - time: "12:30 PM"
+      title: "Group Photo 📸"
+      type: "networking"
+      
+    - time: "12:45 PM"
+      title: "Lunch & Networking 🍽️"
+      type: "networking"
 sponsors:
     vanue:
 #        name: "Meesho"
