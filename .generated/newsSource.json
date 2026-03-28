@@ -203,5 +203,10 @@
     "id" : "cabd68ec07ff61d8753d164b64678ffd125bad83cc0a3d78bdd40b16955db2e5",
     "title" : "Raja Vijayaraman",
     "url" : "https:\/\/rajavijayaraman.com\/rss.xml"
+  },
+  {
+    "id" : "49b3ec5721016f5d3d0817792e84750c78fbfcef76734395b54e23d9377525c7",
+    "title" : "Simon Willison",
+    "url" : "https:\/\/simonwillison.net\/atom\/entries\/"
   }
 ]
