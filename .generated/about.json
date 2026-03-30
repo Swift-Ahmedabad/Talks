@@ -142,8 +142,7 @@
         "about" : "Freelance iOS Developer, Organiser of Swift Delhi",
         "name" : "Raghav Sethi",
         "socials" : {
-          "linkedIn" : "https:\/\/www.linkedin.com\/in\/sforsethi",
-          "twitter" : "https:\/\/x.com\/sforsethi"
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/sforsethi"
         }
       },
       {
@@ -161,7 +160,7 @@
         }
       },
       {
-        "about" : "",
+        "about" : "💻 Building Blinkit |  4x WWDC SSC Winner (21, 22, 23 & 24) |  ⭐️ Previously iOS Developer at @Techburner",
         "name" : "Ayush Singh",
         "socials" : {
           "linkedIn" : "https:\/\/www.linkedin.com\/in\/ayush21082\/"
@@ -186,7 +185,7 @@
     "socialMedias" : {
       "instagram" : "https:\/\/www.instagram.com\/swiftdelhi\/",
       "linkedIn" : "https:\/\/www.linkedin.com\/company\/swift-delhi",
-      "twitter" : " https:\/\/x.com\/swiftdelhi",
+      "twitter" : "https:\/\/x.com\/swiftdelhi",
       "whatsApp" : "https:\/\/chat.whatsapp.com\/Lka4RlJRvIh5w4S5rJmrNf?mode=gi_t"
     }
   },
