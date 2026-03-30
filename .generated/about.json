@@ -185,6 +185,7 @@
     "socialMedias" : {
       "instagram" : "https:\/\/www.instagram.com\/swiftdelhi\/",
       "linkedIn" : "https:\/\/www.linkedin.com\/company\/swift-delhi",
+      "luma" : "https:\/\/luma.com\/user\/swiftdelhi",
       "twitter" : "https:\/\/x.com\/swiftdelhi",
       "whatsApp" : "https:\/\/chat.whatsapp.com\/Lka4RlJRvIh5w4S5rJmrNf?mode=gi_t"
     }
@@ -234,6 +235,13 @@
         "name" : "Kanagasabapathy Rajkumar",
         "socials" : {
           "linkedIn" : "https:\/\/www.linkedin.com\/in\/sabapathy7\/"
+        }
+      },
+      {
+        "about" : "Senior iOS Engineer | WWDC20 SSC Winner",
+        "name" : "Amit Samant",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/amitsamant-dev\/"
         }
       }
     ],
