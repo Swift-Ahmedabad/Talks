@@ -19,6 +19,12 @@ Indie App Developer, Founder of Feelly App
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/subbulakshmi-balamuthu-6125a3354/), [Portfolio](https://feelly.ai), [Twitter](https://x.com/subbulakshmi_b) 
 
+## Panel Discussion 🗣️ Designing for Women Empathy, Research, and Real Needs
+### By: **Suma Shirahatti**
+iOS developer at StockX | Ex-Paytm| iOS Developer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/suma-shirahatti-28774015b/) 
+
 ---
 # 10. Mar 14, 2025
  💻 Swift Ahmedabad March'26 Meetup
@@ -62,7 +68,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/garimasaini0/)
 ### By: **Nikhil Nigade**
 iOS, macOS and Systems Engineer
 
-Follow on: [LinkedIn](https://www.linkedin.com/in/nikhil-nigade-4a395b358/), [Github](https://github.com/dezinezync), [Portfolio](https://dezinezync.com), [Twitter](https://x.com/dezinezync), [Mastodon](https://social.dezinezync.com/@nikhil) 
+Follow on: [LinkedIn](https://www.linkedin.com/in/nikhil-nigade-4a395b358/), [Github](https://github.com/dezinezync), [Portfolio](https://dezinezync.com), [Twitter](https://x.com/dezinezync), [Mastodon](https://social.dezinezync.com/@nikhil 
 
 ## Swift 6 Migration
 ### By: **Divya Maloo**

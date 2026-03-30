@@ -170,6 +170,106 @@
     "type" : "networking"
   },
   {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "finalProject" : null,
+    "id" : "984eea08e33f5ef5d55fe580efa39ba63faac1cd9ca58639912d2d9c49331a2a",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 796363200,
+    "title" : "Registration & Check-in",
+    "type" : "registration"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "finalProject" : null,
+    "id" : "1c27b37dedb57c34cb8f15c7cf592d1387fa0d61358633fee96bd6e95ab65c61",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 796365000,
+    "title" : "Welcome Note",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "finalProject" : null,
+    "id" : "52bd4269430bd3cb311d67c50048626a5cdbe233b7a7aec6b03f2940af52387a",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 796365600,
+    "title" : "AI-Powered Design & Seamless iOS Collaboration for Faster Delivery",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "finalProject" : null,
+    "id" : "c54fb783a22c32d288f9e005db690f5d4b4a86c88d32ba8b00802fb204cbba26",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 796367400,
+    "title" : "Learning iOS Development in the Age of AI",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "finalProject" : null,
+    "id" : "f71301862661587870f785d19dfdbdfd70709b148032e5a4a95a346f351f8482",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 796369200,
+    "title" : "Bio Break ☕",
+    "type" : "break"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "finalProject" : null,
+    "id" : "d5eabff303a79fbc0c5ea4d85709fe7c33277168e652de70c59d620f9aeca4fb",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 796369800,
+    "title" : "Visual Intelligence through App Intents",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "finalProject" : null,
+    "id" : "75d9758d081da1d966b3b8aab5106f5b36ba9f6bd06edee208a41943cd4bfb3c",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 796371600,
+    "title" : "Interactive Quiz 🎯",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "finalProject" : null,
+    "id" : "02d907e5692c33f78e87fe9075972a2391b452518194569300c3626a5eda9d14",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 796372200,
+    "title" : "Panel Discussion: 🗣️ Designing for Women: Empathy, Research, and Real Needs",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "finalProject" : null,
+    "id" : "ea839a8f4ca847b8d5cf8d4141d89ee78fc40e63a228e64afd2a75bc86fd9e5b",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 796374000,
+    "title" : "Group Photo 📸",
+    "type" : "networking"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "finalProject" : null,
+    "id" : "223e0749333b1360080cbad9eb95cd8486d3d05612a30fbfbd10d941dbd17fec",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 796374900,
+    "title" : "Lunch & Networking 🍽️",
+    "type" : "networking"
+  },
+  {
     "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
     "finalProject" : null,
     "id" : "bb3079585b4fc8d0f3b05f121cb629a28073c2f1323c0acb3acf4abe7299962b",
