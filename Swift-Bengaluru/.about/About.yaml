@@ -27,15 +27,20 @@ members:
       socials:
         linkedIn: "https://www.linkedin.com/in/rajhraval/"
         
-    - name: "Kanagasabapathy Rajkumar"
-      about: "iOS Engineer | Swift & Objective-C Specialist | Turning Ideas into Seamless Mobile Experiences"
-      socials:
-        linkedIn: "https://www.linkedin.com/in/sabapathy7/"
-        
     - name: "Amit Samant"
       about: "Senior iOS Engineer | WWDC20 SSC Winner"
       socials:
         linkedIn: "https://www.linkedin.com/in/amitsamant-dev/"
+        
+    - name: "Kanagasabapathy Rajkumar"
+      about: "iOS Engineer | Swift & Objective-C Specialist | Turning Ideas into Seamless Mobile Experiences"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/sabapathy7/"
+
+    - name: "Keerthipriya G Kurtakoti"
+      about: "Technology Lead at Infosys"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/keerthi-priya-g-kurtakoti-b963a7160/"
 
 socialMedias:
     linkedIn: "https://www.linkedin.com/company/swiftbengaluru"

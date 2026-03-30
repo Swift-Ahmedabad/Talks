@@ -231,6 +231,13 @@
         }
       },
       {
+        "about" : "Senior iOS Engineer | WWDC20 SSC Winner",
+        "name" : "Amit Samant",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/amitsamant-dev\/"
+        }
+      },
+      {
         "about" : "iOS Engineer | Swift & Objective-C Specialist | Turning Ideas into Seamless Mobile Experiences",
         "name" : "Kanagasabapathy Rajkumar",
         "socials" : {
@@ -238,10 +245,10 @@
         }
       },
       {
-        "about" : "Senior iOS Engineer | WWDC20 SSC Winner",
-        "name" : "Amit Samant",
+        "about" : "Technology Lead at Infosys",
+        "name" : "Keerthipriya G Kurtakoti",
         "socials" : {
-          "linkedIn" : "https:\/\/www.linkedin.com\/in\/amitsamant-dev\/"
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/keerthi-priya-g-kurtakoti-b963a7160\/"
         }
       }
     ],
