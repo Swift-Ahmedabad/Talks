@@ -134,6 +134,63 @@
     }
   },
   {
+    "description" : "Community of users of Apple’s Swift programming language based in Delhi, India  🇮🇳",
+    "id" : "fd8caab4e610a9922e7e98621dab11685859c96194621751c84c2867fcecbd8a",
+    "logo" : "swift-delhi.jpeg",
+    "members" : [
+      {
+        "about" : "Freelance iOS Developer, Organiser of Swift Delhi",
+        "name" : "Raghav Sethi",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/sforsethi",
+          "twitter" : "https:\/\/x.com\/sforsethi"
+        }
+      },
+      {
+        "about" : "iOS Developer at Swiggy, Swift Delhi member, Judge for over 150+ hackathons 🎪. iOS Speaker.",
+        "name" : "Maninder Singh",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/manindersinghh\/"
+        }
+      },
+      {
+        "about" : "prev @Trek @Swiggy | Exploring the intersection of AI, Tech and Product",
+        "name" : "Sejal Khanna",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/sejallkhanna\/"
+        }
+      },
+      {
+        "about" : "",
+        "name" : "Ayush Singh",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/ayush21082\/"
+        }
+      },
+      {
+        "about" : "Ex-infosys || iOS Developer || Public Speaker || Organiser Swift Delhi || Community Builder || Mentor",
+        "name" : "Arpita Gupta",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/arpita-gupta01\/"
+        }
+      },
+      {
+        "about" : "Inventing Temple |  WWDC 2023 Scholar",
+        "name" : "Dishant Nagpal",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/dishantios\/"
+        }
+      }
+    ],
+    "name" : "Swift Delhi",
+    "socialMedias" : {
+      "instagram" : "https:\/\/www.instagram.com\/swiftdelhi\/",
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swift-delhi",
+      "twitter" : " https:\/\/x.com\/swiftdelhi",
+      "whatsApp" : "https:\/\/chat.whatsapp.com\/Lka4RlJRvIh5w4S5rJmrNf?mode=gi_t"
+    }
+  },
+  {
     "description" : "The Revolution will be Swift!! - A community for developers working on Apple platforms (iOS\/macOS) as well as the ones who are using swift to develop cloud and server applications.",
     "id" : "55650e28cc45b32a5183aa0d90aee7afa282eb4bfbb49021fd154521fa72a267",
     "logo" : "swift-bengaluru.jpeg",
@@ -262,7 +319,8 @@
     "name" : "Swift Nagpur",
     "socialMedias" : {
       "instagram" : "https:\/\/www.instagram.com\/swift.nagpur",
-      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftnagpur\/"
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftnagpur\/",
+      "whatsApp" : "https:\/\/chat.whatsapp.com\/Flxv7ujvjvP6yfdJttxuA5"
     }
   },
   {
