@@ -208,5 +208,10 @@
     "id" : "49b3ec5721016f5d3d0817792e84750c78fbfcef76734395b54e23d9377525c7",
     "title" : "Simon Willison",
     "url" : "https:\/\/simonwillison.net\/atom\/entries\/"
+  },
+  {
+    "id" : "3d415eda0dc1c7ac184082a66f2f8401f37c4fbf6e5327c7cd009b61e9c4d7ee",
+    "title" : "Bas Broek",
+    "url" : "https:\/\/www.basbroek.nl\/feed.xml"
   }
 ]
