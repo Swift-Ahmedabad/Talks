@@ -1,0 +1,14 @@
+about: "Women in Swift: WWDC Wind Down"
+date: "June 28, 2025"
+location:
+    name: "Online"
+    address: "Google Meet"
+    coordinates:
+        latitude: 0
+        longitude: 0
+        zoom: 0
+
+sponsors:
+    vanue:
+    food:
+instructions: "This is women only event!"

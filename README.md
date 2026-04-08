@@ -88,7 +88,7 @@ SDE @ Upstox | 2x Apple Scholar | SNHU '25
 Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 
 
 ---
-# 1. Mar 7, 2026
+# 5. Mar 7, 2026
  💻 Women in Swift: Connect
 
 
@@ -182,6 +182,11 @@ Security Engineer III, InfraSec | OSCP | AWS Solution Architect | CEH | Bug Boun
 Follow on: [LinkedIn](https://www.linkedin.com/in/kiran-kumar-b58971b2/) 
 
 ---
+# 4. Dec 27, 2025
+ 💻 Women in Swift: Connect
+
+
+---
 # 9. Dec 13, 2025
  💻 Swift Ahmedabad December'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/58ixSq6rJ37XoZoQ7)
@@ -221,6 +226,26 @@ iOS Developer @ Space O | Model-View-Controller (MVC) | MVVM | SwiftUI | Swift |
 Follow on: [LinkedIn](https://www.linkedin.com/in/hardik-modha-95b9ab125/) 
 
 ---
+# 3. Nov 8, 2025
+ 💻 Women in Swift: Connect
+
+## Panel Discussion
+### By: **Harpreet Kaur**
+iOS Engineer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/namrata-mayanil-7469a41/) 
+
+### By: **Charanya Swaminathan**
+Member Technical Staff (iOS Developer), Zoho Corporation
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/charanya-swaminathan-2278b8225/) 
+
+### By: **Raksha Rao**
+Co-Founder andCEO Parjanta Creative Solutions Chaarana Labs
+
+Follow on:  
+
+---
 # 8. Oct 11, 2025
  💻 Swift Ahmedabad October'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/rcxKMq7YpzvEqqnY7)
@@ -251,6 +276,26 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/rizwan95/), [Portfolio](https:
 IOS Development | Objective C | Swift | Architecture | TDD | BDD
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/prashantpkorat/) 
+
+---
+# 2. Jun 28, 2025
+ 💻 Women in Swift: WWDC Wind Down
+
+## Panel Discussion
+### By: **Namrata Mayanil**
+Co-Founder MAMMA-MIYA
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/namrata-mayanil-7469a41/) 
+
+### By: **Midhet Sulemani**
+SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/midhet/) 
+
+### By: **Raksha Rao**
+Co-Founder andCEO Parjanta Creative Solutions Chaarana Labs
+
+Follow on:  
 
 ---
 # 6. Jun 9, 2025
@@ -288,6 +333,26 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/trivedihiteshrd/)
  Sr. Software Engineer (Flutter | Dart | iOS | Swift | SwiftUi)
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/samir-bagariya/) 
+
+---
+# 1. Mar 8, 2025
+ 💻 Women in Swift: Connect
+
+## Panel Discussion
+### By: **Kanishka Chaudhry**
+SDE @ Upstox | 2x Apple Scholar | SNHU '25
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 
+
+### By: **Garima Bothra**
+SWE III @ Google | Prev. Swiggy | Apple Swift Student Challenge 2021 Winner | 3rd at GHCI Code-a-thon 2021 | iOS Developer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/garima-bothra/), [Twitter](https://x.com/garimabothraa) 
+
+### By: **Rinkal Riziya**
+iOS(Swift) Developer
+
+Follow on:  
 
 ---
 # 4. Feb 15, 2025

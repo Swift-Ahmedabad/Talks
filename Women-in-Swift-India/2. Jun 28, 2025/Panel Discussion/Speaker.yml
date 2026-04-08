@@ -1,0 +1,17 @@
+- name: Namrata Mayanil
+  socials:
+    linkedIn: https://www.linkedin.com/in/namrata-mayanil-7469a41/
+  about: Co-Founder MAMMA-MIYA
+  image: namrata-mayanil.jpeg
+
+- name: "Midhet Sulemani"
+  socials:
+    linkedIn: "https://www.linkedin.com/in/midhet/"
+  about: "SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code"
+  image: "MidhetSulemani.jpeg"
+
+- name: Raksha Rao
+  socials:
+    linkedin: https://www.linkedin.com/in/raksharao/
+  about: Co-Founder andCEO Parjanta Creative Solutions Chaarana Labs
+  image: Raksha-Rao.jpeg
