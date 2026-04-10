@@ -470,6 +470,106 @@
     "type" : "networking"
   },
   {
+    "eventID" : "da9a961a5b770324f39ab0e49d960478c2f8bfeca442f0f2aaa4e92cb1228f14",
+    "finalProject" : null,
+    "id" : "7d546478d6707462898b8173ba2a131699b65216f8dfbd2916d9ee7e32ed9b85",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 794572200,
+    "title" : "My GSOC Experience with Swift",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "da9a961a5b770324f39ab0e49d960478c2f8bfeca442f0f2aaa4e92cb1228f14",
+    "finalProject" : null,
+    "id" : "b15285f16e5f6b12fd8ddf3a08986651ac607c0a47b0a65a133922122c4d2928",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 794575800,
+    "title" : "Closing",
+    "type" : "networking"
+  },
+  {
+    "eventID" : "6f547200e2da87d410f96c8dd56cb1b490e88e0239a94b7cae10591f0a151a15",
+    "finalProject" : null,
+    "id" : "5322edeea85f944cfb189b4729b15cf2eab9c944de45b1feeeb7cf03e461d4b3",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 772799400,
+    "title" : "Panel Discussion",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "6f547200e2da87d410f96c8dd56cb1b490e88e0239a94b7cae10591f0a151a15",
+    "finalProject" : null,
+    "id" : "9d3c0d8310e1ee497ffe6e866d343d05ed4762c8bac4ba90fb95ab1460a40ac2",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 772803000,
+    "title" : "Closing",
+    "type" : "networking"
+  },
+  {
+    "eventID" : "5e36f2535dd45dd79f8ef1939c02e8e2e540cf462f7b705afb02a828ea71c3e7",
+    "finalProject" : null,
+    "id" : "3d5e6f9a57157945c6107bf40309da25da2caedd50d4e86328b5c15ccf0edfc6",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 788524200,
+    "title" : "Architecting Navigation for Real-World Flows",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "5e36f2535dd45dd79f8ef1939c02e8e2e540cf462f7b705afb02a828ea71c3e7",
+    "finalProject" : null,
+    "id" : "819a89958dc72fa24ed4ead3273f96eea51d25d7f10f57a3e4ae9a94a7d672b4",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 788527800,
+    "title" : "Closing",
+    "type" : "networking"
+  },
+  {
+    "eventID" : "0972480760be922cd1d0a397c61603af14b201513b69141d784b198ff7f2448a",
+    "finalProject" : null,
+    "id" : "a0296ab6469fea8bad0dc2935c377c84969c84bdccda496a64d410419e3f3d67",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 763122600,
+    "title" : "Panel Discussion",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "0972480760be922cd1d0a397c61603af14b201513b69141d784b198ff7f2448a",
+    "finalProject" : null,
+    "id" : "24ff826ffde487a7726dd6bb35f7be94f809493aefef2a14a1d084c7b603e1ec",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 763126200,
+    "title" : "Closing",
+    "type" : "networking"
+  },
+  {
+    "eventID" : "9d0dcbbc62b6ae3b001f77b5d3fdb45cfc5e6e25881a896b23d76479f733bafa",
+    "finalProject" : null,
+    "id" : "05e896a5fa4cfc54d825c48a78b686e36e3ce6c29321791cc2640cec00068541",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 784290600,
+    "title" : "Panel Discussion",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "9d0dcbbc62b6ae3b001f77b5d3fdb45cfc5e6e25881a896b23d76479f733bafa",
+    "finalProject" : null,
+    "id" : "c60ef4b16040a3d8ee99b5e12b65fef639e63fb9e0c270b2a23a458f1fb73be4",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 784294200,
+    "title" : "Closing",
+    "type" : "networking"
+  },
+  {
     "eventID" : "99102a2230a8927e5d54c131cafc3367c7852471d1e354886172976c660849e8",
     "finalProject" : null,
     "id" : "9ee0b0283c3df49f54d23f60fe856c99f45508b995282ee458773d1fae8c5101",

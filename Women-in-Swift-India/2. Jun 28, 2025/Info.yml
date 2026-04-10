@@ -7,7 +7,17 @@ location:
         latitude: 0
         longitude: 0
         zoom: 0
-
+agenda:
+    - time: "04:00 PM"
+      title: "Panel Discussion"
+      type: "talk"
+      speakers:
+        - "Namrata Mayanil"
+        - "Midhet Sulemani"
+        - "Raksha Rao"
+    - time: "05:00 PM"
+      title: "Closing"
+      type: "networking"
 sponsors:
     vanue:
     food:

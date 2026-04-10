@@ -216,6 +216,15 @@
     }
   },
   {
+    "about" : "Software Developer at Cashfree Payments",
+    "id" : "73b8c0bda5d0e325b29736221e4508b3e3138f7bdc59237b34a6357db5274038",
+    "image" : "priyambadaroul.jpeg",
+    "name" : "Priyambada Roul",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/priyambadaroul\/"
+    }
+  },
+  {
     "about" : "Co-Founder MAMMA-MIYA",
     "id" : "09627596c84600992a70dc11d2a7f9ad8ca7d42fa54cca94214fda6a9ef3fdf9",
     "image" : "namrata-mayanil.jpeg",
@@ -240,6 +249,15 @@
     "name" : "Raksha Rao",
     "socials" : {
 
+    }
+  },
+  {
+    "about" : "Product engineer - iOS At Strollby UST",
+    "id" : "4576bf06fd61b87ce6ad63fc3bb07dc026037f97463fe1514247c5328f570f83",
+    "image" : "sukrithakk.jpg",
+    "name" : "Sukritha KK",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/sukritha\/"
     }
   },
   {
@@ -289,15 +307,6 @@
     "name" : "Charanya Swaminathan",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/charanya-swaminathan-2278b8225\/"
-    }
-  },
-  {
-    "about" : "Co-Founder andCEO Parjanta Creative Solutions Chaarana Labs",
-    "id" : "d1981f9e565a07d63bd1cd6e5070a01b26bfa20b7868f01afd34b55a53f1781f",
-    "image" : "Raksha-Rao.jpeg",
-    "name" : "Raksha Rao",
-    "socials" : {
-
     }
   },
   {

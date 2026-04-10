@@ -91,6 +91,11 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https:/
 # 5. Mar 7, 2026
  💻 Women in Swift: Connect
 
+## My GSOC Experience with Swift
+### By: **Priyambada Roul**
+Software Developer at Cashfree Payments
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/priyambadaroul/) 
 
 ---
 # 1. Feb 28, 2026
@@ -185,6 +190,11 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/kiran-kumar-b58971b2/)
 # 4. Dec 27, 2025
  💻 Women in Swift: Connect
 
+## Architecting Navigation for Real-World Flows
+### By: **Sukritha KK**
+Product engineer - iOS At Strollby UST
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/sukritha/) 
 
 ---
 # 9. Dec 13, 2025
@@ -239,11 +249,6 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/namrata-mayanil-7469a41/)
 Member Technical Staff (iOS Developer), Zoho Corporation
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/charanya-swaminathan-2278b8225/) 
-
-### By: **Raksha Rao**
-Co-Founder andCEO Parjanta Creative Solutions Chaarana Labs
-
-Follow on:  
 
 ---
 # 8. Oct 11, 2025

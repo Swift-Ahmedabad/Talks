@@ -7,7 +7,15 @@ location:
         latitude: 0
         longitude: 0
         zoom: 0
-
+agenda:
+    - time: "04:00 PM"
+      title: "Architecting Navigation for Real-World Flows"
+      type: "talk"
+      speakers:
+        - "Sukritha KK"
+    - time: "05:00 PM"
+      title: "Closing"
+      type: "networking"
 sponsors:
     vanue:
     food:
