@@ -170,6 +170,36 @@
     "type" : "networking"
   },
   {
+    "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
+    "finalProject" : null,
+    "id" : "40ffc629b3e6bc56ca25cc933fceb1cc425861e79894a3ed9d34e8d5ba818e14",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 798800400,
+    "title" : "Tech Talk 1",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
+    "finalProject" : null,
+    "id" : "165c4e192a1a141f92e767e9bb547e1a0ce3c4a67bdabb03f104e8addf71c76f",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 798803100,
+    "title" : "Tech Talk 2",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
+    "finalProject" : null,
+    "id" : "219ac6299a5fbd6975e013969b9ad1275c2a4848e130705fe02573f3c2277a61",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 798807600,
+    "title" : "Open discussion & Networking",
+    "type" : "networking"
+  },
+  {
     "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
     "finalProject" : null,
     "id" : "984eea08e33f5ef5d55fe580efa39ba63faac1cd9ca58639912d2d9c49331a2a",

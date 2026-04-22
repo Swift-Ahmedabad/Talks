@@ -43,6 +43,26 @@
     }
   },
   {
+    "about" : "Swift Developers Online Meetup",
+    "date" : 798748200,
+    "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
+    "id" : "9301acde8af3026aaa103935df7a161885be351b66bd0a0889a576cad2c7650f",
+    "instructions" : "​Join us for a focused Swift meetup featuring two technical talks by fellow developers.",
+    "location" : {
+      "address" : "",
+      "coordinates" : {
+        "latitude" : 0,
+        "longitude" : 0,
+        "zoom" : 0
+      },
+      "name" : "Online"
+    },
+    "registrationLink" : "https:\/\/luma.com\/b0ioyhnr",
+    "sponsors" : {
+
+    }
+  },
+  {
     "about" : "Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻",
     "date" : 796329000,
     "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
