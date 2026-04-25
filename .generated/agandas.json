@@ -182,20 +182,20 @@
   {
     "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
     "finalProject" : null,
-    "id" : "5140ea0ade5bbbac8e77f5305e3dac549098d685164f2e64c9818dce5d08a634",
+    "id" : "0e01e4aa03de399a28bbf2f1f664efc7bd676e36084b4fc764f9444b70bc141d",
     "recording" : null,
     "starterProject" : null,
-    "time" : 798803100,
+    "time" : 798802500,
     "title" : "Mastering Swift Package Manager",
     "type" : "talk"
   },
   {
     "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
     "finalProject" : null,
-    "id" : "219ac6299a5fbd6975e013969b9ad1275c2a4848e130705fe02573f3c2277a61",
+    "id" : "56e1c5b983655d5bfca5cbd449254a3e75250fc75b451e1854898f005786461d",
     "recording" : null,
     "starterProject" : null,
-    "time" : 798807600,
+    "time" : 798804600,
     "title" : "Open discussion & Networking",
     "type" : "networking"
   },

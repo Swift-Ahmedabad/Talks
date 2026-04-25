@@ -14,57 +14,17 @@ agenda:
       speakers:
         - "Kaveri Patil"
 
-    - time: "3:15 PM"
+    - time: "3:05 PM"
       title: "Mastering Swift Package Manager"
       type: "talk"
       speakers:
         - "Ratnesh Jain"
 
-    - time: "4:30 PM"
+    - time: "3:40 PM"
       title: "Open discussion & Networking"
       type: "networking"
-#        
-#    - time: "10:40 AM"
-#      title: "Learning iOS Development in the Age of AI"
-#      type: "talk"
-#      speakers:
-#        - "Garima Bothra"
-#        
-#    - time: "11:10 AM"
-#      title: "Bio Break ☕"
-#      type: "break"
-#      
-#    - time: "11:20 AM"
-#      title: "Visual Intelligence through App Intents"
-#      type: "talk"
-#      speakers:
-#        - "Subbalakshmi Balamuthu"
-#        
-#    - time: "11:50 AM"
-#      title: "Interactive Quiz 🎯"
-#      type: "talk"
-#      
-#    - time: "12:00 PM"
-#      title: "Panel Discussion: 🗣️ Designing for Women: Empathy, Research, and Real Needs"
-#      type: "talk"
-#      speakers:
-#        - "Shivani Gaur"
-#        - "Subbalakshmi Balamuthu"
-#        - "Garima Bothra"
-#        - "Suma Shirahatti"
-#      
-#    - time: "12:30 PM"
-#      title: "Group Photo 📸"
-#      type: "networking"
-#      
-#    - time: "12:45 PM"
-#      title: "Lunch & Networking 🍽️"
-#      type: "networking"
 sponsors:
     vanue:
-#        name: "Meesho"
-#        website: "https://www.meesho.com"
-#        image: "../.sponsorsAssets/meesho.png"
 
 registrationLink: "https://luma.com/b0ioyhnr"
 instructions: "​Join us for a focused Swift meetup featuring two technical talks by fellow developers."
