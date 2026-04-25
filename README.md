@@ -1,6 +1,17 @@
 # 3. Apr 25, 2026
  💻 Swift Developers Online Meetup
 
+## Mastering Swift Package Manager
+### By: **Ratnesh Jain**
+Sr. iOS Engineer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993) 
+
+## Build Your Own Xcode Plugin to Automate iOS Dev
+### By: **Kaveri Patil**
+iOS developer, Currently building a developer tool to improve everyday workflows.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kaveri-patil-203547151/) 
 
 ---
 # 2. Mar 28, 2026

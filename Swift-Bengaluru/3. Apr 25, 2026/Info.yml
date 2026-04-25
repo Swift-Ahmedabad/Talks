@@ -9,12 +9,16 @@ location:
         zoom: 0
 agenda:
     - time: "2:30 PM"
-      title: "Tech Talk 1"
+      title: "Build Your Own Xcode Plugin to Automate iOS Dev"
       type: "talk"
+      speakers:
+        - "Kaveri Patil"
 
     - time: "3:15 PM"
-      title: "Tech Talk 2"
+      title: "Mastering Swift Package Manager"
       type: "talk"
+      speakers:
+        - "Ratnesh Jain"
 
     - time: "4:30 PM"
       title: "Open discussion & Networking"

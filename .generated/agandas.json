@@ -172,21 +172,21 @@
   {
     "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
     "finalProject" : null,
-    "id" : "40ffc629b3e6bc56ca25cc933fceb1cc425861e79894a3ed9d34e8d5ba818e14",
+    "id" : "649a44c3ab2efdfbd3a81b2ebe290368f6eef8b28f0a659ecb34b282fadbff6a",
     "recording" : null,
     "starterProject" : null,
     "time" : 798800400,
-    "title" : "Tech Talk 1",
+    "title" : "Build Your Own Xcode Plugin to Automate iOS Dev",
     "type" : "talk"
   },
   {
     "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
     "finalProject" : null,
-    "id" : "165c4e192a1a141f92e767e9bb547e1a0ce3c4a67bdabb03f104e8addf71c76f",
+    "id" : "5140ea0ade5bbbac8e77f5305e3dac549098d685164f2e64c9818dce5d08a634",
     "recording" : null,
     "starterProject" : null,
     "time" : 798803100,
-    "title" : "Tech Talk 2",
+    "title" : "Mastering Swift Package Manager",
     "type" : "talk"
   },
   {
