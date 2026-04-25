@@ -8,7 +8,11 @@ location:
         longitude: 0
         zoom: 0
 agenda:
-    - time: "2:30 PM"
+    - time: "2:35 PM"
+      title: "Introduction About Swift Bengaluru"
+      type: "registration"
+      
+    - time: "2:40 PM"
       title: "Build Your Own Xcode Plugin to Automate iOS Dev"
       type: "talk"
       speakers:
@@ -19,6 +23,10 @@ agenda:
       type: "talk"
       speakers:
         - "Ratnesh Jain"
+        
+    - time: "3:40 PM"
+      title: "Roadmap"
+      type: "talk"
 
     - time: "3:45 PM"
       title: "Open discussion & Networking"

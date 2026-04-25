@@ -172,10 +172,20 @@
   {
     "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
     "finalProject" : null,
-    "id" : "649a44c3ab2efdfbd3a81b2ebe290368f6eef8b28f0a659ecb34b282fadbff6a",
+    "id" : "294a40cc5bdeb23d3a03752b8b173020fec5c88169f1c64347382fa17e91da56",
     "recording" : null,
     "starterProject" : null,
-    "time" : 798800400,
+    "time" : 798800700,
+    "title" : "Introduction About Swift Bengaluru",
+    "type" : "registration"
+  },
+  {
+    "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
+    "finalProject" : null,
+    "id" : "fff7ae7732c4e2d0fca74bada1b4d99fb6fd56f4ead0efcb8d8c79bb41cce369",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 798801000,
     "title" : "Build Your Own Xcode Plugin to Automate iOS Dev",
     "type" : "talk"
   },
@@ -187,6 +197,16 @@
     "starterProject" : null,
     "time" : 798802500,
     "title" : "Mastering Swift Package Manager",
+    "type" : "talk"
+  },
+  {
+    "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
+    "finalProject" : null,
+    "id" : "f3686a094cc70d6efa14768842d3e59a75ba6041cc3a59ca5d1f1d3010fbf55d",
+    "recording" : null,
+    "starterProject" : null,
+    "time" : 798804600,
+    "title" : "Roadmap",
     "type" : "talk"
   },
   {
