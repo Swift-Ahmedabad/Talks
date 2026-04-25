@@ -105,6 +105,92 @@
     }
   },
   {
+    "description" : "A community of Swift developers in Surat that brings people together to learn, network, collaborate, and share knowledge through meetups and technical sessions focused on Swift and iOS development, helping them connect and grow together.",
+    "id" : "15acae05be00bc66fd20a7c63ca852804dd16196ae012f006b333fe6c3f31a62",
+    "logo" : "swift-surat.jpeg",
+    "members" : [
+      {
+        "about" : "Senior iOS Developer | Expert in SwiftUI, Swift, Xcode | Flutter | UI\/UX Enthusiast | Co-organiser SwiftSurat",
+        "name" : "Bhumika Patel",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/bhumika-ios\/"
+        }
+      },
+      {
+        "about" : "Senior Full-Stack Developer | SaaS, Laravel & API Specialist | Delivering Scalable Web Solutions Globally",
+        "name" : "Jigar Patel",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/jigar24patel\/"
+        }
+      }
+    ],
+    "name" : "Swift Surat",
+    "socialMedias" : {
+      "instagram" : "https:\/\/www.instagram.com\/swift_surat\/",
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftsurat",
+      "luma" : "https:\/\/luma.com\/user\/SwiftSurat",
+      "twitter" : "https:\/\/x.com\/SwiftSurat",
+      "whatsApp" : "https:\/\/chat.whatsapp.com\/CHOSuNyv3KDDsKIxnymV9J?mode=gi_t"
+    }
+  },
+  {
+    "description" : "Community of users of Apple’s Swift programming language based in Delhi, India  🇮🇳",
+    "id" : "fd8caab4e610a9922e7e98621dab11685859c96194621751c84c2867fcecbd8a",
+    "logo" : "swift-delhi.jpeg",
+    "members" : [
+      {
+        "about" : "Freelance iOS Developer, Organiser of Swift Delhi",
+        "name" : "Raghav Sethi",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/sforsethi"
+        }
+      },
+      {
+        "about" : "iOS Developer at Swiggy, Swift Delhi member, Judge for over 150+ hackathons 🎪. iOS Speaker.",
+        "name" : "Maninder Singh",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/manindersinghh\/"
+        }
+      },
+      {
+        "about" : "prev @Trek @Swiggy | Exploring the intersection of AI, Tech and Product",
+        "name" : "Sejal Khanna",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/sejallkhanna\/"
+        }
+      },
+      {
+        "about" : "💻 Building Blinkit |  4x WWDC SSC Winner (21, 22, 23 & 24) |  ⭐️ Previously iOS Developer at @Techburner",
+        "name" : "Ayush Singh",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/ayush21082\/"
+        }
+      },
+      {
+        "about" : "Ex-infosys || iOS Developer || Public Speaker || Organiser Swift Delhi || Community Builder || Mentor",
+        "name" : "Arpita Gupta",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/arpita-gupta01\/"
+        }
+      },
+      {
+        "about" : "Inventing Temple |  WWDC 2023 Scholar",
+        "name" : "Dishant Nagpal",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/dishantios\/"
+        }
+      }
+    ],
+    "name" : "Swift Delhi",
+    "socialMedias" : {
+      "instagram" : "https:\/\/www.instagram.com\/swiftdelhi\/",
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swift-delhi",
+      "luma" : "https:\/\/luma.com\/user\/swiftdelhi",
+      "twitter" : "https:\/\/x.com\/swiftdelhi",
+      "whatsApp" : "https:\/\/chat.whatsapp.com\/Lka4RlJRvIh5w4S5rJmrNf?mode=gi_t"
+    }
+  },
+  {
     "description" : "The Revolution will be Swift!! - A community for developers working on Apple platforms (iOS\/macOS) as well as the ones who are using swift to develop cloud and server applications.",
     "id" : "55650e28cc45b32a5183aa0d90aee7afa282eb4bfbb49021fd154521fa72a267",
     "logo" : "swift-bengaluru.jpeg",
@@ -142,6 +228,27 @@
         "name" : "Raj Raval",
         "socials" : {
           "linkedIn" : "https:\/\/www.linkedin.com\/in\/rajhraval\/"
+        }
+      },
+      {
+        "about" : "Senior iOS Engineer | WWDC20 SSC Winner",
+        "name" : "Amit Samant",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/amitsamant-dev\/"
+        }
+      },
+      {
+        "about" : "iOS Engineer | Swift & Objective-C Specialist | Turning Ideas into Seamless Mobile Experiences",
+        "name" : "Kanagasabapathy Rajkumar",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/sabapathy7\/"
+        }
+      },
+      {
+        "about" : "Technology Lead at Infosys",
+        "name" : "Keerthipriya G Kurtakoti",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/keerthi-priya-g-kurtakoti-b963a7160\/"
         }
       }
     ],
@@ -201,6 +308,40 @@
       "luma" : "https:\/\/luma.com\/user\/swiftmumbai",
       "portfolio" : "https:\/\/swiftmumbai.in",
       "twitter" : "https:\/\/x.com\/swift_mumbai"
+    }
+  },
+  {
+    "description" : "Community of Apple Platform Developers and Apple’s Swift programming language based in Nagpur, India 🇮🇳",
+    "id" : "8fdfea503ba2496f7e36ffa9ae89cd740b33fb08342d4d652113a918c572cd99",
+    "logo" : "swift-nagpur.jpg",
+    "members" : [
+      {
+        "about" : "iOS Developer | Creator of Revu+ | Originator @ Swift Nagpur | President @ CodeWare | Co-Organizer @ GDG",
+        "name" : "Mr. Vedang Kulkarni",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/vedang-kulkarni-vk18"
+        }
+      },
+      {
+        "about" : "Assistant Professor at Symbiosis Institute of Technology Nagpur",
+        "name" : "Dr. Nikhil Mangrulkar",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/nikhil-mangrulkar-ph-d-998b1567"
+        }
+      },
+      {
+        "about" : "International Badminton Player | 3rd Year Engineering Student at Symbiosis Institute of Technology, Nagpur",
+        "name" : "Ms. Pinak Rokde",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/pinak-rokde-42a9a0292"
+        }
+      }
+    ],
+    "name" : "Swift Nagpur",
+    "socialMedias" : {
+      "instagram" : "https:\/\/www.instagram.com\/swift.nagpur",
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swiftnagpur\/",
+      "whatsApp" : "https:\/\/chat.whatsapp.com\/Flxv7ujvjvP6yfdJttxuA5"
     }
   },
   {

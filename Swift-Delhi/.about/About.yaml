@@ -1,0 +1,35 @@
+name: "Swift Delhi"
+description: "Community of users of Apple’s Swift programming language based in Delhi, India  🇮🇳"
+logo: "swift-delhi.jpeg"
+members:
+    - name: "Raghav Sethi"
+      about: "Freelance iOS Developer, Organiser of Swift Delhi"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/sforsethi"
+    - name: "Maninder Singh"
+      about: "iOS Developer at Swiggy, Swift Delhi member, Judge for over 150+ hackathons 🎪. iOS Speaker."
+      socials:
+        linkedIn: "https://www.linkedin.com/in/manindersinghh/"
+    - name: "Sejal Khanna"
+      about: "prev @Trek @Swiggy | Exploring the intersection of AI, Tech and Product"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/sejallkhanna/"
+    - name: "Ayush Singh"
+      about: "💻 Building Blinkit |  4x WWDC SSC Winner (21, 22, 23 & 24) |  ⭐️ Previously iOS Developer at @Techburner"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/ayush21082/"
+    - name: "Arpita Gupta"
+      about: "Ex-infosys || iOS Developer || Public Speaker || Organiser Swift Delhi || Community Builder || Mentor"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/arpita-gupta01/"
+    - name: "Dishant Nagpal"
+      about: "Inventing Temple |  WWDC 2023 Scholar"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/dishantios/"
+        
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/swift-delhi"
+    instagram: "https://www.instagram.com/swiftdelhi/"
+    whatsApp: "https://chat.whatsapp.com/Lka4RlJRvIh5w4S5rJmrNf?mode=gi_t"
+    twitter: "https://x.com/swiftdelhi"
+    luma: "https://luma.com/user/swiftdelhi"

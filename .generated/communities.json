@@ -12,6 +12,18 @@
     "resourcePath" : "Swift Chennai"
   },
   {
+    "id" : "15acae05be00bc66fd20a7c63ca852804dd16196ae012f006b333fe6c3f31a62",
+    "logo" : "swift-surat.jpeg",
+    "name" : "Swift Surat",
+    "resourcePath" : "Swift Surat"
+  },
+  {
+    "id" : "fd8caab4e610a9922e7e98621dab11685859c96194621751c84c2867fcecbd8a",
+    "logo" : "swift-delhi.jpeg",
+    "name" : "Swift Delhi",
+    "resourcePath" : "Swift Delhi"
+  },
+  {
     "id" : "55650e28cc45b32a5183aa0d90aee7afa282eb4bfbb49021fd154521fa72a267",
     "logo" : "swift-bengaluru.jpeg",
     "name" : "Swift Bengaluru",
@@ -22,6 +34,12 @@
     "logo" : "swift-mumbai.jpg",
     "name" : "Swift Mumbai",
     "resourcePath" : "Swift Mumbai"
+  },
+  {
+    "id" : "8fdfea503ba2496f7e36ffa9ae89cd740b33fb08342d4d652113a918c572cd99",
+    "logo" : "swift-nagpur.jpg",
+    "name" : "Swift Nagpur",
+    "resourcePath" : "Swift Nagpur"
   },
   {
     "id" : "b03bea8e02951cbf2a87f377bb2b5daae080f8be62304192a1b926cbdcceec3f",

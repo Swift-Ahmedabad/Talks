@@ -82,6 +82,68 @@
     }
   },
   {
+    "about" : "Sr. iOS Engineer",
+    "id" : "d4a1a4d1495dce5806681786869bf81317ef2243d85165b42bcea57bd9412d94",
+    "image" : "RatneshJain.png",
+    "name" : "Ratnesh Jain",
+    "socials" : {
+      "github" : "https:\/\/github.com\/ratnesh-jain",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/ratnesh-jain-7a2270146\/",
+      "portfolio" : "https:\/\/ratnesh-jain.github.io",
+      "twitter" : "https:\/\/x.com\/ratneshjain1993"
+    }
+  },
+  {
+    "about" : "iOS developer, Currently building a developer tool to improve everyday workflows.",
+    "id" : "c6484fe3586f6a0c5febc53c2e84f57f7033d00e94cf6c9bcd8171a3d8ebadc2",
+    "image" : "kaveriPatil.jpeg",
+    "name" : "Kaveri Patil",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kaveri-patil-203547151\/",
+      "twitter" : "https:\/\/x.com\/kaveripatil14?s=11"
+    }
+  },
+  {
+    "about" : "Sr. Product Designer at Procore Technologies",
+    "id" : "78a28f576aa3e95c696917a27478ec411507639252d8ebca30f06d416e461abb",
+    "image" : "ShivaniGaur.jpeg",
+    "name" : "Shivani Gaur",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/shivani-gaur27\/",
+      "portfolio" : "https:\/\/iamshivanigaur.com"
+    }
+  },
+  {
+    "about" : "SWE III @ Google | Prev. Swiggy | Apple Swift Student Challenge 2021 Winner | 3rd at GHCI Code-a-thon 2021 | iOS Developer",
+    "id" : "2617acacf468545e7f63eb79de32df0fa9439569b4c55baad530c1d67e587e67",
+    "image" : "garima-bothra.jpeg",
+    "name" : "Garima Bothra",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/garima-bothra\/",
+      "twitter" : "https:\/\/x.com\/garimabothraa"
+    }
+  },
+  {
+    "about" : "Indie App Developer, Founder of Feelly App",
+    "id" : "11161dada2e8eb8d0428019ab2743a1dbce20f4096c3de2c7d8186bf03511f08",
+    "image" : "SubbalakshmiBalamuthu.jpeg",
+    "name" : "Subbalakshmi Balamuthu",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/subbulakshmi-balamuthu-6125a3354\/",
+      "portfolio" : "https:\/\/feelly.ai",
+      "twitter" : "https:\/\/x.com\/subbulakshmi_b"
+    }
+  },
+  {
+    "about" : "iOS developer at StockX | Ex-Paytm| iOS Developer",
+    "id" : "08e19f808f1c9e5033a703c403e428db8819a8920d69471ee88bea75378e1214",
+    "image" : "SumaShirahatti.jpeg",
+    "name" : "Suma Shirahatti",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/suma-shirahatti-28774015b\/"
+    }
+  },
+  {
     "about" : "Engineering - iOS",
     "id" : "5039f47fec79f243c308c9cbe0bd547330d6ccfd795b9f6298cd635b0e47a7c2",
     "image" : "AkashlalBathe.jpeg",
@@ -173,6 +235,100 @@
     "name" : "Kirankumar",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/kiran-kumar-b58971b2\/"
+    }
+  },
+  {
+    "about" : "Software Developer at Cashfree Payments",
+    "id" : "73b8c0bda5d0e325b29736221e4508b3e3138f7bdc59237b34a6357db5274038",
+    "image" : "priyambadaroul.jpeg",
+    "name" : "Priyambada Roul",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/priyambadaroul\/"
+    }
+  },
+  {
+    "about" : "Co-Founder MAMMA-MIYA",
+    "id" : "09627596c84600992a70dc11d2a7f9ad8ca7d42fa54cca94214fda6a9ef3fdf9",
+    "image" : "namrata-mayanil.jpeg",
+    "name" : "Namrata Mayanil",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/namrata-mayanil-7469a41\/"
+    }
+  },
+  {
+    "about" : "SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code",
+    "id" : "14dce7aa6ff9bb356a1071b51bddef1215b348a14075a960375688cba432d54b",
+    "image" : "MidhetSulemani.jpeg",
+    "name" : "Midhet Sulemani",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/midhet\/"
+    }
+  },
+  {
+    "about" : "Co-Founder andCEO Parjanta Creative Solutions Chaarana Labs",
+    "id" : "d1981f9e565a07d63bd1cd6e5070a01b26bfa20b7868f01afd34b55a53f1781f",
+    "image" : "Raksha-Rao.jpeg",
+    "name" : "Raksha Rao",
+    "socials" : {
+
+    }
+  },
+  {
+    "about" : "Product engineer - iOS At Strollby UST",
+    "id" : "4576bf06fd61b87ce6ad63fc3bb07dc026037f97463fe1514247c5328f570f83",
+    "image" : "sukrithakk.jpg",
+    "name" : "Sukritha KK",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/sukritha\/"
+    }
+  },
+  {
+    "about" : "SDE @ Upstox | 2x Apple Scholar | SNHU '25",
+    "id" : "cc63742cf8b6621a970040615f1acb66ccd16829a30a69b28f37025b168e57fa",
+    "image" : "KanishkaChaudhry.jpeg",
+    "name" : "Kanishka Chaudhry",
+    "socials" : {
+      "github" : "https:\/\/github.com\/Kanishka3",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kanishka-c\/",
+      "portfolio" : "https:\/\/kanishkawilliamson.wordpress.com",
+      "twitter" : "https:\/\/twitter.com\/ralasi_"
+    }
+  },
+  {
+    "about" : "SWE III @ Google | Prev. Swiggy | Apple Swift Student Challenge 2021 Winner | 3rd at GHCI Code-a-thon 2021 | iOS Developer",
+    "id" : "2617acacf468545e7f63eb79de32df0fa9439569b4c55baad530c1d67e587e67",
+    "image" : "garima-bothra.jpeg",
+    "name" : "Garima Bothra",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/garima-bothra\/",
+      "twitter" : "https:\/\/x.com\/garimabothraa"
+    }
+  },
+  {
+    "about" : "iOS(Swift) Developer",
+    "id" : "9e507d8bb26e07a4f417bf51b5a95ba5e95238cbd89095126fb26de4b7d91993",
+    "image" : "RinkalRiziya.jpg",
+    "name" : "Rinkal Riziya",
+    "socials" : {
+
+    }
+  },
+  {
+    "about" : "iOS Engineer",
+    "id" : "808e4caac2f75feb9425c51138241b966fbd7706429e6ab7e601c5306ba0f6a8",
+    "image" : "namrata-mayanil.jpeg",
+    "name" : "Harpreet Kaur",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/namrata-mayanil-7469a41\/"
+    }
+  },
+  {
+    "about" : "Member Technical Staff (iOS Developer), Zoho Corporation",
+    "id" : "46a2b505f1f9c3dc0c60575dcd96c0e988c50ab1c92e74f0932a46be572ed170",
+    "image" : "charanya-swaminathan.jpeg",
+    "name" : "Charanya Swaminathan",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/charanya-swaminathan-2278b8225\/"
     }
   },
   {

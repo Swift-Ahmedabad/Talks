@@ -1,0 +1,22 @@
+about: "Women in Swift: Connect"
+date: "December 27, 2025"
+location:
+    name: "Online"
+    address: "Google Meet"
+    coordinates:
+        latitude: 0
+        longitude: 0
+        zoom: 0
+agenda:
+    - time: "04:00 PM"
+      title: "Architecting Navigation for Real-World Flows"
+      type: "talk"
+      speakers:
+        - "Sukritha KK"
+    - time: "05:00 PM"
+      title: "Closing"
+      type: "networking"
+sponsors:
+    vanue:
+    food:
+instructions: "This is women only event!"

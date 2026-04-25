@@ -1,0 +1,20 @@
+name: "Swift Surat"
+description: "A community of Swift developers in Surat that brings people together to learn, network, collaborate, and share knowledge through meetups and technical sessions focused on Swift and iOS development, helping them connect and grow together."
+logo: "swift-surat.jpeg"
+members:
+    - name: "Bhumika Patel"
+      about: "Senior iOS Developer | Expert in SwiftUI, Swift, Xcode | Flutter | UI/UX Enthusiast | Co-organiser SwiftSurat"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/bhumika-ios/"
+        
+    - name: "Jigar Patel"
+      about: "Senior Full-Stack Developer | SaaS, Laravel & API Specialist | Delivering Scalable Web Solutions Globally"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/jigar24patel/"
+
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/swiftsurat"
+    instagram: "https://www.instagram.com/swift_surat/"
+    luma: "https://luma.com/user/SwiftSurat"
+    twitter: "https://x.com/SwiftSurat"
+    whatsApp: "https://chat.whatsapp.com/CHOSuNyv3KDDsKIxnymV9J?mode=gi_t"

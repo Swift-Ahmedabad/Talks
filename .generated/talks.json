@@ -35,6 +35,36 @@
     "title" : "Building Interfaces and Animations with SwiftUI"
   },
   {
+    "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
+    "id" : "7daf2c9b864ef0eca8760e84a68e1db18dc3954e6a24a7de58cb04854202082a",
+    "title" : "Mastering Swift Package Manager"
+  },
+  {
+    "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
+    "id" : "d305c3992959c2eab4b03bedffa959f7653ac7fe1d0512ce866ee90f0a65a645",
+    "title" : "Build Your Own Xcode Plugin to Automate iOS Dev"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "id" : "a8669711ed2f47dc89a87fe0eb2760aea14c14cbb10cb17bb494a53a9fa7262e",
+    "title" : "AI Powered Design and seamless iOS Collaboration for Faster Delivery"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "id" : "655ab95bf5df44ea185c30d6dcce578a2bab7adfe56b537778e65c5199aa6428",
+    "title" : "Learning iOS Development in the Age of AI"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "id" : "d70978777271b545b31b6e824ccb7a94114f785fccb4893064f0fd0e5e003b47",
+    "title" : "Visual Intelligence through AppIntents"
+  },
+  {
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "id" : "20c24f54708154a7b7d762d1182f09df35b8752dd0a159395e410da5b2690e09",
+    "title" : "Panel Discussion 🗣️ Designing for Women Empathy, Research, and Real Needs"
+  },
+  {
     "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
     "id" : "f555807792e50962ab24da187a6dd22b01b5ebc469ffe40993b67a02e94b4f5b",
     "title" : "Designing Conversational Skills for Agentic Workflows"
@@ -78,6 +108,31 @@
     "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
     "id" : "747e26a562532228f121a9cd552b5d929a9fbbf78b1ba52954799834e0a3dfec",
     "title" : "The Illusion of Runtime Security"
+  },
+  {
+    "eventID" : "da9a961a5b770324f39ab0e49d960478c2f8bfeca442f0f2aaa4e92cb1228f14",
+    "id" : "1b774f7a11edf5ece506a1ddc17c453191ae9b063620c8990cb9de9d7debf9d9",
+    "title" : "My GSOC Experience with Swift"
+  },
+  {
+    "eventID" : "6f547200e2da87d410f96c8dd56cb1b490e88e0239a94b7cae10591f0a151a15",
+    "id" : "35de164f30b9537204a4de0fdd1acee5018feffbd2e6deb06c1437d418415681",
+    "title" : "Panel Discussion"
+  },
+  {
+    "eventID" : "5e36f2535dd45dd79f8ef1939c02e8e2e540cf462f7b705afb02a828ea71c3e7",
+    "id" : "6b97704ec41fd5a0a5409d42321a1205ab9f764881b5b1110bc397881c5e4e3c",
+    "title" : "Architecting Navigation for Real-World Flows"
+  },
+  {
+    "eventID" : "0972480760be922cd1d0a397c61603af14b201513b69141d784b198ff7f2448a",
+    "id" : "c83a828c4cb3c66bf89df62b94577d1e695b2d60f2f0fc7b9ee59c6c5335a166",
+    "title" : "Panel Discussion"
+  },
+  {
+    "eventID" : "9d0dcbbc62b6ae3b001f77b5d3fdb45cfc5e6e25881a896b23d76479f733bafa",
+    "id" : "8f2078a81797abbfb2ddb15f0c0aa5a92ec7d35b3ac377a68327c0ebc40fd180",
+    "title" : "Panel Discussion"
   },
   {
     "eventID" : "99102a2230a8927e5d54c131cafc3367c7852471d1e354886172976c660849e8",

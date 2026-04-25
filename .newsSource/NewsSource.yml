@@ -115,8 +115,17 @@
 - title: "Anton Gubarenko"
   url: "https://antongubarenko.substack.com/feed"
 
-- title: "Dinijela Vrzan"
+- title: "Danijela Vrzan"
   url: "https://danijelavrzan.com/rss.xml"
 
 - title: "Raja Vijayaraman"
   url: "https://rajavijayaraman.com/rss.xml"
+
+- title: "Simon Willison"
+  url: "https://simonwillison.net/atom/entries/"
+
+- title: "Bas Broek"
+  url: "https://www.basbroek.nl/feed.xml"
+
+- title: "Max Seelemann"
+  url: "https://macguru.dev/rss/"

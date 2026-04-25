@@ -1,0 +1,21 @@
+- name: Kanishka Chaudhry
+  socials:
+    linkedIn: https://www.linkedin.com/in/kanishka-c/
+    github: https://github.com/Kanishka3
+    twitter: https://twitter.com/ralasi_
+    portfolio: https://kanishkawilliamson.wordpress.com
+  about: SDE @ Upstox | 2x Apple Scholar | SNHU '25
+  image: KanishkaChaudhry.jpeg
+
+- name: Garima Bothra
+  socials:
+    linkedIn: https://www.linkedin.com/in/garima-bothra/
+    twitter: https://x.com/garimabothraa
+  about: SWE III @ Google | Prev. Swiggy | Apple Swift Student Challenge 2021 Winner | 3rd at GHCI Code-a-thon 2021 | iOS Developer
+  image: garima-bothra.jpeg
+
+- name: Rinkal Riziya
+  socials:
+    linkedin: https://www.linkedin.com/in/rinkal-riziya-3b712954/
+  about: iOS(Swift) Developer
+  image: RinkalRiziya.jpg
