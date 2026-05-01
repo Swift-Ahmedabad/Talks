@@ -17,12 +17,14 @@ agenda:
       type: "talk"
       speakers:
         - "Kaveri Patil"
+      recording: "https://youtu.be/w1pSdurEvKc?t=3008"
 
     - time: "3:05 PM"
       title: "Mastering Swift Package Manager"
       type: "talk"
       speakers:
         - "Ratnesh Jain"
+      recording: "https://youtu.be/w1pSdurEvKc?t=792"
         
     - time: "3:40 PM"
       title: "Roadmap"
