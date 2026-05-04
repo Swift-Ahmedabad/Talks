@@ -1,4 +1,4 @@
-# 3. Apr 25, 2026
+# Swift Developers Online Meetup
  💻 Swift Developers Online Meetup
 
 ## Mastering Swift Package Manager
@@ -14,7 +14,7 @@ iOS developer, Currently building a developer tool to improve everyday workflows
 Follow on: [LinkedIn](https://www.linkedin.com/in/kaveri-patil-203547151/), [Twitter](https://x.com/kaveripatil14?s=11) 
 
 ---
-# 2. Mar 28, 2026
+# Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻
  💻 Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻
 
 ## AI Powered Design and seamless iOS Collaboration for Faster Delivery
@@ -42,7 +42,7 @@ iOS developer at StockX | Ex-Paytm| iOS Developer
 Follow on: [LinkedIn](https://www.linkedin.com/in/suma-shirahatti-28774015b/) 
 
 ---
-# 10. Mar 14, 2025
+# Swift Ahmedabad March'26 Meetup
  💻 Swift Ahmedabad March'26 Meetup
 ### 📸 [Event Photos](https://photos.app.goo.gl/wDtRjHpfGjr29uQr5)
 ## From Data to Delight - Integrating AI into iOS Applications
@@ -71,7 +71,7 @@ AWS Certified Developer- Associate || Associate Software Engineer @Aubergine Sol
 Follow on:  
 
 ---
-# 1. Mar 8, 2026
+# Swift Pune - S002
  💻 Swift Pune - S002
 
 ## CI-CD With Github Action and Fastlane
@@ -104,7 +104,7 @@ SDE @ Upstox | 2x Apple Scholar | SNHU '25
 Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 
 
 ---
-# 5. Mar 7, 2026
+# Women in Swift: Connect
  💻 Women in Swift: Connect
 
 ## My GSOC Experience with Swift
@@ -114,7 +114,7 @@ Software Developer at Cashfree Payments
 Follow on: [LinkedIn](https://www.linkedin.com/in/priyambadaroul/) 
 
 ---
-# 1. Feb 28, 2026
+# Swift Chennai February Edition
  💻 Swift Chennai February Edition
 ### 📸 [Event Photos](https://drive.google.com/drive/folders/1arMOXb5GbtK7IWh3zvJry9Ie5f_9XlO-)
 ## Concurrency in Swift
@@ -136,7 +136,7 @@ iOS Developer (Associate Principal Engineer) at DailyRounds / Marrow
 Follow on: [LinkedIn](https://www.linkedin.com/in/shubham0812/), [Twitter](https://x.com/Shubham_iosdev) 
 
 ---
-# 1. Feb 28, 2026
+# Swift Bengaluru x Meesho
  💻 Swift Bengaluru x Meesho
 
 ## Designing Conversational Skills for Agentic Workflows
@@ -170,7 +170,7 @@ AI Prompter and Senior iOS Developer Writer. WWDC '19 Scholar. Independent write
 Follow on: [LinkedIn](https://www.linkedin.com/in/rudrank/), [Github](https://github.com/rudrankriyam) 
 
 ---
-# 1. Feb 28, 2026
+# Swift Mumbai + Haxnation
  💻 Swift Mumbai + Haxnation
 ### 📸 [Event Photos](https://drive.google.com/drive/folders/1tOBeqz26LQwG5etSo7o4leE49s1m2uwa)
 ## FlutterFlow App Security Explained- Myths, Risks, and Best Practices
@@ -203,7 +203,7 @@ Security Engineer III, InfraSec | OSCP | AWS Solution Architect | CEH | Bug Boun
 Follow on: [LinkedIn](https://www.linkedin.com/in/kiran-kumar-b58971b2/) 
 
 ---
-# 4. Dec 27, 2025
+# Women in Swift: Connect
  💻 Women in Swift: Connect
 
 ## Architecting Navigation for Real-World Flows
@@ -213,7 +213,7 @@ Product engineer - iOS At Strollby UST
 Follow on: [LinkedIn](https://www.linkedin.com/in/sukritha/) 
 
 ---
-# 9. Dec 13, 2025
+# Swift Ahmedabad December'25 MeetUp
  💻 Swift Ahmedabad December'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/58ixSq6rJ37XoZoQ7)
 ## Accessibility Nutrition Labels for Better iOS Apps
@@ -252,7 +252,7 @@ iOS Developer @ Space O | Model-View-Controller (MVC) | MVVM | SwiftUI | Swift |
 Follow on: [LinkedIn](https://www.linkedin.com/in/hardik-modha-95b9ab125/) 
 
 ---
-# 3. Nov 8, 2025
+# Women in Swift: Connect
  💻 Women in Swift: Connect
 
 ## Panel Discussion
@@ -267,7 +267,7 @@ Member Technical Staff (iOS Developer), Zoho Corporation
 Follow on: [LinkedIn](https://www.linkedin.com/in/charanya-swaminathan-2278b8225/) 
 
 ---
-# 8. Oct 11, 2025
+# Swift Ahmedabad October'25 MeetUp
  💻 Swift Ahmedabad October'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/rcxKMq7YpzvEqqnY7)
 ## Swift Bharat Experience
@@ -289,7 +289,7 @@ Researcher | iOS Engineer | Blogger at ohmyswift.com | Speaker | Proud husband
 Follow on: [LinkedIn](https://www.linkedin.com/in/rizwan95/), [Portfolio](https://ohmyswift.com) 
 
 ---
-# 7. Jul 19, 2025
+# Swift Ahmedabad July'25 MeetUp
  💻 Swift Ahmedabad July'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/cEbiK4BnUFTfiRuq6)
 ## Unlocking the Power of Xcode 26 + ChatGPT
@@ -299,7 +299,7 @@ IOS Development | Objective C | Swift | Architecture | TDD | BDD
 Follow on: [LinkedIn](https://www.linkedin.com/in/prashantpkorat/) 
 
 ---
-# 2. Jun 28, 2025
+# Women in Swift: WWDC Wind Down
  💻 Women in Swift: WWDC Wind Down
 
 ## Panel Discussion
@@ -319,7 +319,7 @@ Co-Founder andCEO Parjanta Creative Solutions Chaarana Labs
 Follow on:  
 
 ---
-# 6. Jun 9, 2025
+# WWDC25 Watch Party Around India
  💻 WWDC25 Watch Party Around India
 ### 📸 [Event Photos](https://photos.app.goo.gl/xo5fDZ2wxHYWSsav6)
 ## Introduction to Keynote
@@ -335,7 +335,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Git
 Follow on: [LinkedIn](https://www.linkedin.com/in/pratik-gadhesariya-047a14142/), [Portfolio](https://bold.pro/my/pratik-gadhesariya) 
 
 ---
-# 5. Apr 5, 2025
+# Swift Ahmedabad April'25 MeetUp
  💻 Swift Ahmedabad April'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/gXwCiTRw6iA9sUUN7)
 ## Physics in AR
@@ -356,7 +356,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/trivedihiteshrd/)
 Follow on: [LinkedIn](https://www.linkedin.com/in/samir-bagariya/) 
 
 ---
-# 1. Mar 8, 2025
+# Women in Swift: Connect
  💻 Women in Swift: Connect
 
 ## Panel Discussion
@@ -376,7 +376,7 @@ iOS(Swift) Developer
 Follow on:  
 
 ---
-# 4. Feb 15, 2025
+# Swift Ahmedabad February'25 MeetUp
  💻 Swift Ahmedabad February'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/iwHj3U2BarViSTCw7)
 ## Exploring Image Playground with Apple Intelligence
@@ -410,7 +410,7 @@ Sr. iOS Developer | Helping Startups & Agencies Build AI-Driven, High-Performing
 Follow on: [LinkedIn](https://www.linkedin.com/in/adeptdevtips/) 
 
 ---
-# 3. Dec 21, 2024
+# Swift Ahmedabad December'24 MeetUp
  💻 Swift Ahmedabad December'24 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/G7TKauVBLaeLJYZa8)
 ## Optimizing development with dependency injection and live activities 
@@ -443,7 +443,7 @@ Founder | Building Karo & Tasks | Passionate about consumer apps
 Follow on: [LinkedIn](https://www.linkedin.com/in/mufasayc/), [Portfolio](https://msquarelabs.com), [Twitter](https://x.com/mufasayc) 
 
 ---
-# 2. Oct 19, 2024
+# Swift Ahmedabad October'24 MeetUp
  💻 Swift Ahmedabad October'24 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/ouFSJ54TpYuGQ5MBA)
 ## Mesh A plug and play ui framework
@@ -465,7 +465,7 @@ Application Development Team Lead at Accenture
 Follow on: [LinkedIn](https://www.linkedin.com/in/harshitdaftary/) 
 
 ---
-# 1. Aug 10, 2024
+# Swift Ahmedabad August'24 MeetUp
  💻 Swift Ahmedabad August'24 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/owW6Ef9U45Aj68Ha9)
 ## Let's Scroll
