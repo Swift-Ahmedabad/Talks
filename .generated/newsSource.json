@@ -90,11 +90,6 @@
     "url" : "https:\/\/www.donnywals.com\/feed\/"
   },
   {
-    "id" : "d91fb79ebefc7f5b551a343166034a540665ea21c7cd61406174dc06e2cfa45b",
-    "title" : "Patrick McConnell",
-    "url" : "https:\/\/pmcconnell.micro.blog\/feed.xml"
-  },
-  {
     "id" : "b9ab0132bfb9e2911c15873d32c8b5ecb6cbf430dd44fa03d27ce833d97faccf",
     "title" : "Pointfree",
     "url" : "https:\/\/hachyderm.io\/@pointfreeco.rss"
@@ -140,9 +135,9 @@
     "url" : "https:\/\/artemnovichkov.com\/feed.xml"
   },
   {
-    "id" : "b768385ed9c1861b967a0f14ca96ebd62872bd446dd06f4fabfd226ec1814ca6",
+    "id" : "a4f529108a28354ca13abe012803fe89217eb2e743ff8f652ebf926062e4b71d",
     "title" : "Jorge Calderita",
-    "url" : "https:\/\/jcalderita.com\/en\/rss.xml"
+    "url" : "https:\/\/jcalderita.com\/blog\/feed.xml"
   },
   {
     "id" : "c207ad8dbff41f913bd3785301bafbdcf1cce64a5b85ea3f5cbd2f721aa013e2",

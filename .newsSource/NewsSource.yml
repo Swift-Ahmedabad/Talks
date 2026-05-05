@@ -52,8 +52,8 @@
 - title: "Donny Wals"
   url: "https://www.donnywals.com/feed/"
 
-- title: "Patrick McConnell"
-  url: "https://pmcconnell.micro.blog/feed.xml"
+#- title: "Patrick McConnell"
+#  url: "https://pmcconnell.micro.blog/feed.xml"
 
 - title: "Pointfree"
   url: "https://hachyderm.io/@pointfreeco.rss"
@@ -83,7 +83,7 @@
   url: "https://artemnovichkov.com/feed.xml"
 
 - title: "Jorge Calderita"
-  url: "https://jcalderita.com/en/rss.xml"
+  url: "https://jcalderita.com/blog/feed.xml"
 
 - title: "Vidit Bhargava"
   url: "https://blog.viditb.com/rss/"
