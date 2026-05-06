@@ -40,12 +40,14 @@ agenda:
       title: "Networking & Refreshments"
       type: "networking"
 sponsors:
-    vanue:
+    - sponsor:
         name: "CricHeroes Pvt. Ltd"
         website: "https://cricheroes.com"
         image: "cricheros.jpeg"
-    food:
+      sponsoringFor: "Vanue"
+    - sponsor:
         name: "CricHeroes Pvt. Ltd"
         website: "https://cricheroes.com"
         image: "cricheros.jpeg"
+      sponsoringFor: "Food"
 photoURL: "https://photos.app.goo.gl/rcxKMq7YpzvEqqnY7"

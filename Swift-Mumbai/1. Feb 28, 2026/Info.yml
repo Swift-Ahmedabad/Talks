@@ -63,14 +63,16 @@ agenda:
       type: "networking"
 
 sponsors:
-    vanue:
+    - sponsor:
         name: "Haxnation Mumbai, Flutter Mumbai, Swift Mumbai"
         website: "https://haxnation.org/mumbai-chapter/"
         image: "haxnation_meetups_mumbai_.jpeg"
-    food:
+      sponsoringFor: "Vanue"
+    - sponsor:
         name: "Haxnation Mumbai, Flutter Mumbai, Swift Mumbai"
         website: "https://www.linkedin.com/company/fluttermumbai"
         image: "fluttermumbai_logo.jpeg"
+      sponsoringFor: "Food"
 
 registrationLink: "https://luma.com/20qzxuqr"
 

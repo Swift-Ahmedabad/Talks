@@ -53,13 +53,15 @@ agenda:
       type: "networking"
 
 sponsors:
-    vanue:
+    - sponsor:
         name: "LJ University"
         website: "https://ljku.edu.in"
         image: "ljUniversity.png"
-    food:
+      sponsoringFor: "Vanue"
+    - sponsor:
         name: "LJ University"
         website: "https://ljku.edu.in"
         image: "ljUniversity.png"
+      sponsoringFor: "Food"
 
 photoURL: "https://photos.app.goo.gl/58ixSq6rJ37XoZoQ7"

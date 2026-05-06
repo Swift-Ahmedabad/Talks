@@ -55,10 +55,11 @@ agenda:
       type: "networking"
 
 sponsors:
-    vanue:
+    - sponsor:
         name: "Aubergine Solutions Pvt. Ltd"
         website: "https://www.aubergine.co"
         image: "Aubergine_logo_logo_white.png"
+      sponsoringFor: "Vanue"
 
 registrationLink: "https://luma.com/wyi4h6xl"
 

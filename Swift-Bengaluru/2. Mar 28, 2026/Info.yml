@@ -59,11 +59,6 @@ agenda:
     - time: "12:45 PM"
       title: "Lunch & Networking 🍽️"
       type: "networking"
-sponsors:
-    vanue:
-#        name: "Meesho"
-#        website: "https://www.meesho.com"
-#        image: "../.sponsorsAssets/meesho.png"
-
+sponsors: []
 registrationLink: "https://luma.com/thwv7uvt"
 instructions: "​We’re excited to bring the community together for our March Edition Meetup with an all Women Speaker Lineup!"

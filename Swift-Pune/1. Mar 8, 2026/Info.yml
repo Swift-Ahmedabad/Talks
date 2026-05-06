@@ -56,14 +56,16 @@ agenda:
       type: "networking"
 
 sponsors:
-    vanue:
+    - sponsor:
         name: "Xplor Technologies"
         website: "https://www.xplortechnologies.com"
         image: "xplor-technologies.png"
-    food:
+      sponsoringFor: "Vanue"
+    - sponsor:
         name: "Xplor Technologies"
         website: "https://www.xplortechnologies.com"
         image: "xplor-technologies.png"
+      sponsoringFor: "Food"
 
 registrationLink: "https://luma.com/1jb79fac"
 

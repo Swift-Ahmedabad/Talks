@@ -18,7 +18,5 @@ agenda:
     - time: "05:00 PM"
       title: "Closing"
       type: "networking"
-sponsors:
-    vanue:
-    food:
+sponsors: []
 instructions: "This is women only event!"

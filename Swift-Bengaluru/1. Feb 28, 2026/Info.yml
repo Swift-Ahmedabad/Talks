@@ -53,11 +53,13 @@ agenda:
       title: "Closing & Group Photo"
       type: "networking"
 sponsors:
-    vanue:
+    - sponsor:
         name: "Meesho"
         website: "https://www.meesho.com"
         image: "../.sponsorsAssets/meesho.png"
-    food:
+      sponsoringFor: "Vanue"
+    - sponsor:
         name: "Meesho"
         website: "https://www.meesho.com"
         image: "../.sponsorsAssets/meesho.png"
+      sponsoringFor: "Food"

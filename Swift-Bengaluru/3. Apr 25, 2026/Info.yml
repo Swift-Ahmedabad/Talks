@@ -33,8 +33,6 @@ agenda:
     - time: "3:45 PM"
       title: "Open discussion & Networking"
       type: "networking"
-sponsors:
-    vanue:
-
+sponsors: []
 registrationLink: "https://luma.com/b0ioyhnr"
 instructions: "​Join us for a focused Swift meetup featuring two technical talks by fellow developers."

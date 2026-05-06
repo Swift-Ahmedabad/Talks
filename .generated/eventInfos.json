@@ -15,10 +15,16 @@
       "name" : "Xplor Tech1 Systems Private Limited"
     },
     "registrationLink" : "https:\/\/luma.com\/1jb79fac",
-    "sponsors" : {
-      "foodSponsorID" : "28a85fe5dfddbdcdddb4680200dab2d40766b0b9a822317244ccb788a24f07fd",
-      "vanueSponsorID" : "28a85fe5dfddbdcdddb4680200dab2d40766b0b9a822317244ccb788a24f07fd"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "28a85fe5dfddbdcdddb4680200dab2d40766b0b9a822317244ccb788a24f07fd",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "28a85fe5dfddbdcdddb4680200dab2d40766b0b9a822317244ccb788a24f07fd",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "Swift Chennai February Edition",
@@ -37,10 +43,16 @@
     },
     "photoURL" : "https:\/\/drive.google.com\/drive\/folders\/1arMOXb5GbtK7IWh3zvJry9Ie5f_9XlO-",
     "registrationLink" : "https:\/\/indehub.zohobackstage.in\/SwiftChennaiFebruaryEdition#\/buyTickets\/shareDetails?currentOrderId=59726000000168210",
-    "sponsors" : {
-      "foodSponsorID" : "d0ac838257a0feb3efaeaa7e1abe0f712e24274e9d680e8b90f4522785084b92",
-      "vanueSponsorID" : "d0ac838257a0feb3efaeaa7e1abe0f712e24274e9d680e8b90f4522785084b92"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "d0ac838257a0feb3efaeaa7e1abe0f712e24274e9d680e8b90f4522785084b92",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "d0ac838257a0feb3efaeaa7e1abe0f712e24274e9d680e8b90f4522785084b92",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "Swift Developers Online Meetup",
@@ -58,9 +70,9 @@
       "name" : "Online"
     },
     "registrationLink" : "https:\/\/luma.com\/b0ioyhnr",
-    "sponsors" : {
+    "sponsors" : [
 
-    }
+    ]
   },
   {
     "about" : "Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻",
@@ -79,9 +91,9 @@
       "name" : "Prestige Minsk Square"
     },
     "registrationLink" : "https:\/\/luma.com\/thwv7uvt",
-    "sponsors" : {
+    "sponsors" : [
 
-    }
+    ]
   },
   {
     "about" : "Swift Bengaluru x Meesho",
@@ -98,10 +110,16 @@
       "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Meesho%20HQ%20Bengaluru",
       "name" : "Meesho HQ"
     },
-    "sponsors" : {
-      "foodSponsorID" : "fbb0d64f0b6c21888235b8f6f4c947339f93ca527ffef38880e2b6f2320a397e",
-      "vanueSponsorID" : "fbb0d64f0b6c21888235b8f6f4c947339f93ca527ffef38880e2b6f2320a397e"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "fbb0d64f0b6c21888235b8f6f4c947339f93ca527ffef38880e2b6f2320a397e",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "fbb0d64f0b6c21888235b8f6f4c947339f93ca527ffef38880e2b6f2320a397e",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "Swift Mumbai + Haxnation",
@@ -120,10 +138,16 @@
     },
     "photoURL" : "https:\/\/drive.google.com\/drive\/folders\/1tOBeqz26LQwG5etSo7o4leE49s1m2uwa",
     "registrationLink" : "https:\/\/luma.com\/20qzxuqr",
-    "sponsors" : {
-      "foodSponsorID" : "f848321dd7f43d12ddfcd7086c829d8a776666c05350a6cf215310212035b2d2",
-      "vanueSponsorID" : "2e50538d4dd36cc58246a5eb858d566757c09861cfc0fc84f89690eebb1fda90"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "2e50538d4dd36cc58246a5eb858d566757c09861cfc0fc84f89690eebb1fda90",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "f848321dd7f43d12ddfcd7086c829d8a776666c05350a6cf215310212035b2d2",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "Women in Swift: Connect",
@@ -141,9 +165,9 @@
       "name" : "Online"
     },
     "registrationLink" : "https:\/\/luma.com\/u5e5n7n5",
-    "sponsors" : {
+    "sponsors" : [
 
-    }
+    ]
   },
   {
     "about" : "Women in Swift: WWDC Wind Down",
@@ -160,9 +184,9 @@
       },
       "name" : "Online"
     },
-    "sponsors" : {
+    "sponsors" : [
 
-    }
+    ]
   },
   {
     "about" : "Women in Swift: Connect",
@@ -179,9 +203,9 @@
       },
       "name" : "Online"
     },
-    "sponsors" : {
+    "sponsors" : [
 
-    }
+    ]
   },
   {
     "about" : "Women in Swift: Connect",
@@ -198,9 +222,9 @@
       },
       "name" : "Online"
     },
-    "sponsors" : {
+    "sponsors" : [
 
-    }
+    ]
   },
   {
     "about" : "Women in Swift: Connect",
@@ -217,9 +241,9 @@
       },
       "name" : "Online"
     },
-    "sponsors" : {
+    "sponsors" : [
 
-    }
+    ]
   },
   {
     "about" : "Swift Ahmedabad October'25 MeetUp",
@@ -237,10 +261,16 @@
       "name" : "CricHeroes Pvt. Ltd"
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/rcxKMq7YpzvEqqnY7",
-    "sponsors" : {
-      "foodSponsorID" : "c7f1f50db329ea7bd00cf49711f6637dfc75f86fff344b425353319b561e0461",
-      "vanueSponsorID" : "c7f1f50db329ea7bd00cf49711f6637dfc75f86fff344b425353319b561e0461"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "c7f1f50db329ea7bd00cf49711f6637dfc75f86fff344b425353319b561e0461",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "c7f1f50db329ea7bd00cf49711f6637dfc75f86fff344b425353319b561e0461",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "Swift Ahmedabad April'25 MeetUp",
@@ -258,10 +288,16 @@
       "name" : "Pixster Studio"
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/gXwCiTRw6iA9sUUN7",
-    "sponsors" : {
-      "foodSponsorID" : "2ad9c90913109d859ef4b83c91ecc1146a1f01555143a414362e101323870b32",
-      "vanueSponsorID" : "2ad9c90913109d859ef4b83c91ecc1146a1f01555143a414362e101323870b32"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "2ad9c90913109d859ef4b83c91ecc1146a1f01555143a414362e101323870b32",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "2ad9c90913109d859ef4b83c91ecc1146a1f01555143a414362e101323870b32",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "Swift Ahmedabad December'24 MeetUp",
@@ -279,10 +315,16 @@
       "name" : "Hyperlink InfoSystem"
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/G7TKauVBLaeLJYZa8",
-    "sponsors" : {
-      "foodSponsorID" : "f1ed566271a2e4e328e45e313726b9974745874b354ea1e4d4aa932d85240e04",
-      "vanueSponsorID" : "f1ed566271a2e4e328e45e313726b9974745874b354ea1e4d4aa932d85240e04"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "f1ed566271a2e4e328e45e313726b9974745874b354ea1e4d4aa932d85240e04",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "f1ed566271a2e4e328e45e313726b9974745874b354ea1e4d4aa932d85240e04",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "Swift Ahmedabad August'24 MeetUp",
@@ -300,10 +342,16 @@
       "name" : "MobileFirst Applications - Fintegration"
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/owW6Ef9U45Aj68Ha9",
-    "sponsors" : {
-      "foodSponsorID" : "a9a9ae107fce14a00f6e160ad279bb0ac0344039d4bb00be63de05eb52055806",
-      "vanueSponsorID" : "9b64c8efc14ed8fa2fe3ad4780457c1cb8d759106c5b106896ede690b8a1e55d"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "a9a9ae107fce14a00f6e160ad279bb0ac0344039d4bb00be63de05eb52055806",
+        "sponsoringFor" : "vanue"
+      },
+      {
+        "sponsorID" : "a9a9ae107fce14a00f6e160ad279bb0ac0344039d4bb00be63de05eb52055806",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "Swift Ahmedabad December'25 MeetUp",
@@ -321,10 +369,16 @@
       "name" : "LJ University"
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/58ixSq6rJ37XoZoQ7",
-    "sponsors" : {
-      "foodSponsorID" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506",
-      "vanueSponsorID" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "Swift Ahmedabad February'25 MeetUp",
@@ -342,10 +396,16 @@
       "name" : "Ahmedabad Management Association AMA Ahmedabad"
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/iwHj3U2BarViSTCw7",
-    "sponsors" : {
-      "foodSponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356",
-      "vanueSponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "Swift Ahmedabad March'26 Meetup",
@@ -364,9 +424,12 @@
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/wDtRjHpfGjr29uQr5",
     "registrationLink" : "https:\/\/luma.com\/wyi4h6xl",
-    "sponsors" : {
-      "vanueSponsorID" : "d449d46e5ff9505a02f7a922023ba1981687e3690f043bfced004a0404256e0f"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "d449d46e5ff9505a02f7a922023ba1981687e3690f043bfced004a0404256e0f",
+        "sponsoringFor" : "Vanue"
+      }
+    ]
   },
   {
     "about" : "Swift Ahmedabad October'24 MeetUp",
@@ -384,10 +447,16 @@
       "name" : "Simform"
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/ouFSJ54TpYuGQ5MBA",
-    "sponsors" : {
-      "foodSponsorID" : "73306608637d3ffd1e0ceca28914add187d6e84a0be4070c89de640966d3a74e",
-      "vanueSponsorID" : "73306608637d3ffd1e0ceca28914add187d6e84a0be4070c89de640966d3a74e"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "73306608637d3ffd1e0ceca28914add187d6e84a0be4070c89de640966d3a74e",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "73306608637d3ffd1e0ceca28914add187d6e84a0be4070c89de640966d3a74e",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "WWDC25 Watch Party Around India",
@@ -405,10 +474,16 @@
       "name" : "7 Span"
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/xo5fDZ2wxHYWSsav6",
-    "sponsors" : {
-      "foodSponsorID" : "19a24e4fbcbab93f08f9e33bb89ae5f8e94fe086a67cf2754c9d4ebfdf0621a2",
-      "vanueSponsorID" : "19a24e4fbcbab93f08f9e33bb89ae5f8e94fe086a67cf2754c9d4ebfdf0621a2"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "19a24e4fbcbab93f08f9e33bb89ae5f8e94fe086a67cf2754c9d4ebfdf0621a2",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "19a24e4fbcbab93f08f9e33bb89ae5f8e94fe086a67cf2754c9d4ebfdf0621a2",
+        "sponsoringFor" : "Food"
+      }
+    ]
   },
   {
     "about" : "Swift Ahmedabad July'25 MeetUp",
@@ -426,9 +501,15 @@
       "name" : "Tuvoc Technologies Private Limited"
     },
     "photoURL" : "https:\/\/photos.app.goo.gl\/cEbiK4BnUFTfiRuq6",
-    "sponsors" : {
-      "foodSponsorID" : "49aa0ef60c568d6509377b5a8f275bf0f8fa1255bf3926a88d827fd1e61ab2b2",
-      "vanueSponsorID" : "49aa0ef60c568d6509377b5a8f275bf0f8fa1255bf3926a88d827fd1e61ab2b2"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "49aa0ef60c568d6509377b5a8f275bf0f8fa1255bf3926a88d827fd1e61ab2b2",
+        "sponsoringFor" : "Vanue"
+      },
+      {
+        "sponsorID" : "49aa0ef60c568d6509377b5a8f275bf0f8fa1255bf3926a88d827fd1e61ab2b2",
+        "sponsoringFor" : "Food"
+      }
+    ]
   }
 ]

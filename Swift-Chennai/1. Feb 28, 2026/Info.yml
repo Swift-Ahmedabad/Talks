@@ -53,14 +53,16 @@ agenda:
       type: "networking"
 
 sponsors:
-    vanue:
+    - sponsor:
         name: "Zoho Apptics"
         website: "https://www.zoho.com/apptics/"
         image: "ljUniversity.png"
-    food:
+      sponsoringFor: "Vanue"
+    - sponsor:
         name: "Zoho Apptics"
         website: "https://www.zoho.com/apptics/"
         image: "ljUniversity.png"
+      sponsoringFor: "Food"
 
 registrationLink: "https://indehub.zohobackstage.in/SwiftChennaiFebruaryEdition#/buyTickets/shareDetails?currentOrderId=59726000000168210"
 

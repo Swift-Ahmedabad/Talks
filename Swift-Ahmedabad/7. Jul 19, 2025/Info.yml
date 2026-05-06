@@ -21,12 +21,14 @@ agenda:
       title: "Closing Notes"
       type: "networking"
 sponsors:
-    vanue:
+    - sponsor:
         name: "Tuvoc Technologies Private Limited"
         website: "https://www.tuvoc.com"
         image: "tuvoc.png"
-    food:
+      sponsoringFor: "Vanue"
+    - sponsor:
         name: "Tuvoc Technologies Private Limited"
         website: "https://www.tuvoc.com"
         image: "tuvoc.png"
+      sponsoringFor: "Food"
 photoURL: "https://photos.app.goo.gl/cEbiK4BnUFTfiRuq6"

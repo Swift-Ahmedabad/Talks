@@ -26,12 +26,14 @@ agenda:
       title: "Closing"
       type: "networking"
 sponsors:
-    vanue:
-        name: "MobileFirst Applications - Fintegration"
-        website: "https://cricheroes.com"
-        image: "mobileFist.jpeg"
-    food:
+    - sponsor:
         name: "MobileFirst Applications - Fintegration"
         website: "https://www.mobilefirst.in"
         image: "mobileFist.jpeg"
+      sponsoringFor: "vanue"
+    - sponsor:
+        name: "MobileFirst Applications - Fintegration"
+        website: "https://www.mobilefirst.in"
+        image: "mobileFist.jpeg"
+      sponsoringFor: "Food"
 photoURL: "https://photos.app.goo.gl/owW6Ef9U45Aj68Ha9"
