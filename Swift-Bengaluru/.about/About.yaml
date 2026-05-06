@@ -1,0 +1,53 @@
+name: "Swift Bengaluru"
+description: "The Revolution will be Swift!! - A community for developers working on Apple platforms (iOS/macOS) as well as the ones who are using swift to develop cloud and server applications."
+logo: "swift-bengaluru.jpeg"
+members:
+    - name: "Nayyan Mujadiya"
+      about: "Technologist with 16+ years in Electronic Design Automation (EDA). MS from IIIT Hyderabad. Swift Bengaluru Organizer, certified life coach, IoT & ML consultant."
+      socials:
+        linkedIn: "https://www.linkedin.com/in/nayyanmujadiya/"
+        
+    - name: "G Abhisek"
+      about: "Software Engineer, blogger, and speaker with 8 years of industry experience developing iOS applications."
+      socials:
+        linkedIn: "https://www.linkedin.com/in/g-abhisek/"
+        
+    - name: "Gokul B"
+      about: "Software Engineer at Rakuten. Self-taught iOS developer with 2.4+ years experience."
+      socials:
+        linkedIn: "https://www.linkedin.com/in/gokul-bvb/"
+        
+    - name: "Yogesh Singh"
+      about: "Building AI Voice Agents for Healthcare at 100ms. iOS Developer with expertise in video/live streaming."
+      socials:
+        linkedIn: "https://www.linkedin.com/in/yogeshsingh2810/"
+        
+    - name: "Raj Raval"
+      about: "iOS at Loco | Community Organiser - Swift Bharat, Swift Bengaluru and Swift Mumbai."
+      socials:
+        linkedIn: "https://www.linkedin.com/in/rajhraval/"
+        
+    - name: "Amit Samant"
+      about: "Senior iOS Engineer | WWDC20 SSC Winner"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/amitsamant-dev/"
+        
+    - name: "Kanagasabapathy Rajkumar"
+      about: "iOS Engineer | Swift & Objective-C Specialist | Turning Ideas into Seamless Mobile Experiences"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/sabapathy7/"
+
+    - name: "Keerthipriya G Kurtakoti"
+      about: "Technology Lead at Infosys"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/keerthi-priya-g-kurtakoti-b963a7160/"
+
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/swiftbengaluru"
+    meetup: "https://www.meetup.com/swiftbengaluru/"
+    twitter: "https://x.com/swiftbengaluru"
+    facebook: "https://www.facebook.com/swiftbengaluru"
+    blog: "https://medium.com/swiftbengaluru"
+    github: "https://github.com/swiftbengaluru"
+    email: "swiftbengaluru@gmail.com"
+    portfolio: "https://swiftbengaluru.org"

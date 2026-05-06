@@ -1,5 +1,337 @@
 [
   {
+    "about" : "Sr iOS Engineer @xplor",
+    "id" : "45d3a9d1482c01b3139c58bb7308b4f3e0492ab0b0d2c3260ed44ea864efa70a",
+    "image" : "garima-saini.jpeg",
+    "name" : "Garima Saini",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/garimasaini0\/"
+    }
+  },
+  {
+    "about" : "iOS, macOS and Systems Engineer",
+    "id" : "9c3bf98ff09875c3a20f5beef8a404f16db0ba79039e82421d2ead8a4bdd3762",
+    "image" : "nikhil-nigade.jpeg",
+    "name" : "Nikhil Nigade",
+    "socials" : {
+      "github" : "https:\/\/github.com\/dezinezync",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/nikhil-nigade-4a395b358\/",
+      "mastodon" : "https:\/\/social.dezinezync.com\/@nikhil",
+      "portfolio" : "https:\/\/dezinezync.com",
+      "twitter" : "https:\/\/x.com\/dezinezync"
+    }
+  },
+  {
+    "about" : "Sr. iOS Engineer at PhonePe",
+    "id" : "821ad90472780fddf41b8c60489f86adf37d9d03f310a0182b85513980406741",
+    "image" : "divya-maloo.jpeg",
+    "name" : "Divya Maloo",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/divya-maloo-72629284\/"
+    }
+  },
+  {
+    "about" : "iOS Developer",
+    "id" : "e2d4700f44014d3f75bad0bc6fa85dd94578416142fe0251a5a287010b2cd672",
+    "image" : "swetal-matkar.jpeg",
+    "name" : "Swetal Matkar",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/swetal-matkar-73a836204\/"
+    }
+  },
+  {
+    "about" : "SDE @ Upstox | 2x Apple Scholar | SNHU '25",
+    "id" : "cc63742cf8b6621a970040615f1acb66ccd16829a30a69b28f37025b168e57fa",
+    "image" : "KanishkaChaudhry.jpeg",
+    "name" : "Kanishka Chaudhry",
+    "socials" : {
+      "github" : "https:\/\/github.com\/Kanishka3",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kanishka-c\/",
+      "portfolio" : "https:\/\/kanishkawilliamson.wordpress.com",
+      "twitter" : "https:\/\/twitter.com\/ralasi_"
+    }
+  },
+  {
+    "about" : "iOS Developer, Zoho Corporation",
+    "id" : "aa63b4b98c8e66f4ac7fed731309475529b86dc28488118aa9e1458659ae5262",
+    "image" : "MohammedMubashirMedekkar.jpeg",
+    "name" : "Mohammed Mubashir Medekkar",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/mubashirmeddekar\/",
+      "twitter" : "https:\/\/x.com\/mubashirmedekar"
+    }
+  },
+  {
+    "about" : "Sameer Rajadnya is a designer and developer with a multidisciplinary career spanning communication and brand design, web development, and management. He currently works as an independent consultant, advising on web, brand, and digital product design. A self-taught web developer, he bridges design, storytelling and engineering to envision projects end-to-end. He has built and led Multidisciplinary Design Teams at organizations including Teamwork Films, producer of Jaipur Literature Festival and others, and the corporate PR firm The Practice. Most recently Sameer designed, and published an iOS App",
+    "id" : "0e689398573250e629f0d285c986be3042f9141d6dbff0e7df074d9884ee0ed5",
+    "image" : "SameerRajadnya.jpeg",
+    "name" : "Sameer Rajadnya",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/sameer-rajadnya\/",
+      "portfolio" : "https:\/\/earthclock.in"
+    }
+  },
+  {
+    "about" : "iOS Developer (Associate Principal Engineer) at DailyRounds \/ Marrow",
+    "id" : "d9c74c8da27a45ee230dee8bbfae751386cc8b7879be3bc6cc20e90255767422",
+    "image" : "ShubhamSingh.jpg",
+    "name" : "Shubham Singh",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/shubham0812\/",
+      "twitter" : "https:\/\/x.com\/Shubham_iosdev"
+    }
+  },
+  {
+    "about" : "Sr. iOS Engineer",
+    "id" : "d4a1a4d1495dce5806681786869bf81317ef2243d85165b42bcea57bd9412d94",
+    "image" : "RatneshJain.png",
+    "name" : "Ratnesh Jain",
+    "socials" : {
+      "github" : "https:\/\/github.com\/ratnesh-jain",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/ratnesh-jain-7a2270146\/",
+      "portfolio" : "https:\/\/ratnesh-jain.github.io",
+      "twitter" : "https:\/\/x.com\/ratneshjain1993"
+    }
+  },
+  {
+    "about" : "iOS developer, Currently building a developer tool to improve everyday workflows.",
+    "id" : "c6484fe3586f6a0c5febc53c2e84f57f7033d00e94cf6c9bcd8171a3d8ebadc2",
+    "image" : "kaveriPatil.jpeg",
+    "name" : "Kaveri Patil",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kaveri-patil-203547151\/",
+      "twitter" : "https:\/\/x.com\/kaveripatil14?s=11"
+    }
+  },
+  {
+    "about" : "Sr. Product Designer at Procore Technologies",
+    "id" : "78a28f576aa3e95c696917a27478ec411507639252d8ebca30f06d416e461abb",
+    "image" : "ShivaniGaur.jpeg",
+    "name" : "Shivani Gaur",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/shivani-gaur27\/",
+      "portfolio" : "https:\/\/iamshivanigaur.com"
+    }
+  },
+  {
+    "about" : "SWE III @ Google | Prev. Swiggy | Apple Swift Student Challenge 2021 Winner | 3rd at GHCI Code-a-thon 2021 | iOS Developer",
+    "id" : "2617acacf468545e7f63eb79de32df0fa9439569b4c55baad530c1d67e587e67",
+    "image" : "garima-bothra.jpeg",
+    "name" : "Garima Bothra",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/garima-bothra\/",
+      "twitter" : "https:\/\/x.com\/garimabothraa"
+    }
+  },
+  {
+    "about" : "Indie App Developer, Founder of Feelly App",
+    "id" : "11161dada2e8eb8d0428019ab2743a1dbce20f4096c3de2c7d8186bf03511f08",
+    "image" : "SubbalakshmiBalamuthu.jpeg",
+    "name" : "Subbalakshmi Balamuthu",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/subbulakshmi-balamuthu-6125a3354\/",
+      "portfolio" : "https:\/\/feelly.ai",
+      "twitter" : "https:\/\/x.com\/subbulakshmi_b"
+    }
+  },
+  {
+    "about" : "iOS developer at StockX | Ex-Paytm| iOS Developer",
+    "id" : "08e19f808f1c9e5033a703c403e428db8819a8920d69471ee88bea75378e1214",
+    "image" : "SumaShirahatti.jpeg",
+    "name" : "Suma Shirahatti",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/suma-shirahatti-28774015b\/"
+    }
+  },
+  {
+    "about" : "Engineering - iOS",
+    "id" : "5039f47fec79f243c308c9cbe0bd547330d6ccfd795b9f6298cd635b0e47a7c2",
+    "image" : "AkashlalBathe.jpeg",
+    "name" : "Akashlal bathe",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/akashlal\/"
+    }
+  },
+  {
+    "about" : "iOS Engineer @ Meesho | Ex-Walmart | Swift | SwiftUI",
+    "id" : "5ab2936ce0f218af0288e010b4cb46783952fbec1046369b34df4a345f8a575c",
+    "image" : "HitarthBhatt.jpeg",
+    "name" : "Hitarth Bhatt",
+    "socials" : {
+      "github" : "https:\/\/github.com\/Hitarthbhatt",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/hitarth-bhatt\/"
+    }
+  },
+  {
+    "about" : "iOS Engineer at Corner. 2x WWDC Scholar, Layers 2018 Scholar. Mobile App and Front-end Web Developer.",
+    "id" : "a6c045f09c503f930ab61428adecd4a8e41234026a41b43e071ee131f212ef6e",
+    "image" : "SinchanMaitri.png",
+    "name" : "Sinchan Maitri",
+    "socials" : {
+      "github" : "https:\/\/github.com\/sinchanmaitri",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/sinchanmaitri\/"
+    }
+  },
+  {
+    "about" : "Tech Lead (iOS) at Meesho. Sr. Android Developer with 3+ years experience in mobile development.",
+    "id" : "82c80eb5dec6e4cabd937d39f12163579dc03d08694597cb8aea0b5bbb7443fe",
+    "image" : "SachinChandil.jpeg",
+    "name" : "Sachin Chandil",
+    "socials" : {
+      "github" : "https:\/\/github.com\/chandilsachin",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/chandilsachin\/"
+    }
+  },
+  {
+    "about" : "AI Prompter and Senior iOS Developer Writer. WWDC '19 Scholar. Independent writer and developer for Apple Platforms.",
+    "id" : "1596e5dfaf1bbf8ac14d864dd553b190ec638f0311f578a34693c9849d7a1037",
+    "image" : "RudrankRiyam.png",
+    "name" : "Rudrank Riyam",
+    "socials" : {
+      "github" : "https:\/\/github.com\/rudrankriyam",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/rudrank\/"
+    }
+  },
+  {
+    "about" : "Cyber Expert | FlutterFlow Pro | Founder @ BEEPIXL | Tech Partner – CID Gujarat Police",
+    "id" : "ff721271e8615818265aa8f75590a8237952ee6daad40bafcfeacdd6c5e9376d",
+    "image" : "AbhishekJain.jpeg",
+    "name" : "Abhishek Jain",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/mrabhijain\/"
+    }
+  },
+  {
+    "about" : "SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code",
+    "id" : "14dce7aa6ff9bb356a1071b51bddef1215b348a14075a960375688cba432d54b",
+    "image" : "MidhetSulemani.jpeg",
+    "name" : "Midhet Sulemani",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/midhet\/"
+    }
+  },
+  {
+    "about" : "PMP-certified Senior Technical Lead with 15+ years of experience in iOS, macOS, and mobile app development.",
+    "id" : "be192f71f12aa4e6deb95d84d40a3af01b3cc18bee860475c1add28291761d64",
+    "image" : "hrishikeshdevhare.jpeg",
+    "name" : "Hrishikesh Devhare",
+    "socials" : {
+
+    }
+  },
+  {
+    "about" : "Senior Mobile Engineer @ Tide | MSITM",
+    "id" : "10e13cc823010292aa7f9b0bc6de7e3306aca73b2406c1bab11066f2eedb5fd5",
+    "image" : "RohanJoshi.png",
+    "name" : "Rohan Joshi",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/rohanjsh\/"
+    }
+  },
+  {
+    "about" : "Security Engineer III, InfraSec | OSCP | AWS Solution Architect | CEH | Bug Bounty Hunter | Blogger.",
+    "id" : "9b50dea065c4f439f4b7d02c38e730a5395e1ba48e0af8b0064719fab3ce5749",
+    "image" : "Kirankumar.jpeg",
+    "name" : "Kirankumar",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kiran-kumar-b58971b2\/"
+    }
+  },
+  {
+    "about" : "Software Developer at Cashfree Payments",
+    "id" : "73b8c0bda5d0e325b29736221e4508b3e3138f7bdc59237b34a6357db5274038",
+    "image" : "priyambadaroul.jpeg",
+    "name" : "Priyambada Roul",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/priyambadaroul\/"
+    }
+  },
+  {
+    "about" : "Co-Founder MAMMA-MIYA",
+    "id" : "09627596c84600992a70dc11d2a7f9ad8ca7d42fa54cca94214fda6a9ef3fdf9",
+    "image" : "namrata-mayanil.jpeg",
+    "name" : "Namrata Mayanil",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/namrata-mayanil-7469a41\/"
+    }
+  },
+  {
+    "about" : "SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code",
+    "id" : "14dce7aa6ff9bb356a1071b51bddef1215b348a14075a960375688cba432d54b",
+    "image" : "MidhetSulemani.jpeg",
+    "name" : "Midhet Sulemani",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/midhet\/"
+    }
+  },
+  {
+    "about" : "Co-Founder andCEO Parjanta Creative Solutions Chaarana Labs",
+    "id" : "d1981f9e565a07d63bd1cd6e5070a01b26bfa20b7868f01afd34b55a53f1781f",
+    "image" : "Raksha-Rao.jpeg",
+    "name" : "Raksha Rao",
+    "socials" : {
+
+    }
+  },
+  {
+    "about" : "Product engineer - iOS At Strollby UST",
+    "id" : "4576bf06fd61b87ce6ad63fc3bb07dc026037f97463fe1514247c5328f570f83",
+    "image" : "sukrithakk.jpg",
+    "name" : "Sukritha KK",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/sukritha\/"
+    }
+  },
+  {
+    "about" : "SDE @ Upstox | 2x Apple Scholar | SNHU '25",
+    "id" : "cc63742cf8b6621a970040615f1acb66ccd16829a30a69b28f37025b168e57fa",
+    "image" : "KanishkaChaudhry.jpeg",
+    "name" : "Kanishka Chaudhry",
+    "socials" : {
+      "github" : "https:\/\/github.com\/Kanishka3",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kanishka-c\/",
+      "portfolio" : "https:\/\/kanishkawilliamson.wordpress.com",
+      "twitter" : "https:\/\/twitter.com\/ralasi_"
+    }
+  },
+  {
+    "about" : "SWE III @ Google | Prev. Swiggy | Apple Swift Student Challenge 2021 Winner | 3rd at GHCI Code-a-thon 2021 | iOS Developer",
+    "id" : "2617acacf468545e7f63eb79de32df0fa9439569b4c55baad530c1d67e587e67",
+    "image" : "garima-bothra.jpeg",
+    "name" : "Garima Bothra",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/garima-bothra\/",
+      "twitter" : "https:\/\/x.com\/garimabothraa"
+    }
+  },
+  {
+    "about" : "iOS(Swift) Developer",
+    "id" : "9e507d8bb26e07a4f417bf51b5a95ba5e95238cbd89095126fb26de4b7d91993",
+    "image" : "RinkalRiziya.jpg",
+    "name" : "Rinkal Riziya",
+    "socials" : {
+
+    }
+  },
+  {
+    "about" : "iOS Engineer",
+    "id" : "808e4caac2f75feb9425c51138241b966fbd7706429e6ab7e601c5306ba0f6a8",
+    "image" : "namrata-mayanil.jpeg",
+    "name" : "Harpreet Kaur",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/namrata-mayanil-7469a41\/"
+    }
+  },
+  {
+    "about" : "Member Technical Staff (iOS Developer), Zoho Corporation",
+    "id" : "46a2b505f1f9c3dc0c60575dcd96c0e988c50ab1c92e74f0932a46be572ed170",
+    "image" : "charanya-swaminathan.jpeg",
+    "name" : "Charanya Swaminathan",
+    "socials" : {
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/charanya-swaminathan-2278b8225\/"
+    }
+  },
+  {
     "about" : "Sr. iOS Engineer",
     "id" : "d4a1a4d1495dce5806681786869bf81317ef2243d85165b42bcea57bd9412d94",
     "image" : "RatneshJain.png",
@@ -13,9 +345,9 @@
   },
   {
     "about" : "SDE @ Upstox | 2x Apple Scholar | SNHU '25",
-    "id" : "6f6739f8a62b951ca7eec1940e5b0d9d9d1661e5556739bcc8cf27ac34e039af",
-    "image" : "KanishkaC.jpeg",
-    "name" : "Kanishka C",
+    "id" : "cc63742cf8b6621a970040615f1acb66ccd16829a30a69b28f37025b168e57fa",
+    "image" : "KanishkaChaudhry.jpeg",
+    "name" : "Kanishka Chaudhry",
     "socials" : {
       "github" : "https:\/\/github.com\/Kanishka3",
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/kanishka-c\/",
@@ -235,6 +567,45 @@
     "name" : "Saumil Shah",
     "socials" : {
       "linkedIn" : "https:\/\/www.linkedin.com\/in\/adeptdevtips\/"
+    }
+  },
+  {
+    "about" : "A software engineer with over 9 years of experience in mobile and full-cycle application development, with a strong focus on iOS and AI\/ML. I currently work at TCS, Gandhinagar, where I build and contribute to scalable, real-world technology solutions. I’m passionate about creating intelligent products, mentoring aspiring developers, and sharing practical industry insights through tech talks.",
+    "id" : "4c4b0e235f4fb05e1e393cb748237c7ace8f903203b4d0535c9e52d083bb84e3",
+    "image" : "TiwariVinay.jpeg",
+    "name" : "Tiwari Vinay",
+    "socials" : {
+      "linkedIn" : "https:\/\/in.linkedin.com\/in\/vinay-tiwari-60214289"
+    }
+  },
+  {
+    "about" : "SDE @ Upstox | 2x Apple Scholar | SNHU '25",
+    "id" : "cc63742cf8b6621a970040615f1acb66ccd16829a30a69b28f37025b168e57fa",
+    "image" : "KanishkaChaudhry.jpeg",
+    "name" : "Kanishka Chaudhry",
+    "socials" : {
+      "github" : "https:\/\/github.com\/Kanishka3",
+      "linkedIn" : "https:\/\/www.linkedin.com\/in\/kanishka-c\/",
+      "portfolio" : "https:\/\/kanishkawilliamson.wordpress.com",
+      "twitter" : "https:\/\/twitter.com\/ralasi_"
+    }
+  },
+  {
+    "about" : "With over 10 years of experience in mobile development, I specialize in designing and delivering robust applications across the Apple ecosystem including iOS, iPad, Apple Watch (watchOS), Mac (macOS), and CarPlay as well as cross-platform solutions using Flutter for both iOS and Android. I have a proven track record of building high-quality apps that solve complex problems through smart use of algorithms, design patterns, and cutting-edge technologies.\nMy expertise extends to Bluetooth Low Energy (BLE), Swift, Swift-UI, Objective-C, and Dart, allowing me to create seamless, innovative, and reliable mobile experiences that connect users with the latest IoT and wearable technologies.\nI’m passionate about collaborating with teams and clients to turn ideas into reality, delivering mobile solutions that stand out in performance and usability.",
+    "id" : "fce5dda8559fa899e7cef563911f46dd98a319d9122afd331c018a75b3fe1c11",
+    "image" : "PradipSutariya.jpeg",
+    "name" : "Pradip Sutariya",
+    "socials" : {
+      "linkedIn" : "https:\/\/linkedin.com\/in\/pradip-sutariya-926660113"
+    }
+  },
+  {
+    "about" : "AWS Certified Developer- Associate || Associate Software Engineer @Aubergine Solutions Pvt. Ltd. Dharmsinh Desai University || Information and Technology",
+    "id" : "74fb1c39e00b710a9cff7a79484337ef98c4f2c48f7b7266414d4bed115b5904",
+    "image" : "RahulParmar.jpeg",
+    "name" : "Rahul Parmar",
+    "socials" : {
+
     }
   },
   {

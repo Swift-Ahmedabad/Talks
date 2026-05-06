@@ -1,0 +1,77 @@
+about: "Swift Mumbai + Haxnation"
+date: "February 28, 2026"
+location:
+    name: "TalaKunchi Networks Pvt Ltd"
+    map: "https://www.google.com/maps/search/?api=1&query=TalaKunchi%20Networks%20Pvt%20Ltd&query_place_id=ChIJ82BTaFK25zsRbUtp-os9uuA"
+    address: "10th Floor, ITM Institute of Design and Media, Andheri West, Mumbai"
+    coordinates:
+        latitude: 19.127925
+        longitude: 72.8469597
+        zoom: 17.94
+agenda:
+    - time: "10:30 AM"
+      title: "Registration"
+      type: "registration"
+              
+    - time: "11:00 AM"
+      title: "Community Introduction - Haxnation Mumbai"
+      type: "talk"
+      
+    - time: "11:15 AM"
+      title: "The Illusion of Runtime Security"
+      type: "talk"
+      speakers:
+        - "Kirankumar"
+        
+    - time: "12:00 PM"
+      title: "Community Introduction - Flutter Mumbai"
+      type: "talk"
+      
+    - time: "12:15 PM"
+      title: "Security Considerations While Building a Fintech App"
+      type: "talk"
+      speakers:
+        - "Rohan Joshi"
+        
+    - time: "01:00 PM"
+      title: "Break"
+      type: "break"
+        
+    - time: "01:30 PM"
+      title: "Community Introduction - FlutterFlow Mumbai"
+      type: "talk"
+        
+    - time: "01:45 PM"
+      title: "FlutterFlow App Security Explained: Myths, Risks, and Best Practices"
+      type: "talk"
+      speakers:
+        - "Abhishek Jain"
+        
+    - time: "02:00 PM"
+      title: "Community Introduction - Swift Mumbai"
+      type: "talk"
+      
+    - time: "02:15 PM"
+      title: "Mobile App Security - Common Pitfalls and Recommendations"
+      type: "talk"
+      speakers:
+       - "Midhet Sulemani"
+       - "Hrishikesh Devhare"
+    
+    - time: "03:00 PM"
+      title: "Networking"
+      type: "networking"
+
+sponsors:
+    vanue:
+        name: "Haxnation Mumbai, Flutter Mumbai, Swift Mumbai"
+        website: "https://haxnation.org/mumbai-chapter/"
+        image: "haxnation_meetups_mumbai_.jpeg"
+    food:
+        name: "Haxnation Mumbai, Flutter Mumbai, Swift Mumbai"
+        website: "https://www.linkedin.com/company/fluttermumbai"
+        image: "fluttermumbai_logo.jpeg"
+
+registrationLink: "https://luma.com/20qzxuqr"
+
+photoURL: "https://drive.google.com/drive/folders/1tOBeqz26LQwG5etSo7o4leE49s1m2uwa"

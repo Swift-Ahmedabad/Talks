@@ -1,9 +1,231 @@
 [
   {
+    "about" : "Swift Pune - S002",
+    "date" : 794601000,
+    "eventID" : "49494680429208e34b279b044041968b80736212b6b2a559021733f4fe56c23a",
+    "id" : "68beee87855fb2c2d77c023a2f84780ad8167f38a4da1fcb7e63437cbb116a69",
+    "location" : {
+      "address" : "14th Floor, International Technology Park, Block 1, Wing 2, Kharadi, Pune, Maharashtra 411014",
+      "coordinates" : {
+        "latitude" : 18.5616118,
+        "longitude" : 73.9564067,
+        "zoom" : 17.94
+      },
+      "map" : "https:\/\/www.google.com\/maps\/place\/Xplor+Tech1+Systems+Private+Limited\/@18.5616118,73.9564067,17z\/data=!3m1!4b1!4m6!3m5!1s0x3bc2c34f6c6895e3:0xf4a5781b456b38a3!8m2!3d18.5616118!4d73.9564067!16s%2Fg%2F11vc7hlg62?entry=ttu&g_ep=EgoyMDI2MDIyNS4wIKXMDSoASAFQAw%3D%3D",
+      "name" : "Xplor Tech1 Systems Private Limited"
+    },
+    "registrationLink" : "https:\/\/luma.com\/1jb79fac",
+    "sponsors" : {
+      "foodSponsorID" : "28a85fe5dfddbdcdddb4680200dab2d40766b0b9a822317244ccb788a24f07fd",
+      "vanueSponsorID" : "28a85fe5dfddbdcdddb4680200dab2d40766b0b9a822317244ccb788a24f07fd"
+    }
+  },
+  {
+    "about" : "Swift Chennai February Edition",
+    "date" : 793909800,
+    "eventID" : "4eb62b17ead27673dd98da6671d2a18acbca930e93b4f7ddcff454273addee28",
+    "id" : "e21c240fab0447e4cee495654749c7ce2ffc9d5df4f0e9b15d5815f86ab205cd",
+    "location" : {
+      "address" : "Estancia IT Park,Vallancherry Plot No. 140 & 151, Grand Southern Trunk Road, Vallancherry, Taluk, Chengalpattu, Tamil Nadu 603202",
+      "coordinates" : {
+        "latitude" : 12.8308,
+        "longitude" : 80.0494292,
+        "zoom" : 17.94
+      },
+      "map" : "https:\/\/www.google.com\/maps\/place\/Zoho+Corporation\/@12.8308,80.0494292,19.8z\/data=!4m10!1m2!2m1!1szoho+corporation+chennai!3m6!1s0x3a5260db1ff54b03:0xa8af6b8bb6419d6f!8m2!3d12.8310776!4d80.0493569!15sChh6b2hvIGNvcnBvcmF0aW9uIGNoZW5uYWlaGiIYem9obyBjb3Jwb3JhdGlvbiBjaGVubmFpkgEQc29mdHdhcmVfY29tcGFueZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VRdGRrMVBUbVJCRUFF4AEA-gEECGsQTA!16s%2Fg%2F1hf6k4nqn?entry=ttu&g_ep=EgoyMDI2MDIxMS4wIKXMDSoASAFQAw%3D%3D",
+      "name" : "Zoho Coorporation, Chennai"
+    },
+    "photoURL" : "https:\/\/drive.google.com\/drive\/folders\/1arMOXb5GbtK7IWh3zvJry9Ie5f_9XlO-",
+    "registrationLink" : "https:\/\/indehub.zohobackstage.in\/SwiftChennaiFebruaryEdition#\/buyTickets\/shareDetails?currentOrderId=59726000000168210",
+    "sponsors" : {
+      "foodSponsorID" : "d0ac838257a0feb3efaeaa7e1abe0f712e24274e9d680e8b90f4522785084b92",
+      "vanueSponsorID" : "d0ac838257a0feb3efaeaa7e1abe0f712e24274e9d680e8b90f4522785084b92"
+    }
+  },
+  {
+    "about" : "Swift Developers Online Meetup",
+    "date" : 798748200,
+    "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
+    "id" : "9301acde8af3026aaa103935df7a161885be351b66bd0a0889a576cad2c7650f",
+    "instructions" : "​Join us for a focused Swift meetup featuring two technical talks by fellow developers.",
+    "location" : {
+      "address" : "",
+      "coordinates" : {
+        "latitude" : 0,
+        "longitude" : 0,
+        "zoom" : 0
+      },
+      "name" : "Online"
+    },
+    "registrationLink" : "https:\/\/luma.com\/b0ioyhnr",
+    "sponsors" : {
+
+    }
+  },
+  {
+    "about" : "Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻",
+    "date" : 796329000,
+    "eventID" : "4354c8f5b64e4ea255f6666b7dec20071392ca38f3767ac475e4a2c429f8dfbb",
+    "id" : "4731abde22cd95f9df0654d325ec455e37a87e1590413c4dec42f78b96c10ccc",
+    "instructions" : "​We’re excited to bring the community together for our March Edition Meetup with an all Women Speaker Lineup!",
+    "location" : {
+      "address" : "Prestige Minsk Square, Cubbon Rd, Vasanth Nagar, Bengaluru, Karnataka 560001",
+      "coordinates" : {
+        "latitude" : 12.9818418,
+        "longitude" : 77.5935076,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Meesho%20HQ%20Bengaluru",
+      "name" : "Prestige Minsk Square"
+    },
+    "registrationLink" : "https:\/\/luma.com\/thwv7uvt",
+    "sponsors" : {
+
+    }
+  },
+  {
+    "about" : "Swift Bengaluru x Meesho",
+    "date" : 793909800,
+    "eventID" : "49c54dc17bc0aa6026f67fa60f5d2d91c87210e8c358ecb1898bb8c5da034831",
+    "id" : "f4c853f5f4a436d8ebccc6afc6927253e0f0cc1cd9b3e3cb9108d53d0a65e57b",
+    "location" : {
+      "address" : "Helios Business Park, Tower E, 3rd Floor, Kadubeesanahalli, Bengaluru, Karnataka, India",
+      "coordinates" : {
+        "latitude" : 12.9375,
+        "longitude" : 77.69,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Meesho%20HQ%20Bengaluru",
+      "name" : "Meesho HQ"
+    },
+    "sponsors" : {
+      "foodSponsorID" : "fbb0d64f0b6c21888235b8f6f4c947339f93ca527ffef38880e2b6f2320a397e",
+      "vanueSponsorID" : "fbb0d64f0b6c21888235b8f6f4c947339f93ca527ffef38880e2b6f2320a397e"
+    }
+  },
+  {
+    "about" : "Swift Mumbai + Haxnation",
+    "date" : 793909800,
+    "eventID" : "1052d8943c8e75a7e1b110d13916a013dbb4ea6a48689497f428deaed8afcce6",
+    "id" : "935e626be4ae187ceb4891daa1cec7c7a39727c53a931efd4ca96d83494844bb",
+    "location" : {
+      "address" : "10th Floor, ITM Institute of Design and Media, Andheri West, Mumbai",
+      "coordinates" : {
+        "latitude" : 19.127925,
+        "longitude" : 72.8469597,
+        "zoom" : 17.94
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=TalaKunchi%20Networks%20Pvt%20Ltd&query_place_id=ChIJ82BTaFK25zsRbUtp-os9uuA",
+      "name" : "TalaKunchi Networks Pvt Ltd"
+    },
+    "photoURL" : "https:\/\/drive.google.com\/drive\/folders\/1tOBeqz26LQwG5etSo7o4leE49s1m2uwa",
+    "registrationLink" : "https:\/\/luma.com\/20qzxuqr",
+    "sponsors" : {
+      "foodSponsorID" : "f848321dd7f43d12ddfcd7086c829d8a776666c05350a6cf215310212035b2d2",
+      "vanueSponsorID" : "2e50538d4dd36cc58246a5eb858d566757c09861cfc0fc84f89690eebb1fda90"
+    }
+  },
+  {
+    "about" : "Women in Swift: Connect",
+    "date" : 794514600,
+    "eventID" : "da9a961a5b770324f39ab0e49d960478c2f8bfeca442f0f2aaa4e92cb1228f14",
+    "id" : "4782a375314c844fba91e5a0016419f62756e95cbf32b1d2b0b1643862370cec",
+    "instructions" : "This is women only event!",
+    "location" : {
+      "address" : "Google Meet",
+      "coordinates" : {
+        "latitude" : 0,
+        "longitude" : 0,
+        "zoom" : 0
+      },
+      "name" : "Online"
+    },
+    "registrationLink" : "https:\/\/luma.com\/u5e5n7n5",
+    "sponsors" : {
+
+    }
+  },
+  {
+    "about" : "Women in Swift: WWDC Wind Down",
+    "date" : 772741800,
+    "eventID" : "6f547200e2da87d410f96c8dd56cb1b490e88e0239a94b7cae10591f0a151a15",
+    "id" : "794929f52fb7acbf3776c44cf7deaeb0ce734e2f098e6b7134872821c7a99d1c",
+    "instructions" : "This is women only event!",
+    "location" : {
+      "address" : "Google Meet",
+      "coordinates" : {
+        "latitude" : 0,
+        "longitude" : 0,
+        "zoom" : 0
+      },
+      "name" : "Online"
+    },
+    "sponsors" : {
+
+    }
+  },
+  {
+    "about" : "Women in Swift: Connect",
+    "date" : 788466600,
+    "eventID" : "5e36f2535dd45dd79f8ef1939c02e8e2e540cf462f7b705afb02a828ea71c3e7",
+    "id" : "d365cb2a9eb26d8e4909f1bf82a709799fbf98b590371ee405db5fe0b7cc3e12",
+    "instructions" : "This is women only event!",
+    "location" : {
+      "address" : "Google Meet",
+      "coordinates" : {
+        "latitude" : 0,
+        "longitude" : 0,
+        "zoom" : 0
+      },
+      "name" : "Online"
+    },
+    "sponsors" : {
+
+    }
+  },
+  {
+    "about" : "Women in Swift: Connect",
+    "date" : 763065000,
+    "eventID" : "0972480760be922cd1d0a397c61603af14b201513b69141d784b198ff7f2448a",
+    "id" : "8f44fd9223be1ea6136707cb7ca5c0505f562815055010994db0977215d3b6f3",
+    "instructions" : "This is women only event!",
+    "location" : {
+      "address" : "Google Meet",
+      "coordinates" : {
+        "latitude" : 0,
+        "longitude" : 0,
+        "zoom" : 0
+      },
+      "name" : "Online"
+    },
+    "sponsors" : {
+
+    }
+  },
+  {
+    "about" : "Women in Swift: Connect",
+    "date" : 784233000,
+    "eventID" : "9d0dcbbc62b6ae3b001f77b5d3fdb45cfc5e6e25881a896b23d76479f733bafa",
+    "id" : "67ccdce065265462e320765c4e6f131df0633bd551decfc6239dff4eb5b48829",
+    "instructions" : "This is women only event!",
+    "location" : {
+      "address" : "Google Meet",
+      "coordinates" : {
+        "latitude" : 0,
+        "longitude" : 0,
+        "zoom" : 0
+      },
+      "name" : "Online"
+    },
+    "sponsors" : {
+
+    }
+  },
+  {
     "about" : "Swift Ahmedabad October'25 MeetUp",
     "date" : 781813800,
-    "eventID" : "cceee4979d9ff4321d1657ab085dce368e2c42c5e3bf03d6078d1f71e58a5c78",
-    "id" : "029e8347ca9d988ed073b76d1a439628b4de81c4e0daa0d29d41cc502ea978b3",
+    "eventID" : "99102a2230a8927e5d54c131cafc3367c7852471d1e354886172976c660849e8",
+    "id" : "d21b67e8bf34cd441ad8f85142aa8ab73198bf0eea2e70fbb26e09e504c56112",
     "location" : {
       "address" : "TF1, 3rd Floor, off Sindhu Bhavan Marg, near Avalon Hotel, Bodakdev, Ahmedabad, Gujarat 380059",
       "coordinates" : {
@@ -23,8 +245,8 @@
   {
     "about" : "Swift Ahmedabad April'25 MeetUp",
     "date" : 765484200,
-    "eventID" : "dd241440ebaac9718c0987e18f38acaec3cb9803fba299f567082a0e98b97f61",
-    "id" : "c62c8c5b35c6cf9fbcf62529c1c1cda83929c7cf5164e81e330d081fa275c224",
+    "eventID" : "2329fc3e5873893d9b733d12c3585baed8b29caf28336da3e511482eb8091e65",
+    "id" : "ecf8910f4286968997f75e6c0d847ae8396af1c993c045fc05c87102cc8c864d",
     "location" : {
       "address" : "13th Floor, Solitaire Connect, Sarkhej - Gandhinagar Hwy, near BMW Gallop Motors, Makarba, Ahmedabad, Gujarat 382210",
       "coordinates" : {
@@ -44,8 +266,8 @@
   {
     "about" : "Swift Ahmedabad December'24 MeetUp",
     "date" : 756412200,
-    "eventID" : "285c5f3d1cc5218c88730b17d7522d677af62b668fd65f39c47ba3379b6ff71f",
-    "id" : "79777f537f1d5aa4ba6fb4cceff5b1803937bf44ac8755fc66b519d3c63b6377",
+    "eventID" : "cf032bc2364cc234cc3062f63ad7ee07cdedc7833215fb6abf7aea847b656d99",
+    "id" : "e23ad1dfe0d35f5b09b298f4e2933112a41487ad56bbbcbb13085a10230b5a6d",
     "location" : {
       "address" : "Ganesh Meridian, BLOCK-C, Opp Gujarat high court, 106\/B, Sarkhej - Gandhinagar Hwy, Sola, Ahmedabad, Gujarat 380060",
       "coordinates" : {
@@ -65,8 +287,8 @@
   {
     "about" : "Swift Ahmedabad August'24 MeetUp",
     "date" : 744921000,
-    "eventID" : "aa120df0d703d75298af062c1504391ee6c52baf6d7b5dfbe264c7ea9527d48d",
-    "id" : "f48bb6f70dec932060c4055c76420265296d62e94c1bae1513431da15887ae14",
+    "eventID" : "a5107bd00820ebc084e5f0d847e37659ccc7acd78da906b456b7edb0fbbb63a2",
+    "id" : "98303ed6ca604761a335d68464a90c32e37d53bde4a59baa463d8af8e216e7ec",
     "location" : {
       "address" : "A 1101 EastFace, Near, Ambli - Bopal Rd, Ambli, Ahmedabad, Gujarat 380058, India",
       "coordinates" : {
@@ -86,8 +308,8 @@
   {
     "about" : "Swift Ahmedabad December'25 MeetUp",
     "date" : 787257000,
-    "eventID" : "dad36fc84221e5e500b834af3467bc949cc86713ebb63aa1aa3ffa63e7e441b5",
-    "id" : "c008d6f659dd7eaf34a5d8c8a450b286916bc7622ab5d6d7504dd3db82a3ca8c",
+    "eventID" : "e385b5f3ef00871ef8e7c7ed3f7717c1efa571466396594e25c8e0026cfa913d",
+    "id" : "9b2c65a0e01db1197b07b5b77c8005332f1b5aa563a5b895314fb98ac2f6a30a",
     "location" : {
       "address" : "Engineering Auditorium, LJ University, Sarkhej Campus, Sarkhej, Ahmedabad, Gujarat 382210",
       "coordinates" : {
@@ -107,8 +329,8 @@
   {
     "about" : "Swift Ahmedabad February'25 MeetUp",
     "date" : 761250600,
-    "eventID" : "99b9ef4c9c4afbe1617af89c429aa95221f823f3bb03357872848f44fa34e1bb",
-    "id" : "7a32f9569f5aa41076ff26e58745a59655471a2acaaad2dcec4c159b57d1938b",
+    "eventID" : "536b2585865cfa7e56696b91d0e92f436a7617cb75623aa2adf7fdefd425381c",
+    "id" : "fc4a4cac47d76e018c00757cd28fad05f0c4fbea1a2c3db3714323c4157406a3",
     "location" : {
       "address" : "1, Dr Vikram Sarabhai Marg, University Area, Ahmedabad, Gujarat 380015",
       "coordinates" : {
@@ -126,10 +348,31 @@
     }
   },
   {
+    "about" : "Swift Ahmedabad March'26 Meetup",
+    "date" : 795119400,
+    "eventID" : "fadea523003b0cfef44a97023db3e60edde9195bc84d5807b03dfb6b68639833",
+    "id" : "778df1e667b68316b745c4f622f3bba45ff7bf07342f4b44bebd655695d4238a",
+    "location" : {
+      "address" : "A2, Tenth Floor, Safal Profitaire, Corporate Rd, Prahlad Nagar, Ahmedabad, Gujarat 380015",
+      "coordinates" : {
+        "latitude" : 23.0096067,
+        "longitude" : 72.5062465,
+        "zoom" : 17.94
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=Aubergine%20Solutions%20Pvt.%20Ltd.&query_place_id=ChIJu5Ez99yaXjkRka7bue-nctA",
+      "name" : "Aubergine Solutions Pvt. Ltd."
+    },
+    "photoURL" : "https:\/\/photos.app.goo.gl\/wDtRjHpfGjr29uQr5",
+    "registrationLink" : "https:\/\/luma.com\/wyi4h6xl",
+    "sponsors" : {
+      "vanueSponsorID" : "d449d46e5ff9505a02f7a922023ba1981687e3690f043bfced004a0404256e0f"
+    }
+  },
+  {
     "about" : "Swift Ahmedabad October'24 MeetUp",
     "date" : 750969000,
-    "eventID" : "bfc0259ded81a854ef1616246fdad4d9796c91fe67f37f3d3363dc6b4f5567f7",
-    "id" : "0223b39d700efe7791837537b11689d93ba9d6c3b53948d58c378ad0afd40ee8",
+    "eventID" : "fd84e3a5ecffb3f3792f78104325fbff8a4bd529e5cfdf33c0e679ee6eb9220d",
+    "id" : "c2345b9fcefdc44ea3ade2fa7b55c2a17edde545f7ddd55a2c77746aac4c7fcf",
     "location" : {
       "address" : "5th Floor, 501, Binori Bsquare2, Ambli - Bopal Rd, nr. Double Tree By Hilton, Vikram Nagar, Ahmedabad, Gujarat 380058",
       "coordinates" : {
@@ -149,8 +392,8 @@
   {
     "about" : "WWDC25 Watch Party Around India",
     "date" : 771100200,
-    "eventID" : "ced45658c1c8351c4cbd886891166060b54aee78cec8478d0e5f44edf47f2dea",
-    "id" : "8033f36cdcd424a7a611919870112658fa132228732c5f10f5929627d7907b2b",
+    "eventID" : "0f1ddc96d7db058e5e9207fcbb8c7afe81455da169449f04c56032c834823a88",
+    "id" : "6d7b4f28bb7729b6bc330292543811f5b590bf3eac30cf67c4b41d3b571b9077",
     "location" : {
       "address" : "201, Isquare Corporate Park, Science City Rd, Panchamrut Bunglows II, Sola, Ahmedabad, Gujarat 380060",
       "coordinates" : {
@@ -170,8 +413,8 @@
   {
     "about" : "Swift Ahmedabad July'25 MeetUp",
     "date" : 774556200,
-    "eventID" : "9f28a04fe41e3c7334130f2d57f6b5b575322bffe86b51f2f433f7d4e2d1ecdc",
-    "id" : "11d6d2bb985ce17f49eaecbe6b823db1860a259813930becc8f61764c2a6cb14",
+    "eventID" : "40ebe870174fbf5b08b2cc7785e2aff42f4f519bffda1c8e36b017bcde485ae5",
+    "id" : "1fbe1de98d28a42040c7bffde2c47bc8deba5843324f2a95dd7578966cbf5a85",
     "location" : {
       "address" : "812-816, Times Square 1, opposite Baghban Party Plot Road, Thaltej, Ahmedabad, Gujarat 380059",
       "coordinates" : {

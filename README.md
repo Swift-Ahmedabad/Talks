@@ -1,4 +1,219 @@
-# 9. Dec 13, 2025
+# Swift Developers Online Meetup
+ 💻 Swift Developers Online Meetup
+
+## Mastering Swift Package Manager
+### By: **Ratnesh Jain**
+Sr. iOS Engineer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993) 
+
+## Build Your Own Xcode Plugin to Automate iOS Dev
+### By: **Kaveri Patil**
+iOS developer, Currently building a developer tool to improve everyday workflows.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kaveri-patil-203547151/), [Twitter](https://x.com/kaveripatil14?s=11) 
+
+---
+# Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻
+ 💻 Swift Bengaluru x International Women's Day Special Meetup 🦸‍♀️👩‍💻
+
+## AI Powered Design and seamless iOS Collaboration for Faster Delivery
+### By: **Shivani Gaur**
+Sr. Product Designer at Procore Technologies
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/shivani-gaur27/), [Portfolio](https://iamshivanigaur.com) 
+
+## Learning iOS Development in the Age of AI
+### By: **Garima Bothra**
+SWE III @ Google | Prev. Swiggy | Apple Swift Student Challenge 2021 Winner | 3rd at GHCI Code-a-thon 2021 | iOS Developer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/garima-bothra/), [Twitter](https://x.com/garimabothraa) 
+
+## Visual Intelligence through AppIntents
+### By: **Subbalakshmi Balamuthu**
+Indie App Developer, Founder of Feelly App
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/subbulakshmi-balamuthu-6125a3354/), [Portfolio](https://feelly.ai), [Twitter](https://x.com/subbulakshmi_b) 
+
+## Panel Discussion 🗣️ Designing for Women Empathy, Research, and Real Needs
+### By: **Suma Shirahatti**
+iOS developer at StockX | Ex-Paytm| iOS Developer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/suma-shirahatti-28774015b/) 
+
+---
+# Swift Ahmedabad March'26 Meetup
+ 💻 Swift Ahmedabad March'26 Meetup
+### 📸 [Event Photos](https://photos.app.goo.gl/wDtRjHpfGjr29uQr5)
+## From Data to Delight - Integrating AI into iOS Applications
+### By: **Tiwari Vinay**
+A software engineer with over 9 years of experience in mobile and full-cycle application development, with a strong focus on iOS and AI/ML. I currently work at TCS, Gandhinagar, where I build and contribute to scalable, real-world technology solutions. I’m passionate about creating intelligent products, mentoring aspiring developers, and sharing practical industry insights through tech talks.
+
+Follow on: [LinkedIn](https://in.linkedin.com/in/vinay-tiwari-60214289) 
+
+## Figma Code Connect For Swifter UI Creation
+### By: **Kanishka Chaudhry**
+SDE @ Upstox | 2x Apple Scholar | SNHU '25
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 
+
+## Designing Reliable Connected-Device Apps with Swift and BLE
+### By: **Pradip Sutariya**
+With over 10 years of experience in mobile development, I specialize in designing and delivering robust applications across the Apple ecosystem including iOS, iPad, Apple Watch (watchOS), Mac (macOS), and CarPlay as well as cross-platform solutions using Flutter for both iOS and Android. I have a proven track record of building high-quality apps that solve complex problems through smart use of algorithms, design patterns, and cutting-edge technologies.
+My expertise extends to Bluetooth Low Energy (BLE), Swift, Swift-UI, Objective-C, and Dart, allowing me to create seamless, innovative, and reliable mobile experiences that connect users with the latest IoT and wearable technologies.
+I’m passionate about collaborating with teams and clients to turn ideas into reality, delivering mobile solutions that stand out in performance and usability.
+
+Follow on: [LinkedIn](https://linkedin.com/in/pradip-sutariya-926660113) 
+
+### By: **Rahul Parmar**
+AWS Certified Developer- Associate || Associate Software Engineer @Aubergine Solutions Pvt. Ltd. Dharmsinh Desai University || Information and Technology
+
+Follow on:  
+
+---
+# Swift Pune - S002
+ 💻 Swift Pune - S002
+
+## CI-CD With Github Action and Fastlane
+### By: **Garima Saini**
+Sr iOS Engineer @xplor
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/garimasaini0/) 
+
+## Decompose Designs for Apple Platforms
+### By: **Nikhil Nigade**
+iOS, macOS and Systems Engineer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/nikhil-nigade-4a395b358/), [Github](https://github.com/dezinezync), [Portfolio](https://dezinezync.com), [Twitter](https://x.com/dezinezync), [Mastodon](https://social.dezinezync.com/@nikhil) 
+
+## Swift 6 Migration
+### By: **Divya Maloo**
+Sr. iOS Engineer at PhonePe
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/divya-maloo-72629284/) 
+
+### By: **Swetal Matkar**
+iOS Developer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/swetal-matkar-73a836204/) 
+
+## Make Your Apps More Discoverable
+### By: **Kanishka Chaudhry**
+SDE @ Upstox | 2x Apple Scholar | SNHU '25
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 
+
+---
+# Women in Swift: Connect
+ 💻 Women in Swift: Connect
+
+## My GSOC Experience with Swift
+### By: **Priyambada Roul**
+Software Developer at Cashfree Payments
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/priyambadaroul/) 
+
+---
+# Swift Chennai February Edition
+ 💻 Swift Chennai February Edition
+### 📸 [Event Photos](https://drive.google.com/drive/folders/1arMOXb5GbtK7IWh3zvJry9Ie5f_9XlO-)
+## Concurrency in Swift
+### By: **Mohammed Mubashir Medekkar**
+iOS Developer, Zoho Corporation
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/mubashirmeddekar/), [Twitter](https://x.com/mubashirmedekar) 
+
+## Meaningful UI - A Design Story
+### By: **Sameer Rajadnya**
+Sameer Rajadnya is a designer and developer with a multidisciplinary career spanning communication and brand design, web development, and management. He currently works as an independent consultant, advising on web, brand, and digital product design. A self-taught web developer, he bridges design, storytelling and engineering to envision projects end-to-end. He has built and led Multidisciplinary Design Teams at organizations including Teamwork Films, producer of Jaipur Literature Festival and others, and the corporate PR firm The Practice. Most recently Sameer designed, and published an iOS App
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/sameer-rajadnya/), [Portfolio](https://earthclock.in) 
+
+## Building Interfaces and Animations with SwiftUI
+### By: **Shubham Singh**
+iOS Developer (Associate Principal Engineer) at DailyRounds / Marrow
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/shubham0812/), [Twitter](https://x.com/Shubham_iosdev) 
+
+---
+# Swift Bengaluru x Meesho
+ 💻 Swift Bengaluru x Meesho
+
+## Designing Conversational Skills for Agentic Workflows
+### By: **Akashlal bathe**
+Engineering - iOS
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/akashlal/) 
+
+## Cost of Modularization
+### By: **Hitarth Bhatt**
+iOS Engineer @ Meesho | Ex-Walmart | Swift | SwiftUI
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/hitarth-bhatt/), [Github](https://github.com/Hitarthbhatt) 
+
+## The Swift Student Challenge - A Journey Worth Taking
+### By: **Sinchan Maitri**
+iOS Engineer at Corner. 2x WWDC Scholar, Layers 2018 Scholar. Mobile App and Front-end Web Developer.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/sinchanmaitri/), [Github](https://github.com/sinchanmaitri) 
+
+## Exploring SwiftUI under the hoot
+### By: **Sachin Chandil**
+Tech Lead (iOS) at Meesho. Sr. Android Developer with 3+ years experience in mobile development.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/chandilsachin/), [Github](https://github.com/chandilsachin) 
+
+## AI Driven Coding for ASC CLI as an iOS Dev
+### By: **Rudrank Riyam**
+AI Prompter and Senior iOS Developer Writer. WWDC '19 Scholar. Independent writer and developer for Apple Platforms.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/rudrank/), [Github](https://github.com/rudrankriyam) 
+
+---
+# Swift Mumbai + Haxnation
+ 💻 Swift Mumbai + Haxnation
+### 📸 [Event Photos](https://drive.google.com/drive/folders/1tOBeqz26LQwG5etSo7o4leE49s1m2uwa)
+## FlutterFlow App Security Explained- Myths, Risks, and Best Practices
+### By: **Abhishek Jain**
+Cyber Expert | FlutterFlow Pro | Founder @ BEEPIXL | Tech Partner – CID Gujarat Police
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/mrabhijain/) 
+
+## Mobile App Security - Common Pitfalls and Recommendations
+### By: **Midhet Sulemani**
+SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/midhet/) 
+
+### By: **Hrishikesh Devhare**
+PMP-certified Senior Technical Lead with 15+ years of experience in iOS, macOS, and mobile app development.
+
+Follow on:  
+
+## Security Considerations While Building a Fintech App
+### By: **Rohan Joshi**
+Senior Mobile Engineer @ Tide | MSITM
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/rohanjsh/) 
+
+## The Illusion of Runtime Security
+### By: **Kirankumar**
+Security Engineer III, InfraSec | OSCP | AWS Solution Architect | CEH | Bug Bounty Hunter | Blogger.
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kiran-kumar-b58971b2/) 
+
+---
+# Women in Swift: Connect
+ 💻 Women in Swift: Connect
+
+## Architecting Navigation for Real-World Flows
+### By: **Sukritha KK**
+Product engineer - iOS At Strollby UST
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/sukritha/) 
+
+---
+# Swift Ahmedabad December'25 MeetUp
  💻 Swift Ahmedabad December'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/58ixSq6rJ37XoZoQ7)
 ## Accessibility Nutrition Labels for Better iOS Apps
@@ -37,7 +252,22 @@ iOS Developer @ Space O | Model-View-Controller (MVC) | MVVM | SwiftUI | Swift |
 Follow on: [LinkedIn](https://www.linkedin.com/in/hardik-modha-95b9ab125/) 
 
 ---
-# 8. Oct 11, 2025
+# Women in Swift: Connect
+ 💻 Women in Swift: Connect
+
+## Panel Discussion
+### By: **Harpreet Kaur**
+iOS Engineer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/namrata-mayanil-7469a41/) 
+
+### By: **Charanya Swaminathan**
+Member Technical Staff (iOS Developer), Zoho Corporation
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/charanya-swaminathan-2278b8225/) 
+
+---
+# Swift Ahmedabad October'25 MeetUp
  💻 Swift Ahmedabad October'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/rcxKMq7YpzvEqqnY7)
 ## Swift Bharat Experience
@@ -47,7 +277,7 @@ Sr. iOS Engineer
 Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Github](https://github.com/ratnesh-jain), [Portfolio](https://ratnesh-jain.github.io), [Twitter](https://x.com/ratneshjain1993) 
 
 ## Swift Excellence Enhancing Code Quality
-### By: **Kanishka C**
+### By: **Kanishka Chaudhry**
 SDE @ Upstox | 2x Apple Scholar | SNHU '25
 
 Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 
@@ -59,7 +289,7 @@ Researcher | iOS Engineer | Blogger at ohmyswift.com | Speaker | Proud husband
 Follow on: [LinkedIn](https://www.linkedin.com/in/rizwan95/), [Portfolio](https://ohmyswift.com) 
 
 ---
-# 7. Jul 19, 2025
+# Swift Ahmedabad July'25 MeetUp
  💻 Swift Ahmedabad July'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/cEbiK4BnUFTfiRuq6)
 ## Unlocking the Power of Xcode 26 + ChatGPT
@@ -69,7 +299,27 @@ IOS Development | Objective C | Swift | Architecture | TDD | BDD
 Follow on: [LinkedIn](https://www.linkedin.com/in/prashantpkorat/) 
 
 ---
-# 6. Jun 9, 2025
+# Women in Swift: WWDC Wind Down
+ 💻 Women in Swift: WWDC Wind Down
+
+## Panel Discussion
+### By: **Namrata Mayanil**
+Co-Founder MAMMA-MIYA
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/namrata-mayanil-7469a41/) 
+
+### By: **Midhet Sulemani**
+SDE - iOS at Heady | Native iOS Apps in Swift | Building business solutions through code
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/midhet/) 
+
+### By: **Raksha Rao**
+Co-Founder andCEO Parjanta Creative Solutions Chaarana Labs
+
+Follow on:  
+
+---
+# WWDC25 Watch Party Around India
  💻 WWDC25 Watch Party Around India
 ### 📸 [Event Photos](https://photos.app.goo.gl/xo5fDZ2wxHYWSsav6)
 ## Introduction to Keynote
@@ -85,7 +335,7 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/ratnesh-jain-7a2270146/), [Git
 Follow on: [LinkedIn](https://www.linkedin.com/in/pratik-gadhesariya-047a14142/), [Portfolio](https://bold.pro/my/pratik-gadhesariya) 
 
 ---
-# 5. Apr 5, 2025
+# Swift Ahmedabad April'25 MeetUp
  💻 Swift Ahmedabad April'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/gXwCiTRw6iA9sUUN7)
 ## Physics in AR
@@ -106,7 +356,27 @@ Follow on: [LinkedIn](https://www.linkedin.com/in/trivedihiteshrd/)
 Follow on: [LinkedIn](https://www.linkedin.com/in/samir-bagariya/) 
 
 ---
-# 4. Feb 15, 2025
+# Women in Swift: Connect
+ 💻 Women in Swift: Connect
+
+## Panel Discussion
+### By: **Kanishka Chaudhry**
+SDE @ Upstox | 2x Apple Scholar | SNHU '25
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/kanishka-c/), [Github](https://github.com/Kanishka3), [Portfolio](https://kanishkawilliamson.wordpress.com), [Twitter](https://twitter.com/ralasi_) 
+
+### By: **Garima Bothra**
+SWE III @ Google | Prev. Swiggy | Apple Swift Student Challenge 2021 Winner | 3rd at GHCI Code-a-thon 2021 | iOS Developer
+
+Follow on: [LinkedIn](https://www.linkedin.com/in/garima-bothra/), [Twitter](https://x.com/garimabothraa) 
+
+### By: **Rinkal Riziya**
+iOS(Swift) Developer
+
+Follow on:  
+
+---
+# Swift Ahmedabad February'25 MeetUp
  💻 Swift Ahmedabad February'25 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/iwHj3U2BarViSTCw7)
 ## Exploring Image Playground with Apple Intelligence
@@ -140,7 +410,7 @@ Sr. iOS Developer | Helping Startups & Agencies Build AI-Driven, High-Performing
 Follow on: [LinkedIn](https://www.linkedin.com/in/adeptdevtips/) 
 
 ---
-# 3. Dec 21, 2024
+# Swift Ahmedabad December'24 MeetUp
  💻 Swift Ahmedabad December'24 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/G7TKauVBLaeLJYZa8)
 ## Optimizing development with dependency injection and live activities 
@@ -173,7 +443,7 @@ Founder | Building Karo & Tasks | Passionate about consumer apps
 Follow on: [LinkedIn](https://www.linkedin.com/in/mufasayc/), [Portfolio](https://msquarelabs.com), [Twitter](https://x.com/mufasayc) 
 
 ---
-# 2. Oct 19, 2024
+# Swift Ahmedabad October'24 MeetUp
  💻 Swift Ahmedabad October'24 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/ouFSJ54TpYuGQ5MBA)
 ## Mesh A plug and play ui framework
@@ -195,7 +465,7 @@ Application Development Team Lead at Accenture
 Follow on: [LinkedIn](https://www.linkedin.com/in/harshitdaftary/) 
 
 ---
-# 1. Aug 10, 2024
+# Swift Ahmedabad August'24 MeetUp
  💻 Swift Ahmedabad August'24 MeetUp
 ### 📸 [Event Photos](https://photos.app.goo.gl/owW6Ef9U45Aj68Ha9)
 ## Let's Scroll

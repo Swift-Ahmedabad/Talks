@@ -1,0 +1,35 @@
+name: "Swift Mumbai"
+description: "Community of Apple Platform Developers and Apple’s Swift programming language based in Mumbai, India 🇮🇳"
+logo: "swift-mumbai.jpg"
+members:
+    - name: "Yogesh Singh"
+      about: "Software Engineer @ 100ms | Python | LLM | AI Agents | iOS dabbler"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/yogeshsingh2810/"
+        
+    - name: "Akanksha Sharma"
+      about: "Lead Software Engineer at HERE Technologies | Co-organiser Swift Mumbai"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/akanksharmaa/"
+        
+    - name: "Raj Raval"
+      about: "iOS at Loco | Community Organiser - Swift Bharat, Swift Bengaluru and Swift Mumbai"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/rajhraval/"
+        
+    - name: "Rushit Rakhasiya"
+      about: "Full-Stack Swift Developer | Co-Organizer @ Swift Mumbai | Crafting Apps & Empowering the Dev Community"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/rushit-r-757aa0167/"
+        
+    - name: "Nishant Desai"
+      about: "iOS Engineer at Nutrient (formerly PSPDFKit GmbH)"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/nishantdesai1/"
+        
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/swift-mumbai"
+    twitter: "https://x.com/swift_mumbai"
+    instagram: "https://www.instagram.com/swift_mumbai/"
+    luma: "https://luma.com/user/swiftmumbai"
+    portfolio: "https://swiftmumbai.in"

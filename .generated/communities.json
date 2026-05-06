@@ -1,0 +1,62 @@
+[
+  {
+    "id" : "2856dd02115a4d23b04112719af92886fd2325dbb62d1aa467a94c5988fb4c61",
+    "logo" : "swift-pune.jpg",
+    "name" : "Swift Pune",
+    "resourcePath" : "Swift Pune"
+  },
+  {
+    "id" : "8576268574968e7254d490c8e8a034c532678e3ffb130c0c271e65c12570ea89",
+    "logo" : "swift-chennai.jpeg",
+    "name" : "Swift Chennai",
+    "resourcePath" : "Swift Chennai"
+  },
+  {
+    "id" : "15acae05be00bc66fd20a7c63ca852804dd16196ae012f006b333fe6c3f31a62",
+    "logo" : "swift-surat.jpeg",
+    "name" : "Swift Surat",
+    "resourcePath" : "Swift Surat"
+  },
+  {
+    "id" : "fd8caab4e610a9922e7e98621dab11685859c96194621751c84c2867fcecbd8a",
+    "logo" : "swift-delhi.jpeg",
+    "name" : "Swift Delhi",
+    "resourcePath" : "Swift Delhi"
+  },
+  {
+    "id" : "55650e28cc45b32a5183aa0d90aee7afa282eb4bfbb49021fd154521fa72a267",
+    "logo" : "swift-bengaluru.jpeg",
+    "name" : "Swift Bengaluru",
+    "resourcePath" : "Swift Bengaluru"
+  },
+  {
+    "id" : "587854ea7bec36f196456b3dd823ae0c6f1701a87a9a4f27afbc18498aa96b98",
+    "logo" : "swift-mumbai.jpg",
+    "name" : "Swift Mumbai",
+    "resourcePath" : "Swift Mumbai"
+  },
+  {
+    "id" : "8fdfea503ba2496f7e36ffa9ae89cd740b33fb08342d4d652113a918c572cd99",
+    "logo" : "swift-nagpur.jpg",
+    "name" : "Swift Nagpur",
+    "resourcePath" : "Swift Nagpur"
+  },
+  {
+    "id" : "b03bea8e02951cbf2a87f377bb2b5daae080f8be62304192a1b926cbdcceec3f",
+    "logo" : "women-in-swift-india.jpeg",
+    "name" : "Women in Swift India",
+    "resourcePath" : "Women in Swift India"
+  },
+  {
+    "id" : "a95537776f2a34ef9f9509211db98130a47bf33a0aa9f84a11b8e0966d3aea03",
+    "logo" : "swift-kozhikode.png",
+    "name" : "Swift Kozhikode",
+    "resourcePath" : "Swift Kozhikode"
+  },
+  {
+    "id" : "af6eae965cda4357726fed771504a26fe6ceaed52bf0e3e81dffd409925bb735",
+    "logo" : "swift-ahmedabad.jpg",
+    "name" : "Swift Ahmedabad",
+    "resourcePath" : "Swift Ahmedabad"
+  }
+]

@@ -1,0 +1,65 @@
+about: "Swift Ahmedabad March'26 Meetup"
+date: "March 14, 2026"
+location:
+    name: "Aubergine Solutions Pvt. Ltd."
+    map: "https://www.google.com/maps/search/?api=1&query=Aubergine%20Solutions%20Pvt.%20Ltd.&query_place_id=ChIJu5Ez99yaXjkRka7bue-nctA"
+    address: "A2, Tenth Floor, Safal Profitaire, Corporate Rd, Prahlad Nagar, Ahmedabad, Gujarat 380015"
+    coordinates:
+        latitude: 23.0096067
+        longitude: 72.5062465
+        zoom: 17.94
+agenda:
+    - time: "09:45 AM"
+      title: "Registration"
+      type: "registration"
+              
+    - time: "10:15 AM"
+      title: "Introduction"
+      type: "talk"
+
+    - time: "10:30 AM"
+      title: "From Data to Delight - Integrating AI into iOS Applications"
+      type: "talk"
+      speakers:
+        - "Tiwari Vinay"
+        
+    - time: "11:00 AM"
+      title: "Break"
+      type: "break"
+
+    - time: "11:15 AM"
+      title: "Fun Quiz"
+      type: "talk"
+        
+    - time: "11:35 AM"
+      title: "Figma Code Connect For Swifter UI Creation"
+      type: "talk"
+      speakers:
+        - "Kanishka Chaudhry"
+
+    - time: "12:05 PM"
+      title: "Designing Reliable Connected-Device Apps with Swift and BLE"
+      type: "talk"
+      speakers:
+        - "Pradip Sutariya"
+        - "Rahul Parmar"
+        
+    - time: "12:50 PM"
+      title: "Community Update"
+      type: "talk"
+      speakers:
+        - "Ratnesh Jain"
+
+    - time: "01:00 PM"
+      title: "Networking"
+      type: "networking"
+
+sponsors:
+    vanue:
+        name: "Aubergine Solutions Pvt. Ltd"
+        website: "https://www.aubergine.co"
+        image: "Aubergine_logo_logo_white.png"
+
+registrationLink: "https://luma.com/wyi4h6xl"
+
+photoURL: "https://photos.app.goo.gl/wDtRjHpfGjr29uQr5"

@@ -1,0 +1,51 @@
+about: "Swift Ahmedabad October'25 MeetUp"
+date: "October 11, 2025"
+location:
+    name: "CricHeroes Pvt. Ltd"
+    map: "https://www.google.com/maps/search/?api=1&query=CricHeroes%20Pvt.%20Ltd.&query_place_id=ChIJWbxyziaFXjkRedJ8Zxm-gEk"
+    address: "TF1, 3rd Floor, off Sindhu Bhavan Marg, near Avalon Hotel, Bodakdev, Ahmedabad, Gujarat 380059"
+    coordinates:
+        latitude: 23.0453052
+        longitude: 72.5080271
+        zoom: 17
+agenda:
+    - time: "10:00 AM "
+      title: "Welcome & Registration"
+      type: "registration"
+    - time: "10:15 AM "
+      title: "Swift Bharat Experience"
+      type: "talk"
+      speakers:
+        - "Ratnesh Jain"
+    - time: "10:45 AM "
+      title: "Swift Excellence Enhancing Code Quality"
+      type: "talk"
+      speakers:
+        - "Kanishka Chaudhry"
+    - time: "11:15 AM "
+      title: "Tea/Coffee Break"
+      type: "break"
+    - time: "11:30 AM "
+      title: "Talk by Garima"
+      type: "talk"
+    - time: "12:15 PM "
+      title: "Product Spotlight: CricHeros"
+      type: "talk"
+    - time: "12:30 PM "
+      title: "From Lines Of Codes to Lines Of Connections"
+      type: "talk"
+      speakers:
+        - "Rizwan Ahmed"
+    - time: "1:00 PM "
+      title: "Networking & Refreshments"
+      type: "networking"
+sponsors:
+    vanue:
+        name: "CricHeroes Pvt. Ltd"
+        website: "https://cricheroes.com"
+        image: "cricheros.jpeg"
+    food:
+        name: "CricHeroes Pvt. Ltd"
+        website: "https://cricheroes.com"
+        image: "cricheros.jpeg"
+photoURL: "https://photos.app.goo.gl/rcxKMq7YpzvEqqnY7"

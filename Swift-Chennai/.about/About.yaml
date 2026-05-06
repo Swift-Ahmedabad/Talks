@@ -1,0 +1,24 @@
+name: "Swift Chennai"
+description: "Code. Kaapi. Connect."
+logo: "swift-chennai.jpeg"
+members:
+    - name: "Adithya Balaj"
+      about: "Co-founder, Code Flakes Studio & IndeHub | Co-organizer, Swift Chennai"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/balajiadithya/"
+    - name: "Muruganandham Kuppan"
+      about: "Swift-Centric Developer | Trying to be an AI Generalist | iOS | MacOS | Mobile Developer | Apple Ecosystem Enthusiast"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/muruganandhamjk/"
+    - name: "Rizwan Ahmed"
+      about: "Developer Relations @ Zoho Apptics | Tech Evangelist | AI Researcher | iOS Engineer | Blogger at ohmyswift.com | Speaker | Proud husband"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/rizwan95/"
+    - name: "Velu Loganathan"
+      about: "Building In-App Offer Paywalls for iOS Apps Revenue Growth💰 | Simplifying App Store Offer Management 📈 | Creator of Impact11 🏏"
+      socials:
+          linkedIn: "https://www.linkedin.com/in/veluloganathan/"
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/swiftchennai"
+    luma: "https://luma.com/swiftchennai"
+    twitter: "https://x.com/SwiftChennai"

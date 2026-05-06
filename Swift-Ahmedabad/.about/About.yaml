@@ -1,0 +1,113 @@
+name: "Swift Ahmedabad"
+description: "A welcoming space where everyone who is interested in Swift or Apple Ecosystem can connect and grow together."
+logo: "swift-ahmedabad.jpg"
+members:
+    - name: "Devanshi Modha"
+      about: "Software Engineer (iOS) | Women Techmakers Ambassador | Tech Evangelist"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/devanshimodha/"
+        
+    - name: "Bhavin Vaghela"
+      about: "Sr iOS DEVELOPER & Assistant project manager at Hyperlink Infosystem"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/bhavin-vaghela/"
+        
+    - name: "Kajal Sheth"
+      about: "Software Engineer at eClinicalWorks"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/kajal-sheth/"
+        
+    - name: "Ratnesh Jain"
+      about: "Sr. iOS Engineer"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/ratnesh-jain-7a2270146/"
+        
+    - name: "Riya Kheskwani"
+      about: "Software Engineer | iOS Developer"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/riya-kheskwani-21b168136/"
+
+    - name: "Jinkal Hirani"
+      about: "iOS Developer"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/jinkalhirani/"
+
+    - name: "Priyanka Poojara"
+      about: "Helping startups build innovative mobile apps | Swift / iOS Developer | SwiftUI & Combine | Building scalable iOS apps"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/priyanka-poojara/"
+
+    - name: "Riddhi Khunti"
+      about: "iOS | React-Native | Flutter | Swift | SwiftUI Developer"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/riddhikhunti-ios/"
+
+    - name: "Pooja Darji"
+      about: "iOS | React Native"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/pooja-darji-694015213/"
+
+    - name: "Aadil Dhanani"
+      about: "Actively looking for a job as an iOS Developer | Mobile App Development"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/aadil-dhanani-521bbb136/"
+
+    - name: "Gaurav Harkhani"
+      about: "Senior iOS Engineer @ Bluepixel | Swift | SwiftUI | UIKIT | MVVM | MVVM-C"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/gaurav-harkhani/"
+
+    - name: "Maulesh Vyas"
+      about: " iOS Developer, Geek, Lifelong learner"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/mauleshvyas/"
+
+    - name: "Kishan Raja"
+      about: "iOS developer at Hyperlink inosystem"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/raja-kishan-421620138/"
+
+    - name: "Samir Bagariya"
+      about: " Sr. Software Engineer (Flutter | Dart | iOS | Swift | SwiftUi)"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/samir-bagariya/"
+
+    - name: "Kuldip Thakkar"
+      about: "iOS + React Native Mobile App Developer"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/kuldip-thakkar-871b81175/"
+
+    - name: "Supan Shah"
+      about: "Sr. iOS || React Native Developer at 7Span"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/supnshah/"
+
+    - name: "Maulik Makwana"
+      about: "iOS Developer"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/mrm235/"
+
+    - name: "Parth Gundigara"
+      about: "Sr. Software Engineer (Swift | SwiftUI | UIKIT | RxSwift)"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/parth-gundigara-132270119/"
+
+    - name: "Hardik Modha"
+      about: "iOS Developer @ Space O"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/hardik-modha-95b9ab125/"
+
+    - name: "Sneha Dudhat"
+      about: "IoT | BLE | Flutter | Native iOS"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/sneha-dudhat-81771862/"
+
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/swift-ahmedabad/"
+    luma: "https://luma.com/user/swiftahmedabad"
+    twitter: "https://x.com/swift_ahmedabad"
+    whatsApp: "https://chat.whatsapp.com/FlZuWzMf8ak8C8yAmfRRVf"
+    instagram: "https://www.instagram.com/swift.ahmedabad/"
+    arattai: "https://web.arattai.in/@swift_ahmedabad"
+    discord: "https://discord.com/invite/pswxUQxEny"
+    portfolio: "https://swift-ahmedabad.github.io"

@@ -90,11 +90,6 @@
     "url" : "https:\/\/www.donnywals.com\/feed\/"
   },
   {
-    "id" : "d91fb79ebefc7f5b551a343166034a540665ea21c7cd61406174dc06e2cfa45b",
-    "title" : "Patrick McConnell",
-    "url" : "https:\/\/pmcconnell.micro.blog\/feed.xml"
-  },
-  {
     "id" : "b9ab0132bfb9e2911c15873d32c8b5ecb6cbf430dd44fa03d27ce833d97faccf",
     "title" : "Pointfree",
     "url" : "https:\/\/hachyderm.io\/@pointfreeco.rss"
@@ -103,5 +98,125 @@
     "id" : "f47e789c01ea9ee5c46a2145aef345b01d7ee07c48dfbe35856a8136360ef8d1",
     "title" : "Matt Massicotte",
     "url" : "https:\/\/www.massicotte.org\/atom.xml"
+  },
+  {
+    "id" : "9f2ce5e27ae0494a50c71aa185f828fb6b5712db4178f954b40203edbc50a387",
+    "title" : "Cocoa With Love",
+    "url" : "https:\/\/cocoawithlove.com\/feed.xml"
+  },
+  {
+    "id" : "5c9b211e231bee571be7b31669ebd648bcaad292c7fe3e994eb49e408c79c811",
+    "title" : "Swift Evolution",
+    "url" : "https:\/\/forums.swift.org\/c\/evolution\/18.rss"
+  },
+  {
+    "id" : "e8c054adba28c4fe1c5cb3b3101833881420b3fdfe7ff34a24422c110a6cb4e1",
+    "title" : "Swift On Server",
+    "url" : "https:\/\/forums.swift.org\/c\/server\/43.rss"
+  },
+  {
+    "id" : "0ff972b5c57497abe06a509717a8cbacc540278a12ad6a0515b352322c26766b",
+    "title" : "Swift Community showcase",
+    "url" : "https:\/\/forums.swift.org\/c\/community-showcase\/66.rss"
+  },
+  {
+    "id" : "97ff1db2c7c1f6e212c13cea5ddfd4b3aef62a3cd6cf9ed255e4ed5539236b05",
+    "title" : "Swift General Announcements",
+    "url" : "https:\/\/forums.swift.org\/c\/general-announce\/24.rss"
+  },
+  {
+    "id" : "ef9e99b5de467aefff80667d2303cc7f55c8219c90fe96eb27a20b158eeaed23",
+    "title" : "Skip Tools",
+    "url" : "https:\/\/skip.dev\/blog\/rss.xml"
+  },
+  {
+    "id" : "1ea072a95e7832277721486563390e6f9fc1b4aae3670611b53125cc8b00e21d",
+    "title" : "Artem Novichkov",
+    "url" : "https:\/\/artemnovichkov.com\/feed.xml"
+  },
+  {
+    "id" : "a4f529108a28354ca13abe012803fe89217eb2e743ff8f652ebf926062e4b71d",
+    "title" : "Jorge Calderita",
+    "url" : "https:\/\/jcalderita.com\/blog\/feed.xml"
+  },
+  {
+    "id" : "c207ad8dbff41f913bd3785301bafbdcf1cce64a5b85ea3f5cbd2f721aa013e2",
+    "title" : "Vidit Bhargava",
+    "url" : "https:\/\/blog.viditb.com\/rss\/"
+  },
+  {
+    "id" : "105d4f6b3d1dd29d7a650643fe34391d72df6ddc83d2fb4695ac0dbe9649b374",
+    "title" : "Nil-Coalescing",
+    "url" : "https:\/\/nilcoalescing.com\/feed.rss"
+  },
+  {
+    "id" : "b8350cae1f3bd78d936e1ce917860a6d032ebd4e3069ae10bb2d05df25a35db5",
+    "title" : "Bryce Bostwick",
+    "url" : "https:\/\/bryce.co\/index.xml"
+  },
+  {
+    "id" : "db6db2c2b530bece727416e08a2bea2d730bcd9c41d84827dfdf7c12f0422819",
+    "title" : "NS Screencast",
+    "url" : "https:\/\/nsscreencast.com\/feed"
+  },
+  {
+    "id" : "45d64dc5f6a2ce936c92b946beccf55b4c5e7f6d83780feadc9c5b69f055caa9",
+    "title" : "DimsumThinking by Daniel Steinberg",
+    "url" : "https:\/\/dimsumthinking.com\/rss.xml"
+  },
+  {
+    "id" : "19ee6ccdc0b44eb449cfd7a2aa634b221c084da67cfdf5be6516d931534a18c7",
+    "title" : "RevenueFlo Blog",
+    "url" : "https:\/\/revenueflo.com\/blog\/rss.xml"
+  },
+  {
+    "id" : "d6021a3689a6200971fe71460dc990c3b4e053ab8e131f5a3103af44b52a5340",
+    "title" : "SwiftRocks",
+    "url" : "https:\/\/swiftrocks.com\/rss.xml"
+  },
+  {
+    "id" : "6925900a27f6f83cb5d527f6a5f4f13d33c33b89c5fbccaa40286ad2c5b7e477",
+    "title" : "Kyle Browning",
+    "url" : "https:\/\/kylebrowning.com\/feed.rss"
+  },
+  {
+    "id" : "257a03ca07b078f12a93ad193fcf6c3a1dae105b5103f00fb0c756f3e3057e16",
+    "title" : "iOS Dev Tools",
+    "url" : "https:\/\/iosdevtools.substack.com\/feed"
+  },
+  {
+    "id" : "3ddc389d84b8d710c1a83bea3839e39e70d2cc1e0d8d4a0867b6ce802e2cec10",
+    "title" : "Anton Gubarenko",
+    "url" : "https:\/\/antongubarenko.substack.com\/feed"
+  },
+  {
+    "id" : "79da7e16a00eaa931db74962ae3c195fe0390d015fe7ab6bb20bf0ada0042537",
+    "title" : "Danijela Vrzan",
+    "url" : "https:\/\/danijelavrzan.com\/rss.xml"
+  },
+  {
+    "id" : "cabd68ec07ff61d8753d164b64678ffd125bad83cc0a3d78bdd40b16955db2e5",
+    "title" : "Raja Vijayaraman",
+    "url" : "https:\/\/rajavijayaraman.com\/rss.xml"
+  },
+  {
+    "id" : "49b3ec5721016f5d3d0817792e84750c78fbfcef76734395b54e23d9377525c7",
+    "title" : "Simon Willison",
+    "url" : "https:\/\/simonwillison.net\/atom\/entries\/"
+  },
+  {
+    "id" : "3d415eda0dc1c7ac184082a66f2f8401f37c4fbf6e5327c7cd009b61e9c4d7ee",
+    "title" : "Bas Broek",
+    "url" : "https:\/\/www.basbroek.nl\/feed.xml"
+  },
+  {
+    "id" : "7989e945492ceb537247233abf77110ccf0b0a91cc25f836429b32a77ed6d7f9",
+    "title" : "Max Seelemann",
+    "url" : "https:\/\/macguru.dev\/rss\/"
+  },
+  {
+    "id" : "25727b8549bd5f1cad36ab68417720cf844445b1a5c75c51f6acda8d7a2cb47c",
+    "title" : "Cocoanetics",
+    "url" : "https:\/\/www.cocoanetics.com\/feed\/"
   }
 ]
