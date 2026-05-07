@@ -150,6 +150,27 @@
     ]
   },
   {
+    "about" : "Swift Mumbai - The May Meetup",
+    "date" : 801167400,
+    "eventID" : "fa5d9b9723fdae72dca3902272747e66538d9ddc0d6e541fd98fcc4b9f1bb426",
+    "id" : "8732fba9b19758e94a0ba0af8b9608872478768bf1477f428e7763ee97166c09",
+    "instructions" : "⚠️ Limited Capacity\n​We're keeping this tight. Venue capacity is strictly limited and registrations will close once we're full.",
+    "location" : {
+      "address" : "Somaiya Vidyavihar, Somaiya School of Design, Bhaskaracharya Building, Vidyavihar (E, Mumbai, Maharashtra 400077",
+      "coordinates" : {
+        "latitude" : 19.0724726,
+        "longitude" : 72.9003127,
+        "zoom" : 17.94
+      },
+      "map" : "https:\/\/www.google.com\/maps\/place\/Somaiya+School+of+Design\/@19.0724726,72.9003127,1116m\/data=!3m2!1e3!4b1!4m6!3m5!1s0x3be7c7fe1c47a7fb:0xebde3002b86e5060!8m2!3d19.0724726!4d72.9003127!16s%2Fg%2F11qwwjphg7?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D",
+      "name" : "Somaiya School of Design"
+    },
+    "registrationLink" : "https:\/\/luma.com\/orgk8gjp",
+    "sponsors" : {
+      "vanueSponsorID" : "a67248b72d1d5600fca734fbc58a1f982f039ffb28d139a8c088775d14712051"
+    }
+  },
+  {
     "about" : "Women in Swift: Connect",
     "date" : 794514600,
     "eventID" : "da9a961a5b770324f39ab0e49d960478c2f8bfeca442f0f2aaa4e92cb1228f14",

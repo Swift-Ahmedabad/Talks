@@ -30,6 +30,12 @@
     "website" : "https:\/\/haxnation.org\/mumbai-chapter\/"
   },
   {
+    "id" : "a67248b72d1d5600fca734fbc58a1f982f039ffb28d139a8c088775d14712051",
+    "image" : "somaiyaSchoolOfDesign.png",
+    "name" : "Somaiya School of Design",
+    "website" : "https:\/\/ssd.somaiya.edu"
+  },
+  {
     "id" : "c7f1f50db329ea7bd00cf49711f6637dfc75f86fff344b425353319b561e0461",
     "image" : "cricheros.jpeg",
     "name" : "CricHeroes Pvt. Ltd",
@@ -52,6 +58,12 @@
     "image" : "mobileFist.jpeg",
     "name" : "MobileFirst Applications - Fintegration",
     "website" : "https:\/\/www.mobilefirst.in"
+  },
+  {
+    "id" : "9b64c8efc14ed8fa2fe3ad4780457c1cb8d759106c5b106896ede690b8a1e55d",
+    "image" : "mobileFist.jpeg",
+    "name" : "MobileFirst Applications - Fintegration",
+    "website" : "https:\/\/cricheroes.com"
   },
   {
     "id" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506",
