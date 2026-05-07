@@ -166,9 +166,12 @@
       "name" : "Somaiya School of Design"
     },
     "registrationLink" : "https:\/\/luma.com\/orgk8gjp",
-    "sponsors" : {
-      "vanueSponsorID" : "a67248b72d1d5600fca734fbc58a1f982f039ffb28d139a8c088775d14712051"
-    }
+    "sponsors" : [
+      {
+        "sponsorID" : "a67248b72d1d5600fca734fbc58a1f982f039ffb28d139a8c088775d14712051",
+        "sponsoringFor" : "Venue"
+      }
+    ]
   },
   {
     "about" : "Women in Swift: Connect",

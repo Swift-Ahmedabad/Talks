@@ -10,10 +10,11 @@ location:
         zoom: 17.94
 agenda: []
 sponsors:
-    vanue:
+    - sponsor:
         name: "Somaiya School of Design"
         website: "https://ssd.somaiya.edu"
         image: "somaiyaSchoolOfDesign.png"
+      sponsoringFor: "Venue"
 
 registrationLink: "https://luma.com/orgk8gjp"
 instructions: "⚠️ Limited Capacity\n​We're keeping this tight. Venue capacity is strictly limited and registrations will close once we're full."
