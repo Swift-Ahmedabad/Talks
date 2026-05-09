@@ -55,6 +55,26 @@
     ]
   },
   {
+    "about" : "Swift Surat Online Meetup",
+    "date" : 801772200,
+    "eventID" : "e76880c3a8619d3c1df8af3135d07f844850796de9ecba84e5f6894f2ff8b71a",
+    "id" : "b5cfb37510bfc822473543c26c95859180079b4679767a900875cab755130f64",
+    "instructions" : "This is Online Meetup",
+    "location" : {
+      "address" : "Google Meet",
+      "coordinates" : {
+        "latitude" : 0,
+        "longitude" : 0,
+        "zoom" : 0
+      },
+      "name" : "Online"
+    },
+    "registrationLink" : "https:\/\/luma.com\/7iqnh10c",
+    "sponsors" : [
+
+    ]
+  },
+  {
     "about" : "Swift Developers Online Meetup",
     "date" : 798748200,
     "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
