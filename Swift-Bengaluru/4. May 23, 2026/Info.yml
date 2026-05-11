@@ -1,0 +1,18 @@
+about: "Swift Bengaluru × Leap Meetup Announcement "
+date: "May 23, 2026"
+location:
+    name: "Leap"
+    map: "https://www.google.com/maps/search/?api=1&query=12.913860300000001%2C77.6366817&query_place_id=ChIJWzdoZ50VrjsRTH8Kukos6k8"
+    address: "49, 12th Main Rd, near BDA Complex, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India"
+    coordinates:
+        latitude: 12.9138603
+        longitude: 77.6366817
+        zoom: 17
+
+sponsors:
+    vanue:
+        name: "Leap"
+        website: "https://leapscholar.com/"
+        image: "../.sponsorsAssets/leap.jpeg"
+registrationLink: "https://luma.com/m63xpuab"
+instructions: "✅ Registration is mandatory\n🪪 Government ID required for entry"

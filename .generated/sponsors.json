@@ -12,6 +12,12 @@
     "website" : "https:\/\/www.zoho.com\/apptics\/"
   },
   {
+    "id" : "43cea9a625da85770ec031c6f24cf9a5ae827d0009a130f5e7df2f2328521c71",
+    "image" : "..\/.sponsorsAssets\/leap.jpeg",
+    "name" : "Leap",
+    "website" : "https:\/\/leapscholar.com\/"
+  },
+  {
     "id" : "fbb0d64f0b6c21888235b8f6f4c947339f93ca527ffef38880e2b6f2320a397e",
     "image" : "..\/.sponsorsAssets\/meesho.png",
     "name" : "Meesho",
@@ -54,16 +60,16 @@
     "website" : "Hyperlink%20InfoSystem"
   },
   {
-    "id" : "9b64c8efc14ed8fa2fe3ad4780457c1cb8d759106c5b106896ede690b8a1e55d",
-    "image" : "mobileFist.jpeg",
-    "name" : "MobileFirst Applications - Fintegration",
-    "website" : "https:\/\/cricheroes.com"
-  },
-  {
     "id" : "a9a9ae107fce14a00f6e160ad279bb0ac0344039d4bb00be63de05eb52055806",
     "image" : "mobileFist.jpeg",
     "name" : "MobileFirst Applications - Fintegration",
     "website" : "https:\/\/www.mobilefirst.in"
+  },
+  {
+    "id" : "9b64c8efc14ed8fa2fe3ad4780457c1cb8d759106c5b106896ede690b8a1e55d",
+    "image" : "mobileFist.jpeg",
+    "name" : "MobileFirst Applications - Fintegration",
+    "website" : "https:\/\/cricheroes.com"
   },
   {
     "id" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506",

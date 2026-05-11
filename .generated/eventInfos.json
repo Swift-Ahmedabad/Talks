@@ -63,6 +63,27 @@
     }
   },
   {
+    "about" : "Swift Bengaluru × Leap Meetup Announcement ",
+    "date" : 801167400,
+    "eventID" : "f1673e62f935bb251fbcdaf3bbab35a2ee6b5aac3fa04f91acb8749fa0e26836",
+    "id" : "66fe556e3cd7f14ce2f9078a62341b6e2aa8cb56ee3c29eb7573751864cb57c4",
+    "instructions" : "✅ Registration is mandatory\n🪪 Government ID required for entry",
+    "location" : {
+      "address" : "49, 12th Main Rd, near BDA Complex, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "coordinates" : {
+        "latitude" : 12.9138603,
+        "longitude" : 77.6366817,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=12.913860300000001%2C77.6366817&query_place_id=ChIJWzdoZ50VrjsRTH8Kukos6k8",
+      "name" : "Leap"
+    },
+    "registrationLink" : "https:\/\/luma.com\/m63xpuab",
+    "sponsors" : {
+      "vanueSponsorID" : "43cea9a625da85770ec031c6f24cf9a5ae827d0009a130f5e7df2f2328521c71"
+    }
+  },
+  {
     "about" : "Swift Developers Online Meetup",
     "date" : 798748200,
     "eventID" : "3730616542b0abeab8e5721684fcc8b45a955c52ad06946c724406ab0cb7dc29",
