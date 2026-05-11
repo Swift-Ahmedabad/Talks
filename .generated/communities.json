@@ -30,6 +30,12 @@
     "resourcePath" : "Swift Bengaluru"
   },
   {
+    "id" : "088c7f33589850a9b6fadc122bb4284e9222dafb691ab3b60830a04d70a64a35",
+    "logo" : "swift-hyderabad.jpeg",
+    "name" : "Swift Hyderabad",
+    "resourcePath" : "Swift Hyderabad"
+  },
+  {
     "id" : "587854ea7bec36f196456b3dd823ae0c6f1701a87a9a4f27afbc18498aa96b98",
     "logo" : "swift-mumbai.jpg",
     "name" : "Swift Mumbai",

@@ -1,0 +1,49 @@
+name: "Swift Hyderabad"
+description: "The revolution will be swift!"
+logo: "swift-hyderabad.jpeg"
+members:
+    - name: "Sandeep (Challa) Reddy"
+      about: "Sr Staff Software Engineer at Motorola Solutions | iOS | Android | SwiftUI | Kotlin | Objective C | Java, Architecture, Team Leadership | AI Integration| Scalable App Platforms | 17+ yrs Mobile Dev"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/sandeepreddychalla/"
+        
+    - name: "Suresh Kumar Gondi"
+      about: "Independent Technical SEO Consultant | Semantic SEO Practitioner | SEO Researcher - Building My Own SOPS for Marginal Gains By Testings."
+      socials:
+        linkedIn: "https://www.linkedin.com/in/sureshkumargondi/"
+    
+    - name: "Akshay Pakanati"
+      about: "Lead Mobile Engineer at ixigo-abhibus"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/akshaypakanati/"
+        
+    - name: "Ranga Reddy"
+      about: "AI Engineer building LLM/VLM Agents & iOS Apps | On-Device ML | Physical AI (Robot Learning via Data & Training) | RA @ Vision Lab SJSU"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/irangareddy/"
+        
+    - name: "Shravan Chevireddy"
+      about: "Software Programmer"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/sraavanchevireddy/"
+        portfolio: "https://www.sraavanchevireddy.com/"
+
+    - name: "Ayush Bhople"
+      about: "AI & iOS Developer | CoreML, Swift, SwiftUI, LangChain | Swift Hyderabad"
+      socials:
+        linkedIn: "www.linkedin.com/in/ayush-bhople"
+    
+    - name: "Saikumar Pallagani"
+      about: "Senior Mobile Engineer & iOS Specialist @ ixigo | 10+ Yrs | Ex-Walmart · Decathlon | Scaling Apps for 50M+ Users"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/saikumarpallagani/"
+        
+    - name: "Saiprasad Gupta"
+      about: "Senior Software Engineer - iOS, Backend & Generative AI developer (Swift | Objective-C | SwiftUI | Vision OS | Python | Django | FastAPI | Unity | C# | Dart)"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/saiprasad-gupta/"
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/swifthyderabad/"
+    luma: "https://luma.com/user/swifthyderabad"
+    twitter: "https://x.com/SwiftHyderabad"
+    instagram: "https://www.instagram.com/swifthyderabad/"

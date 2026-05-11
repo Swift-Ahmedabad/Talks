@@ -2,7 +2,7 @@
   {
     "links" : [
       {
-        "id" : "406EAE7B-ADDF-4369-9BDE-052A23E7AA8B",
+        "id" : "55C3C50F-6227-46F4-B067-EFE7E570CEF4",
         "title" : "From-Clicks-To-Commit.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Pune\/1.%20Mar%208%2C%202026\/CI-CD%20With%20Github%20Action%20and%20Fastlane\/From-Clicks-To-Commit.pdf"
       }
@@ -12,7 +12,7 @@
   {
     "links" : [
       {
-        "id" : "76991FFB-5E19-4214-B731-BFA507D1FCCA",
+        "id" : "7385270C-BA89-4786-8D9F-ED3FFD93F2D3",
         "title" : "DecomposingDesigns.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Pune\/1.%20Mar%208%2C%202026\/Decompose%20Designs%20for%20Apple%20Platforms\/DecomposingDesigns.pdf"
       }
@@ -22,7 +22,7 @@
   {
     "links" : [
       {
-        "id" : "BCCF14EE-10A7-45DC-AC45-77CDD8B0D4F5",
+        "id" : "0EBB64BC-6DD4-44BF-8A3E-0C768B3CC1D4",
         "title" : "Swift-6-Migration.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Pune\/1.%20Mar%208%2C%202026\/Swift%206%20Migration\/Swift-6-Migration.pdf"
       }
@@ -32,7 +32,7 @@
   {
     "links" : [
       {
-        "id" : "A7473297-222A-4101-98A4-59C5EA1262D2",
+        "id" : "46A63CAE-4717-4A6F-B475-B6DEF4C3A26C",
         "title" : "BeyondYourAppForeground.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Pune\/1.%20Mar%208%2C%202026\/Make%20Your%20Apps%20More%20Discoverable\/BeyondYourAppForeground.pdf"
       }
@@ -42,7 +42,7 @@
   {
     "links" : [
       {
-        "id" : "514C8CC3-4C69-4FE2-AC6B-EEF464978AAE",
+        "id" : "524085CD-DFCF-438D-896B-182E44953C6B",
         "title" : "Cocurrency in Swift by Mohammed Mubashir Meddekar.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Chennai\/1.%20Feb%2028%2C%202026\/Concurrency%20in%20Swift\/Cocurrency%20in%20Swift%20by%20Mohammed%20Mubashir%20Meddekar.pdf"
       }
@@ -52,7 +52,7 @@
   {
     "links" : [
       {
-        "id" : "2C34E23E-9B72-44AD-8330-3821531F73CF",
+        "id" : "2B7E9535-790F-4E38-9963-66F37C38D0F6",
         "title" : "building-interfaces-animations-Feb-2026.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Chennai\/1.%20Feb%2028%2C%202026\/Building%20Interfaces%20and%20Animations%20with%20SwiftUI\/building-interfaces-animations-Feb-2026.pdf"
       }
@@ -62,7 +62,7 @@
   {
     "links" : [
       {
-        "id" : "091FA739-953B-4E1F-A3E2-D223AB6F9972",
+        "id" : "ADC36C36-1258-4278-9260-975E4150E013",
         "title" : "Mastering SwiftPM.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Bengaluru\/3.%20Apr%2025%2C%202026\/Mastering%20Swift%20Package%20Manager\/Mastering%20SwiftPM.pdf"
       }
@@ -72,7 +72,7 @@
   {
     "links" : [
       {
-        "id" : "EBFDDC63-83E7-47B3-A783-815A01E677F1",
+        "id" : "32455C1E-91BF-4385-B19D-9007B1B3F793",
         "title" : "Swift Bengaluru- Kaveri Talk (XCode Plugin).pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Bengaluru\/3.%20Apr%2025%2C%202026\/Build%20Your%20Own%20Xcode%20Plugin%20to%20Automate%20iOS%20Dev\/Swift%20Bengaluru-%20Kaveri%20Talk%20(XCode%20Plugin).pdf"
       }
@@ -82,7 +82,7 @@
   {
     "links" : [
       {
-        "id" : "0E1FE315-E8D8-4C31-AFCD-FC9EBABB03CE",
+        "id" : "22BD27B3-E890-43FA-BC32-83300C4F324C",
         "title" : "Cybersecurity in iOS-Swift Mumbai.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Mumbai\/1.%20Feb%2028%2C%202026\/Mobile%20App%20Security%20-%20Common%20Pitfalls%20and%20Recommendations\/Cybersecurity%20in%20iOS-Swift%20Mumbai.pdf"
       }
@@ -92,7 +92,7 @@
   {
     "links" : [
       {
-        "id" : "E23C8763-CAEF-4B04-88CD-B7330F609AB9",
+        "id" : "E36F15ED-2DDB-4D15-9EA7-C11F3A86E805",
         "title" : "My GSOC Experience with Swift.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Women-in-Swift-India\/5.%20Mar%207%2C%202026\/My%20GSOC%20Experience%20with%20Swift\/My%20GSOC%20Experience%20with%20Swift.pdf"
       }
@@ -102,7 +102,7 @@
   {
     "links" : [
       {
-        "id" : "C57DE37F-6BEF-4C31-8081-A4F2D2B75DE6",
+        "id" : "D3E58F96-DE02-49C6-8154-2CD9727822B0",
         "title" : "Architecting-Navigation-for-Real-World-Flows.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Women-in-Swift-India\/4.%20Dec%2027%2C%202025\/Architecting%20Navigation%20for%20Real-World%20Flows\/Architecting-Navigation-for-Real-World-Flows.pdf"
       }
@@ -112,7 +112,7 @@
   {
     "links" : [
       {
-        "id" : "6C6C053A-6CEC-4E5D-B4FE-B2B17DFD37FB",
+        "id" : "D1163DAA-8DAE-4D29-AD16-39237ABBD809",
         "title" : "Swift Bharat Experience.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/8.%20Oct%2011%2C%202025\/Swift%20Bharat%20Experience\/Swift%20Bharat%20Experience.pdf"
       }
@@ -122,7 +122,7 @@
   {
     "links" : [
       {
-        "id" : "7B8417AA-DA7D-4DB0-B419-9194971555A8",
+        "id" : "CEB52A43-4893-4E97-8C3B-9648F1010A1D",
         "title" : "EnhacingCodeQuality.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/8.%20Oct%2011%2C%202025\/Swift%20Excellence%20Enhancing%20Code%20Quality\/EnhacingCodeQuality.pdf"
       }
@@ -132,7 +132,7 @@
   {
     "links" : [
       {
-        "id" : "7CD35588-EA12-4EB7-AE6F-249C24B0C3DB",
+        "id" : "CFFC26F4-8AE3-46C3-9F2D-28248A82F1F6",
         "title" : "FromLinesOfCodesToLinesOfConnections.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/8.%20Oct%2011%2C%202025\/From%20Lines%20Of%20Codes%20to%20Lines%20Of%20Connections\/FromLinesOfCodesToLinesOfConnections.pdf"
       }
@@ -142,12 +142,12 @@
   {
     "links" : [
       {
-        "id" : "077F0816-3526-4BE2-BB74-764283F40A10",
+        "id" : "5D529D55-232A-456A-ABCE-13D62D66E644",
         "title" : "Physics-AR.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/5.%20Apr%205%2C%202025\/Physics%20in%20AR\/Physics-AR.pdf"
       },
       {
-        "id" : "A8BAF725-DF75-46E8-92D0-AA3F2C091A51",
+        "id" : "3919BEE4-E40E-480C-9590-ACEFF1DB90BA",
         "title" : "ARPhysicsApp",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/5.%20Apr%205%2C%202025\/Physics%20in%20AR\/ARPhysicsApp\/"
       }
@@ -157,7 +157,7 @@
   {
     "links" : [
       {
-        "id" : "F7302D7D-A0ED-4D72-8FE7-64C16C7675F9",
+        "id" : "6E7824F8-95EA-4C2E-B272-FFDB97E4E965",
         "title" : "Talk.yml",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/5.%20Apr%205%2C%202025\/Mastering%20Design%20patterns%20and%20Solid%20Principles\/Talk.yml"
       }
@@ -167,7 +167,7 @@
   {
     "links" : [
       {
-        "id" : "42992EAE-7E6F-4564-9FAC-4DE1110B3034",
+        "id" : "BCB50043-7EF0-46F8-BF65-4D4C72B25936",
         "title" : "Optimizing development with dependency injection and live activities.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/3.%20Dec%2021%2C%202024\/Optimizing%20development%20with%20dependency%20injection%20and%20live%20activities%20\/Optimizing%20development%20with%20dependency%20injection%20and%20live%20activities.pdf"
       }
@@ -177,7 +177,7 @@
   {
     "links" : [
       {
-        "id" : "7EC4851D-049F-4AD4-BDAA-DAE25B5BB455",
+        "id" : "82B2DFAA-1746-4059-B66B-A85E3DEC664A",
         "title" : "Introduction to SwiftData.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/3.%20Dec%2021%2C%202024\/Introduction%20to%20SwiftData\/Introduction%20to%20SwiftData.pdf"
       }
@@ -187,12 +187,12 @@
   {
     "links" : [
       {
-        "id" : "8AC07350-73F9-47F0-A596-768429A8C573",
+        "id" : "4D15A381-3066-4E4F-A7D2-B1804F93B67B",
         "title" : "AppIntentDemo",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/3.%20Dec%2021%2C%202024\/iOS%2018%20Control%20Widgets\/AppIntentDemo\/"
       },
       {
-        "id" : "336DDB69-9013-4D27-A0A6-FCA80BC83BF3",
+        "id" : "DB42A72D-7D14-40AD-B8FB-E7222E84484D",
         "title" : "AppIntents and Control Centre Widgets.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/3.%20Dec%2021%2C%202024\/iOS%2018%20Control%20Widgets\/AppIntents%20and%20Control%20Centre%20Widgets.pdf"
       }
@@ -202,7 +202,7 @@
   {
     "links" : [
       {
-        "id" : "12181578-AC55-474C-84CD-3D02EEF3C75E",
+        "id" : "1BB9E5C1-FBB8-4D70-AA2A-637761C0FA4A",
         "title" : "Becoming-IndeDev-MustafaYusuf.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/3.%20Dec%2021%2C%202024\/Becoming%20an%20Indie%20Developer\/Becoming-IndeDev-MustafaYusuf.pdf"
       }
@@ -212,7 +212,7 @@
   {
     "links" : [
       {
-        "id" : "745BFC48-2E93-4498-A599-803D22D8E2AE",
+        "id" : "D3A0C10D-EE76-4D20-A9BF-B1F2E9E19BB8",
         "title" : "Let's Scroll from Zero.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/1.%20Aug%2010%2C%202024\/Let's%20Scroll\/Let's%20Scroll%20from%20Zero.pdf"
       }
@@ -222,7 +222,7 @@
   {
     "links" : [
       {
-        "id" : "48672B2D-4E3E-4F16-AC69-280242FE5623",
+        "id" : "4EF384D2-D280-4AAD-BC6C-8BB008F09367",
         "title" : "Revolutionizing iOS Development.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/1.%20Aug%2010%2C%202024\/Revolutionizing%20iOS%20Development\/Revolutionizing%20iOS%20Development.pdf"
       }
@@ -232,7 +232,7 @@
   {
     "links" : [
       {
-        "id" : "89989143-3BA9-4B5D-B50C-55805DF37215",
+        "id" : "2BE7EBBD-8BE8-497B-B6EA-D0909AC4C9C2",
         "title" : "Accessibility.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/9.%20Dec%2013%2C%202025\/Accessibility%20Nutrition%20Labels%20for%20Better%20iOS%20Apps\/Accessibility.pdf"
       }
@@ -242,12 +242,12 @@
   {
     "links" : [
       {
-        "id" : "A563A5C1-10E4-4D60-A4AC-2FBF690D6870",
+        "id" : "870F33D0-EE99-4485-B688-AA87E04B2615",
         "title" : "PlayingWithFoundationModels.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/9.%20Dec%2013%2C%202025\/Playing%20with%20Apple%E2%80%99s%20Foundation%20Models%20\/PlayingWithFoundationModels.pdf"
       },
       {
-        "id" : "5A49BF53-8B6C-4A56-84F4-D1579DBB39A0",
+        "id" : "B28FBB71-1175-4128-B666-92FED8817D33",
         "title" : "tasks",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/9.%20Dec%2013%2C%202025\/Playing%20with%20Apple%E2%80%99s%20Foundation%20Models%20\/tasks\/"
       }
@@ -257,12 +257,12 @@
   {
     "links" : [
       {
-        "id" : "AE18D24E-6CAF-4B2E-92B0-9A7080B5CE8C",
+        "id" : "808202C9-01EB-4613-9690-61964CCE7DC4",
         "title" : "Debugging like a pro PDF.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/9.%20Dec%2013%2C%202025\/Mastering%20Instruments%20&%20Performance%20Tuning%20in%20Swift\/Debugging%20like%20a%20pro%20PDF.pdf"
       },
       {
-        "id" : "AA10C2EB-2EB6-4DBE-ADE3-04D59F2F441C",
+        "id" : "4779CCFC-BA5E-4D3E-962B-5A5B8AF1358A",
         "title" : "DebuggingDemos",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/9.%20Dec%2013%2C%202025\/Mastering%20Instruments%20&%20Performance%20Tuning%20in%20Swift\/DebuggingDemos\/"
       }
@@ -272,7 +272,7 @@
   {
     "links" : [
       {
-        "id" : "582C546A-4C40-48BA-884C-5CF1ED4C3BB7",
+        "id" : "9E253DC1-4651-4436-B0BA-22A1D0381899",
         "title" : "Introduction to Vapor.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/9.%20Dec%2013%2C%202025\/Introduction%20of%20Vapor%20framework\/Introduction%20to%20Vapor.pdf"
       }
@@ -282,12 +282,12 @@
   {
     "links" : [
       {
-        "id" : "734589F0-93C2-4432-8BC3-AD54013953C6",
+        "id" : "23622185-2C62-4C96-A81B-C50B3BC372F2",
         "title" : "ImagePlaygroundDemo",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/4.%20Feb%2015%2C%202025\/Exploring%20Image%20Playground%20with%20Apple%20Intelligence\/ImagePlaygroundDemo\/"
       },
       {
-        "id" : "BAAFFABC-776F-43A2-8701-09B740AB5614",
+        "id" : "72DB0FAD-165D-4057-8259-6F94449A821E",
         "title" : "PlayGround keynote.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/4.%20Feb%2015%2C%202025\/Exploring%20Image%20Playground%20with%20Apple%20Intelligence\/PlayGround%20keynote.pdf"
       }
@@ -297,7 +297,7 @@
   {
     "links" : [
       {
-        "id" : "4988BA4B-9E48-4FF9-8F83-90AD13FA2EA2",
+        "id" : "8A8CD489-99D6-414B-9E3D-A2ECEDB6D744",
         "title" : "ModularApp.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/4.%20Feb%2015%2C%202025\/Towards%20Modular%20Apps\/ModularApp.pdf"
       }
@@ -307,7 +307,7 @@
   {
     "links" : [
       {
-        "id" : "9EA8F8AA-758E-49E6-BB93-016BECD914F9",
+        "id" : "3B0D1E1D-D5A6-40C5-9306-988CC56A5B97",
         "title" : "Vocabulary of TCA.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/4.%20Feb%2015%2C%202025\/Vocabulary%20of%20TCA\/Vocabulary%20of%20TCA.pdf"
       }
@@ -317,7 +317,7 @@
   {
     "links" : [
       {
-        "id" : "A65FAA63-D97E-4ED8-ACA8-9EE2D7621034",
+        "id" : "86ABB5E2-B9B2-445C-9A76-73F75E08F8F2",
         "title" : "Code Signing & Reverse Engineering.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/4.%20Feb%2015%2C%202025\/Code%20Signing%20and%20Reverse%20Engineering\/Code%20Signing%20&%20Reverse%20Engineering.pdf"
       }
@@ -327,12 +327,12 @@
   {
     "links" : [
       {
-        "id" : "90023E74-646F-42C5-B241-AAE5FA4443F1",
+        "id" : "6A65B7F3-1E72-4A06-AA26-F37F34CDC09D",
         "title" : "Swift Testing.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/4.%20Feb%2015%2C%202025\/Becoming%20pro%20at%20swift-testing\/Swift%20Testing.pdf"
       },
       {
-        "id" : "00E985CB-5512-4CCD-BABB-498124F1C047",
+        "id" : "0FAEE5BE-C857-45A2-9A0D-B6C9D2588936",
         "title" : "TodoList",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/4.%20Feb%2015%2C%202025\/Becoming%20pro%20at%20swift-testing\/TodoList\/"
       }
@@ -342,7 +342,7 @@
   {
     "links" : [
       {
-        "id" : "293B9FBB-8E22-4387-8622-C559823AC203",
+        "id" : "451E5FD1-6D3D-4F79-AACD-B38F7592CE82",
         "title" : "Integrating AI into iOS App 13 March 2026 2.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/10.%20Mar%2014%2C%202025\/From%20Data%20to%20Delight%20-%20Integrating%20AI%20into%20iOS%20Applications\/Integrating%20AI%20into%20iOS%20App%2013%20March%202026%202.pdf"
       }
@@ -352,7 +352,7 @@
   {
     "links" : [
       {
-        "id" : "FE7461EB-A5F4-4E9A-AB48-F04DE135D73C",
+        "id" : "5E7B07B1-AE19-4C85-A143-20DA856132E0",
         "title" : "SwiftUICodeWithFigma.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/10.%20Mar%2014%2C%202025\/Figma%20Code%20Connect%20For%20Swifter%20UI%20Creation\/SwiftUICodeWithFigma.pdf"
       }
@@ -362,7 +362,7 @@
   {
     "links" : [
       {
-        "id" : "283464D6-92C0-4300-BF6E-518069A5EADE",
+        "id" : "94CE8A1F-0D42-4EF7-A9BC-6A55DE2663DB",
         "title" : "Swift BLE Meetup _ March 14, 2026.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/10.%20Mar%2014%2C%202025\/Designing%20Reliable%20Connected-Device%20Apps%20with%20Swift%20and%20BLE\/Swift%20BLE%20Meetup%20_%20March%2014%2C%202026.pdf"
       }
@@ -372,7 +372,7 @@
   {
     "links" : [
       {
-        "id" : "7F32D7EB-5E6A-473E-BFAC-BF96A4C3DC42",
+        "id" : "942FFEFB-65D9-43F0-8802-CE325B1CDFAA",
         "title" : "Talk.yml",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/2.%20Oct%2019%2C%202024\/Mesh%20A%20plug%20and%20play%20ui%20framework\/Talk.yml"
       }
@@ -382,12 +382,12 @@
   {
     "links" : [
       {
-        "id" : "8DFE2C5F-AC61-4A4E-B4F7-3B11976D8A43",
+        "id" : "5F6EB523-9739-4D1D-8C27-7FE0A6622CCC",
         "title" : "SwiftConcurrency.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/2.%20Oct%2019%2C%202024\/Modern%20Concurrency\/SwiftConcurrency.pdf"
       },
       {
-        "id" : "D509D240-34EF-4546-A78E-ED7EB5874760",
+        "id" : "584F3B30-31FD-4EE2-ACA5-095A1A5B5541",
         "title" : "SwiftConcurrencyDemo",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/2.%20Oct%2019%2C%202024\/Modern%20Concurrency\/SwiftConcurrencyDemo\/"
       }
@@ -397,7 +397,7 @@
   {
     "links" : [
       {
-        "id" : "E4142644-AA2D-4AEB-8C50-2E1AEA4B128A",
+        "id" : "209FF93D-3B11-40FA-8305-22C7D128B5C4",
         "title" : "Apple Intelligence.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/2.%20Oct%2019%2C%202024\/Apple%20Intelligence\/Apple%20Intelligence.pdf"
       }
@@ -407,7 +407,7 @@
   {
     "links" : [
       {
-        "id" : "250EC8AD-83C8-4C83-B462-A329571C530E",
+        "id" : "ADCD8B9B-7DF0-4A58-8728-EFB9146BB1FA",
         "title" : "Introduction to Keynote.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/6.%20Jun%209%2C%202025\/Introduction%20to%20Keynote\/Introduction%20to%20Keynote.pdf"
       }
@@ -417,7 +417,7 @@
   {
     "links" : [
       {
-        "id" : "2E75AD6B-3A36-4455-8306-B3ECAD5E1671",
+        "id" : "330517A2-A436-4E7B-B8AA-D25234D5C7F7",
         "title" : "Linnk_Presentation_WWDC2025.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/6.%20Jun%209%2C%202025\/Lessons%20from%20Launching%20My%20First%20App%20Linnk\/Linnk_Presentation_WWDC2025.pdf"
       }
@@ -427,7 +427,7 @@
   {
     "links" : [
       {
-        "id" : "7345E71B-D1CB-49A7-BA75-12492D192934",
+        "id" : "E94C84FB-07A0-4337-8D15-6E4EB5488392",
         "title" : "Unlocking_the_Power_of_Xcode26_ChatGPT.pdf",
         "url" : "https:\/\/github.com\/Swift-Ahmedabad\/Talks\/blob\/main\/Swift-Ahmedabad\/7.%20Jul%2019%2C%202025\/Unlocking%20the%20Power%20of%20Xcode%2026%20+%20ChatGPT\/Unlocking_the_Power_of_Xcode26_ChatGPT.pdf"
       }
