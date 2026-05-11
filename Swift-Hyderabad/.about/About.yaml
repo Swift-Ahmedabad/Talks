@@ -1,0 +1,20 @@
+name: "Swift Hyderabad"
+description: "The revolution will be swift!"
+logo: "swift-hyderabad.jpeg"
+members:
+    - name: "Sandeep (Challa) Reddy"
+      about: "Sr Staff Software Engineer at Motorola Solutions | iOS | Android | SwiftUI | Kotlin | Objective C | Java, Architecture, Team Leadership | AI Integration| Scalable App Platforms | 17+ yrs Mobile Dev"
+      socials:
+        linkedIn: "https://www.linkedin.com/in/sandeepreddychalla/"
+        
+    - name: "Suresh Kumar Gondi"
+      about: "Independent Technical SEO Consultant | Semantic SEO Practitioner | SEO Researcher - Building My Own SOPS for Marginal Gains By Testings."
+      socials:
+        linkedIn: "https://www.linkedin.com/in/sureshkumargondi/"
+                
+
+socialMedias:
+    linkedIn: "https://www.linkedin.com/company/swifthyderabad/"
+    luma: "https://luma.com/user/swifthyderabad"
+    twitter: "https://x.com/SwiftHyderabad"
+    instagram: "https://www.instagram.com/swifthyderabad/"

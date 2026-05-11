@@ -261,6 +261,34 @@
     }
   },
   {
+    "description" : "The revolution will be swift!",
+    "id" : "088c7f33589850a9b6fadc122bb4284e9222dafb691ab3b60830a04d70a64a35",
+    "logo" : "swift-hyderabad.jpeg",
+    "members" : [
+      {
+        "about" : "Sr Staff Software Engineer at Motorola Solutions | iOS | Android | SwiftUI | Kotlin | Objective C | Java, Architecture, Team Leadership | AI Integration| Scalable App Platforms | 17+ yrs Mobile Dev",
+        "name" : "Sandeep (Challa) Reddy",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/sandeepreddychalla\/"
+        }
+      },
+      {
+        "about" : "Independent Technical SEO Consultant | Semantic SEO Practitioner | SEO Researcher - Building My Own SOPS for Marginal Gains By Testings.",
+        "name" : "Suresh Kumar Gondi",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/sureshkumargondi\/"
+        }
+      }
+    ],
+    "name" : "Swift Hyderabad",
+    "socialMedias" : {
+      "instagram" : "https:\/\/www.instagram.com\/swifthyderabad\/",
+      "linkedIn" : "https:\/\/www.linkedin.com\/company\/swifthyderabad\/",
+      "luma" : "https:\/\/luma.com\/user\/swifthyderabad",
+      "twitter" : "https:\/\/x.com\/SwiftHyderabad"
+    }
+  },
+  {
     "description" : "Community of Apple Platform Developers and Apple’s Swift programming language based in Mumbai, India 🇮🇳",
     "id" : "587854ea7bec36f196456b3dd823ae0c6f1701a87a9a4f27afbc18498aa96b98",
     "logo" : "swift-mumbai.jpg",
