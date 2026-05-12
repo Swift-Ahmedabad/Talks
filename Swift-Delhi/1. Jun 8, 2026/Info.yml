@@ -1,0 +1,20 @@
+about: "Swift Delhi WWDC26 Watch Party, Presented by ixigo 💻"
+date: "June 8, 2026"
+location:
+    name: "ixigo"
+    map: "https://www.google.com/maps/search/?api=1&query=28.4458792%2C77.0984062&query_place_id=ChIJLVyTdrQYDTkRrzz-1CTXg_M"
+    address: "Second Floor, Veritas Building, Golf Course Rd, behind Ibis Hotel, Parsvnath Exotica, Sector 53, Gurugram, Haryana 122011, India"
+    coordinates:
+        latitude: 28.4458792
+        longitude: 77.0984062
+        zoom: 17.94
+agenda: []
+
+sponsors:
+    - sponsor:
+        name: "ixigo"
+        website: "https://www.ixigo.com"
+        image: "ixigo.jpeg"
+      sponsoringFor: "Venue & Food"
+
+registrationLink: "https://luma.com/flgblcpd?utm_id=97760_v0_s00_e0_tv6_a1denni8lm8p4c"

@@ -1,3 +1,8 @@
+# Swift Delhi WWDC26 Watch Party, Presented by ixigo 💻
+ 💻 Swift Delhi WWDC26 Watch Party, Presented by ixigo 💻
+
+
+---
 # Swift Surat Online Meetup
  💻 Swift Surat Online Meetup
 
