@@ -18,7 +18,7 @@
     "sponsors" : [
       {
         "sponsorID" : "28a85fe5dfddbdcdddb4680200dab2d40766b0b9a822317244ccb788a24f07fd",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "28a85fe5dfddbdcdddb4680200dab2d40766b0b9a822317244ccb788a24f07fd",
@@ -46,7 +46,7 @@
     "sponsors" : [
       {
         "sponsorID" : "d0ac838257a0feb3efaeaa7e1abe0f712e24274e9d680e8b90f4522785084b92",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "d0ac838257a0feb3efaeaa7e1abe0f712e24274e9d680e8b90f4522785084b92",
@@ -72,6 +72,30 @@
     "registrationLink" : "https:\/\/luma.com\/7iqnh10c",
     "sponsors" : [
 
+    ]
+  },
+  {
+    "about" : "Swift Bengaluru × Leap Meetup Announcement ",
+    "date" : 801167400,
+    "eventID" : "f1673e62f935bb251fbcdaf3bbab35a2ee6b5aac3fa04f91acb8749fa0e26836",
+    "id" : "66fe556e3cd7f14ce2f9078a62341b6e2aa8cb56ee3c29eb7573751864cb57c4",
+    "instructions" : "✅ Registration is mandatory\n🪪 Government ID required for entry",
+    "location" : {
+      "address" : "49, 12th Main Rd, near BDA Complex, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "coordinates" : {
+        "latitude" : 12.9138603,
+        "longitude" : 77.6366817,
+        "zoom" : 17
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=12.913860300000001%2C77.6366817&query_place_id=ChIJWzdoZ50VrjsRTH8Kukos6k8",
+      "name" : "Leap"
+    },
+    "registrationLink" : "https:\/\/luma.com\/m63xpuab",
+    "sponsors" : [
+      {
+        "sponsorID" : "43cea9a625da85770ec031c6f24cf9a5ae827d0009a130f5e7df2f2328521c71",
+        "sponsoringFor" : "Venue"
+      }
     ]
   },
   {
@@ -133,7 +157,7 @@
     "sponsors" : [
       {
         "sponsorID" : "fbb0d64f0b6c21888235b8f6f4c947339f93ca527ffef38880e2b6f2320a397e",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "fbb0d64f0b6c21888235b8f6f4c947339f93ca527ffef38880e2b6f2320a397e",
@@ -161,7 +185,7 @@
     "sponsors" : [
       {
         "sponsorID" : "2e50538d4dd36cc58246a5eb858d566757c09861cfc0fc84f89690eebb1fda90",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "f848321dd7f43d12ddfcd7086c829d8a776666c05350a6cf215310212035b2d2",
@@ -308,7 +332,7 @@
     "sponsors" : [
       {
         "sponsorID" : "c7f1f50db329ea7bd00cf49711f6637dfc75f86fff344b425353319b561e0461",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "c7f1f50db329ea7bd00cf49711f6637dfc75f86fff344b425353319b561e0461",
@@ -335,7 +359,7 @@
     "sponsors" : [
       {
         "sponsorID" : "2ad9c90913109d859ef4b83c91ecc1146a1f01555143a414362e101323870b32",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "2ad9c90913109d859ef4b83c91ecc1146a1f01555143a414362e101323870b32",
@@ -362,7 +386,7 @@
     "sponsors" : [
       {
         "sponsorID" : "f1ed566271a2e4e328e45e313726b9974745874b354ea1e4d4aa932d85240e04",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "f1ed566271a2e4e328e45e313726b9974745874b354ea1e4d4aa932d85240e04",
@@ -389,7 +413,7 @@
     "sponsors" : [
       {
         "sponsorID" : "a9a9ae107fce14a00f6e160ad279bb0ac0344039d4bb00be63de05eb52055806",
-        "sponsoringFor" : "vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "a9a9ae107fce14a00f6e160ad279bb0ac0344039d4bb00be63de05eb52055806",
@@ -416,7 +440,7 @@
     "sponsors" : [
       {
         "sponsorID" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "ab0394d26d217125522dc9b265cabeba21c8e4b761d21fb49054bb0e76610506",
@@ -443,7 +467,7 @@
     "sponsors" : [
       {
         "sponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "3789cbf9f9792c32ad25f7ec205b47f5ca601be5c5b827edae5cc3e4e4b5d356",
@@ -471,7 +495,7 @@
     "sponsors" : [
       {
         "sponsorID" : "d449d46e5ff9505a02f7a922023ba1981687e3690f043bfced004a0404256e0f",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       }
     ]
   },
@@ -494,7 +518,7 @@
     "sponsors" : [
       {
         "sponsorID" : "73306608637d3ffd1e0ceca28914add187d6e84a0be4070c89de640966d3a74e",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "73306608637d3ffd1e0ceca28914add187d6e84a0be4070c89de640966d3a74e",
@@ -521,7 +545,7 @@
     "sponsors" : [
       {
         "sponsorID" : "19a24e4fbcbab93f08f9e33bb89ae5f8e94fe086a67cf2754c9d4ebfdf0621a2",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "19a24e4fbcbab93f08f9e33bb89ae5f8e94fe086a67cf2754c9d4ebfdf0621a2",
@@ -548,7 +572,7 @@
     "sponsors" : [
       {
         "sponsorID" : "49aa0ef60c568d6509377b5a8f275bf0f8fa1255bf3926a88d827fd1e61ab2b2",
-        "sponsoringFor" : "Vanue"
+        "sponsoringFor" : "Venue"
       },
       {
         "sponsorID" : "49aa0ef60c568d6509377b5a8f275bf0f8fa1255bf3926a88d827fd1e61ab2b2",

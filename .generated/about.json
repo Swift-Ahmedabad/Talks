@@ -278,6 +278,49 @@
         "socials" : {
           "linkedIn" : "https:\/\/www.linkedin.com\/in\/sureshkumargondi\/"
         }
+      },
+      {
+        "about" : "Lead Mobile Engineer at ixigo-abhibus",
+        "name" : "Akshay Pakanati",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/akshaypakanati\/"
+        }
+      },
+      {
+        "about" : "AI Engineer building LLM\/VLM Agents & iOS Apps | On-Device ML | Physical AI (Robot Learning via Data & Training) | RA @ Vision Lab SJSU",
+        "name" : "Ranga Reddy",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/irangareddy\/"
+        }
+      },
+      {
+        "about" : "Software Programmer",
+        "name" : "Shravan Chevireddy",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/sraavanchevireddy\/",
+          "portfolio" : "https:\/\/www.sraavanchevireddy.com\/"
+        }
+      },
+      {
+        "about" : "AI & iOS Developer | CoreML, Swift, SwiftUI, LangChain | Swift Hyderabad",
+        "name" : "Ayush Bhople",
+        "socials" : {
+          "linkedIn" : "www.linkedin.com\/in\/ayush-bhople"
+        }
+      },
+      {
+        "about" : "Senior Mobile Engineer & iOS Specialist @ ixigo | 10+ Yrs | Ex-Walmart · Decathlon | Scaling Apps for 50M+ Users",
+        "name" : "Saikumar Pallagani",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/saikumarpallagani\/"
+        }
+      },
+      {
+        "about" : "Senior Software Engineer - iOS, Backend & Generative AI developer (Swift | Objective-C | SwiftUI | Vision OS | Python | Django | FastAPI | Unity | C# | Dart)",
+        "name" : "Saiprasad Gupta",
+        "socials" : {
+          "linkedIn" : "https:\/\/www.linkedin.com\/in\/saiprasad-gupta\/"
+        }
       }
     ],
     "name" : "Swift Hyderabad",
