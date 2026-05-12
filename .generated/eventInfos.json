@@ -63,6 +63,27 @@
     }
   },
   {
+    "about" : "Swift Delhi WWDC26 Watch Party, Presented by ixigo 💻",
+    "date" : 802549800,
+    "eventID" : "6ffaff39232f43bc3eebf60eca9fc5ae8186c7255ad38a4c9f5aae9c8bdc4600",
+    "id" : "fdd642992dc099f481871e9290f7b8dc0b3afbcdbeecf4893f3fc8aefc7bf80b",
+    "location" : {
+      "address" : "Second Floor, Veritas Building, Golf Course Rd, behind Ibis Hotel, Parsvnath Exotica, Sector 53, Gurugram, Haryana 122011, India",
+      "coordinates" : {
+        "latitude" : 28.4458792,
+        "longitude" : 77.0984062,
+        "zoom" : 17.94
+      },
+      "map" : "https:\/\/www.google.com\/maps\/search\/?api=1&query=28.4458792%2C77.0984062&query_place_id=ChIJLVyTdrQYDTkRrzz-1CTXg_M",
+      "name" : "ixigo"
+    },
+    "registrationLink" : "https:\/\/luma.com\/flgblcpd?utm_id=97760_v0_s00_e0_tv6_a1denni8lm8p4c",
+    "sponsors" : {
+      "foodSponsorID" : "5fd515579b4b322b7b8a5f68d8150df15d648c258701fff8f5ca919084054684",
+      "vanueSponsorID" : "5fd515579b4b322b7b8a5f68d8150df15d648c258701fff8f5ca919084054684"
+    }
+  },
+  {
     "about" : "Swift Bengaluru × Leap Meetup Announcement ",
     "date" : 801167400,
     "eventID" : "f1673e62f935bb251fbcdaf3bbab35a2ee6b5aac3fa04f91acb8749fa0e26836",
